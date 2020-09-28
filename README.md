@@ -1,5 +1,5 @@
 <p align="center">
-<img src="img/DS-Algo-Point.png" width="100" height="250"/>
+<img src="img/DS-Algo-Point.png"/>
 </p>
 
 
