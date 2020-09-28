@@ -1,4 +1,4 @@
-<p align="center"> DS-Algo-Point </p>
+<h1 align="center"> DS-Algo-Point </h1>
 
 ## Overview
 
