@@ -6,12 +6,12 @@
 - Feel free to contribute in any way you want.
 - Make sure to follow the contribution guidelines listed below.
 
-## Contents
+## Content
 
 - We currently have 4 folders for 4 programming languages - C, C++, Java, Python.
 - **Do not create folders in your submissions, unless specifically told to do so.**
 
-## Contributing Guidelines
+## Contribution Guidelines
 
 - Issues will be assigned on a _first come, first serve_ basis. You just have to comment on the issue, asking to be assigned, and it will be done if found fit.
 - You cannot work on any issue that is not assigned to you.
