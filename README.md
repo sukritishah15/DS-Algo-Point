@@ -1,4 +1,11 @@
-<h1 align="center"> DS-Algo-Point </h1>
+<h1 align="center"> 
+DS-Algo-Point 
+</h1>
+
+<p align="center">
+<img src="img/DS-Algo-Point.png" />
+</p>
+
 
 ## Overview
 
