@@ -25,7 +25,6 @@
 - Your files should be uploaded directly into the corresponding folder (e.g. if you wrote code for a Data Structure in C-Plus-Plus, it goes inside the C-Plus-Plus folder and so on)
 - Edit the corresponding _README.md_ file to **add the link to your code in the corresponding section** ([GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/))
 - **Under no circumstances create new folders within the language folders to upload your code unless specifically told to do so**.
-- Also, be polite with the reviewers - they will be ALWAYS polite to you.
 
 ## License
 
