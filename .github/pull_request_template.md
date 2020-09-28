@@ -1,4 +1,4 @@
-## Have you read the Contributing Guidelines?
+## Have you read the Contribution Guidelines?
 
 (Write your answer here.)
 
@@ -15,4 +15,5 @@
 ## Related Issues (Mention Issue no. like #xxx)
 
 Fixes Issue 
+<br/>
 (Write your answer above.)
