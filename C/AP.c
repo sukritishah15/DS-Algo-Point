@@ -27,7 +27,18 @@ int main()
 
     For example:-
 
-    Input:- 
+    Input:- 2 4 7
+    Output:- 14
+
+    Input:- 1 5 1
+    Output:- 1
+
+    Input:- 14 28 5
+    Output:- 70
+
+    Time Complexity:- O(1)
+    Space Complexity:- O(1)
+    
     */
 
 
