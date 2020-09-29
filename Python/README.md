@@ -1,5 +1,5 @@
 Add links to your code in Alphabetical Order.
 Format:
--[Program name](local link to the file)
+-[Program name](name of the file)
 
-1. [Parentheses Checker](parentheses-checker.py)
+-[Balanced Parentheses](balanced_parentheses.py)
