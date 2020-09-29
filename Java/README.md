@@ -1,1 +1,5 @@
-## Add the links to files you have added over here while creating a PR.
+Add links to your code in Alphabetical Order.
+Format:
+-[Program name](name of the file)
+
+-[Quick Sort](quick_sort.java)
