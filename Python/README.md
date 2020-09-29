@@ -3,3 +3,5 @@ Format:
 -[Program name](name of the file)
 
 -[Balanced Parentheses](balanced_parentheses.py)
+
+-[Circular Queue](CircularQueue.py)
