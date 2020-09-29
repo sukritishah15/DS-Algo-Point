@@ -22,6 +22,7 @@
 - All PRs must be made from a Branch. Create a separate branch for every Issue you are working upon and once found fit, make a PR.
 - In your code file, add (Inside Comment) Sample Input and Output at the end of the file along with Time and Space Complexity.
 - Every time you add a file via a Pull Request also update the README.md file for that particular language in **Alphabetical Order** in the same PR. You'll find a README.md file in each language folder.
+- **Plagiarism is not encouraged and a plagiarized PR won't be accepted at all.**
 
 ### Where to upload the files
 
