@@ -26,7 +26,7 @@
 - **PR should be created within a week of you being assigned to it.**
 - **At no point of time, you can claim more than 4 issues i.e. you can have at max 4 working issues, for this repository, at any point of time.**
 
-### You can find us on [Telegram ](https://t.me/joinchat/H9iFuRyDNgL2FRgCrt_0aA). Join the telegram channel to reach out to us.
+### You can find us on [Telegram ](https://t.me/joinchat/H9iFuRyDNgL2FRgCrt_0aA). Join the telegram channel - DS-Algo-Point to reach out to us.
 
 ### Where to upload the files
 
