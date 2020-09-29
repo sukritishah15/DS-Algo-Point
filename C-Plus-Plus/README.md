@@ -1,1 +1,1 @@
-## Add the links to files you have added over here while creating a PR.
+[Program](https://github.com/sukritishah15/DS-Algo-Point/blob/master/C-Plus-Plus/nth_term_ap.cpp) to find the nth term in the A.P 
