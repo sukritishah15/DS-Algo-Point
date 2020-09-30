@@ -14,6 +14,8 @@
 - We currently have 4 folders for 4 programming languages - C, C++, Java, Python.
 - **Do not create folders in your submissions, unless specifically told to do so.**
 
+## YOU CANNOT CREATE A PR DIRECTLY. YOU NEED TO BE ASSIGNED AN ISSUE. IF THE ISSUE DOES NOT EXIST, CREATE ONE, ASK FOR IT IN YOUR PREFERRED PROGRAMMING LANGUAGE AND WAIT FOR IT TO BE ASSIGNED TO YOU. NOT FOLLOWING THIS WILL BE CONSIDERED A VIOLATION
+
 ## Contribution Guidelines
 
 - Issues will be assigned on a **_first come, first serve_ basis**. You just have to comment on the issue, asking to be assigned and the **programming language** you should be assigned in, and it will be done if found fit.
@@ -39,3 +41,5 @@
 ## License
 
 This project follows the [MIT License](/LICENSE).
+
+## SHOW SOME LOVE BY LEAVING A ⭐
