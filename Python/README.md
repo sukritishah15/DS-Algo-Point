@@ -4,6 +4,8 @@ Format:
 
 -[Balanced Parentheses](balanced_parentheses.py)
 
+-[Binary Exponentiation] (binary_exponentiation.py)
+
 -[Circular Queue](CircularQueue.py)
 
 -[Neon Numbers](neon_numbers.py)
