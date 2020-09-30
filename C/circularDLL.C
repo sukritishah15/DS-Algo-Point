@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-typedef struct circularSLL{
+typedef struct circularDLL{
     int data;
-    struct circularSLL *next;
+    struct circularDLL *prev;
+    struct circularDLL *next;
 } node;
 
 // Creates and crturns the head of a new CLL
@@ -317,7 +318,7 @@ int main(int argc, char const *argv[])
         printf("1.Create CLL\n2.Change head\n3.Insert at end\n");
         printf("4.Insert before given Element\n5.Insert after given element\n");
         printf("6.Delete Head\n7.Delete last element\n8.Delete given element\n");
-        printf("9.Search for given element\n10.Print CLL\n");
+        printf("9.Search for given element\n10.Print SLL\n");
         printf("11.Exit\n\n");
         printf("Your choice -> ");
 
