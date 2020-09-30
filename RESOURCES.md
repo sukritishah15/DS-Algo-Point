@@ -1,8 +1,5 @@
 # Hacktoberfest-2020
 
-
-<img align="right" src="https://raw.githubusercontent.com/DrakeEntity/project-Image/master/9b2ca712-347a-4987-bac7-a4c3d106ed24_200x200.png" alt="pycontributors logo">
-
 Hacktoberfest® is open to everyone in our global community. Whether you’re a developer or a student learning to code.
 
 * Hacktoberfest is a celebration open to everyone in our global community.
