@@ -12,4 +12,7 @@ Format:
 
 -[Linear Search](linear_search.cpp)
 
+-[Selection Sort](selection_sort.cpp)
+
 -[Sieve of Eratosthenes](sieve_of_eratosthenes.cpp)
+

@@ -4,6 +4,8 @@ Format:
 
 -[Binary Search](Binary_Search.c)
 
+-[Check for balanced paranthesis expression](Check_balanced_paranthesis.c)
+
 -[Find nth term in an A.P.](AP.c)
 
 -[Quick Sort](Quick_Sort.c)
