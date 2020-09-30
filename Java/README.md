@@ -4,6 +4,10 @@ Format:
 
 -[Circular Doubly Linked List](CircularDList.java)
 
+-[Circular Singly Linked List](CircularSList.java)
+
+-[Circular Queue](CircularQueue.java)
+
 -[Circular Singly Linked List](CircularSList.java)  
 
 -[Code to check balance paranthesis](Bracket.java)
