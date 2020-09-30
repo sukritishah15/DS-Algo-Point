@@ -6,6 +6,8 @@ Format:
 
 -[Binary Search Tree Implementation](BinarySearchTree.cpp)
 
+-[Binary Search](BinarySearch.cpp)
+
 -[Check Whether a Number is Neon or Not](NeonNumber.cpp)
 
 -[Find nth term in an A.P.](nth_term_ap.cpp)
