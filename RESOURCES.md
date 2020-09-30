@@ -26,6 +26,7 @@ Read the [participation details](https://hacktoberfest.digitalocean.com/details)
     <img src="https://github.com/Hack-Club-SIT/Git-Learning-Resources/blob/master/assets/git_logo.png" alt="git-logo" width="300px" height="300px">
 </div>
 
+
 **Git** is a *Distributed Version Control System*. If you didn't understand anything then read this [blog](https://medium.com/@mallickdebajit3/deep-dive-into-git-2e190c5404ea).
 
 ### What is GitHub?
@@ -33,6 +34,7 @@ Read the [participation details](https://hacktoberfest.digitalocean.com/details)
 <div align="center">
     <img src="https://github.com/Hack-Club-SIT/Git-Learning-Resources/blob/master/assets/github_logo.png" alt="github-logo" width="300px" height="300px">
 </div>
+
 
 **GitHub** is a code hosting platform for *version control* and *collaboration*. It lets you and others work together on projects from anywhere.
 
