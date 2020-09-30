@@ -10,5 +10,5 @@ Format:
 
 -[Queue](Queue.py)
 
--[Sieve of Eratosthenes](Sieve of Eratosthenes.py)
+-[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
 
