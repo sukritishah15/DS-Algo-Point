@@ -5,4 +5,5 @@ Format:
 -[Find nth term in an A.P.](AP.c)
 
 -[Quick Sort](Quick_Sort.c)
+-[Binary Search](Binary_Search.c)
 
