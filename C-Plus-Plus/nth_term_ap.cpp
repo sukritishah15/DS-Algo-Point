@@ -18,6 +18,15 @@ int main(){
 Problem:
 Given the first two terms, a1 and a2, of an A.P. (Arithmetic Progression), and an integer n, find the value of nth term in the A.P.
 
+The Step Involved are:
+1.Take the first and second number from the user
+2.Take the value of n also for the nth term in the A.P then 
+3.Find the difference(d i.e. d= a2-a1) which can be used in the mathematical formula.
+4.Make A variable tn and Apply the mathematical formula (i.e tn = a1 + (n-1)*d )
+5. After the Applying the formula print the value of the tn
+
+/************* And CONGRATS!!! you got your nth term in the A.P**************************/
+
 For example -
 
 Sample Input:
