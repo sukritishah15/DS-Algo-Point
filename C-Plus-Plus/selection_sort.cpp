@@ -61,3 +61,18 @@ int main()
     cout << "Array after Sorting: ";
     display(arr, n);
 }
+
+/*
+Sample I/P:
+Enter the number of elements: 6
+Enter elements:
+9 11 5 7 4 10
+
+Sample O/P:
+Array before Sorting: 9 11 5 7 4 10
+Array after Sorting: 4 5 7 9 10 11
+
+Time Complexity: O(n^2)
+
+Space Complexity: O(1)
+*/
