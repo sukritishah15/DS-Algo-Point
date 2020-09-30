@@ -12,6 +12,8 @@ Format:
 
 -[Find nth term in an A.P.](nth_term_ap.cpp)
 
+-[Find nth term in an G.P](nth-term-gp.cpp)
+
 -[Linear Search](linear_search.cpp)
 
 -[Selection Sort](selection_sort.cpp)
