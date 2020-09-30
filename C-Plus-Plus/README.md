@@ -4,6 +4,8 @@ Format:
 
 -[Balanced Parentheses](balance_paranthesis.cpp)
 
+-[Binary Search](BinarySearch.cpp)
+
 -[Binary Search Tree Implementation](BinarySearchTree.cpp)
 
 -[Bubble Sort Implementation](BubbleSort.cpp)
