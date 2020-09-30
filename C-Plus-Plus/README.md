@@ -6,9 +6,13 @@ Format:
 
 -[Binary Search Tree Implementation](BinarySearchTree.cpp)
 
+-[Bubble Sort Implementation](BubbleSort.cpp)
+
 -[Check Whether a Number is Neon or Not](NeonNumber.cpp)
 
 -[Find nth term in an A.P.](nth_term_ap.cpp)
+
+-[Find nth term in an G.P](nth-term-gp.cpp)
 
 -[Heap Sort](heap_sort.cpp)
 
