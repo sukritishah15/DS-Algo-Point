@@ -11,3 +11,5 @@ Format:
 -[Linear Search](linear_search.cpp)
 
 -[Sieve of Eratosthenes](sieve_of_eratosthenes.cpp)
+
+-[Stack By Array](stackByArray.cpp)
