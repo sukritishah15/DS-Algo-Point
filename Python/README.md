@@ -19,3 +19,5 @@ Format:
 -[Linear Search](Linear_Search.py)
 
 -[Stack](stack.py)
+
+-[remove_nth_node_from_linkedlist](remove_nth_node_from_linkedlist.py)
