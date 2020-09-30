@@ -54,6 +54,7 @@ print("Sorted array is:")
 print(a)
 
 
+#  Input/Output
 ##    enter the length of array 5
 ##    enter the elements of the array
 ##    10
@@ -66,3 +67,10 @@ print(a)
 ##    Sorted array is:
 ##    [2, 4, 6, 8, 10]
 ##
+#   SPACE COMPLEXITY:
+#   Solution: Quicksort has a space complexity of O(logn), even in the worst case.
+
+#   TIME COMPLEXITY
+#   time complexity in worst case is  O(n^2).
+
+
