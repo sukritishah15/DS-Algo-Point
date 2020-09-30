@@ -8,5 +8,17 @@ Format:
 
 -[Doubly Linked List](Doubly_Linked_List.py)
 
+-[Linear Search](Linear_Search.py)
+
+-[Longest length path in a matrix](LongestPath_Matrix.py)
+
+-[Neon Numbers](neon_numbers.py)
+
+-[Nth Term of AP](nth_term_of_ap.py)
+
+-[Nth Term of GP](nth_term_of_gp.py)
+
 -[Queue](Queue.py)
+
+-[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
 
