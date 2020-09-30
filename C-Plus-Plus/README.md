@@ -4,9 +4,17 @@ Format:
 
 -[Balanced Parentheses](balance_paranthesis.cpp)
 
--[Find nth term in an A.P.](nth_term_ap.cpp)
+-[Binary Search Tree Implementation](BinarySearchTree.cpp)
+
+-[Bubble Sort Implementation](BubbleSort.cpp)
 
 -[Check Whether a Number is Neon or Not](NeonNumber.cpp)
+
+-[Find nth term in an A.P.](nth_term_ap.cpp)
+
+-[Linear Search](linear_search.cpp)
+
+-[Selection Sort](selection_sort.cpp)
 
 -[Sieve of Eratosthenes](sieve_of_eratosthenes.cpp)
 

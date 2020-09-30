@@ -6,6 +6,12 @@ Format:
 
 -[Circular Queue](CircularQueue.py)
 
+-[Doubly Linked List](Doubly_Linked_List.py)
+
+-[Linear Search](Linear_Search.py)
+
+-[Longest length path in a matrix](LongestPath_Matrix.py)
+
 -[Neon Numbers](neon_numbers.py)
 
 -[Nth Term of AP](nth_term_of_ap.py)
