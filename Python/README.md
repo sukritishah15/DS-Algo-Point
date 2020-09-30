@@ -5,3 +5,5 @@ Format:
 -[Balanced Parentheses](balanced_parentheses.py)
 
 -[Circular Queue](CircularQueue.py)
+
+-[Queue](Queue.py)
