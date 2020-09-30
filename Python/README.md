@@ -8,5 +8,12 @@ Format:
 
 -[Neon Numbers](neon_numbers.py)
 
+-[Nth Term of AP](nth_term_of_ap.py)
+
+-[Nth Term of GP](nth_term_of_gp.py)
+
 -[Queue](Queue.py)
 
+-[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
+
+-[Linear Search](Linear_Search.py)
