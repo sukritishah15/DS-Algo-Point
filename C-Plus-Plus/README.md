@@ -10,6 +10,8 @@ Format:
 
 -[Bubble Sort Implementation](BubbleSort.cpp)
 
+-[Check whether a number is an armstrong number](Check_Armstrong_Number.cpp)
+
 -[Check Whether a Number is Neon or Not](NeonNumber.cpp)
 
 -[Find nth term in an A.P.](nth_term_ap.cpp)
