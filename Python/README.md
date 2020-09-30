@@ -10,3 +10,5 @@ Format:
 
 -[Queue](Queue.py)
 
+-[Sieve of Eratosthenes](Sieve of Eratosthenes.py)
+
