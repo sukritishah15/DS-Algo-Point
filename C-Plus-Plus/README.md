@@ -18,6 +18,8 @@ Format:
 
 -[Find nth term in an G.P](nth-term-gp.cpp)
 
+-[Heap Sort](heap_sort.cpp)
+
 -[Linear Search](linear_search.cpp)
 
 -[Search an element in a sorted matrix](Search_Sorted_Matrix.cpp)
