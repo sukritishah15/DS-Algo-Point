@@ -1,12 +1,13 @@
 Add links to your code in Alphabetical Order.
-Format:
--[Program name](name of the file)
+Format: -[Program name](name of the file)
 
 -[Balanced Parentheses](balanced_parentheses.py)
 
 -[Circular Queue](CircularQueue.py)
 
 -[Doubly Linked List](Doubly_Linked_List.py)
+
+-[Knapsack Problem using Dynamic Programming approach](Knapsack_DP.py)
 
 -[Linear Search](Linear_Search.py)
 
@@ -21,4 +22,3 @@ Format:
 -[Queue](Queue.py)
 
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
-
