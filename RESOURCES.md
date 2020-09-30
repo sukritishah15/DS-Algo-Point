@@ -1,14 +1,29 @@
 ### Add resources to help newbies get started with open source over here.
 
-####Youtube
+Before getting to your first Pull Request (PR) or to even think about contributing to Open-Source projects or to the Hacktoberfest, it is highly essential to understand what Open-Source means and what Git really does. 
 
-- A [lecture](https://youtu.be/NcoBAfJ6l2Q) on Git and GitHub by Brian Yu from Harvard University's CS50.
-- A [crash course](https://youtu.be/RGOj5yH7evk) by freecodecamp.org.
+###  :fire:  The essentials for Novices and Experts alike are:
 
-####Courses
+ 1. **Understanding Open-Source (Free and Open Source Software(FOSS))** <br>
+    + A tutorial series to an introduction on Open-Source [here](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
+    + A community prepared guide on Open-Source [here](https://opensource.guide/)
+    
+ 2. **Learning Git and understanding workflow** <br>
+    + The *BASICS* for everyone --> [here](https://guides.github.com/activities/hello-world/)
+    + A very helpful learning resource [here](https://git-scm.com/book/en/v2)
+    
+ 3. **Command Line** <br>
+    The command line is the basic (easiest and straightforward) way to communicate with a computer. 
+    + Command Line Crash Course that could help quickly pick up the prereqs [here](https://learnpythonthehardway.org/book/appendixa.html)
 
-- A [hands-on lab](https://lab.github.com/githubtraining/introduction-to-github) by GitHub's very own Github Training Team.
+ 4. **Text Editor** <br>
+    A text editor is the basic tool a programmer types into, no fancy GUIs most of the times. 
+    Few of the most used and well known are: 
+    + Atom
+    + Sublime
+    + Emacs
+    + Vim  
+    (Need any tips on these editors? Create an issue and we will sort it out!)
 
-=======
-If you are new to open-source, make sure to check read more about it [here](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) and learn more about creating a pull request [here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github).
-
+ 5. **Markdown** <br>
+     If you've never heard of Markdown, get there quickly using the tutorial [here](http://markdowntutorial.com/)
