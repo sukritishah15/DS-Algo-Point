@@ -4,6 +4,8 @@ Format:
 
 -[Balanced Parentheses](balanced_parentheses.py)
 
+-[Binary Search](Binary_Search.py)
+
 -[Circular Queue](CircularQueue.py)
 
 -[Linear Search](Linear_Search.py)
@@ -13,5 +15,7 @@ Format:
 -[Queue](Queue.py)
 
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
+
+
 
 
