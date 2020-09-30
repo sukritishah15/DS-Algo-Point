@@ -77,67 +77,69 @@ while(op<=6):
     op=int(input("1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : "))
     print()
 
+"""
+I/O
 
-##I/O
+Enter option that you want to perform
+1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 1
+Enter data to add: 23
+Data added to stack.
+Enter option that you want to perform
+1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 1
 
-##Enter option that you want to perform
-##1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 1
-##Enter data to add: 23
-##Data added to stack.
-##Enter option that you want to perform
-##1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 1
-##
-##Enter data to add: 55
-##Data added to stack.
-##Enter option that you want to perform
-##1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 1
-##
-##Enter data to add: 10
-##Data added to stack.
-##Enter option that you want to perform
-##1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 1
-##
-##Enter data to add: 30
-##Data added to stack.
-##Enter option that you want to perform
-##1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 1
-##
-##Enter data to add: 29
-##Data added to stack.
-##Enter option that you want to perform
-##1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 1
-##
-##Enter data to add: 3
-##stack is full ,stack overflow
-##Enter option that you want to perform
-##1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 3
-##
-##[23, 55, 10, 30, 29]
-##Enter option that you want to perform
-##1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 2
-##
-##Data removed from stack.
-##Enter option that you want to perform
-##1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 4
-##
-##Topmost element in the stack is:  30
-##Enter option that you want to perform
-##1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 3
-##
-##[23, 55, 10, 30]
-##Enter option that you want to perform
-##1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 6
-##
-##stack is not empty
-##Enter option that you want to perform
-##1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 2
-##
-##Data removed from stack.
-##Enter option that you want to perform
-##1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 2
-##
-##Data removed from stack.
-##Enter option that you want to perform
-##1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 2
-##        
-##
+Enter data to add: 55
+Data added to stack.
+Enter option that you want to perform
+1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 1
+
+Enter data to add: 10
+Data added to stack.
+Enter option that you want to perform
+1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 1
+
+Enter data to add: 30
+Data added to stack.
+Enter option that you want to perform
+1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 1
+
+Enter data to add: 29
+Data added to stack.
+Enter option that you want to perform
+1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 1
+
+Enter data to add: 3
+stack is full ,stack overflow
+Enter option that you want to perform
+1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 3
+
+[23, 55, 10, 30, 29]
+Enter option that you want to perform
+1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 2
+
+Data removed from stack.
+Enter option that you want to perform
+1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 4
+
+Topmost element in the stack is:  30
+Enter option that you want to perform
+1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 3
+
+[23, 55, 10, 30]
+Enter option that you want to perform
+1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 6
+
+stack is not empty
+Enter option that you want to perform
+1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 2
+
+Data removed from stack.
+Enter option that you want to perform
+1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 2
+
+Data removed from stack.
+Enter option that you want to perform
+1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 2
+
+SPACE COMPLEXITY:O(n)
+TIME COMPLEXITY:O(1)
+"""

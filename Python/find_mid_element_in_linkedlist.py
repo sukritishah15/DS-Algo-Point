@@ -68,47 +68,51 @@ while(op):
         linkedlist.display()
     elif(op==3):
         linkedlist.FindMidElement()
+'''
+    0. exit
+    1. append data to linkedlist
+    2. display linkedlist
+    3. display mid element
+    enter the operation you want to perform 1
+    enter value of node 10
+    0. exit
+    1. append data to linkedlist
+    2. display linkedlist
+    3. display mid element
+    enter the operation you want to perform 1
+    enter value of node 20
+    0. exit
+    1. append data to linkedlist
+    2. display linkedlist
+    3. display mid element
+    enter the operation you want to perform 1
+    enter value of node 30
+    0. exit
+    1. append data to linkedlist
+    2. display linkedlist
+    3. display mid element
+    enter the operation you want to perform 3
+    mid element found
+    20
+    0. exit
+    1. append data to linkedlist
+    2. display linkedlist
+    3. display mid element
+    enter the operation you want to perform 1
+    enter value of node 40
+    0. exit
+    1. append data to linkedlist
+    2. display linkedlist
+    3. display mid element
+    enter the operation you want to perform 3
+    mid element found
+    30
+    0. exit
+    1. append data to linkedlist
+    2. display linkedlist
+    3. display mid element
+    enter the operation you want to perform 0
 
-##    0. exit
-##    1. append data to linkedlist
-##    2. display linkedlist
-##    3. display mid element
-##    enter the operation you want to perform 1
-##    enter value of node 10
-##    0. exit
-##    1. append data to linkedlist
-##    2. display linkedlist
-##    3. display mid element
-##    enter the operation you want to perform 1
-##    enter value of node 20
-##    0. exit
-##    1. append data to linkedlist
-##    2. display linkedlist
-##    3. display mid element
-##    enter the operation you want to perform 1
-##    enter value of node 30
-##    0. exit
-##    1. append data to linkedlist
-##    2. display linkedlist
-##    3. display mid element
-##    enter the operation you want to perform 3
-##    mid element found
-##    20
-##    0. exit
-##    1. append data to linkedlist
-##    2. display linkedlist
-##    3. display mid element
-##    enter the operation you want to perform 1
-##    enter value of node 40
-##    0. exit
-##    1. append data to linkedlist
-##    2. display linkedlist
-##    3. display mid element
-##    enter the operation you want to perform 3
-##    mid element found
-##    30
-##    0. exit
-##    1. append data to linkedlist
-##    2. display linkedlist
-##    3. display mid element
-##    enter the operation you want to perform 0
+    SPACE COMPLEXITY:O(n)
+    TIME COMPLEXITY:O(1)
+'''
