@@ -8,6 +8,8 @@ Format:
 
 -[Doubly Linked List](DList.java)
 
+-[Merge Sort Java](MergeSort.java)
+
 -[Nth term of ap](nth_term_of_ap.java)
 
 -[Quick Sort](quick_sort.java)    
