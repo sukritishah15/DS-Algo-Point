@@ -6,7 +6,7 @@ Format:
 
 -[Find nth term in an A.P.](nth_term_ap.cpp)
 
--[Check whether a number is armstrong or not] (Check_Armstrong_number.cpp)
+-[Check whether a number is armstrong or not](Check_Armstrong_number.cpp)
 
 -[Check Whether a Number is Neon or Not](NeonNumber.cpp)
 
