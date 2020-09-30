@@ -37,3 +37,7 @@ int main()
 
     return 0;
 }
+
+/*
+Time and Space Complexity - O(1)
+*/
