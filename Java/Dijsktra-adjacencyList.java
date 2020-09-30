@@ -5,9 +5,22 @@ import java.util.Arrays;
  * @author Nilesh Teji
  * 
  * 
- * 
- * 
- * 
+ *    The input will be in the form of Graph a G[i][j] suggests that there is a connection between i vertext and j vertex 
+ *    having a edge weight as the Value of G[i][j]
+ *          { 0, 4, 0, 0, 0, 0, 0, 8, 0 }, 
+            { 4, 0, 8, 0, 0, 0, 0, 11, 0 },
+            { 0, 8, 0, 7, 0, 4, 0, 0, 2 },
+            { 0, 0, 7, 0, 9, 14, 0, 0, 0 }, 
+            { 0, 0, 0, 9, 0, 10, 0, 0, 0 },
+            { 0, 0, 4, 14, 10, 0, 2, 0, 0 }, 
+            { 0, 0, 0, 0, 0, 2, 0, 1, 6 }, 
+            { 8, 11, 0, 0, 0, 0, 1, 0, 7 },
+            { 0, 0, 2, 0, 0, 0, 6, 7, 0 } 
+ *    Output
+ *    It will be array which will be having the shortest distance from the source vertex
+ *    
+ *    TimeComplexity-O(V^2) where v is the number of vertices in the Graph
+ *    SpaceComplexity -O(V) 
  */
 
 public class Solution {

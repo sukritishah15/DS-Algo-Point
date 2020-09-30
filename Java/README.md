@@ -28,4 +28,6 @@ Format:
 
 -[Dijsktra Algorithm](Dijsktra-adjacencyList.java)
 
+-[Tower of Hanoi](tower-of-hanoi.java)
+
 
