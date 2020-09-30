@@ -17,3 +17,5 @@ Format:
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
 
 -[Linear Search](Linear_Search.py)
+
+-[Stack](stack.py)
