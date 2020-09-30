@@ -3,5 +3,6 @@ Format:
 -[Program name](name of the file)
 
 -[Find nth term in an A.P.](nth_term_ap.cpp)
--[Balanced Parentheses] (balance_paranthesis.cpp)
+
+-[Balanced Parentheses](balance_paranthesis.cpp)
 
