@@ -38,3 +38,14 @@ int main(){
     }
     return 0;
 }
+// Given a string expression, check whether the pair and order of { }, ( ),[ ] are correct in expression.
+
+// For example-
+// Input: ({[]})
+// Output: Balanced
+
+// Input: (({})
+// Output: Not Balanced
+
+//Time complexity O(n)
+//Space complexity O(n)
