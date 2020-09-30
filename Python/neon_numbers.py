@@ -31,7 +31,7 @@ def number2(n):
     tocheck=r+q
 
     if n==tocheck:
-        print("Neon Number")
+        print("It is a Neon Number")
 
     else:
         print("Not a neon number")
@@ -44,13 +44,24 @@ elif ch==2:
 else:
     print("Enter correct choice")
 
+"""
+Time complexity - O(1)
+Space complexity - O(1)
 
-# Input n: 9
-# sq=81
-# r=1
-# q=8
-# tocheck=8+1 =>9
-# Output
-# if 9 == 9 ==> Neon number 
+I/o-- 
+Enter 1 to do it with loop and 2 without loop :
+2
+Enter the number :
+9
+It is a Neon Number
 
-# Time complexity - O(1)
+Explanation
+
+Input n: 9
+sq=81
+r=1
+q=8
+tocheck=8+1 =>9
+Output
+if 9 == 9 ==> Neon number 
+"""
