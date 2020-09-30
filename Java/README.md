@@ -4,7 +4,9 @@ Format:
 
 -[Circular Doubly Linked List](CircularDList.java)
 
--[Circular Singly Linked List](CircularSList.java)   
+-[Circular Singly Linked List](CircularSList.java)
+
+-[Circular Queue](CircularQueue.java)
 
 -[Doubly Linked List](DList.java)
 
