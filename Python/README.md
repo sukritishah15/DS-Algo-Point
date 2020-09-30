@@ -6,10 +6,12 @@ Format:
 
 -[Circular Queue](CircularQueue.py)
 
+-[Linear Search](Linear_Search.py)
+
 -[Neon Numbers](neon_numbers.py)
 
 -[Queue](Queue.py)
 
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
 
--[Linear Search](Linear_Search.py)
+
