@@ -36,11 +36,16 @@ int main(){
 		cout << endl << num << " in Not a Neon Number";
 }
 
-//Input : 9
-//Output : 9 is a Neon Number
+/*
+Input : 9
+Output : 9 is a Neon Number
 
-//Input : 15
-//Output : 15 is Not a Neon Number
+Input : 15
+Output : 15 is Not a Neon Number
 
-//Input : 1
-//Output : 1 is a Neon Number 
+Input : 1
+Output : 1 is a Neon Number 
+
+Time Complexity: O(digits)
+Space Complexity: O(1)
+*/
