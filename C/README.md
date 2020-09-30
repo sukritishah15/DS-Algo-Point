@@ -20,6 +20,8 @@ Format:
 
 -[Linear Search.](LinearSearch.c)
 
+-[Merge Sort](Mergesort.c)
+
 -[Quick Sort](Quick_Sort.c)
 
 -[Reverse a linked list](reverse.c)
