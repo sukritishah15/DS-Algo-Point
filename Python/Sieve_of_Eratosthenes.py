@@ -50,7 +50,7 @@ Write a number to check whether it is prime or not until 10
 3
 3 is a prime number
 
-# Explaination
+Explaination ==>
 We provide input to 10 and our code give all prime till 10(inclusive)
 and at next line we take input to check if 3 is prime or not
 '''
