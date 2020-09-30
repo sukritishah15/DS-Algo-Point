@@ -4,11 +4,11 @@ Format:
 
 -[Balanced Parentheses](balance_paranthesis.cpp)
 
--[Binary Search Tree Implementation](BinarySearchTree.cpp)
-
 -[Check Whether a Number is Neon or Not](NeonNumber.cpp)
 
 -[Find nth term in an A.P.](nth_term_ap.cpp)
+
+-[Find nth term in an G.P](nth_term_gp.cpp)
 
 -[Linear Search](linear_search.cpp)
 
