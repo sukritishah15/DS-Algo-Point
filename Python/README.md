@@ -16,6 +16,8 @@ Format:
 
 -[Queue](Queue.py)
 
+-[Quicksort](quicksort.py)
+
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
 
 -[Linear Search](Linear_Search.py)
