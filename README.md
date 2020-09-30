@@ -16,10 +16,17 @@
 
 ## Contribution Guidelines
 
-- Issues will be assigned on a _first come, first serve_ basis. You just have to comment on the issue, asking to be assigned, and it will be done if found fit.
+- Issues will be assigned on a **_first come, first serve_ basis**. You just have to comment on the issue, asking to be assigned and the **programming language** you should be assigned in, and it will be done if found fit.
 - You cannot work on any issue that is not assigned to you.
-- If you have anything else in mind, create an issue and please wait for it to be assigned to you. You can then start working on it and create a PR.
-- All PRs must be made from a Branch. Create a separate branch for every Issue you are working upon and once found fit, make a PR.
+- If you have anything else in mind, FEEL FREE TO CREATE AN ISSUE and please wait for it to be assigned to you. If assigned to you, then you can start working on it and create a PR.
+- **All PRs must be made from a Branch. Create a separate branch for every Issue you are working upon and then create a PR.**
+- **In your code file, add (Inside Comment) Sample Input and Output at the end of the file along with Time and Space Complexity.**
+- Every time you add a file via a Pull Request also update the README.md file for that particular language in **Alphabetical Order** in the same PR. You'll find a README.md file in each language folder.
+- **Plagiarism is not encouraged and a plagiarized PR won't be accepted at all.**
+- **PR should be created within a week of you being assigned to it.**
+- **At no point of time, you can claim more than 4 issues i.e. you can have at max 4 working issues, for this repository, at any point of time.**
+
+### You can find us on [Telegram ](https://t.me/joinchat/H9iFuRyDNgL2FRgCrt_0aA). Join the telegram channel - DS-Algo-Point to reach out to us.
 
 ### Where to upload the files
 
