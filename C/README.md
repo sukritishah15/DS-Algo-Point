@@ -4,5 +4,7 @@ Format:
 
 -[Find nth term in an A.P.](AP.c)
 
+-[Implement Linear Search.](LinearSearch.c)
+
 -[Quick Sort](Quick_Sort.c)
 
