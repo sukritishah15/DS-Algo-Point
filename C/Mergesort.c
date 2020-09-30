@@ -32,24 +32,20 @@ void merge(int arr[], int l, int m, int r)
         } 
         k++; 
     } 
-  
-    while (i < n1) 
+      while (i < n1) 
     { 
         arr[k] = L[i]; 
         i++; 
         k++; 
     } 
-  
-    while (j < n2) 
+      while (j < n2) 
     { 
         arr[k] = R[j]; 
         j++; 
         k++; 
     } 
 } 
-  
-
-void mergeSort(int arr[], int l, int r) 
+  void mergeSort(int arr[], int l, int r) 
 { 
     if (l < r) 
     { 
