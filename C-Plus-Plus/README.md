@@ -10,6 +10,8 @@ Format:
 
 -[Find nth term in an A.P.](nth_term_ap.cpp)
 
+-[Heap Sort](heap_sort.cpp)
+
 -[Linear Search](linear_search.cpp)
 
 -[Selection Sort](selection_sort.cpp)
