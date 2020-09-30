@@ -5,10 +5,10 @@ def linear(arr,n,x):
             return i
     return -1
 
-n = int(input("Enter the total number of elements\n"))
 print('Enter a list of '+str(n) + ' number in a single line')
 arr =list(map(int,input().split()))
 x = int(input("Enter which element you want to find\n"))
+n = len(arr)
 result = linear(arr,n,x)
 if (result == -1):
         print("Element not found")
@@ -19,8 +19,6 @@ else:
 Time complexity ==> O(n)
 Space complexity=> O(1)
 I/O -->
-Enter the total number of elements
-10
 Enter a list of 10 number in a single line
 1 2 3 4 5 6 7 8 9 10
 Enter which element you want to find
