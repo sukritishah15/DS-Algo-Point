@@ -17,12 +17,24 @@ def knapsack(W: int, weights: list, values: list):
 
 
 if __name__ == "__main__":
-    W = 50
-    weights = [10, 20, 30]
-    values = [60, 100, 120]
-    print("Max weight:", W)
-    print("Weights:", *weights)
-    print("Values:", *values)
+    W = int(input("Capacity: "))
+    weights = list(map(int, input("Weights: ").split()))
+    values = list(map(int, input("Values: ").split()))
 
     profit = knapsack(W, weights, values)
     print("\nProfit:", profit)
+
+'''
+Time complexity  -> O(n*W)
+Space complexity -> O(n*W)
+n -> number of weights
+W -> capacity
+
+Sample input
+Capacity: 50
+Weights: 10 20 30
+Values: 60 100 120
+
+Sample output
+Profit: 220
+'''
