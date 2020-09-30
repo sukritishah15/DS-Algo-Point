@@ -135,6 +135,7 @@ The longest length path found in which the difference between each consecutive e
 ## EXPLANATION ## 
 In the inputed matrix the longest length path found is 6-7-8-9-10-11-12
 
-## TIME COMPLEXITY ##
-Time complexity for the above solution is O(n^2). */
+## TIME AND SPACE COMPLEXITY ##
+Time complexity for the above solution is O(n^2).
+Space complexity for the above solution is O(n).*/
 
