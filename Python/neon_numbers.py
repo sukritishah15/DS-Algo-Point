@@ -1,4 +1,4 @@
-# Neon number --> If the sum of digits of the squared numbers are equal to the orignal number , the numeber is said to be Neon number. Example 9
+# Neon number --> If the sum of digits of the squared numbers are equal to the orignal number , the number is said to be Neon number. Example 9
 ch=int(input("Enter 1 to do it with loop and 2 without loop :\n"))
 n= int(input("Enter the number :\n"))
 def number(n):
