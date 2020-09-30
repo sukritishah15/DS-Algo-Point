@@ -15,3 +15,5 @@ Format:
 -[Singly Linked List](SList.java)  
 
 -[Queue](Queue.java)
+
+-[Stack](Stack.java)
