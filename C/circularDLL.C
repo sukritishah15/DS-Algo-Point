@@ -15,13 +15,14 @@ node *createCLL(int ele)
 
     head->data = ele;
     head->next = head;
+    head->prev = head;
 
     printf("Element inserted\n");
     return head;
 }
 
 // Inserts a new element at the head of the circularSLL i.e. changes the head
-// Time complexity: O(N)
+// Time complexity: O(1)
 void changeHead(node **head, int ele)
 {
     node *temp;
@@ -33,14 +34,14 @@ void changeHead(node **head, int ele)
         return;
     }
 
-    temp = *head;
-
-    while(temp->next != *head)
-        temp = temp->next;
-
-
     ptr->data = ele;
+
+    temp = (*head)->prev;
     ptr->next = *head;
+    ptr->prev = temp;
+
+    (*head)->prev = ptr;
+
     *head = ptr;
     temp->next = *head;
 
@@ -48,10 +49,10 @@ void changeHead(node **head, int ele)
 }
 
 // Inserts an element at the end of the CLL
-// Time Complexity: O(N)
+// Time Complexity: O(1)
 void insertEnd(node **head, int ele)
 {
-    node *ptr,*temp;
+    node *ptr,*last;
     ptr = (node *)malloc(sizeof(node));
 
     if(*head == NULL)
@@ -60,14 +61,15 @@ void insertEnd(node **head, int ele)
         return;
     }
 
-    temp = *head;
-
-    while(temp->next != *head)
-        temp = temp->next;
-
-    temp->next = ptr;
     ptr->data = ele;
+
+    last = (*head)->prev;
+
     ptr->next = *head;
+    ptr->prev = last;
+
+    last->next = ptr;
+    (*head)->prev = ptr;
 
     printf("Element inserted\n");
 }
@@ -106,7 +108,11 @@ void insertBefore(node **head, int ele, int ref)
     }
 
     ptr->data = ele;
+
     ptr->next = temp->next;
+    ptr->prev = temp;
+
+    temp->next->prev = ptr;
     temp->next = ptr;
 
     printf("Element inserted\n");
@@ -146,17 +152,21 @@ void insertAfter(node **head, int ele, int ref)
     }
 
     ptr->data = ele;
+
     ptr->next = temp->next;
+    ptr->prev = temp;
+
+    temp->next->prev = ptr;
     temp->next = ptr;
 
     printf("Element inserted\n");
 }
 
 // Deletes the head of the CLL and assigns the next element as head
-// Time Complexity: O(N)
+// Time Complexity: O(1)
 void deleteHead(node **head)
 {
-    node *temp1,*temp2;
+    node *lastElement,*nextElement,*temp;
 
     if(*head == NULL)
     {
@@ -164,24 +174,24 @@ void deleteHead(node **head)
         return;
     }
 
-    temp1 = *head;
-    temp2 = temp1;
+    nextElement = (*head)->next;
+    lastElement = (*head)->prev;
+    temp = *head;
 
-    while(temp2->next != *head)
-        temp2 = temp2->next;
+    nextElement->prev = lastElement;
+    lastElement->next = nextElement;
+    *head = nextElement;
 
-    *head = temp1->next;
-    temp2->next = *head;
-    free(temp1);
+    free(temp);
 
     printf("Element Deleted\n");
 }
 
 // Deletes the last element of the CLL and assigns the next element as head
-// Time Complexity: O(N)
+// Time Complexity: O(1)
 void deleteEnd(node **head)
 {
-    node *temp, *toBeDeleted;
+    node *lastElement;
 
     if(*head == NULL)
     {
@@ -189,14 +199,12 @@ void deleteEnd(node **head)
         return;
     }
 
-    temp = *head;
+    lastElement = (*head)->prev;
 
-    while(temp->next->next != *head)
-        temp = temp->next;
+    (*head)->prev = lastElement->prev;
+    lastElement->prev->next = *head;
 
-    toBeDeleted = temp->next;
-    temp->next = toBeDeleted->next;
-    free(toBeDeleted);
+    free(lastElement);
 
     printf("Element Deleted\n");
 }
@@ -205,7 +213,7 @@ void deleteEnd(node **head)
 // Time Complexity: O(N)
 void deleteElement(node **head,int ele)
 {
-    node *temp,*toBeDeleted;
+    node *temp, *toBeDeleted;
     int flag = 0;
 
     if(*head == NULL)
@@ -241,6 +249,8 @@ void deleteElement(node **head,int ele)
 
     toBeDeleted = temp->next;
     temp->next = toBeDeleted->next;
+    toBeDeleted->next->prev = temp;
+
     free(toBeDeleted);
 
     printf("Element deleted\n");
@@ -276,7 +286,6 @@ int searchElement(node *head, int ele)
 
     if(flag == 0 && temp->data != ele)
     {
-        printf("Element not found\n");
         return -1;
     }
 
@@ -296,11 +305,11 @@ void printCLL(node *head)
 
     while(temp->next !=head)
     {
-        printf("%d -> ",temp->data);
+        printf("%d < - > ",temp->data);
         temp = temp->next;
     }
 
-    printf("%d -> head\n",temp->data);
+    printf("%d < - > head\n",temp->data);
 
 }
 
@@ -314,11 +323,11 @@ int main(int argc, char const *argv[])
     {
         system("clear");
 
-        printf("****** Circular Singly Linked List ******\n\n");
+        printf("****** Circular Doubly Linked List ******\n\n");
         printf("1.Create CLL\n2.Change head\n3.Insert at end\n");
         printf("4.Insert before given Element\n5.Insert after given element\n");
         printf("6.Delete Head\n7.Delete last element\n8.Delete given element\n");
-        printf("9.Search for given element\n10.Print SLL\n");
+        printf("9.Search for given element\n10.Print CLL\n");
         printf("11.Exit\n\n");
         printf("Your choice -> ");
 
