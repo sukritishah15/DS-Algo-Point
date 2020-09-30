@@ -4,6 +4,8 @@ Format:
 
 -[Balanced Parentheses](balanced_parentheses.py)
 
+-[Bubble Sort](Bubble_Sort.py)
+
 -[Circular Queue](CircularQueue.py)
 
 -[Doubly Linked List](Doubly_Linked_List.py)

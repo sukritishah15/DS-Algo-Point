@@ -14,11 +14,16 @@ Format:
 
 -[Doubly Linked List](DList.java)
 
+-[Insertion Sort](Insertion_Sort.java)
+
 -[Linear Search](LinearSearch.java)
 
 -[Nth term of ap](nth_term_of_ap.java)
 
 -[Quick Sort](quick_sort.java)    
 
--[Singly Linked List](SList.java)  
+-[Search in a Sorted Matrix](MatrixSearch.java)
+
+-[Singly Linked List](SList.java)
+
 

@@ -4,15 +4,21 @@ Format:
 
 -[Balanced Parentheses](balance_paranthesis.cpp)
 
+-[Binary Search](BinarySearch.cpp)
+
 -[Binary Search Tree Implementation](BinarySearchTree.cpp)
 
 -[Bubble Sort Implementation](BubbleSort.cpp)
+
+-[Check whether a number is an armstrong number](Check_Armstrong_Number.cpp)
 
 -[Check Whether a Number is Neon or Not](NeonNumber.cpp)
 
 -[Find nth term in an A.P.](nth_term_ap.cpp)
 
 -[Find nth term in an G.P](nth-term-gp.cpp)
+
+-[Heap Sort](heap_sort.cpp)
 
 -[Linear Search](linear_search.cpp)
 
