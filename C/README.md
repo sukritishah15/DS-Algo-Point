@@ -10,14 +10,13 @@ Format:
 
 -[Check for balanced paranthesis expression](Check_balanced_paranthesis.c)
 
+-[Circular Doubly Linked List](circularDLL.c)
+
+-[Circular Singly Linked List](circularSLL.c)
+
 -[Find nth term in an A.P.](AP.c)
 
 -[Implement bubblesort using c](bubblesort.c)
-
--[Implementation of Circular Doubly Linked List](circularDLL.c)
-
--[Implementation of Circular Singly Linked List](circularSLL.c)
-
 
 -[Linear Search.](LinearSearch.c)
 
