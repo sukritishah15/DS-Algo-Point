@@ -1,4 +1,4 @@
-package searching;
+
 
 import java.util.HashSet;
 import java.util.Set;
@@ -14,3 +14,12 @@ public class SearchRepeatingElements {
         }
     }
 }
+/*
+Input - 1,2,2,5,7,4,5,8,7
+output - 2 5 7 
+
+Space Complexity - o(n)
+Time Complexity - o(n)
+
+
+*/
