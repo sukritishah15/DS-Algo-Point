@@ -35,9 +35,14 @@ if primes[check] == 1:
 else:
     print(check,'is not a prime number')
 
+'''
+Complexity :-
 
+Time  ==> O(n*logn)
 
-# I/O ---->
+Space ==> O(n)
+
+I/O ---->
 Write a number
 10
 2 3 5 7
@@ -48,3 +53,4 @@ Write a number to check whether it is prime or not until 10
 # Explaination
 We provide input to 10 and our code give all prime till 10(inclusive)
 and at next line we take input to check if 3 is prime or not
+'''
