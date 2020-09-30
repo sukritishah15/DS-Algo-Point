@@ -4,5 +4,7 @@ Format:
 
 -[Find nth term in an A.P.](AP.c)
 
+-[Reverse a linked list](reverse.c)
+
 -[Quick Sort](Quick_Sort.c)
 
