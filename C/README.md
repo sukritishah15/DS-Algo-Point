@@ -14,4 +14,6 @@ Format:
 
 -[Quick Sort](Quick_Sort.c)
 
+-[Reverse a linked list](reverse.c)
+
 
