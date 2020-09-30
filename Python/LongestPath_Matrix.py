@@ -37,8 +37,11 @@ def finLongestOverAll(mat):
 			result = max(result, dp[i][j]); 
 	return result 
 
-# Given Matrix
+# Given Matrix - SAMPLE INPUT
 mat = [[1, 2, 9], 
 	[5, 3, 8], 
 	[4, 6, 7]] 
 print("Length of the longest path is ", finLongestOverAll(mat)) 
+
+# SAMPLE OUTPUT:
+# Length of the longest path is 4
