@@ -13,3 +13,5 @@ Format:
 -[Quick Sort](quick_sort.java)    
 
 -[Singly Linked List](SList.java)  
+
+-[Search Repeating Element](SearchRepeatingElements.java)
