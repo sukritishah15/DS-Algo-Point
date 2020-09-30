@@ -12,4 +12,6 @@ Format:
 
 -[Linear Search](linear_search.cpp)
 
+-[Search a element in a sorted matrix](Search_Sorted_Matrix.cpp)
+
 -[Sieve of Eratosthenes](sieve_of_eratosthenes.cpp)
