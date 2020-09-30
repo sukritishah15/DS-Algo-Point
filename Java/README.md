@@ -12,4 +12,6 @@ Format:
 
 -[Quick Sort](quick_sort.java)    
 
--[Singly Linked List](SList.java)  
+-[Singly Linked List](SList.java)
+
+-[Sorted Matrix Search](MatrixSearch.java)
