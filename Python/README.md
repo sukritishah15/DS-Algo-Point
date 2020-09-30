@@ -27,3 +27,6 @@ Format:
 -[Linear Search](Linear_Search.py)
 
 -[Stack](stack.py)
+
+-[Automorphic Number](automorphic.py)
+
