@@ -18,6 +18,8 @@ Format:
 
 -[Linear Search](LinearSearch.java)
 
+-[Longest length path in a matrix](longest_length_path.java)
+
 -[Merge Sort Java](MergeSort.java)
 
 -[Nth term of ap](nth_term_of_ap.java)
