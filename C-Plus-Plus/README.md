@@ -3,3 +3,5 @@ Add links to your code in Alphabetical Order.Format: -[Program name](name of the
 -[Find nth term in an A.P.](nth_term_ap.cpp)
 
 -[Sieve of Eratosthenes](sieve_of_eratosthenes.cpp)
+
+-[Linear Search](linear_search.cpp)
