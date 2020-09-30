@@ -14,6 +14,8 @@ Format:
 
 -[Doubly Linked List](DList.java)
 
+-[Insertion Sort](Insertion_Sort.java)
+
 -[Linear Search](LinearSearch.java)
 
 -[Nth term of ap](nth_term_of_ap.java)
