@@ -8,6 +8,8 @@ Format:
 
 -[Neon Numbers](neon_numbers.py)
 
+-[Nth Term of AP](nth_term_of_ap.py)
+
 -[Nth Term of GP](nth_term_of_gp.py)
 
 -[Queue](Queue.py)
