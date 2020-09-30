@@ -4,6 +4,8 @@ Format:
 
 -[Balanced Parentheses](balance_paranthesis.cpp)
 
+-[Binary Search Tree Implementation](BinarySearchTree.cpp)
+
 -[Find nth term in an A.P.](nth_term_ap.cpp)
 
 -[Sieve of Eratosthenes](sieve_of_eratosthenes.cpp)
