@@ -1,11 +1,25 @@
+/*
+    Input : size of array and the array 
+    Output: Sorted Array
+    Algorithm: Mergesort
+    Time Complexity: O(n*log n)
+    Space Complexity: O(n)
+    
+    Sample Input and Output:
+    Enter the size of the array :5
+    Enter the array elements :
+     5 4 1 2 3
+    Sorted Array :  1 2 3 4 5
+    
+*/
 import java.util.Scanner;
 public class MergeSort {
-    void merge(int arr[], int l, int m, int r) 
+    void merge(int arr[], int l, int m, int r)  // Marge Function 
     { 
     int i, j, k; 
     int n1 = m - l + 1; 
     int n2 =  r - m;    
-    int L[] = new int[n1]; 
+    int L[] = new int[n1]; // temp arrays
     int R[] = new int[n2];   
     for (i = 0; i < n1; i++) 
         L[i] = arr[l + i]; 
@@ -14,7 +28,7 @@ public class MergeSort {
     i = 0; 
     j = 0; 
     k = l; 
-    while (i < n1 && j < n2) 
+    while (i < n1 && j < n2)  // marging is done in this loop
     { 
         if (L[i] <= R[j]) 
         { 
@@ -42,14 +56,14 @@ public class MergeSort {
     } 
 }
 
-    void mergeSort(int arr[], int l, int r) {
+    void mergeSort(int arr[], int l, int r) { // recursive merge sort
         if (l < r) {
 
             int m = l + (r - l) / 2;
 
-            mergeSort(arr, l, m);
-            mergeSort(arr, m + 1, r);
-            merge(arr, l, m, r);
+            mergeSort(arr, l, m); //left half
+            mergeSort(arr, m + 1, r); // right half
+            merge(arr, l, m, r); // merge entire array
         }
     }
 
