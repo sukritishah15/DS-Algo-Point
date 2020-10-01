@@ -27,4 +27,5 @@ Format:
 -[Selection Sort](selection_sort.cpp)
 
 -[Sieve of Eratosthenes](sieve_of_eratosthenes.cpp)
--[Circular Doubly Linked List ](Circular_Doubly_Linked_List.cpp)
+
+-[Circular Doubly Linked List](Circular_Doubly_Linked_List.cpp)
