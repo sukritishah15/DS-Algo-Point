@@ -1,6 +1,6 @@
 # Ternary search function
 def TernarySearch(l, r, key, arr): 
-    
+
     if (r >= l): 
 
         # Find the mid1 and mid2 
@@ -51,3 +51,12 @@ i = TernarySearch(l, r, key, arr)
 
 # printing the output
 print(key, "is found at index", i) 
+
+# input and output
+# Enter the number of elements
+# 4
+# Enter 4 elements
+# 1 3 2 4
+# Enter the key to be found
+# 3
+# 3 is found at index 2
