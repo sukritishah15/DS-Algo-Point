@@ -58,3 +58,5 @@ Format: -[Program name](name of the file)
 -[Tower of Hanoi](TowerOfHanoi.cpp)
 
 -[Topological Sort using Kahn's Algorithm](kahn-algorithm.cpp)
+
+-[Shell Sort Algorithm](shell_sort.cpp)
