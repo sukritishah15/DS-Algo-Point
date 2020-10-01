@@ -10,6 +10,7 @@ public class Main {
         int ans=maximumSumSubarray(arr);
         System.out.println("Maximum Sum is "+ans);
    }
+    
    public static int maximumSumSubarray(int[] arr){
        int max=Integer.MIN_VALUE;
          int temp=0;
@@ -25,3 +26,4 @@ public class Main {
        return max;
    }
 }
+/*  The time complexity of Kadane's algorithm is O(n) because there is only one for loop which scans the entire array exactly once. */
