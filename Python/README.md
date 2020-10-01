@@ -1,16 +1,17 @@
 Add links to your code in Alphabetical Order.
-Format:
--[Program name](name of the file)
+Format: -[Program name](name of the file)
+
+-[0/1 Knapsack Problem using Dynamic Programming approach](Knapsack_DP.py)
+
+-[Automorphic Number](automorphic.py)
 
 -[Balanced Parentheses](balanced_parentheses.py)
 
 -[Binary Search](Binary_Search.py)
 
--[Circular Queue](CircularQueue.py)
-
--[Linear Search](Linear_Search.py)
-
 -[Bubble Sort](Bubble_Sort.py)
+
+-[Circular Queue](CircularQueue.py)
 
 -[Circular Queue](CircularQueue.py)
 
@@ -32,9 +33,4 @@ Format:
 
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
 
--[Linear Search](Linear_Search.py)
-
 -[Stack](stack.py)
-
--[Automorphic Number](automorphic.py)
-
