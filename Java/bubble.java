@@ -30,7 +30,7 @@ public class bubble {
 
         System.out.println("the sorted array is :");
         for(int i=0;i<n;i++)                                //printing the sorted array
-        System.out.println(a[i]);
+        System.out.print(a[i] + " ");
 
         /*
         Example:
