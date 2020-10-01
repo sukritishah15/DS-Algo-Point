@@ -2,6 +2,8 @@ Add links to your code in Alphabetical Order.
 Format:
 -[Program name](name of the file)
 
+-[Binary Search Tree Implementation](ImplementingBST.java)
+
 -[Circular Doubly Linked List](CircularDList.java)
 
 -[Circular Singly Linked List](CircularSList.java)
