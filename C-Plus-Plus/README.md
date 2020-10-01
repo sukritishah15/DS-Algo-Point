@@ -46,6 +46,7 @@ Format:
 
 -[Tower of Hanoi](TowerOfHanoi.cpp)
 
--[Postfix expression evaluation](evalPostfixStack.cpp)
+-[Kosaraju's Algorithm](kosarajualgo.cpp)
 
+-[Postfix expression evaluation](evalPostfixStack.cpp)
 
