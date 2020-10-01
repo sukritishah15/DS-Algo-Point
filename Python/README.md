@@ -9,6 +9,8 @@ Format: -[Program name](name of the file)
 
 -[Binary Search](Binary_Search.py)
 
+-[Binary Search Tree](Binary_Search_Tree.py)
+
 -[Bubble Sort](Bubble_Sort.py)
 
 -[Check whether a number is an armstrong number](armstrong_number.py)
