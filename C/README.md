@@ -4,6 +4,8 @@ Format:
 
 -[Program name](name of the file)
 
+-[Armstrong Number Checker](Armstrong.c)
+
 -[Binary Search](Binary_Search.c)
 
 -[Bubble Sort](bubblesort.c)
