@@ -27,6 +27,8 @@ Format: -[Program name](name of the file)
 
 -[Linear Search](Linear_Search.py)
 
+-[Longest Common Subsequence](lcs.py)
+
 -[Longest length path in a matrix](LongestPath_Matrix.py)
 
 -[Merge Sort](mergeSort.py)
