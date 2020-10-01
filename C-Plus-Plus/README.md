@@ -62,3 +62,5 @@ Format: -[Program name](name of the file)
 -[Topological Sort using Kahn's Algorithm](kahn-algorithm.cpp)
 
 -[Shell Sort Algorithm](shell_sort.cpp)
+
+-[Check if number is automorphic](automorphic.cpp)
