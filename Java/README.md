@@ -12,6 +12,8 @@ Format:
 
 -[Code to check balance paranthesis](Bracket.java)
 
+-[Code to check if the entered integer is automorphic or not](Automorphic.java)
+
 -[Doubly Linked List](DList.java)
 
 -[Insertion Sort](Insertion_Sort.java)
