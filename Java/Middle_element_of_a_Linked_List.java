@@ -4,6 +4,7 @@ import java.io.*;
 
 For example, if given linked list is 1->2->3->4->5 then the output should be 3.
 If there are even nodes, then there would be two middle nodes, we need to print the second middle element.
+For example, if given linked list is 1->2->3->4->5->6 then the output should be 4.
 
 we can implement the solution in one traversal,
 The idea is to use two pointers:
