@@ -27,6 +27,8 @@ Format: -[Program name](name of the file)
 
 -[Doubly Linked List](DList.java)
 
+-[Find middle element in a Linked List](Middle_element_of_a_Linked_List.java)
+
 -[Heap Sort](HeapSort.java)
 
 -[Insertion Sort](Insertion_Sort.java)
