@@ -28,4 +28,6 @@ Format:
 
 -[Singly Linked List](SList.java)
 
+-[Check for Armstrong number](CheckForArmstrongNo.java)
+
 
