@@ -20,6 +20,8 @@ Format:
 
 -[Implement bubblesort using c](bubblesort.c)
 
+-[Implement Euclidean Algorithm to find greatest common divisor of 2 given numbers.].(Euclid_GCD.c)
+
 -[Implement 0/1 Knapsack using Dynamic Programming](0-1_knapsack.c)
 
 -[Linear Search.](LinearSearch.c)
