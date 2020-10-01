@@ -16,6 +16,8 @@ Format:
 
 -[Find nth term in an A.P.](AP.c)
 
+-[Find the middle element of linked list](middle.c)
+
 -[Implement bubblesort using c](bubblesort.c)
 
 -[Linear Search.](LinearSearch.c)
