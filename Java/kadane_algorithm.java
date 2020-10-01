@@ -2,6 +2,13 @@ import java.util.*;
 public class Main {
     public static void main(String args[]) {
         Scanner sc= new Scanner(System.in);
+        /*
+        Sample input:
+        size=8
+        arr[]={-2, -3, 4, -1, -2, 1, 5, -3}; 
+        
+        Sample output: 7
+        */
         int size=sc.nextInt();
         int[] arr=new int[size];
          for(int i=0;i<arr.length;i++){
@@ -26,4 +33,6 @@ public class Main {
        return max;
    }
 }
+
 /*  The time complexity of Kadane's algorithm is O(n) because there is only one for loop which scans the entire array exactly once. */
+/* The space complexity is O(1).*/
