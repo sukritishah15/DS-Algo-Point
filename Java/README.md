@@ -17,6 +17,8 @@ Format: -[Program name](name of the file)
 
 -[Code to check balance paranthesis](Bracket.java)
 
+-[Code to check if the entered integer is automorphic or not](Automorphic.java)
+
 -[Dijsktra Algorithm](Dijsktra-adjacencyList.java)
 
 -[Doubly Linked List](DList.java)
