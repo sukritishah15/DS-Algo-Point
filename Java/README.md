@@ -3,6 +3,8 @@ Format: -[Program name](name of the file)
 
 -[Binary Search Tree Implementation](ImplementingBST.java)
 
+-[Binary Search](binarySearch.java)
+
 -[Circular Doubly Linked List](CircularDList.java)
 
 -[Circular Singly Linked List](CircularSList.java)
