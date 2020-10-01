@@ -6,6 +6,8 @@ Format:
 
 -[Bubble Sort](Bubble_Sort.py)
 
+-[Check whether a number is an armstrong number](armstrong_number.py)
+
 -[Circular Queue](CircularQueue.py)
 
 -[Doubly Linked List](Doubly_Linked_List.py)
