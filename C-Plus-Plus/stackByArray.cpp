@@ -63,7 +63,25 @@ bool Stack::isempty(){
     return (top < 0);
 }
 
-// main function
+
+/*
+
+INPUT
+10 20 30 (to stack)
+
+OUTPUT
+10 pushed into Stack
+20 pushed into Stack
+30 pushed into Stack
+30 Popped from Stack
+20
+0
+
+Time Complexity O(n)
+Space Complexity O(n)
+
+*/
+
 int main(){
     Stack s;
     s.push(10);
