@@ -26,6 +26,8 @@ Format:
 
 -[Search in a Sorted Matrix](MatrixSearch.java)
 
+-[Search Repeating Element](SearchRepeatingElements.java)
+
 -[Singly Linked List](SList.java)
 
 
