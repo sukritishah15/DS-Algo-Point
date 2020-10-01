@@ -80,69 +80,73 @@ while(op):
         linkedlist.display()
 
 
-##
-##0. exit
-##1. append data to linkedlist
-##2. display linkedlist
-##3. remove nth node
-##enter the operation you want to perform 1
-##enter value of node 10
-##0. exit
-##1. append data to linkedlist
-##2. display linkedlist
-##3. remove nth node
-##enter the operation you want to perform 1
-##enter value of node 20
-##0. exit
-##1. append data to linkedlist
-##2. display linkedlist
-##3. remove nth node
-##enter the operation you want to perform 1
-##enter value of node 30
-##0. exit
-##1. append data to linkedlist
-##2. display linkedlist
-##3. remove nth node
-##enter the operation you want to perform 1
-##enter value of node 40
-##0. exit
-##1. append data to linkedlist
-##2. display linkedlist
-##3. remove nth node
-##enter the operation you want to perform 1
-##enter value of node 50
-##0. exit
-##1. append data to linkedlist
-##2. display linkedlist
-##3. remove nth node
-##enter the operation you want to perform 3
-##enter the number of node you want to delete1
-##new linked list
-##20
-##30
-##40
-##50
-##0. exit
-##1. append data to linkedlist
-##2. display linkedlist
-##3. remove nth node
-##enter the operation you want to perform 3
-##enter the number of node you want to delete2
-##new linked list
-##20
-##40
-##50
-##0. exit
-##1. append data to linkedlist
-##2. display linkedlist
-##3. remove nth node
-##enter the operation you want to perform 3
-##enter the number of node you want to delete3
-##new linked list
-##20
-##40
-##0. exit
-##1. append data to linkedlist
-##2. display linkedlist
-##3. remove nth node
-##enter the operation you want to perform 0
+"""
+0. exit
+1. append data to linkedlist
+2. display linkedlist
+3. remove nth node
+enter the operation you want to perform 1
+enter value of node 10
+0. exit
+1. append data to linkedlist
+2. display linkedlist
+3. remove nth node
+enter the operation you want to perform 1
+enter value of node 20
+0. exit
+1. append data to linkedlist
+2. display linkedlist
+3. remove nth node
+enter the operation you want to perform 1
+enter value of node 30
+0. exit
+1. append data to linkedlist
+2. display linkedlist
+3. remove nth node
+enter the operation you want to perform 1
+enter value of node 40
+0. exit
+1. append data to linkedlist
+2. display linkedlist
+3. remove nth node
+enter the operation you want to perform 1
+enter value of node 50
+0. exit
+1. append data to linkedlist
+2. display linkedlist
+3. remove nth node
+enter the operation you want to perform 3
+enter the number of node you want to delete1
+new linked list
+20
+30
+40
+50
+0. exit
+1. append data to linkedlist
+2. display linkedlist
+3. remove nth node
+enter the operation you want to perform 3
+enter the number of node you want to delete2
+new linked list
+20
+40
+50
+0. exit
+1. append data to linkedlist
+2. display linkedlist
+3. remove nth node
+enter the operation you want to perform 3
+enter the number of node you want to delete3
+new linked list
+20
+40
+0. exit
+1. append data to linkedlist
+2. display linkedlist
+3. remove nth node
+enter the operation you want to perform 0
+
+    SPACE COMPLEXITY:O(n)
+    TIME COMPLEXITY:O(1)
+"""
