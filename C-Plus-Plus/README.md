@@ -46,4 +46,4 @@ Format:
 
 -[Tower of Hanoi](TowerOfHanoi.cpp)
 
-
+-[Ternary Search](ternary_search.cpp)
