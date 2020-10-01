@@ -53,5 +53,5 @@ Format: -[Program name](name of the file)
 
 -[Tower of Hanoi](tower-of-hanoi.java)
 
-
+-[Implement quick sort](quick_sort.java)
 
