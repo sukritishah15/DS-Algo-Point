@@ -11,6 +11,8 @@ Format: -[Program name](name of the file)
 
 -[Bubble Sort](Bubble_Sort.py)
 
+-[Check whether a number is an armstrong number](armstrong_number.py)
+
 -[Circular Queue](CircularQueue.py)
 
 -[Circular Queue](CircularQueue.py)
