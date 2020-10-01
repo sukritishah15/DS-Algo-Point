@@ -74,4 +74,9 @@ class Test
 Element on stack top: 4
 Element is found at position: 3
 Element not found
+
+time complexity:
+	ALl stack funtion take O(1) time to be perfomed
+space complexity:
+for n items in stack the space complexity is O(n)
  */
