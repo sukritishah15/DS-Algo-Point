@@ -20,6 +20,8 @@ Format:
 
 -[Heap Sort](heap_sort.cpp)
 
+-[Kadane's Algorithm](KadaneAlgo.cpp)
+
 -[Linear Search](linear_search.cpp)
 
 -[Search an element in a sorted matrix](Search_Sorted_Matrix.cpp)
