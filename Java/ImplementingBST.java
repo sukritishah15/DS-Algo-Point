@@ -50,6 +50,7 @@ public class ImplementingBST {
 		root = deleteElementFromBST(root, ele);
 		System.out.println("---After deletion, BST looks like---");
 		inOrderBST(root);
+		System.out.println("Height of root - > " + getHeight(root));
 
 	}
 
