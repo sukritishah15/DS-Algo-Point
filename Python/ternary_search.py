@@ -62,5 +62,5 @@ Enter the key to be found
 3 is found at index 2"""
 
 #time complexity O(logN)
-#space complexity 
+#space complexity O(1)
 
