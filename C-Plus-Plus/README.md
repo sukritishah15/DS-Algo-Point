@@ -41,6 +41,8 @@ Format: -[Program name](name of the file)
 
 -[Postfix expression evaluation](evalPostfixStack.cpp)
 
+-[Prime Factors in LogN time](prime-factors.cpp)
+
 -[Remove Nth node of Linked List](Remove_Nth_node_of_Linked_List.cpp)
 
 -[Radix Sort in C++](radix.cpp)
