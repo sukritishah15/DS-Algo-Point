@@ -34,6 +34,7 @@ int main(void) {
 /* 
 The Sieve of Eratosthenes algorithm takes O(N log (log N)) time
 to find all prime numbers less than N time complexity.
+Space Complexity: O(1)
 
  Input and Output Cases:
 
