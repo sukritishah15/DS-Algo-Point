@@ -26,6 +26,8 @@ Format:
 
 -[Merge Sort](Mergesort.c)
 
+-[Nth Term of GP](NthTermGP.c)
+
 -[Quick Sort](Quick_Sort.c)
 
 -[Reverse a linked list](reverse.c)
