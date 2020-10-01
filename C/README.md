@@ -28,9 +28,7 @@ Format:
 
 -[Nth Term of GP](NthTermGP.c)
 
--[Quick Sort](Quick_Sort.c)
--[Merge Sort](Merge_Sort.c)
-
+-[Quick Sort](Quick_Sort.c) -[Merge Sort](Merge_Sort.c)
 
 -[Reverse a linked list](reverse.c)
 
@@ -38,3 +36,4 @@ Format:
 
 -[Tower of Hanoi](tower_of_hanoi.c)
 
+-[Heap Sort](heap_sort.c)
