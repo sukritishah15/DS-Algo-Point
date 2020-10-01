@@ -137,6 +137,6 @@ In the inputed matrix the longest length path found is 6-7-8-9-10-11-12
 
 ## TIME AND SPACE COMPLEXITY ##
 Time complexity for the above solution is O(n^2). 
-Space complexity is O(n). 
+Space complexity is O(n^2). 
  */
 
