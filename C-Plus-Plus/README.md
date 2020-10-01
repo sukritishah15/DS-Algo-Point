@@ -32,5 +32,8 @@ Format:
 
 -[Sieve of Eratosthenes](sieve_of_eratosthenes.cpp)
 
+-[Stack - Array Implementation](stackByArray.cpp)
+
 -[Tower of Hanoi](TowerOfHanoi.cpp)
+
 
