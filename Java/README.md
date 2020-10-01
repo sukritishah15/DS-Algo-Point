@@ -23,6 +23,8 @@ Format: -[Program name](name of the file)
 
 -[Doubly Linked List](DList.java)
 
+-[Heap Sort](HeapSort.java)
+
 -[Insertion Sort](Insertion_Sort.java)
 
 -[Linear Search](LinearSearch.java)
