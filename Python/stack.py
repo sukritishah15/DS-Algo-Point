@@ -77,8 +77,8 @@ while(op<=6):
     op=int(input("1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : "))
     print()
 
-"""
-I/O
+
+"""I/O
 
 Enter option that you want to perform
 1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 1
@@ -139,7 +139,8 @@ Enter option that you want to perform
 Data removed from stack.
 Enter option that you want to perform
 1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 2
-
+        
 SPACE COMPLEXITY:O(n)
 TIME COMPLEXITY:O(1)
+
 """
