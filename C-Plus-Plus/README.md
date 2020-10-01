@@ -24,6 +24,8 @@ Format:
 
 -[Heap Sort](heap_sort.cpp)
 
+-[Kadane's Algorithm](KadaneAlgo.cpp)
+
 -[Linear Search](linear_search.cpp)
 
 -[Minimum number of denominations using Greedy algo approach](MinDenominations_GreedyAlgo.cpp)
