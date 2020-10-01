@@ -18,6 +18,8 @@ Format:
 
 -[Implement bubblesort using c](bubblesort.c)
 
+-[Implement 0/1 Knapsack using Dynamic Programming](0-1_knapsack.c)
+
 -[Linear Search.](LinearSearch.c)
 
 -[Merge Sort](Mergesort.c)
