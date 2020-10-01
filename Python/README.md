@@ -4,11 +4,19 @@ Format:
 
 -[Balanced Parentheses](balanced_parentheses.py)
 
+-[Binary Search](Binary_Search.py)
+
+-[Circular Queue](CircularQueue.py)
+
+-[Linear Search](Linear_Search.py)
+
 -[Bubble Sort](Bubble_Sort.py)
 
 -[Circular Queue](CircularQueue.py)
 
 -[Doubly Linked List](Doubly_Linked_List.py)
+
+-[Heap Sort](Heap_sort.py)
 
 -[Linear Search](Linear_Search.py)
 
