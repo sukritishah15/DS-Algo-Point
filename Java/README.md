@@ -41,7 +41,9 @@ Format: -[Program name](name of the file)
 
 -[Quick Sort](quick_sort.java)  
 
--[Reverse LInkedList](reverse_linkedlist.java)
+-[Reverse LinkedList](reverse_linkedlist.java)
+
+-[Rotate LinkedList in K Groups](RotateLinkedListKGroups.java)
 
 -[Search in a Sorted Matrix](MatrixSearch.java)
 
