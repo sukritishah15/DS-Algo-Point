@@ -53,10 +53,10 @@ int main()
     root->left->left = newNode(4); 
     root->left->right = newNode(5);  
     
-    printf("Height of tree is %d", maxDepth(root)); 
+    printf("%d", maxDepth(root)); 
     
     getchar(); 
     return 0; 
 }
 
-Output :- Height of tree is 3.
+Output :- 3.
