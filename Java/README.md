@@ -22,6 +22,8 @@ Format:
 
 -[Nth term of ap](nth_term_of_ap.java)
 
+-[Nth term of gp](nth_term_of_gp.java)
+
 -[Quick Sort](quick_sort.java)    
 
 -[Search in a Sorted Matrix](MatrixSearch.java)
