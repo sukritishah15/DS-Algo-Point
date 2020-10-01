@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+// This is one of the best algorithms to find the prime from a particular range 
+// and also to find the prime number with O(nlogn) time complexity
 void seive_of_era(int n){
     long long i,j;
     int *primes;
