@@ -63,4 +63,6 @@ Format: -[Program name](name of the file)
 
 -[Shell Sort Algorithm](shell_sort.cpp)
 
+-[Quick Sort on Doubly Linked List](quickSort_DoublyLinkedList.cpp)
+
 -[Check if number is automorphic](automorphic.cpp)
