@@ -46,3 +46,7 @@ Format: -[Program name](name of the file)
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
 
 -[Stack](stack.py)
+
+-[ternary_search](ternary_search.py)
+
+-[Largest](Largest.py)
