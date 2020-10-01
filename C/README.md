@@ -31,5 +31,7 @@ Format:
 -[Quick Sort](Quick_Sort.c)
 
 -[Reverse a linked list](reverse.c)
+-[Sieve of Eratosthenes](Sieve_of_Eratosthenes.c)
+
 
 
