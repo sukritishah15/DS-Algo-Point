@@ -10,6 +10,8 @@ Format:
 
 -[Bubble Sort Implementation](BubbleSort.cpp)
 
+-[Dijkstra's Algorithm](Dijkstra.cpp)
+
 -[Check whether a number is an armstrong number](Check_Armstrong_Number.cpp)
 
 -[Check Whether a Number is Neon or Not](NeonNumber.cpp)
