@@ -22,6 +22,8 @@ Format:
 
 -[Find nth term in an G.P](nth-term-gp.cpp)
 
+-[Find the middle element in a linked list] (middle_element_of_linkedlist.cpp)
+
 -[Heap Sort](heap_sort.cpp)
 
 -[Kadane's Algorithm](KadaneAlgo.cpp)
@@ -38,8 +40,8 @@ Format:
 
 -[Stack - Array Implementation](stackByArray.cpp)
 
+-[Stack - Linked List Implementation](stackByLinkedList.cpp)
+
 -[Tower of Hanoi](TowerOfHanoi.cpp)
 
-
--[Stack By Linked List](stackByLinkedList.cpp)
 
