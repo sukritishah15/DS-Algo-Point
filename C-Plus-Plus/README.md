@@ -18,6 +18,8 @@ Format:
 
 -[Check Whether a Number is Neon or Not](NeonNumber.cpp)
 
+-[Dijkstra's Algorithm](Dijkstra.cpp)
+
 -[Find nth term in an A.P.](nth_term_ap.cpp)
 
 -[Find nth term in an G.P](nth-term-gp.cpp)
