@@ -61,3 +61,8 @@ Format: -[Program name](name of the file)
 
 -[Implement quick sort](quick_sort.java)
 
+-[Singly Linked List](SList.java)  
+
+-[Queue](Queue.java)
+
+-[Stack](Stack.java)
