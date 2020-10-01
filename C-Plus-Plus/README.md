@@ -54,3 +54,5 @@ Format:
 
 -[Tower of Hanoi](TowerOfHanoi.cpp)
 
+-[Infix To Postfix](infixToPostStack.cpp)
+
