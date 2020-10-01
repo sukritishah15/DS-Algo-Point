@@ -1,6 +1,5 @@
 Add links to your code in Alphabetical Order.
-Format:
--[Program name](name of the file)
+Format: -[Program name](name of the file)
 
 -[Balanced Parentheses](balanced_parentheses.py)
 
@@ -13,6 +12,8 @@ Format:
 -[Linear Search](Linear_Search.py)
 
 -[Longest length path in a matrix](LongestPath_Matrix.py)
+
+-[Merge Sort](mergeSort.py)
 
 -[Neon Numbers](neon_numbers.py)
 
@@ -29,4 +30,3 @@ Format:
 -[Stack](stack.py)
 
 -[Automorphic Number](automorphic.py)
-
