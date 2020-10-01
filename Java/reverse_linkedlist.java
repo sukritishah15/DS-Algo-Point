@@ -68,7 +68,7 @@ public static void main(String args[])
 	print(); 
 } 
 } 
-/**
+/** 
  Given linked list
 85 15 4 20 
 Reversed Linked list
