@@ -44,3 +44,5 @@ Format: -[Program name](name of the file)
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
 
 -[Stack](stack.py)
+
+-[Find an element in a sorted matrix](find_element_in_sorted_matrix.py)
