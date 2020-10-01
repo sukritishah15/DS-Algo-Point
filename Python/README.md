@@ -16,6 +16,8 @@ Format:
 
 -[Doubly Linked List](Doubly_Linked_List.py)
 
+-[Heap Sort](Heap_sort.py)
+
 -[Linear Search](Linear_Search.py)
 
 -[Longest length path in a matrix](LongestPath_Matrix.py)
