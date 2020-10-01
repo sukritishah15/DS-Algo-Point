@@ -1,4 +1,17 @@
-
+/*
+    Input : size of array and the array 
+    Output: Sorted Array
+    Algorithm: Mergesort
+    Time Complexity: O(n*log n)
+    Space Complexity: O(n)
+    
+    Sample Input and Output:
+    Enter the size of the array :5
+    Enter the array elements :
+     5 4 1 2 3
+    Sorted Array :  1 2 3 4 5
+    
+*/
 
 
 
@@ -10,7 +23,7 @@ void merge(int arr[], int l, int m, int r)
     int i, j, k; 
     int n1 = m - l + 1; 
     int n2 =  r - m;    
-    int L[n1], R[n2];   
+    int L[n1], R[n2];   // Taking temp arrays  left and right 
     for (i = 0; i < n1; i++) 
         L[i] = arr[l + i]; 
     for (j = 0; j < n2; j++) 
@@ -18,7 +31,7 @@ void merge(int arr[], int l, int m, int r)
     i = 0; 
     j = 0; 
     k = l; 
-    while (i < n1 && j < n2) 
+    while (i < n1 && j < n2)  
     { 
         if (L[i] <= R[j]) 
         { 
@@ -45,17 +58,16 @@ void merge(int arr[], int l, int m, int r)
         k++; 
     } 
 } 
-  void mergeSort(int arr[], int l, int r) 
+  void mergeSort(int arr[], int l, int r) // Recursive Merge Sort
 { 
     if (l < r) 
     { 
         
         int m = l+(r-l)/2;  
        
-        mergeSort(arr, l, m); 
-        mergeSort(arr, m+1, r); 
-  
-        merge(arr, l, m, r); 
+        mergeSort(arr, l, m); // First Half
+        mergeSort(arr, m+1, r);   // Last Half
+        merge(arr, l, m, r); // Marge
     } 
 }
 int main(){
