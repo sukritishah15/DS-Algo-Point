@@ -33,6 +33,8 @@ Format: -[Program name](name of the file)
 
 -[Queue](Queue.py)
 
+-[Remove_nth_node_from_linkedlist](remove_nth_node_from_linkedlist.py)
+
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
 
 -[Stack](stack.py)
