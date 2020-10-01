@@ -50,7 +50,7 @@ Best Case Complexity: O(n+k)
 Average Case Complexity: O(n)
 Space Complexity: O(n+k)
 Input and Output:
-Enter no of Elements: 5
+Enter no of Elements: 8
 Enter Elements
 0.235
 0.101
