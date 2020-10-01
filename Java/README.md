@@ -1,6 +1,7 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
+
 -[Binary Search Tree Implementation](ImplementingBST.java)
 
 -[Binary Search](binarySearch.java)
@@ -22,6 +23,8 @@ Format: -[Program name](name of the file)
 -[Code to check balance paranthesis](Bracket.java)
 
 -[Code to check if the entered integer is automorphic or not](Automorphic.java)
+
+-[Delete Nth Node from Linked List](LinkedList.java)
 
 -[Dijsktra Algorithm](Dijsktra-adjacencyList.java)
 
@@ -66,3 +69,4 @@ Format: -[Program name](name of the file)
 -[Queue](Queue.java)
 
 -[Stack](Stack.java)
+
