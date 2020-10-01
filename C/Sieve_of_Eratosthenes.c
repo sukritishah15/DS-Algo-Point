@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-// This is one of the best algorithms to find the prime from a particular range 
-// and also to find the prime number with O(nlogn) time complexity
+
 void seive_of_era(int n){
     long long i,j;
     int *primes;
@@ -32,3 +31,18 @@ int main(void) {
 	return 0;
 }
 
+/* 
+The Sieve of Eratosthenes algorithm takes O(N log (log N)) time
+to find all prime numbers less than N time complexity.
+
+ Input and Output Cases:
+
+ Enter the Number: 20
+ Prime number less than or equal to are:
+ 2 3 5 7 11 13 17 19
+
+ Enter the Number: 30
+ Prime number less than or equal to are:
+ 2 3 5 7 11 13 17 19 23 29
+
+ */
