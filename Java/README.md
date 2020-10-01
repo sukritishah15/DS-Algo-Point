@@ -41,8 +41,6 @@ Format: -[Program name](name of the file)
 
 -[Queue](Queue.java)
 
--[Quick Sort](quick_sort.java)  
-
 -[Reverse LinkedList](reverse_linkedlist.java)
 
 -[Rotate LinkedList in K Groups](RotateLinkedListKGroups.java)
@@ -55,5 +53,5 @@ Format: -[Program name](name of the file)
 
 -[Tower of Hanoi](tower-of-hanoi.java)
 
-
+-[Implement quick sort](quick_sort.java)
 

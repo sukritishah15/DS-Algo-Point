@@ -23,6 +23,8 @@ Format: -[Program name](name of the file)
 
 -[Doubly Linked List](Doubly_Linked_List.py)
 
+-[Find an element in a sorted matrix](find_element_in_sorted_matrix.py)
+
 -[Heap Sort](Heap_sort.py)
 
 -[Largest](Largest.py)
@@ -50,4 +52,3 @@ Format: -[Program name](name of the file)
 -[Stack](stack.py)
 
 -[ternary_search](ternary_search.py)
-
