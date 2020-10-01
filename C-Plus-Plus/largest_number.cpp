@@ -1,11 +1,3 @@
-/* 
-Problem: construct biggest number from given set of numbers
-Input:
-2
-21 2
-Output:
-221
-*/
 #include <algorithm>
 #include <sstream>
 #include <iostream>
@@ -27,7 +19,6 @@ int myCompare(string X, string Y)
 }
 string largest_number(vector<string> arr)
 {
-  //write your code here
   std::stringstream ret;
   sort(arr.begin(), arr.end(), myCompare);
 
@@ -52,3 +43,16 @@ int main()
   }
   std::cout << largest_number(a);
 }
+/* 
+Problem: construct biggest number from given set of numbers
+
+Input:
+2
+21 2
+
+Output:
+221
+
+Space Complexity: O(1)
+Time complexity: O(log(a + b)) = O(log n)
+*/
