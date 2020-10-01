@@ -48,6 +48,8 @@ Format: -[Program name](name of the file)
 
 -[Nth term of gp](nth_term_of_gp.java)
 
+-[Prime Factors in LogN time](Primefactor.java)
+
 -[Queue](Queue.java)
 
 -[Reverse LinkedList](reverse_linkedlist.java)
