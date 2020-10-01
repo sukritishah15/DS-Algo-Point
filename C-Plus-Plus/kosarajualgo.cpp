@@ -32,7 +32,26 @@ void dfs_comp(int v)
 	}
 	
 }
+/*
+Time complexity: O(n);
+Sample Test case:
+Input:
 
+5
+5
+1 0
+0 2
+2 1
+0 3
+3 4
+
+Output:
+0 1 2 
+3 
+4 
+
+
+*/
 int main()
 {//taking inputs of count of vertices and edges
 	int n;
