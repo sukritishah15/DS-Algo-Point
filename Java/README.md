@@ -16,7 +16,7 @@ Format:
 
 -[Insertion Sort](Insertion_Sort.java)
 
--[Kadane's Algorithm](kadane_algothim.java)
+-[Kadane's Algorithm](kadane_algorithm.java)
 
 -[Linear Search](LinearSearch.java)
 
