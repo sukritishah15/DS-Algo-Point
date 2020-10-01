@@ -83,14 +83,22 @@ If you stuck somewhere use Stackoverflow
 
 ### Add resources to help newbies get started with open source over here.
 
-####Youtube
+### Youtube
 
 - A [lecture](https://youtu.be/NcoBAfJ6l2Q) on Git and GitHub by Brian Yu from Harvard University's CS50.
 - A [crash course](https://youtu.be/RGOj5yH7evk) by freecodecamp.org.
 
-####Courses
+### Courses
 
 - A [hands-on lab](https://lab.github.com/githubtraining/introduction-to-github) by GitHub's very own Github Training Team.
+
+### Blogs for Git | Version-control ( Deep dive to git conversations )
+
+- Read blogs on git [@Dev-Community](https://dev.to/search?q=git%20version%20control)
+
+- Learn git in 15 minutes [@medium](https://medium.com/analytics-vidhya/git-version-control-system-in-15-minutes-ed60aa9e009a)
+
+- Learning `gh` (github-cli) - The new way to handle git flow using command-line [@Github-official-ghManual](https://cli.github.com/manual/)
 
 =======
 If you are new to open-source, make sure to check read more about it [here](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) and learn more about creating a pull request [here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github).
