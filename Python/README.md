@@ -15,6 +15,8 @@ Format: -[Program name](name of the file)
 
 -[Check whether a number is an armstrong number](armstrong_number.py)
 
+-[Circular Doubly Linked List](Circular_Doubly_Linked_List.py)
+
 -[Circular Queue](CircularQueue.py)
 
 -[Circular Queue](CircularQueue.py)
@@ -26,6 +28,8 @@ Format: -[Program name](name of the file)
 -[Heap Sort](Heap_sort.py)
 
 -[Linear Search](Linear_Search.py)
+
+-[Longest Common Subsequence](lcs.py)
 
 -[Longest length path in a matrix](LongestPath_Matrix.py)
 

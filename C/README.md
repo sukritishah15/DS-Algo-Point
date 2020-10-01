@@ -29,7 +29,12 @@ Format:
 -[Nth Term of GP](NthTermGP.c)
 
 -[Quick Sort](Quick_Sort.c)
+-[Merge Sort](Merge_Sort.c)
+
 
 -[Reverse a linked list](reverse.c)
 
+-[Search in Row And Column Wise Sorted Matrix](Search_in_Row_And_Column_Wise_Sorted_Matrix.c)
+
 -[Tower of Hanoi](tower_of_hanoi.c)
+

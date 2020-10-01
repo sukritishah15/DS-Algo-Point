@@ -30,9 +30,15 @@ Format:
 
 -[Kadane's Algorithm](KadaneAlgo.cpp)
 
+-[Kosaraju's Algorithm](kosarajualgo.cpp)
+
 -[Linear Search](linear_search.cpp)
 
+-[Longest Common Subsequence](longest_common_subseq.cpp)
+
 -[Minimum number of denominations using Greedy algo approach](MinDenominations_GreedyAlgo.cpp)
+
+-[Postfix expression evaluation](evalPostfixStack.cpp)
 
 -[Search an element in a sorted matrix](Search_Sorted_Matrix.cpp)
 
@@ -44,6 +50,9 @@ Format:
 
 -[Stack - Linked List Implementation](stackByLinkedList.cpp)
 
+-[Ternary Search](ternary_search.cpp)
+
 -[Tower of Hanoi](TowerOfHanoi.cpp)
 
+-[Infix To Postfix](infixToPostStack.cpp)
 

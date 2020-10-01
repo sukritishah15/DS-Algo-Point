@@ -29,6 +29,8 @@ Format: -[Program name](name of the file)
 
 -[Insertion Sort](Insertion_Sort.java)
 
+-[Kadane's Algorithm](kadane_algorithm.java)
+
 -[Linear Search](LinearSearch.java)
 
 -[Longest length path in a matrix](longest_length_path.java)
@@ -48,6 +50,8 @@ Format: -[Program name](name of the file)
 -[Search in a Sorted Matrix](MatrixSearch.java)
 
 -[Search Repeating Element](SearchRepeatingElements.java)
+
+-[Selection Sort](SelectionSort.java)
 
 -[Singly Linked List](SList.java)
 
