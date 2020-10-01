@@ -48,3 +48,5 @@ Format:
 
 -[Kosaraju's Algorithm](kosarajualgo.cpp)
 
+-[Postfix expression evaluation](evalPostfixStack.cpp)
+
