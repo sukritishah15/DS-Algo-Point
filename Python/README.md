@@ -30,3 +30,5 @@ Format:
 
 -[Automorphic Number](automorphic.py)
 
+-[Binary Search Tree](Binary_Search_Tree.py)
+
