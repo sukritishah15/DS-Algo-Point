@@ -50,3 +50,5 @@ Format:
 
 -[Postfix expression evaluation](evalPostfixStack.cpp)
 
+-[Infix To Postfix](infixToPostStack.cpp)
+
