@@ -46,5 +46,5 @@ Format:
 
 -[Tower of Hanoi](TowerOfHanoi.cpp)
 
--[Kosaraju's Algorithm](Kosaraju.cpp)
+-[Kosaraju's Algorithm](kosarajualgo.cpp)
 
