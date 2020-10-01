@@ -13,6 +13,8 @@ Format: -[Program name](name of the file)
 
 -[Bubble Sort](Bubble_Sort.py)
 
+-[Bucket Sort](bucketsort.py)
+
 -[Check whether a number is an armstrong number](armstrong_number.py)
 
 -[Circular Queue](CircularQueue.py)
@@ -36,6 +38,8 @@ Format: -[Program name](name of the file)
 -[Nth Term of GP](nth_term_of_gp.py)
 
 -[Queue](Queue.py)
+
+-[Radix Sort](radixsort.py)
 
 -[Remove_nth_node_from_linkedlist](remove_nth_node_from_linkedlist.py)
 
