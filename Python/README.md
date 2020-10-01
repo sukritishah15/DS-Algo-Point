@@ -6,6 +6,8 @@ Format:
 
 -[Circular Queue](CircularQueue.py)
 
+-[Circular Singly Linked List](Circular_Singly_Linked_List.py)
+
 -[Doubly Linked List](Doubly_Linked_List.py)
 
 -[Queue](Queue.py)
