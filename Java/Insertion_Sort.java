@@ -2,33 +2,40 @@ import java.util.*;
 
 class Insertion_Sort
 {
+    //Creating method so that it will provide code reusability and maintability of code
+    void sort(int arr[]) 
+    { 
+        int n = arr.length; //to take total number of element in array 
+        for (int i = 1; i < n; ++i) { 
+            int key = arr[i]; 
+            int j = i - 1; 
+            while (j >= 0 && arr[j] > key) { 
+                arr[j + 1] = arr[j]; 
+                j = j - 1; 
+            } 
+            arr[j + 1] = key; 
+        } 
+    } 
+    //printing method
+     static void printArray(int arr[]) 
+    { 
+        int length = arr.length; 
+        for (int i = 0; i < length; ++i) 
+            System.out.print(arr[i] + " "); 
+  
+        System.out.println(); 
+    } 
+    //Main method (Thread start from here  for execution )
     public static void main(String args[])
     {
-        int n, i, min, j;
-        Scanner sc = new Scanner(System.in);
-        System.out.print("Enter the size of array:");
-        n = sc.nextInt();
-        int arr[] = new int[n];
-        System.out.println("Enter the elements:");
-        for(i = 0; i < n; i++)
-        {
-            arr[i]= sc.nextInt();
-        }
-        for(i = 1; i < n; i++)
-        {
-            min = arr[i];
-            for(j = i-1; (j>=0) && (arr[j] > min); j--)
-            {
-                arr[j+1] = arr[j];
-            }
-            arr[j+1] = min;
-        }
-        System.out.println("Sorted array is:");
-        for(i = 0; i < n; i++)
-        {
-            System.out.print(arr[i]+" ");
-        }
-    }
+        Scanner scanner=new Scanner(System.in);
+        int arraySize=scanner.nextInt();
+        System.out.println("Please! Enter Size of Array");
+       int arr[] = new int[arraySize]; 
+  
+        Insertion_Sort object = new InsertionSort(); //here we are creating our object of our class although we can make our method static to access directly  without creating object
+        object.sort(arr); 
+         printArray(arr); 
 }
 /*
 Problem: Sort the given array using insertion sort.
@@ -52,6 +59,6 @@ Sorted array is:
 54 65 76 87 98
 
 Space Complexity: O(1)
-Time Complxity: O(n^2) (worst case)
+Time Complxity: O(n^2) (worst case)S
 */
 
