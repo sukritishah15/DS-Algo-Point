@@ -80,7 +80,7 @@ while(op<=6):
 """
 I/O
 
-Enter option that you want to perform
+
 1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 1
 Enter data to add: 23
 Data added to stack.
@@ -139,6 +139,7 @@ Enter option that you want to perform
 Data removed from stack.
 Enter option that you want to perform
 1:push 2:pop 3:display 4:peek 5:length 6:isEmpty : 2
+
 
 SPACE COMPLEXITY:O(n)
 TIME COMPLEXITY:O(1)

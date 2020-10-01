@@ -4,9 +4,19 @@ Format:
 
 -[Balanced Parentheses](balanced_parentheses.py)
 
+-[Bubble Sort](Bubble_Sort.py)
+
 -[Circular Queue](CircularQueue.py)
 
+
 -[Find mid element in linked list](find_mid_element_in_linkedlist.py)
+
+-[Doubly Linked List](Doubly_Linked_List.py)
+
+-[Linear Search](Linear_Search.py)
+
+-[Longest length path in a matrix](LongestPath_Matrix.py)
+
 
 -[Neon Numbers](neon_numbers.py)
 
@@ -24,4 +34,9 @@ Format:
 
 -[Stack](stack.py)
 
+
 -[remove_nth_node_from_linkedlist](remove_nth_node_from_linkedlist.py)
+
+-[Automorphic Number](automorphic.py)
+
+
