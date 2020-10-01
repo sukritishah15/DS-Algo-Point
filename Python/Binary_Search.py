@@ -29,7 +29,7 @@ Space Complexity ==> O(1)
 I/O ==>
 
 Enter a list of number
-234 567 321 345 123 110 767 111
+243 567 321 355 123 110 767 111
 Enter the number to find
 767
 Element found at  8  position
