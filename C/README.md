@@ -32,7 +32,11 @@ Format:
 
 -[Reverse a linked list](reverse.c)
 
--[Sieve of Eratosthenes](Sieve_of_Eratosthenes.c)
+[Sieve of Eratosthenes](Sieve_of_Eratosthenes.c)
+
+-[Search in Row And Column Wise Sorted Matrix](Search_in_Row_And_Column_Wise_Sorted_Matrix.c)
+
+-[Tower of Hanoi](tower_of_hanoi.c)
 
 
 
