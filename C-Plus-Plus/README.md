@@ -39,3 +39,5 @@ Format:
 -[Tower of Hanoi](TowerOfHanoi.cpp)
 
 
+-[Stack By Linked List](stackByLinkedList.cpp)
+
