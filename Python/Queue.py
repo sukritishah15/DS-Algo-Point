@@ -64,25 +64,13 @@ Q = Queue(ms)
 while True:
     print("Enter a option you want to perform ")
     op = int(input("1.enqueue \n2.dequeue \n3.display \n4.peekFront \n5.peekRear \n6.isEmpty \n7.length \n8.Exit \n"))
-    if (op == 1):
-        Q.EnQueue()
-    elif (op == 2):
-        Q.DeQueue()
-    elif (op == 3):
-        Q.display()
-    elif (op == 4):
-        Q.peekFront()
-    elif (op == 5):
-        Q.peekRear()
-    elif (op == 6):
-        Q.isEmpty()
-    elif (op == 7):
-        Q.length()
-    elif (op == 8):
-        exit()
+    ls = [Q.EnQueue, Q.DeQueue, Q.display, Q.peekFront, Q.peekRear, Q.isEmpty, Q.length]
+    
+    if op<=8 and op>=1:
+        ls[op-1]()
     else:
         print("enter correct option")
-
+	
 """
 Implementation of Queue
 

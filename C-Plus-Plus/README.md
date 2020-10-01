@@ -10,6 +10,10 @@ Format:
 
 -[Bubble Sort Implementation](BubbleSort.cpp)
 
+-[Circular Doubly Linked List](Circular_Doubly_Linked_List.cpp)
+
+-[Circular Queue Implementation](Circular_Queue_Cpp.cpp)
+
 -[Check whether a number is an armstrong number](Check_Armstrong_Number.cpp)
 
 -[Check Whether a Number is Neon or Not](NeonNumber.cpp)
@@ -28,5 +32,8 @@ Format:
 
 -[Sieve of Eratosthenes](sieve_of_eratosthenes.cpp)
 
--[Stack By Array](stackByArray.cpp)
+-[Stack - Array Implementation](stackByArray.cpp)
+
+-[Tower of Hanoi](TowerOfHanoi.cpp)
+
 
