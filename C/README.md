@@ -22,6 +22,8 @@ Format:
 
 -[Implement 0/1 Knapsack using Dynamic Programming](0-1_knapsack.c)
 
+-[Kadane's Algorithm For Getting Maximum Sub Array easy implementation using c](kadaneMaxSumSubArray.c)
+
 -[Linear Search.](LinearSearch.c)
 
 -[Merge Sort](Mergesort.c)
