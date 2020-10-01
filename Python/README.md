@@ -22,6 +22,8 @@ Format:
 
 -[Queue](Queue.py)
 
+-[Selection Sort](selectionsort.py)
+
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
 
 -[Linear Search](Linear_Search.py)
