@@ -49,6 +49,8 @@ Format: -[Program name](name of the file)
 
 -[Search Repeating Element](SearchRepeatingElements.java)
 
+-[Selection Sort](SelectionSort.java)
+
 -[Singly Linked List](SList.java)
 
 -[Tower of Hanoi](tower-of-hanoi.java)
