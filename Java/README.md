@@ -33,7 +33,9 @@ Format: -[Program name](name of the file)
 
 -[Queue](Queue.java)
 
--[Quick Sort](quick_sort.java)    
+-[Quick Sort](quick_sort.java)  
+
+-[Reverse LInkedList](reverse_linkedlist.java)
 
 -[Search in a Sorted Matrix](MatrixSearch.java)
 
