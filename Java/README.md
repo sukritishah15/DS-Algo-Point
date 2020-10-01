@@ -20,9 +20,13 @@ Format:
 
 -[Linear Search](LinearSearch.java)
 
+-[Longest length path in a matrix](longest_length_path.java)
+
 -[Merge Sort Java](MergeSort.java)
 
 -[Nth term of ap](nth_term_of_ap.java)
+
+-[Nth term of gp](nth_term_of_gp.java)
 
 -[Quick Sort](quick_sort.java)    
 
@@ -31,5 +35,9 @@ Format:
 -[Search Repeating Element](SearchRepeatingElements.java)
 
 -[Singly Linked List](SList.java)
+
+-[Dijsktra Algorithm](Dijsktra-adjacencyList.java)
+
+-[Tower of Hanoi](tower-of-hanoi.java)
 
 
