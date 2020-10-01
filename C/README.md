@@ -20,6 +20,8 @@ Format:
 
 -[Implement bubblesort using c](bubblesort.c)
 
+-[Implement Euclidean Algorithm to find greatest common divisor of 2 given numbers.].(Euclid_GCD.c)
+
 -[Implement 0/1 Knapsack using Dynamic Programming](0-1_knapsack.c)
 
 -[Linear Search.](LinearSearch.c)
@@ -29,13 +31,13 @@ Format:
 -[Nth Term of GP](NthTermGP.c)
 
 -[Quick Sort](Quick_Sort.c)
+-[Merge Sort](Merge_Sort.c)
+
 
 -[Reverse a linked list](reverse.c)
 
 -[Search in Row And Column Wise Sorted Matrix](Search_in_Row_And_Column_Wise_Sorted_Matrix.c)
 
 -[Tower of Hanoi](tower_of_hanoi.c)
-
--[Sieve of Eratosthenes](Sieve_of_Eratosthenes.c)
 
 
