@@ -28,3 +28,5 @@ Format:
 
 -[Sieve of Eratosthenes](sieve_of_eratosthenes.cpp)
 
+-[Stack By Array](stackByArray.cpp)
+
