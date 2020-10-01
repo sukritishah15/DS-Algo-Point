@@ -5,19 +5,25 @@ Format: -[Program name](name of the file)
 
 -[Binary Search](binarySearch.java)
 
+-[Check for Armstrong number](CheckForArmstrongNo.java)
+
 -[Circular Doubly Linked List](CircularDList.java)
 
 -[Circular Singly Linked List](CircularSList.java)
 
--
 -[Circular Queue](CircularQueue.java)
 
 -[Circular Singly Linked List](CircularSList.java)  
 
 -[Code to check balance paranthesis](Bracket.java)
 
+-[Code to check if the entered integer is automorphic or not](Automorphic.java)
+
+-[Dijsktra Algorithm](Dijsktra-adjacencyList.java)
 
 -[Doubly Linked List](DList.java)
+
+-[Heap Sort](HeapSort.java)
 
 -[Insertion Sort](Insertion_Sort.java)
 
@@ -42,8 +48,6 @@ Format: -[Program name](name of the file)
 -[Search Repeating Element](SearchRepeatingElements.java)
 
 -[Singly Linked List](SList.java)
-
--[Dijsktra Algorithm](Dijsktra-adjacencyList.java)
 
 -[Tower of Hanoi](tower-of-hanoi.java)
 

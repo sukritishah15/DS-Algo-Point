@@ -9,6 +9,8 @@ Format: -[Program name](name of the file)
 
 -[Binary Search](Binary_Search.py)
 
+-[Binary Search Tree](Binary_Search_Tree.py)
+
 -[Bubble Sort](Bubble_Sort.py)
 
 -[Check whether a number is an armstrong number](armstrong_number.py)
@@ -25,6 +27,8 @@ Format: -[Program name](name of the file)
 
 -[Longest length path in a matrix](LongestPath_Matrix.py)
 
+-[Merge Sort](mergeSort.py)
+
 -[Neon Numbers](neon_numbers.py)
 
 -[Nth Term of AP](nth_term_of_ap.py)
@@ -34,6 +38,8 @@ Format: -[Program name](name of the file)
 -[Queue](Queue.py)
 
 -[Remove_nth_node_from_linkedlist](remove_nth_node_from_linkedlist.py)
+
+-[Selection Sort](selectionsort.py)
 
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
 
