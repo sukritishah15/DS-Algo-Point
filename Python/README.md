@@ -25,6 +25,8 @@ Format: -[Program name](name of the file)
 
 -[Longest length path in a matrix](LongestPath_Matrix.py)
 
+-[Merge Sort](mergeSort.py)
+
 -[Neon Numbers](neon_numbers.py)
 
 -[Nth Term of AP](nth_term_of_ap.py)
