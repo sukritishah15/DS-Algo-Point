@@ -32,6 +32,8 @@ Format:
 
 -[Linear Search](linear_search.cpp)
 
+-[Longest Common Subsequence](longest_common_subseq.cpp)
+
 -[Minimum number of denominations using Greedy algo approach](MinDenominations_GreedyAlgo.cpp)
 
 -[Search an element in a sorted matrix](Search_Sorted_Matrix.cpp)
