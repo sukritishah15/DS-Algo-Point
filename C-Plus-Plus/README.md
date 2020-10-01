@@ -30,3 +30,5 @@ Format:
 
 -[Stack By Array](stackByArray.cpp)
 
+-[Stack By Linked List](stackByLinkedList.cpp)
+
