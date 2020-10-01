@@ -164,4 +164,11 @@ Enter element to deleted
 9
 ---After deletion, BST looks like---
 5 10 12 20 
+------------------------------------
+Time Complexity :
+Insertion : O(h) [h = Height of BST]
+Deletion : O(h) [h = Height of BST]
+Searching : O(h) [h = Height of BST]
+Space Complexity :
+O(n) [n = Number of Nodes in BST]
 */
