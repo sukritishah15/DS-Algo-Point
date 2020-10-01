@@ -29,6 +29,8 @@ Format: -[Program name](name of the file)
 
 -[Insertion Sort](Insertion_Sort.java)
 
+-[Kadane's Algorithm](kadane_algorithm.java)
+
 -[Linear Search](LinearSearch.java)
 
 -[Longest length path in a matrix](longest_length_path.java)
@@ -40,8 +42,6 @@ Format: -[Program name](name of the file)
 -[Nth term of gp](nth_term_of_gp.java)
 
 -[Queue](Queue.java)
-
--[Quick Sort](quick_sort.java)  
 
 -[Reverse LinkedList](reverse_linkedlist.java)
 
@@ -55,5 +55,5 @@ Format: -[Program name](name of the file)
 
 -[Tower of Hanoi](tower-of-hanoi.java)
 
-
+-[Implement quick sort](quick_sort.java)
 
