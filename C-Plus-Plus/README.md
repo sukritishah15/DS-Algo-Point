@@ -27,6 +27,8 @@ Format: -[Program name](name of the file)
 
 -[Heap Sort](heap_sort.cpp)
 
+-[Infix To Postfix](infixToPostStack.cpp)
+
 -[Kadane's Algorithm](KadaneAlgo.cpp)
 
 -[Kosaraju's Algorithm](kosarajualgo.cpp)
@@ -38,6 +40,8 @@ Format: -[Program name](name of the file)
 -[Minimum number of denominations using Greedy algo approach](MinDenominations_GreedyAlgo.cpp)
 
 -[Postfix expression evaluation](evalPostfixStack.cpp)
+
+-[Remove Nth node of Linked List](Remove_Nth_node_of_Linked_List.cpp)
 
 -[Search an element in a sorted matrix](Search_Sorted_Matrix.cpp)
 
@@ -54,5 +58,3 @@ Format: -[Program name](name of the file)
 -[Tower of Hanoi](TowerOfHanoi.cpp)
 
 -[Topological Sort using Kahn's Algorithm](kahn-algorithm.cpp)
-
--[Infix To Postfix](infixToPostStack.cpp)
