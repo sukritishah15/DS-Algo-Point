@@ -44,7 +44,7 @@ class circularSinglyLinkedList:
             self.last.next = newNode
             newNode.next = head
             self.last = newNode
-        print("The Node has been inserted in the beginning of the list\n")
+        print("The Node has been inserted in the end of the list\n")
 
     def deleteLast(self):
         if (self.last == None):
@@ -180,7 +180,7 @@ Enter a option you want to perform
 7.exit
 3
 Enter the value of the node to be inserted : 5
-The Node has been inserted in the beginning of the list
+The Node has been inserted in the end of the list
 
 Enter a option you want to perform
 1.Insert First
