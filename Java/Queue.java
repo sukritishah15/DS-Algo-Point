@@ -127,4 +127,10 @@ Removing 3
 Queue Is Empty
 
 
+time complexity :
+	search:0(n)
+	access:0(n)
+	insertion:0(1)
+	deletion:0(1)
+Space complexity:O(n)
  */

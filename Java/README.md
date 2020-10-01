@@ -14,5 +14,3 @@ Format: -[Program name](name of the file)
 -[Singly Linked List](SList.java)
 
 -[Queue](Queue.java)
-
--[Stack](Stack.java)
