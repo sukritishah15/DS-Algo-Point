@@ -36,3 +36,5 @@ Format:
 
 -[Search in Row And Column Wise Sorted Matrix](Search_in_Row_And_Column_Wise_Sorted_Matrix.c)
 
+-[Tower of Hanoi](tower_of_hanoi.c)
+
