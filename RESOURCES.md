@@ -55,6 +55,8 @@ Read the [participation details](https://hacktoberfest.digitalocean.com/details)
 
 * [Git and GitHub for Beginners - Crash Course(YouTube - freeCodeCamp.org)](https://youtu.be/RGOj5yH7evk)
 
+* [Version Control with Git - Introduction to Version Control(Udacity)](https://classroom.udacity.com/courses/ud123)
+
 #### Text Resources
 * [Deep Dive Into Git](https://medium.com/@mallickdebajit3/deep-dive-into-git-2e190c5404ea)
 
