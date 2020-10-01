@@ -43,6 +43,8 @@ Format: -[Program name](name of the file)
 
 -[Remove Nth node of Linked List](Remove_Nth_node_of_Linked_List.cpp)
 
+-[Radix Sort in C++](radix.cpp)
+
 -[Search an element in a sorted matrix](Search_Sorted_Matrix.cpp)
 
 -[Selection Sort](selection_sort.cpp)
@@ -58,3 +60,5 @@ Format: -[Program name](name of the file)
 -[Tower of Hanoi](TowerOfHanoi.cpp)
 
 -[Topological Sort using Kahn's Algorithm](kahn-algorithm.cpp)
+
+-[Shell Sort Algorithm](shell_sort.cpp)
