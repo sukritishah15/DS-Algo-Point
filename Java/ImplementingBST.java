@@ -1,3 +1,4 @@
+
 //Implement Binary Search Tree and Perform Operations : Insertion, Deletion, Searching (Issue #22)
 //https://github.com/sukritishah15/DS-Algo-Point/issues/22
 //Contributed by @mephi007 : https://github.com/mephi007
@@ -51,7 +52,8 @@ public class ImplementingBST {
 		inOrderBST(root);
 
 	}
-	//delete node from BST
+
+	// delete node from BST
 	private static TreeNode deleteElementFromBST(TreeNode root, int ele) {
 		// TODO Auto-generated method stub
 		if (root == null) {
@@ -72,20 +74,19 @@ public class ImplementingBST {
 
 		return root;
 	}
-	
-	//finding minimum successor
+
+	// finding minimum successor
 	private static int minValue(TreeNode root) {
 		// TODO Auto-generated method stub
-		  int minv = root.value; 
-	        while (root.left != null) 
-	        { 
-	            minv = root.left.value; 
-	            root = root.left; 
-	        } 
-	        return minv; 
+		int minv = root.value;
+		while (root.left != null) {
+			minv = root.left.value;
+			root = root.left;
+		}
+		return minv;
 	}
-	
-	//search element in BST
+
+	// search element in BST
 	private static boolean searchElementInBST(TreeNode root, int ele) {
 		// TODO Auto-generated method stub
 		if (root == null) {
@@ -101,7 +102,8 @@ public class ImplementingBST {
 
 		return searchElementInBST(root.right, ele);
 	}
-	//InOrder Traversal to print nodes
+
+	// InOrder Traversal to print nodes
 	private static void inOrderBST(TreeNode root) {
 		// TODO Auto-generated method stub
 		if (root == null) {
@@ -112,7 +114,8 @@ public class ImplementingBST {
 		inOrderBST(root.right);
 
 	}
-	//Insert to BST
+
+	// Insert to BST
 	private static TreeNode insertToBST(TreeNode root, int ele) {
 		// TODO Auto-generated method stub
 		if (root == null) {
@@ -127,48 +130,26 @@ public class ImplementingBST {
 		return root;
 	}
 
+	private static int getHeight(TreeNode root) {
+		if (root == null) {
+			return 0;
+		}
+		return Math.max(getHeight(root.left), getHeight(root.right)) + 1;
+	}
+
 }
 
 /*
- * ---Insert Implementation---
-How many elements do you want to insert
-5
-Enter elements to BST
-10
-Successfully inserted 10
-BST looks like 
-10 
-9
-Successfully inserted 9
-BST looks like 
-9 10 
-5
-Successfully inserted 5
-BST looks like 
-5 9 10 
-20
-Successfully inserted 20
-BST looks like 
-5 9 10 20 
-12
-Successfully inserted 12
-BST looks like 
-5 9 10 12 20 
-
----Searching Impelementation--
-Enter element to search
-12
-Found 12
----Delete Implementation---
-Enter element to deleted
-9
----After deletion, BST looks like---
-5 10 12 20 
-------------------------------------
-Time Complexity :
-Insertion : O(h) [h = Height of BST]
-Deletion : O(h) [h = Height of BST]
-Searching : O(h) [h = Height of BST]
-Space Complexity :
-O(n) [n = Number of Nodes in BST]
-*/
+ * ---Insert Implementation--- How many elements do you want to insert 5 Enter
+ * elements to BST 10 Successfully inserted 10 BST looks like 10 9 Successfully
+ * inserted 9 BST looks like 9 10 5 Successfully inserted 5 BST looks like 5 9
+ * 10 20 Successfully inserted 20 BST looks like 5 9 10 20 12 Successfully
+ * inserted 12 BST looks like 5 9 10 12 20
+ * 
+ * ---Searching Impelementation-- Enter element to search 12 Found 12 ---Delete
+ * Implementation--- Enter element to deleted 9 ---After deletion, BST looks
+ * like--- 5 10 12 20 ------------------------------------ Time Complexity :
+ * Insertion : O(h) [h = Height of BST] Deletion : O(h) [h = Height of BST]
+ * Searching : O(h) [h = Height of BST] Space Complexity : O(n) [n = Number of
+ * Nodes in BST]
+ */
