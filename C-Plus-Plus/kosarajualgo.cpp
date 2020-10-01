@@ -33,7 +33,8 @@ void dfs_comp(int v)
 	
 }
 /*
-Time complexity: O(n);
+Time complexity: O(n+edges);
+n is no. of vertices
 Sample Test case:
 Input:
 
