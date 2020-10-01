@@ -28,9 +28,16 @@ Format:
 
 -[Merge Sort](Mergesort.c)
 
+-[Merge Sort](Merge_Sort.c)
+
+-[Neon Number](neon_number.c)
+
 -[Nth Term of GP](NthTermGP.c)
 
--[Quick Sort](Quick_Sort.c) -[Merge Sort](Merge_Sort.c)
+
+-[Quick Sort](Quick_Sort.c)
+
+-[Quick Sort](Quick_Sort.c)
 
 -[Reverse a linked list](reverse.c)
 
