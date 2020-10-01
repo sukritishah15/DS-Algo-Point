@@ -19,6 +19,8 @@ Format: -[Program name](name of the file)
 
 -[Doubly Linked List](Doubly_Linked_List.py)
 
+-[Fibonacci Series](Fibonacci.py)
+
 -[Heap Sort](Heap_sort.py)
 
 -[Linear Search](Linear_Search.py)
