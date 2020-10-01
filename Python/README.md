@@ -21,6 +21,8 @@ Format: -[Program name](name of the file)
 
 -[Fibonacci Series](Fibonacci.py)
 
+-[Harmonic Series](harmonic.py)
+
 -[Heap Sort](Heap_sort.py)
 
 -[Linear Search](Linear_Search.py)
