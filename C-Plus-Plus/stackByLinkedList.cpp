@@ -42,7 +42,22 @@ class stackNode{
         }
 };
 
-// main function
+/*
+
+INPUT
+10 20 30 (to stack)
+
+OUTPUT
+10 pushed to stack
+20 pushed to stack
+30 pushed to stack
+30 popped from stack
+20 top of stack
+
+Time Complexity O(n)
+Space Complexity O(n)
+
+*/
 int main(){
     // creating root node
     stackNode *root = NULL;
