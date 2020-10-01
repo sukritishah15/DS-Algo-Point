@@ -22,7 +22,9 @@ Format:
 
 -[Nth term of ap](nth_term_of_ap.java)
 
--[Quick Sort](quick_sort.java)    
+-[Quick Sort](quick_sort.java)   
+
+-[Rotate LinkedList in K Groups](RotateLinkedListKGroups.java)
 
 -[Search in a Sorted Matrix](MatrixSearch.java)
 
