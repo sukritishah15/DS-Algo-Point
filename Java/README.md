@@ -5,6 +5,8 @@ Format: -[Program name](name of the file)
 
 -[Binary Search](binarySearch.java)
 
+-[Check whether a number is Neon or not](neonNumber.java)
+
 -[Circular Doubly Linked List](CircularDList.java)
 
 -[Circular Singly Linked List](CircularSList.java)
