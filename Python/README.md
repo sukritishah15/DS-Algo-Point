@@ -4,6 +4,8 @@ Format:
 
 -[Balanced Parentheses](balanced_parentheses.py)
 
+-[Circular Doubly Linked List](Circular_Doubly_Linked_List.py)
+
 -[Circular Queue](CircularQueue.py)
 
 -[Circular Singly Linked List](Circular_Singly_Linked_List.py)
