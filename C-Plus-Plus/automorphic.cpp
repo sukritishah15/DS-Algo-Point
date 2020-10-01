@@ -10,7 +10,6 @@ bool automorphic_number(unsigned int a)
 {
     unsigned long long b = a * a;
 
-    int x, y;
     while (a != 0)
     {
         if (a % 10 != b % 10)
