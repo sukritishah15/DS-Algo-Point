@@ -6,7 +6,7 @@ Format:
 
 -[Circular Queue](CircularQueue.py)
 
--[find mid term of linkedlist](find_mid_element_of_linkedlist.py)
+-[find mid term of linkedlist](find_mid_element_in_linkedlist.py)
 
 -[Neon Numbers](neon_numbers.py)
 
