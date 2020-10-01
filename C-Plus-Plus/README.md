@@ -46,4 +46,6 @@ Format:
 
 -[Tower of Hanoi](TowerOfHanoi.cpp)
 
+-[Remove Nth node of Linked List](Remove_Nth_node_of_Linked_List.cpp)
+
 
