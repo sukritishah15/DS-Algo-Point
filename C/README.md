@@ -26,6 +26,8 @@ Format:
 
 -[Linear Search.](LinearSearch.c)
 
+-[Longest Common Subsequence](Longest_Common_Subsequence.c)
+
 -[Merge Sort](Mergesort.c)
 
 -[Neon Number](neon_number.c)
