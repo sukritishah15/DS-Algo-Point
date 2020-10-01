@@ -27,8 +27,6 @@ Format: -[Program name](name of the file)
 
 -[Heap Sort](Heap_sort.py)
 
--[Largest](Largest.py)
-
 -[Linear Search](Linear_Search.py)
 
 -[Longest length path in a matrix](LongestPath_Matrix.py)
@@ -46,8 +44,6 @@ Format: -[Program name](name of the file)
 -[Remove_nth_node_from_linkedlist](remove_nth_node_from_linkedlist.py)
 
 -[Selection Sort](selectionsort.py)
-
--[Shell Sort](shell_sort.py)
 
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
 
