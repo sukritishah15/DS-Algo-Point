@@ -83,9 +83,14 @@ Read the [participation details](https://hacktoberfest.digitalocean.com/details)
 
 ## :rocket: Voila! You have Contributed to Open-Source 😋.
 
-If you stuck somewhere use Stackoverflow
+**!If you are stuck somewhere use [Stackoverflow](https://stackoverflow.com/) or ask right away! (after double-checking issues)**
 
 ### Add resources to help newbies get started with open source over here.
+
+### Understanding Open-Source (Free and Open Source Software(FOSS))
+
+- A tutorial series to an introduction on [Open-Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
+- A community prepared guide on [Open-Source](https://opensource.guide/)
 
 ### Youtube
 
@@ -104,6 +109,20 @@ If you stuck somewhere use Stackoverflow
 
 - Learning `gh` (github-cli) - The new way to handle git flow using command-line [@Github-official-ghManual](https://cli.github.com/manual/)
 
-=======
-If you are new to open-source, make sure to check read more about it [here](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) and learn more about creating a pull request [here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github).
+- A very helpful learning resource [here](https://git-scm.com/book/en/v2)
 
+ ### Command Line
+-  The command line is the basic (easiest and straightforward) way to communicate with a computer. 
+    + Command Line Crash Course that could help quickly pick up the prereqs [here](https://learnpythonthehardway.org/book/appendixa.html)
+
+ ### Text Editor
+- A text editor is the basic tool a programmer types into, no fancy GUIs most of the times. 
+    Few of the most used and well known are: 
+    + Atom
+    + Sublime
+    + Emacs
+    + Vim  
+    (Need any tips on these editors? Create an issue and we will sort it out!)
+
+ ### Markdown
+  -   If you've never heard of Markdown, get there quickly using the [tutorial](http://markdowntutorial.com/)
