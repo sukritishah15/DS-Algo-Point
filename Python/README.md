@@ -25,6 +25,8 @@ Format: -[Program name](name of the file)
 
 -[Find an element in a sorted matrix](find_element_in_sorted_matrix.py)
 
+-[Greatest Common divisor](gcd.py)
+
 -[Heap Sort](Heap_sort.py)
 
 -[Linear Search](Linear_Search.py)
