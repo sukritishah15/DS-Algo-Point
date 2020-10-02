@@ -60,6 +60,8 @@ Format:
 
 -[Singly Linked List](SinglyLL.c)
 
+-[Sudoko Solver ](sudoko.c)
+
 -[Tower of Hanoi](tower_of_hanoi.c)
 
 -[Heap Sort](heap_sort.c)
