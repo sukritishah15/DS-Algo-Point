@@ -41,6 +41,8 @@ Format: -[Program name](name of the file)
 
 -[Heap Sort](Heap_sort.py)
 
+-[KMP Pattern Matching Algorithm](KMP Algorithm in Python.py)
+
 -[Linear Search](Linear_Search.py)
 
 -[Longest Common Subsequence](lcs.py)
