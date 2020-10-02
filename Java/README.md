@@ -34,6 +34,8 @@ Format: -[Program name](name of the file)
 
 -[Heap Sort](HeapSort.java)
 
+-[Inorder Traversal Of Binary tree](inorder.java)
+
 -[Insertion Sort](Insertion_Sort.java)
 
 -[Kadane's Algorithm](kadane_algorithm.java)
@@ -64,6 +66,8 @@ Format: -[Program name](name of the file)
 
 -[Selection Sort](SelectionSort.java)
 
+-[Shell Sort](ShellSort.java)
+
 -[Singly Linked List](SList.java)
 
 -[Tower of Hanoi](tower-of-hanoi.java)
@@ -75,4 +79,3 @@ Format: -[Program name](name of the file)
 -[Queue](Queue.java)
 
 -[Stack](Stack.java)
-
