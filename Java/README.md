@@ -34,6 +34,8 @@ Format: -[Program name](name of the file)
 
 -[Heap Sort](HeapSort.java)
 
+-[Inorder traversal of tree](inorder.java)
+
 -[Insertion Sort](Insertion_Sort.java)
 
 -[Kadane's Algorithm](kadane_algorithm.java)
