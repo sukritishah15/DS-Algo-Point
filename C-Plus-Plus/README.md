@@ -39,6 +39,8 @@ Format: -[Program name](name of the file)
 
 -[Minimum number of denominations using Greedy algo approach](MinDenominations_GreedyAlgo.cpp)
 
+-[Mathematical Series Demo](maths-series.cpp)
+
 -[Postfix expression evaluation](evalPostfixStack.cpp)
 
 -[Remove Nth node of Linked List](Remove_Nth_node_of_Linked_List.cpp)
