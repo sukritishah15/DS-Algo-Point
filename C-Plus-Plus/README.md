@@ -1,6 +1,5 @@
 Add links to your code in Alphabetical Order.
-Format: 
--[Program name](name of the file)
+Format: -[Program name](name of the file)
 
 -[Balanced Parentheses](balance_paranthesis.cpp)
 
@@ -28,11 +27,25 @@ Format:
 
 -[Heap Sort](heap_sort.cpp)
 
+-[Infix To Postfix](infixToPostStack.cpp)
+
 -[Kadane's Algorithm](KadaneAlgo.cpp)
+
+-[Kosaraju's Algorithm](kosarajualgo.cpp)
 
 -[Linear Search](linear_search.cpp)
 
+-[Longest Common Subsequence](longest_common_subseq.cpp)
+
 -[Minimum number of denominations using Greedy algo approach](MinDenominations_GreedyAlgo.cpp)
+
+-[Postfix expression evaluation](evalPostfixStack.cpp)
+
+-[Remove Nth node of Linked List](Remove_Nth_node_of_Linked_List.cpp)
+
+-[Prime Factors in LogN time](prime-factors.cpp)
+
+-[Radix Sort in C++](radix.cpp)
 
 -[Search an element in a sorted matrix](Search_Sorted_Matrix.cpp)
 
@@ -44,6 +57,17 @@ Format:
 
 -[Stack - Linked List Implementation](stackByLinkedList.cpp)
 
+-[Ternary Search](ternary_search.cpp)
+
 -[Tower of Hanoi](TowerOfHanoi.cpp)
 
+-[Topological Sort using Kahn's Algorithm](kahn-algorithm.cpp)
+
+-[Shell Sort Algorithm](shell_sort.cpp)
+
+-[Quick Sort on Doubly Linked List](quickSort_DoublyLinkedList.cpp)
+
+-[Check if number is automorphic](automorphic.cpp)
+
+-[Bucket Sort](Bucketsort.cpp)
 
