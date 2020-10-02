@@ -25,6 +25,8 @@ Format: -[Program name](name of the file)
 
 -[Find the middle element in a linked list](middle_element_of_linkedlist.cpp)
 
+-[Greatest common divisor](GCD.cpp)
+
 -[Heap Sort](heap_sort.cpp)
 
 -[Height of a Binary Tree](height_of_binary_tree.cpp)
