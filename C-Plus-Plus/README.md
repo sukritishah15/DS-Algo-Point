@@ -67,6 +67,8 @@ Format: -[Program name](name of the file)
 
 -[Stack - Linked List Implementation](stackByLinkedList.cpp)
 
+-[Tarjan's Algorithm for finding Articulation Points in a graph](tarjanArticulationPoint.cpp)
+
 -[Ternary Search](ternary_search.cpp)
 
 -[Tower of Hanoi](TowerOfHanoi.cpp)
