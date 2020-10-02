@@ -14,13 +14,15 @@
 - We currently have 4 folders for 4 programming languages - C, C++, Java, Python.
 - **Do not create folders in your submissions, unless specifically told to do so.**
 
+**YOU CANNOT CREATE A PR DIRECTLY. YOU NEED TO BE ASSIGNED AN ISSUE. IF THE ISSUE DOES NOT EXIST, CREATE ONE, ASK FOR IT IN YOUR PREFERRED PROGRAMMING LANGUAGE AND WAIT FOR IT TO BE ASSIGNED TO YOU. NOT FOLLOWING THIS WILL BE CONSIDERED A VIOLATION**
+
 ## Contribution Guidelines
 
-- Issues will be assigned on a **_first come, first serve_ basis**. You just have to comment on the issue, asking to be assigned and the **programming language** you should be assigned in, and it will be done if found fit.
+- Issues will be assigned on a **_first come, first serve_ basis**. The person who creates the issue gets the first priority. And then, issues are assigned based on who commented first. You just have to comment on the issue, asking to be assigned and the **programming language** you should be assigned in, and it will be done if found fit.
 - You cannot work on any issue that is not assigned to you.
 - If you have anything else in mind, FEEL FREE TO CREATE AN ISSUE and please wait for it to be assigned to you. If assigned to you, then you can start working on it and create a PR.
 - **All PRs must be made from a Branch. Create a separate branch for every Issue you are working upon and then create a PR.**
-- **In your code file, add (Inside Comment) Sample Input and Output at the end of the file along with Time and Space Complexity.**
+- **In your code file, add (Inside a multiline comment) Sample Input and Output at the end of the file along with Time and Space Complexity.**
 - Every time you add a file via a Pull Request also update the README.md file for that particular language in **Alphabetical Order** in the same PR. You'll find a README.md file in each language folder.
 - **Plagiarism is not encouraged and a plagiarized PR won't be accepted at all.**
 - **PR should be created within a week of you being assigned to it.**
@@ -36,6 +38,24 @@
 - Edit the corresponding _README.md_ file to **add the link to your code in the corresponding section** ([GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/))
 - **Under no circumstances create new folders within the language folders to upload your code unless specifically told to do so**.
 
+## Maintainers for this project 
+- Sukriti Shah - @sukritishah15
+- Aditi Khemka - @aditik03
+- Gunisha Chaturvedi - @gunisha30
+- Ananya Nagar - @AnanyaNagar
+- Manan - @manan025
+- Falguni Sarkar - @lostgirljourney
+- Rahul Joshi - @mrjoshi0147
+- Unnati Deshwal - @unnatideshwal
+- Manan Chawla - @mananchawla2005
+- Sumit Kumar Roy - @mephi007
+- Niranjan Kumar S - @niranjantuty
+- Sunil - @sunilgknair051
+- Muskan Gupta - @muskangupta19
+- Priyal - @priyal2806
+
 ## License
 
 This project follows the [MIT License](/LICENSE).
+
+## SHOW SOME LOVE BY LEAVING A ⭐
