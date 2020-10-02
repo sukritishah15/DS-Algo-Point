@@ -45,8 +45,9 @@ public class ShellSort {
 			}
 		}
 
-		System.out.println("Sorted Array:");
 		shellSort(test);
+
+		System.out.println("Sorted Array:");
 		for (i = 0; i < test.length; i++) {
 			System.out.print(test[i] + " ");
 		}
@@ -70,4 +71,5 @@ public class ShellSort {
 **
 ** Time Complexity - O(n log n) 
 ** Space Complexity - O(1)
+**
 */
