@@ -59,8 +59,11 @@ Enter 4 elements
 1 3 2 4
 Enter the key to be found
 3
-3 is found at index 2"""
+3 is found at index 2
+time complexity O(logN)
+space complexity O(1)
 
-#time complexity O(logN)
-#space complexity O(1)
+"""
+
+
 
