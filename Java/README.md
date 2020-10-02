@@ -2,7 +2,7 @@ Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
 
--[Binary Search Tree Implementation](ImplementingBST.java)
+-[Binary Search Tree Implementation and height of a binary tree](ImplementingBST.java)
 
 -[Binary Search](binarySearch.java)
 

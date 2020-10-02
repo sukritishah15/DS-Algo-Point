@@ -49,6 +49,8 @@ public class ImplementingBST {
 		root = deleteElementFromBST(root, ele);
 		System.out.println("---After deletion, BST looks like---");
 		inOrderBST(root);
+		System.out.println("---Height of root---");
+		System.out.println(getHeight(root));
 
 	}
 	//delete node from BST
@@ -126,6 +128,27 @@ public class ImplementingBST {
 		}
 		return root;
 	}
+	
+	private static getHeight(TreeNode root) {
+		if(root == null) {
+			//height of null tree is zero
+			return 0;
+		}
+		int leftHeight = getHeight(root.left);
+		int rightHeight = getHeight(root.right);
+		/*
+					10
+				   /  \
+		          9    20
+		              /
+		             12
+		        
+		        height of left subrtree = 1
+		        height of right subrtree = 2
+		        heifht of root = max(1 , 2) + 1 = 3
+		 */
+		return Math.max(leftHeight , rightHeight) + 1;
+	}
 
 }
 
@@ -164,11 +187,14 @@ Enter element to deleted
 9
 ---After deletion, BST looks like---
 5 10 12 20 
+---Height of root---
+3
 ------------------------------------
 Time Complexity :
 Insertion : O(h) [h = Height of BST]
 Deletion : O(h) [h = Height of BST]
 Searching : O(h) [h = Height of BST]
+getHeight : O(n) [n - number of nodes in BST]
 Space Complexity :
 O(n) [n = Number of Nodes in BST]
 */
