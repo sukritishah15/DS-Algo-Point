@@ -67,6 +67,8 @@ Format: -[Program name](name of the file)
 
 -[Quick Sort on Doubly Linked List](quickSort_DoublyLinkedList.cpp)
 
+-[Knuth Moris Pattern Matching(KMP Algorithm)](KMP_algorithm.cpp)
+
 -[Check if number is automorphic](automorphic.cpp)
 
 -[Bucket Sort](Bucketsort.cpp)
