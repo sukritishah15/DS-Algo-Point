@@ -54,6 +54,8 @@ Format: -[Program name](name of the file)
 
 -[Nth term of gp](nth_term_of_gp.java)
 
+-[Postorder Traversal of Tree](postorder.java)
+
 -[Prime Factors in LogN time](Primefactor.java)
 
 -[Queue](Queue.java)
