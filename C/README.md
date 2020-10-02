@@ -30,6 +30,8 @@ Format:
 
 -[Kadane's Algorithm For Getting Maximum Sub Array easy implementation using c](kadaneMaxSumSubArray.c)
 
+-[KMP Algorithm](kmp.c)
+
 -[Linear Search.](LinearSearch.c)
 
 -[Longest Common Subsequence](Longest_Common_Subsequence.c)
