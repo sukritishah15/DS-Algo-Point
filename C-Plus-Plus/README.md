@@ -23,7 +23,7 @@ Format: -[Program name](name of the file)
 
 -[Find nth term in an G.P](nth-term-gp.cpp)
 
--[Find the middle element in a linked list] (middle_element_of_linkedlist.cpp)
+-[Find the middle element in a linked list](middle_element_of_linkedlist.cpp)
 
 -[Heap Sort](heap_sort.cpp)
 
@@ -36,6 +36,8 @@ Format: -[Program name](name of the file)
 -[Kadane's Algorithm](KadaneAlgo.cpp)
 
 -[Kosaraju's Algorithm](kosarajualgo.cpp)
+
+-[Largest Number](largest_number.cpp)
 
 -[Linear Search](linear_search.cpp)
 
