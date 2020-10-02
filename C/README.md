@@ -20,11 +20,15 @@ Format:
 
 -[Find the middle element of linked list](middle.c)
 
+-[Height of Binary Tree](btheight.c)
+
 -[Implement bubblesort using c](bubblesort.c)
 
 -[Implement Euclidean Algorithm to find greatest common divisor of 2 given numbers.](Euclid_GCD.c)
 
 -[Implement 0/1 Knapsack using Dynamic Programming](0-1_knapsack.c)
+
+-[Kadane's Algorithm For Getting Maximum Sub Array easy implementation using c](kadaneMaxSumSubArray.c)
 
 -[Linear Search.](LinearSearch.c)
 
@@ -36,11 +40,15 @@ Format:
 
 -[Nth Term of GP](NthTermGP.c)
 
+-[Prime Factors using seive of eratosthenes](primefactors.c)
+
 -[Quick Sort](Quick_Sort.c)
 
 -[Reverse a linked list](reverse.c)
 
 -[Search in Row And Column Wise Sorted Matrix](Search_in_Row_And_Column_Wise_Sorted_Matrix.c)
+
+-[Selection Sort](Selection_Sort_C.c)
 
 -[Tower of Hanoi](tower_of_hanoi.c)
 
