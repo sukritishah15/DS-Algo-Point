@@ -20,6 +20,8 @@ Format:
 
 -[Find the middle element of linked list](middle.c)
 
+-[Height of Binary Tree](btheight.c)
+
 -[Implement bubblesort using c](bubblesort.c)
 
 -[Implement Euclidean Algorithm to find greatest common divisor of 2 given numbers.](Euclid_GCD.c)
