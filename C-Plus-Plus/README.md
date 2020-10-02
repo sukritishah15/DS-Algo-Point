@@ -41,9 +41,9 @@ Format: -[Program name](name of the file)
 
 -[Postfix expression evaluation](evalPostfixStack.cpp)
 
--[Prime Factors in LogN time](prime-factors.cpp)
-
 -[Remove Nth node of Linked List](Remove_Nth_node_of_Linked_List.cpp)
+
+-[Prime Factors in LogN time](prime-factors.cpp)
 
 -[Radix Sort in C++](radix.cpp)
 
@@ -68,3 +68,6 @@ Format: -[Program name](name of the file)
 -[Quick Sort on Doubly Linked List](quickSort_DoublyLinkedList.cpp)
 
 -[Check if number is automorphic](automorphic.cpp)
+
+-[Bucket Sort](Bucketsort.cpp)
+
