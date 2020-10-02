@@ -14,7 +14,11 @@
 - We currently have 4 folders for 4 programming languages - C, C++, Java, Python.
 - **Do not create folders in your submissions, unless specifically told to do so.**
 
+<br/>
+
 **YOU CANNOT CREATE A PR DIRECTLY. YOU NEED TO BE ASSIGNED AN ISSUE. IF THE ISSUE DOES NOT EXIST, CREATE ONE, ASK FOR IT IN YOUR PREFERRED PROGRAMMING LANGUAGE AND WAIT FOR IT TO BE ASSIGNED TO YOU. NOT FOLLOWING THIS WILL BE CONSIDERED A VIOLATION**
+
+<br/>
 
 ## Contribution Guidelines
 
@@ -30,6 +34,8 @@
 
 ### You can find us on [Telegram ](https://t.me/joinchat/H9iFuRyDNgL2FRgCrt_0aA). Join the telegram channel - DS-Algo-Point to reach out to us.
 
+<br/>
+
 ### Where to upload the files
 
 **PLEASE READ THIS**
@@ -37,6 +43,8 @@
 - Your files should be uploaded directly into the corresponding folder (e.g. if you wrote code for a Data Structure in C-Plus-Plus, it goes inside the C-Plus-Plus folder and so on)
 - Edit the corresponding _README.md_ file to **add the link to your code in the corresponding section** ([GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/))
 - **Under no circumstances create new folders within the language folders to upload your code unless specifically told to do so**.
+
+<br/>
 
 ## Maintainers for this project 
 - Sukriti Shah - @sukritishah15
