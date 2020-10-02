@@ -13,7 +13,11 @@ Format: -[Program name](name of the file)
 
 -[Bubble Sort](Bubble_Sort.py)
 
+-[Bucket Sort](bucketsort.py)
+
 -[Check whether a number is an armstrong number](armstrong_number.py)
+
+-[Circular Doubly Linked List](Circular_Doubly_Linked_List.py)
 
 -[Circular Queue](CircularQueue.py)
 
@@ -29,6 +33,8 @@ Format: -[Program name](name of the file)
 
 -[Linear Search](Linear_Search.py)
 
+-[Longest Common Subsequence](lcs.py)
+
 -[Longest length path in a matrix](LongestPath_Matrix.py)
 
 -[Merge Sort](mergeSort.py)
@@ -41,6 +47,8 @@ Format: -[Program name](name of the file)
 
 -[Queue](Queue.py)
 
+-[Radix Sort](radixsort.py)
+
 -[Remove_nth_node_from_linkedlist](remove_nth_node_from_linkedlist.py)
 
 -[Selection Sort](selectionsort.py)
@@ -50,3 +58,7 @@ Format: -[Program name](name of the file)
 -[Stack](stack.py)
 
 -[ternary_search](ternary_search.py)
+
+-[Find an element in a sorted matrix](find_element_in_sorted_matrix.py)
+
+-[Kadane's Algorithm](kadane_algorithm.py)
