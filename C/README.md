@@ -67,3 +67,5 @@ Format:
 -[Sieve Of Eratosthenes](Sieve_of_Eratosthenes.c)
 
 -[Stack Implementation](C_STACK.C)
+
+-[Inorder tree traversal](Tree_Inorder_Traversal.c)
