@@ -64,7 +64,7 @@
 
 <br/>
 
-<div align="centre">
+<div align="center">
   <h1>In association with</h1>
   <h3>ACM-W MUST STUDENT CHAPTER</h3>
 </div>
