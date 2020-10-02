@@ -3,6 +3,8 @@ Format: -[Program name](name of the file)
 
 -[0/1 Knapsack Problem using Dynamic Programming approach](Knapsack_DP.py)
 
+-[Arithmetic Progression](arithmetic.py)
+
 -[Automorphic Number](automorphic.py)
 
 -[Balanced Parentheses](balanced_parentheses.py)
@@ -26,6 +28,12 @@ Format: -[Program name](name of the file)
 -[Circular Singly Linked List](Circular_Singly_Linked_List.py)
 
 -[Doubly Linked List](Doubly_Linked_List.py)
+
+-[Fibonacci Series](Fibonacci.py)
+
+-[Geometric Progression](geometric.py)
+
+-[Harmonic Series](harmonic.py)
 
 -[Find an element in a sorted matrix](find_element_in_sorted_matrix.py)
 
