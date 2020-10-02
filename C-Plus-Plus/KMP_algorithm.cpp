@@ -1,7 +1,3 @@
-// The time complexity of KMP algorithm is O(n) in the worst case.
-
-// The space complexity of KMP algorithm is O(m), where m = length of the pattern
-
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -58,8 +54,12 @@ int main(){
     KMPsearch(txt, pat, n, m);
     return 0;
 }
+/*
+    Input : 23 4
+    Hacktoberfestopensource open
 
-// Input : 23 4
-// Hacktoberfestopensource open
-
-// Output : 13
+    Output : 13
+    
+    The space complexity of KMP algorithm is O(m), where m = length of the pattern.
+    The space complexity of KMP algorithm is O(m), where m = length of the pattern
+*/
