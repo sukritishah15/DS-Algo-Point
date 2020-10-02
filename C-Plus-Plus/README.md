@@ -27,6 +27,8 @@ Format: -[Program name](name of the file)
 
 -[Heap Sort](heap_sort.cpp)
 
+-[Implement Merge Sort](MergeSort.cpp)
+
 -[Infix To Postfix](infixToPostStack.cpp)
 
 -[Kadane's Algorithm](KadaneAlgo.cpp)
