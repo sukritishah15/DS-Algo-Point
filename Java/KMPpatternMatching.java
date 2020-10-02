@@ -89,6 +89,8 @@ class KMP_String_Matching {
           
   Output : Found pattern at index 10
   
-  Time Complexity : O(N)
+  Time Complexity : O(n+m)
+  
+  Space Complexity : O(m)
   
 */
