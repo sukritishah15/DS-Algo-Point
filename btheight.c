@@ -46,6 +46,7 @@ struct node* newNode(int data)
     
 int main() 
 { 
+    
     struct node *root = newNode(1); 
   
     root->left = newNode(2); 
@@ -59,4 +60,11 @@ int main()
     return 0; 
 }
 
+/*
+Time Complexity: O(n) , where n is no of nodes.
+Space Complexity:O(h) , where h is height of tree.
+
+Input: 1 2 3 4 5
 Output :- 3.
+
+*/
