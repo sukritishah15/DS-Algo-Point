@@ -61,12 +61,14 @@
 - Sunil - @sunilgknair051
 - Muskan Gupta - @muskangupta19
 - Priyal - @priyal2806
+- Mahima Goyal - @mahimagoyalx
 
 <br/>
 
 <div align="center">
   <h1>In association with</h1>
   <h3>ACM-W MUST STUDENT CHAPTER</h3>
+  <img src="img/ACM_MUST_Logo.png"/>
 </div>
 
 ## License

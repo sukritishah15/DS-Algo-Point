@@ -67,6 +67,8 @@ Format: -[Program name](name of the file)
 
 -[Stack - Linked List Implementation](stackByLinkedList.cpp)
 
+-[Sudoku Solver](SudokuSolver.cpp)
+
 -[Tarjan's Algorithm for finding Articulation Points in a graph](tarjanArticulationPoint.cpp)
 
 -[Ternary Search](ternary_search.cpp)
@@ -86,3 +88,4 @@ Format: -[Program name](name of the file)
 -[Bucket Sort](Bucketsort.cpp)
 
 -[First Come First Scheduling](firstcomefirstscheduling.cpp)
+
