@@ -85,6 +85,10 @@ Program Features:
     the number of edge lines. This two inputs will connect two vertices with an edge.
     Then at the last output will be the articulation points the graph has.
 
+Time Complexity : O(V+E)        where (V,E) = number of vertices,number of edges
+
+Space Complexity: O(V)          where V = number of vertices
+
 
 Input :
         5 5
