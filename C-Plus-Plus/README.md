@@ -86,3 +86,5 @@ Format: -[Program name](name of the file)
 -[Bucket Sort](Bucketsort.cpp)
 
 -[First Come First Scheduling](firstcomefirstscheduling.cpp)
+
+-[Interpolation Search](interpolation_search.cpp)
