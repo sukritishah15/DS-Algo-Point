@@ -47,6 +47,8 @@ Format: -[Program name](name of the file)
 
 -[Linear Search](LinearSearch.java)
 
+-[Longest common sequence](Longest_common_subsequence.java)
+
 -[Longest length path in a matrix](longest_length_path.java)
 
 -[Merge Sort Java](MergeSort.java)
