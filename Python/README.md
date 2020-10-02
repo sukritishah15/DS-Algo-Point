@@ -31,6 +31,8 @@ Format: -[Program name](name of the file)
 
 -[Fibonacci Series](Fibonacci.py)
 
+-[First Come First Scheduling](fcfs.py)
+
 -[Geometric Progression](geometric.py)
 
 -[Harmonic Series](harmonic.py)
