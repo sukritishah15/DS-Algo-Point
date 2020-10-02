@@ -55,6 +55,10 @@ Read the [participation details](https://hacktoberfest.digitalocean.com/details)
 
 * [Git and GitHub for Beginners - Crash Course(YouTube - freeCodeCamp.org)](https://youtu.be/RGOj5yH7evk)
 
+* [Version Control with Git - Introduction to Version Control(Udacity)](https://classroom.udacity.com/courses/ud123)
+
+* [Introduction To Open Source (Facebook Developer)](https://www.developercircleresources.com/learningPath/open-source/)
+
 #### Text Resources
 * [Deep Dive Into Git](https://medium.com/@mallickdebajit3/deep-dive-into-git-2e190c5404ea)
 
@@ -79,19 +83,46 @@ Read the [participation details](https://hacktoberfest.digitalocean.com/details)
 
 ## :rocket: Voila! You have Contributed to Open-Source 😋.
 
-If you stuck somewhere use Stackoverflow
+**!If you are stuck somewhere use [Stackoverflow](https://stackoverflow.com/) or ask right away! (after double-checking issues)**
 
 ### Add resources to help newbies get started with open source over here.
 
-####Youtube
+### Understanding Open-Source (Free and Open Source Software(FOSS))
+
+- A tutorial series to an introduction on [Open-Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
+- A community prepared guide on [Open-Source](https://opensource.guide/)
+
+### Youtube
 
 - A [lecture](https://youtu.be/NcoBAfJ6l2Q) on Git and GitHub by Brian Yu from Harvard University's CS50.
 - A [crash course](https://youtu.be/RGOj5yH7evk) by freecodecamp.org.
 
-####Courses
+### Courses
 
 - A [hands-on lab](https://lab.github.com/githubtraining/introduction-to-github) by GitHub's very own Github Training Team.
 
-=======
-If you are new to open-source, make sure to check read more about it [here](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) and learn more about creating a pull request [here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github).
+### Blogs for Git | Version-control ( Deep dive to git conversations )
 
+- Read blogs on git [@Dev-Community](https://dev.to/search?q=git%20version%20control)
+
+- Learn git in 15 minutes [@medium](https://medium.com/analytics-vidhya/git-version-control-system-in-15-minutes-ed60aa9e009a)
+
+- Learning `gh` (github-cli) - The new way to handle git flow using command-line [@Github-official-ghManual](https://cli.github.com/manual/)
+
+- A very helpful learning resource [here](https://git-scm.com/book/en/v2)
+
+ ### Command Line
+-  The command line is the basic (easiest and straightforward) way to communicate with a computer. 
+    + Command Line Crash Course that could help quickly pick up the prereqs [here](https://learnpythonthehardway.org/book/appendixa.html)
+
+ ### Text Editor
+- A text editor is the basic tool a programmer types into, no fancy GUIs most of the times. 
+    Few of the most used and well known are: 
+    + Atom
+    + Sublime
+    + Emacs
+    + Vim  
+    (Need any tips on these editors? Create an issue and we will sort it out!)
+
+ ### Markdown
+  -   If you've never heard of Markdown, get there quickly using the [tutorial](http://markdowntutorial.com/)
