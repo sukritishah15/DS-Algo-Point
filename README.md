@@ -62,6 +62,11 @@
 - Muskan Gupta - @muskangupta19
 - Priyal - @priyal2806
 
+<br/>
+
+# In association with
+### ACM-W MUST STUDENT CHAPTER
+
 ## License
 
 This project follows the [MIT License](/LICENSE).
