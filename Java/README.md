@@ -64,6 +64,8 @@ Format: -[Program name](name of the file)
 
 -[Selection Sort](SelectionSort.java)
 
+-[Shell Sort](ShellSort.java)
+
 -[Singly Linked List](SList.java)
 
 -[Tower of Hanoi](tower-of-hanoi.java)
