@@ -65,6 +65,7 @@ at the start of the array.In further iterations the next smallest elements are f
 left ie. sorted part.At the end we get a sorted array. 
 
 Time Complexity : O(n2)
+Space Complexity : O(1)
 
 Sample I/O : 
 Enter array size:10
