@@ -48,8 +48,6 @@ Format:
 
 -[Remove Nth node of Linked List](remove nth node.c)
 
--[Rotate Linked List in K Groups ](rotate.c)
-
 -[Reverse a linked list](reverse.c)
 
 -[Search in Row And Column Wise Sorted Matrix](Search_in_Row_And_Column_Wise_Sorted_Matrix.c)
