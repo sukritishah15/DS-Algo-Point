@@ -69,7 +69,7 @@ Format: -[Program name](name of the file)
 
 -[Stack](stack.py)
 
--[ternary_search](ternary_search.py)
+-[Ternary search](ternary_search.py)
 
 -[Find an element in a sorted matrix](find_element_in_sorted_matrix.py)
 
