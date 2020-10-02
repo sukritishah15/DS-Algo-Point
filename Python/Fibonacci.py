@@ -1,37 +1,36 @@
 
 # # Program to display the Fibonacci sequence up to n-th term
 
-nterms = int(input("How many terms? "))
+n = int(input("Please Enter the total number of terms : "))
 
 # first two terms
 n1, n2 = 0, 1
-count = 0
+temp = 0
 
 # check if the number of terms is valid
-if nterms <= 0:
+if n <= 0:
     print("Please enter a positive integer")
-elif nterms == 1:
-    print("Fibonacci sequence upto",nterms,":")
+elif n == 1:
+    print("Fibonacci sequence upto :",n,":")
     print(n1)
 else:
     print("Fibonacci sequence:")
-    while count < nterms:
+    while temp < n:
         print(n1)
-        nth = n1 + n2
-        # update values
+        n3 = n1 + n2
+        # Changing values of n1 and n2
         n1 = n2
-        n2 = nth
-        count += 1
+        n2 = n3
+        temp += 1
 
 
 
 
-"""""""""""
-Time Complexity :- O(nterms)
-Space Complexity :- O(1)
+"""""
 
-
-How many terms? 6
+Example:
+Please Enter the total number of terms : 
+11
 Fibonacci sequence:
 0
 1
@@ -39,4 +38,15 @@ Fibonacci sequence:
 2
 3
 5
-"""""""""
+8
+13
+21
+34
+55
+
+            ........
+
+Time Complexity :- O(n)
+Space Complexity :- O(1)
+
+""""

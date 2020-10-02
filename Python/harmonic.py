@@ -1,19 +1,25 @@
-# Python program to find the sum of harmonic series 
+# Sum of harmonic series 
 
-def sum(n): 
+def sumHarmonic(n): 
 	i = 1
-	s = 0.0
+	sum = 0.0
 	for i in range(1, n+1): 
-		s = s + 1/i; 
-	return s; 
+		sum = sum + 1/i; 
+	return sum; 
 
-n = int(input("First term"))
-print("Sum is", sum(n)) 
+n = int(input("First term :"))
+print("Sum of the Harmonic Series :", sumHarmonic(n)) 
 
 """"
+Example:
+
+First term :
+6
+Sum of the Harmonic Series : 2.4499999999999997
+
+            .........
+
 Time Complexity :- O(logn)
 Space Complexity :- O(n)
 
-Input: n=5 
-Output: Sum is 2.283333333333333
 """
