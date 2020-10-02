@@ -57,8 +57,6 @@ Format: -[Program name](name of the file)
 
 -[Nth Term of GP](nth_term_of_gp.py)
 
--[PreOrder Tree Traversal](preorder.py)
-
 -[Queue](Queue.py)
 
 -[Radix Sort](radixsort.py)
