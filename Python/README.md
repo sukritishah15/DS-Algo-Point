@@ -41,6 +41,8 @@ Format: -[Program name](name of the file)
 
 -[Heap Sort](Heap_sort.py)
 
+-[Interpolation Search](Interpolation_Search.py)
+
 -[Linear Search](Linear_Search.py)
 
 -[Longest Common Subsequence](lcs.py)
