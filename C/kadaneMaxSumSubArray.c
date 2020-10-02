@@ -32,14 +32,15 @@ int main(){
 	printf("Kadane's algorithm : max sum of contigous element : %d", maxSum);
 
 }
+/*
+sample input 
+enter total size of the array                                                                                                                
+8                                                                                                                                            
+-2 -3 4 -1 -2 1 5 -3 
+sample output                                                                                                                        
+7 
 
-// sample input 
-// enter total size of the array                                                                                                                
-// 8                                                                                                                                            
-// -2 -3 4 -1 -2 1 5 -3 
-//sample output                                                                                                                        
-// 7 
-
-// time and space complexity 
-// time complexity : O(n) 
-// space complexity : O(1)
+time and space complexity 
+time complexity : O(n) 
+space complexity : O(1)
+*/
