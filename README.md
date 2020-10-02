@@ -64,8 +64,10 @@
 
 <br/>
 
-# In association with
-### ACM-W MUST STUDENT CHAPTER
+<div align="centre">
+  <h1>In association with</h1>
+  <h3>ACM-W MUST STUDENT CHAPTER</h3>
+</div>
 
 ## License
 
