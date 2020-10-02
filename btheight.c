@@ -65,6 +65,6 @@ Time Complexity: O(n) , where n is no of nodes.
 Space Complexity:O(h) , where h is height of tree.
 
 Input: 1 2 3 4 5
-Output :- 3.
+Output : 3.
 
 */
