@@ -74,6 +74,8 @@ Format: -[Program name](name of the file)
 
 -[Singly Linked List](SList.java)
 
+-[Tarjan Algorithm](tarjan.java)
+
 -[Tower of Hanoi](tower-of-hanoi.java)
 
 -[Implement quick sort](quick_sort.java)
