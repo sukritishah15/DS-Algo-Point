@@ -32,4 +32,6 @@ Format:
 
 -[Reverse a linked list](reverse.c)
 
+-[Stack Implementation](C_STACK.C)
+
 
