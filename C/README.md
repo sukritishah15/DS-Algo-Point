@@ -48,6 +48,8 @@ Format:
 
 -[Reverse a linked list](reverse.c)
 
+-[Rotate Linked List in Group of K](rotatell.c)
+
 -[Search in Row And Column Wise Sorted Matrix](Search_in_Row_And_Column_Wise_Sorted_Matrix.c)
 
 -[Selection Sort](Selection_Sort_C.c)
