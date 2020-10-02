@@ -39,20 +39,20 @@
 - **Under no circumstances create new folders within the language folders to upload your code unless specifically told to do so**.
 
 ## Maintainers for this project 
-Sukriti Shah - @sukritishah15
-Aditi Khemka - @aditik03
-Gunisha Chaturvedi - @gunisha30
-Ananya Nagar - @AnanyaNagar
-Manan - @manan025
-Falguni Sarkar - @lostgirljourney
-Rahul Joshi - @mrjoshi0147
-Unnati Deshwal - @unnatideshwal
-Manan Chawla - @mananchawla2005
-Sumit Kumar Roy - @mephi007
-Niranjan Kumar S - @niranjantuty
-Sunil - @sunilgknair051
-Muskan Gupta - @muskangupta19
-Priyal - @priyal2806
+- Sukriti Shah - @sukritishah15
+- Aditi Khemka - @aditik03
+- Gunisha Chaturvedi - @gunisha30
+- Ananya Nagar - @AnanyaNagar
+- Manan - @manan025
+- Falguni Sarkar - @lostgirljourney
+- Rahul Joshi - @mrjoshi0147
+- Unnati Deshwal - @unnatideshwal
+- Manan Chawla - @mananchawla2005
+- Sumit Kumar Roy - @mephi007
+- Niranjan Kumar S - @niranjantuty
+- Sunil - @sunilgknair051
+- Muskan Gupta - @muskangupta19
+- Priyal - @priyal2806
 
 ## License
 
