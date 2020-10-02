@@ -32,6 +32,8 @@ Format: -[Program name](name of the file)
 
 -[Find middle element in a Linked List](Middle_element_of_a_Linked_List.java)
 
+-[Euclid's Algorithm for Greatest Common Divisor (GCD)](GCD.java)
+
 -[Heap Sort](HeapSort.java)
 
 -[Inorder Traversal Of Binary tree](inorder.java)
