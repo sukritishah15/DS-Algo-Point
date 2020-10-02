@@ -36,6 +36,8 @@ Format: -[Program name](name of the file)
 
 -[Kadane's Algorithm](kadane_algorithm.java)
 
+-[KMP Pattern Matching Algorithm ](KMPpatternMatching.java)
+
 -[Linear Search](LinearSearch.java)
 
 -[Longest length path in a matrix](longest_length_path.java)
