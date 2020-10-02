@@ -1,6 +1,7 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
+-[Height of Binary Tree](HeightOfBinaryTree.java)
 
 -[Binary Search Tree Implementation](ImplementingBST.java)
 
@@ -32,6 +33,8 @@ Format: -[Program name](name of the file)
 
 -[Find middle element in a Linked List](Middle_element_of_a_Linked_List.java)
 
+-[Euclid's Algorithm for Greatest Common Divisor (GCD)](GCD.java)
+
 -[Heap Sort](HeapSort.java)
 
 -[Inorder Traversal Of Binary tree](inorder.java)
@@ -44,6 +47,8 @@ Format: -[Program name](name of the file)
 
 -[Linear Search](LinearSearch.java)
 
+-[Longest common sequence](Longest_common_subsequence.java)
+
 -[Longest length path in a matrix](longest_length_path.java)
 
 -[Merge Sort Java](MergeSort.java)
@@ -51,6 +56,10 @@ Format: -[Program name](name of the file)
 -[Nth term of ap](nth_term_of_ap.java)
 
 -[Nth term of gp](nth_term_of_gp.java)
+
+-[Postorder Traversal of Tree](postorder.java)
+
+-[Preorder Tree Traveral](preorder.java)
 
 -[Prime Factors in LogN time](Primefactor.java)
 
@@ -69,6 +78,8 @@ Format: -[Program name](name of the file)
 -[Shell Sort](ShellSort.java)
 
 -[Singly Linked List](SList.java)
+
+-[Tarjan Algorithm](tarjan.java)
 
 -[Tower of Hanoi](tower-of-hanoi.java)
 
