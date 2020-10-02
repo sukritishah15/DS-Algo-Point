@@ -53,6 +53,8 @@ Format: -[Program name](name of the file)
 
 -[Remove_nth_node_from_linkedlist](remove_nth_node_from_linkedlist.py)
 
+-[Shell Sort](shell_sort.py)
+
 -[Selection Sort](selectionsort.py)
 
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
