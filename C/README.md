@@ -36,6 +36,8 @@ Format:
 
 -[Longest Common Subsequence](Longest_Common_Subsequence.c)
 
+-[Maximum digit using given numbers](Maximum_number.c)
+
 -[Merge Sort](Mergesort.c)
 
 -[Neon Number](neon_number.c)
