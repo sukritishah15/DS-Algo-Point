@@ -59,6 +59,8 @@ Format: -[Program name](name of the file)
 
 -[Queue](Queue.py)
 
+-[PreOrder Tree Traversal](preorder.py)
+
 -[Radix Sort](radixsort.py)
 
 -[Remove_nth_node_from_linkedlist](remove_nth_node_from_linkedlist.py)
