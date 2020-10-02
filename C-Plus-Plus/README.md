@@ -27,6 +27,8 @@ Format: -[Program name](name of the file)
 
 -[Heap Sort](heap_sort.cpp)
 
+-[Height of a Binary Tree](height_of_binary_tree.cpp)
+
 -[Infix To Postfix](infixToPostStack.cpp)
 
 -[Kadane's Algorithm](KadaneAlgo.cpp)
