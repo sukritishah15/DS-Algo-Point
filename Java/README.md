@@ -83,3 +83,5 @@ Format: -[Program name](name of the file)
 -[Queue](Queue.java)
 
 -[Stack](Stack.java)
+
+-[Z Function](z_function.java)
