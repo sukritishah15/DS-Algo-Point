@@ -1,5 +1,5 @@
 /**
-Implementation of Binary Search in Java
+Implementation of Z Function
 https://github.com/sukritishah15/DS-Algo-Point/issues/134
 Contributed by @jhoserpacheco : https://github.com/jhoserpacheco
 */
@@ -19,9 +19,20 @@ static int[] z_function(String ss) {
         while (i + z[i] < n && s.charAt(z[i]) == s.charAt(i + z[i])) {
             x = i; y = i + z[i]; z[i]++;
         }
+        return z;
     }
-    return z;
+
+    public static void main(String args[]){
+      String str = "BAAABAA";
+      int arrayTemp[] = z_function(str);
+      int maximum = -1;
+      for(int i : arrayTemp){
+        maximum = Math.max(maximum, i);
+      }
+      System.out.println(maximum);
+    }
 }
+
 
 /*
 
