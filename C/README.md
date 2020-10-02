@@ -65,3 +65,5 @@ Format:
 -[Heap Sort](heap_sort.c)
 
 -[Sieve Of Eratosthenes](Sieve_of_Eratosthenes.c)
+
+-[Stack Implementation](C_STACK.C)
