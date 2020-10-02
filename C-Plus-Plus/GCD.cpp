@@ -20,3 +20,11 @@ int main()
   std::cout << compute_gcd(a, b) << std::endl;
   return 0;
 }
+/*
+Input:
+200 900
+Output:
+100
+Time complexity: O(log (n)) 
+Space Complexity: O(log (n))
+*/
