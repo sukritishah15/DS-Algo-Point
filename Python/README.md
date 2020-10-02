@@ -45,8 +45,8 @@ Format: -[Program name](name of the file)
 
 -[Selection Sort](selectionsort.py)
 
+-[Shell sort](shell_sort.py)
+
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
 
 -[Stack](stack.py)
-
--[ternary_search](ternary_search.py)
