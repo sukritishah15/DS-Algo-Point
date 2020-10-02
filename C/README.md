@@ -48,13 +48,15 @@ Format:
 
 -[Quick Sort](Quick_Sort.c)
 
--[Remove Nth node of Linked List](remove nth node.c)
+-[Remove Nth node of Linked List](remove_nth_node.c)
 
 -[Reverse a linked list](reverse.c)
 
 -[Search in Row And Column Wise Sorted Matrix](Search_in_Row_And_Column_Wise_Sorted_Matrix.c)
 
 -[Selection Sort](Selection_Sort_C.c)
+
+-[Singly Linked List](SinglyLL.c)
 
 -[Tower of Hanoi](tower_of_hanoi.c)
 
