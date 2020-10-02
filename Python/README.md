@@ -39,6 +39,8 @@ Format: -[Program name](name of the file)
 
 -[Longest length path in a matrix](LongestPath_Matrix.py)
 
+-[Maximum number formed from given digits](maximum.py)
+
 -[Merge Sort](mergeSort.py)
 
 -[Neon Numbers](neon_numbers.py)
