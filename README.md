@@ -42,10 +42,10 @@
 - Sukriti Shah - @sukritishah15
 - Aditi Khemka - @aditik03
 - Gunisha Chaturvedi - @gunisha30
-- Ananya Nagar - @AnanyaNagar
 - Manan - @manan025
 - Sumit Kumar Roy - @mephi007
 - Falguni Sarkar - @lostgirljourney
+- Ananya Nagar - @AnanyaNagar
 - Rahul Joshi - @mrjoshi0147
 - Unnati Deshwal - @unnatideshwal
 - Manan Chawla - @mananchawla2005
