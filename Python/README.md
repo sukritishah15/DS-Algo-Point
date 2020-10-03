@@ -79,8 +79,6 @@ Format: -[Program name](name of the file)
 
 -[Stack](stack.py)
 
--[Search Repeating elements using Map/Hashmap](Repeating_Element_Hashmap.py)
-
 -[Timsort Algorithm](Tim sort Algorithm in Python.py)
 
 -[Ternary search](ternary_search.py)
@@ -90,3 +88,4 @@ Format: -[Program name](name of the file)
 -[Kadane's Algorithm](kadane_algorithm.py)
 
 -[Dutch National Flag Problem](dutchflagproblem.py)
+
