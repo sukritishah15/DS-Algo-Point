@@ -34,7 +34,11 @@ Format: -[Program name](name of the file)
 
 -[Heap Sort](HeapSort.java)
 
+-[Implement quick sort](quick_sort.java)
+
 -[Insertion Sort](Insertion_Sort.java)
+
+-[Interpolation Search](interpolationsearch.java)
 
 -[Kadane's Algorithm](kadane_algorithm.java)
 
@@ -67,8 +71,6 @@ Format: -[Program name](name of the file)
 -[Singly Linked List](SList.java)
 
 -[Tower of Hanoi](tower-of-hanoi.java)
-
--[Implement quick sort](quick_sort.java)
 
 -[Singly Linked List](SList.java)  
 
