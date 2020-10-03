@@ -63,7 +63,28 @@ In Preorder traversal the root node is visited first, then the left subtree and 
 Application:
 Used to create prefix expression from expression tree.
 
+Time Complexity: O(n)
+Space Complexity: O(1)
+
 Sample I/O:
+
+Input(Given in main):
+    //          1      (root)
+    //        /   \
+    //       2     3
+    //      / \   / \
+    //     4   5 6   7
+    
+    struct Node* root = new Node(1);
+    root->left = new Node(2);
+    root->right = new Node(3);
+    root->left->left = new Node(4);
+    root->left->right = new Node(5);
+    root->right->left = new Node(6);
+    root->right->right = new Node(7);
+
+Output:
 Preorder traversal:
 1 2 4 5 3 6 7 
+
 */
