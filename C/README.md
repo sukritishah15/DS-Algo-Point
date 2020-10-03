@@ -60,8 +60,6 @@ Format:
 
 -[Singly Linked List](SinglyLL.c)
 
--[Sudoko Solver ](sudoko.c)
-
 -[Tower of Hanoi](tower_of_hanoi.c)
 
 -[Heap Sort](heap_sort.c)
@@ -69,3 +67,5 @@ Format:
 -[Sieve Of Eratosthenes](Sieve_of_Eratosthenes.c)
 
 -[Stack Implementation](C_STACK.C)
+
+-[Sudoko Solver ](sudoko.c)
