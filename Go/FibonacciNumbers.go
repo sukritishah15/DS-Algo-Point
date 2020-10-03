@@ -36,12 +36,12 @@ func main(){
  	fmt.Println("Invalid input")
  	return
  }
- fmt.Println(fibonacciSum(n))
+ fmt.Printf("Sum till nth term:%d",fibonacciSum(n))
 }
 
 /*
 I/O =>
 Enter value of 'n'(integer):
-7
-33
+4
+Sum till nth term:7
 */
