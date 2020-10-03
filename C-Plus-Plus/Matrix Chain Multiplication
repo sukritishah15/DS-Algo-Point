@@ -1,0 +1,47 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+//  This is the recursive Approach
+int MCM(int arr[],int i,int j){
+    int i=1;
+    int j=arr.size();
+    if(i>=j)
+        return 0;
+    int ans=INT_MAX;
+    for(int k=i;k<=j-1;k++){
+        int x = MCM(arr,i,k);
+        int y =MCM(arr,k+1,j);
+        int temp=x+y+(arr[i]*arr[k]*arr[j]);
+        ans= min(temp,ans);
+    }
+    return ans;
+}
+
+//    This is Memoized Approach
+int dp[501][501];
+int MCM(int arr[],int i,int j){
+    if(i>=j)
+        return 0;  
+    if(dp[i][j]!=-1)
+        return dp[i][j];
+    int ans=INT_MAX;
+    for(int k=i;k<=j-1;k++){
+        int temp = MCM(arr,i,k)+MCM(arr,k+1,j)+(arr[i]*arr[k]*arr[j]);
+        ans= min(temp,ans);
+    }
+    dp[i][j]=ans;
+    return ans;
+}
+
+int main(){
+ ios_base::sync_with_stdio(false); cin.tie(NULL);
+ int t;  cin>>t;
+ while(t--){
+    memset(dp,-1,sizeof(dp));
+    int n; cin>>n;
+    int arr[n];
+    for(int i=0;i<n;i++)
+        cin>>arr[i];
+    cout<<MCM(arr,1,n-1);
+ }
+}
