@@ -21,6 +21,7 @@ public class GCD {
   }
 
   public static void main(String[] args) {
+
     // Test case
 
     int a = 111;
