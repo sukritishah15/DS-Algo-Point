@@ -41,6 +41,8 @@ Format: -[Program name](name of the file)
 
 -[Knapsack Problem](knapsack.cpp)
 
+-[Longest length path in a matrix](longest length path in a matrix.cpp)
+
 -[Largest Number](largest_number.cpp)
 
 -[Linear Search](linear_search.cpp)
