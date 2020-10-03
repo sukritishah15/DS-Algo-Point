@@ -10,7 +10,9 @@ When you’re on the main page of a repository, you’ll see a button to "Star" 
 
 GitHub repository URLs will reference both the username associated with the owner of the repository, as well as the repository name. 
 
-For example, sukritishah15 is the owner of this repository, so the GitHub URL for this is: https://github.com/your-username/DS-Algo-Point
+For example, sukritishah15 is the owner of this repository, so the GitHub URL for this is: https://github.com/sukritishah15/DS-Algo-Point
+
+Once you fork this repository, a copy of this repository will be created on your GitHub account. You will be the owner of this repository, so the GitHub URL for this will be: https://github.com/your-username/DS-Algo-Point
 
 ### 2. Clone the Repository
 
