@@ -17,7 +17,7 @@ Output:
  * Time complexity: O(n*n*2^n);
  * Space Complexity: O(n*n);
  * 
- * /
+ */
 //x and y is current position in the grid
 bool func(int x,int y,int n,vector<vector<int>> &a,vector<vector<int>> &vis)
 {
