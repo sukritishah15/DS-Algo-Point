@@ -95,6 +95,8 @@ Format: -[Program name](name of the file)
 
 -[Singly Linked List](SList.java)  
 
+-[Suduko Solver](sudokuSolver.java)
+
 -[Queue](Queue.java)
 
 -[Stack](Stack.java)
