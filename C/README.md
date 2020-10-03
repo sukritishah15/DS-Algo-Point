@@ -28,6 +28,8 @@ Format:
 
 -[Implement 0/1 Knapsack using Dynamic Programming](0-1_knapsack.c)
 
+-[Inorder tree traversal](Tree_Inorder_Traversal.c)
+
 -[Kadane's Algorithm For Getting Maximum Sub Array easy implementation using c](kadaneMaxSumSubArray.c)
 
 -[KMP Algorithm](kmp.c)
@@ -69,3 +71,6 @@ Format:
 -[Sieve Of Eratosthenes](Sieve_of_Eratosthenes.c)
 
 -[Stack Implementation](C_STACK.C)
+
+-[Sudoko Solver ](sudoko.c)
+
