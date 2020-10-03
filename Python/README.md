@@ -89,3 +89,5 @@ Format: -[Program name](name of the file)
 
 -[Dutch National Flag Problem](dutchflagproblem.py)
 
+-[Pigeonhole sort](Pigeonhole_Sort.py)
+
