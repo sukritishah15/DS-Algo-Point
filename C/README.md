@@ -28,6 +28,8 @@ Format:
 
 -[Implement 0/1 Knapsack using Dynamic Programming](0-1_knapsack.c)
 
+-[Inorder tree traversal](Tree_Inorder_Traversal.c)
+
 -[Kadane's Algorithm For Getting Maximum Sub Array easy implementation using c](kadaneMaxSumSubArray.c)
 
 -[KMP Algorithm](kmp.c)
@@ -43,6 +45,8 @@ Format:
 -[Neon Number](neon_number.c)
 
 -[Nth Term of GP](NthTermGP.c)
+
+-[Postorder Tree Traversal](postorder.c)
 
 -[Prime Factors using seive of eratosthenes](primefactors.c)
 
@@ -69,6 +73,4 @@ Format:
 -[Stack Implementation](C_STACK.C)
 
 -[Sudoko Solver ](sudoko.c)
-
--[Inorder tree traversal](Tree_Inorder_Traversal.c)
 
