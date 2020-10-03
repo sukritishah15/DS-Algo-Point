@@ -53,6 +53,8 @@ Format: -[Program name](name of the file)
 
 -[Mathematical Series Demo](maths-series.cpp)
 
+-[Pancake Sorting](Pancake_sort.cpp)
+
 -[Postfix expression evaluation](evalPostfixStack.cpp)
 
 -[PostOrder Traversal of Tree](postOrderTree.cpp)
