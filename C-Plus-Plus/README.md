@@ -104,3 +104,5 @@ Format: -[Program name](name of the file)
 -[First Come First Scheduling](firstcomefirstscheduling.cpp)
 
 -[Interpolation Search](interpolation_search.cpp)
+
+-[Tim sort](Tim_Sort.cpp)
