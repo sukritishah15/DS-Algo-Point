@@ -34,6 +34,8 @@ Format:
 
 -[Nth Term of GP](NthTermGP.c)
 
+-[Preorder Tree Traversal](preorder.c)
+
 -[Prime Factors using seive of eratosthenes](primefactors.c)
 
 -[Quick Sort](Quick_Sort.c)
