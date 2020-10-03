@@ -79,6 +79,8 @@ Format: -[Program name](name of the file)
 
 -[Stack](stack.py)
 
+-[Timsort Algorithm](Tim sort Algorithm in Python.py)
+
 -[Ternary search](ternary_search.py)
 
 -[Find an element in a sorted matrix](find_element_in_sorted_matrix.py)
