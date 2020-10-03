@@ -46,6 +46,10 @@
 
 <br/>
 
+<br/>
+## [How to create a PR?](STEPS_FOR_PR.md)
+<br/>
+
 ## Maintainers for this project 
 - Sukriti Shah - @sukritishah15
 - Aditi Khemka - @aditik03
