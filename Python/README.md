@@ -33,6 +33,8 @@ Format: -[Program name](name of the file)
 
 -[First Come First Scheduling](fcfs.py)
 
+-[FizzBuzz](FizzBuzz.py)
+
 -[Geometric Progression](geometric.py)
 
 -[Harmonic Series](harmonic.py)
