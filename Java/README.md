@@ -47,6 +47,8 @@ Format: -[Program name](name of the file)
 
 -[KMP Pattern Matching Algorithm ](KMPpatternMatching.java)
 
+-[Kosaraju's Algorithm for Strongly Connected Components](Kosaraju.java)
+
 -[Linear Search](LinearSearch.java)
 
 -[Longest common sequence](Longest_common_subsequence.java)
