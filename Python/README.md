@@ -75,6 +75,8 @@ Format: -[Program name](name of the file)
 
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
 
+-[Sleep Sort](SleepSort.py)
+
 -[Stack](stack.py)
 
 -[Ternary search](ternary_search.py)
