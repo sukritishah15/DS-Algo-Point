@@ -69,3 +69,5 @@ Format:
 -[Stack Implementation](C_STACK.C)
 
 -[Inorder tree traversal](Tree_Inorder_Traversal.c)
+
+-[Ternary Search](Ternary Search in C.c)
