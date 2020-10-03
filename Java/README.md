@@ -81,6 +81,8 @@ Format: -[Program name](name of the file)
 
 -[Singly Linked List](SList.java)
 
+-[Seive Of Eratosthenes](SeiveOfEratosthenes.java)
+
 -[Tarjan Algorithm](tarjan.java)
 
 -[Tower of Hanoi](tower-of-hanoi.java)
