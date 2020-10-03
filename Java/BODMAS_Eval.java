@@ -7,6 +7,9 @@
 	        String exp1="78+5sin60+8(6cos60+5)";
 	        String exp2="log50+tan15";
 	        System.out.println(gunnercal(exp2));
+		//Contributed by Ajiri Gunn
+		//Time complexity O(n):linear
+		//Space complexity O(n):linear
 	    }
 	    
 		//A recursive function to compute brackets and replace as number
