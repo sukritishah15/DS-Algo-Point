@@ -32,6 +32,8 @@ Format:
 
 -[Nth Term of GP](NthTermGP.c)
 
+-[Preorder Tree Traversal](preorder.c)
+
 -[Quick Sort](Quick_Sort.c)
 
 -[Reverse a linked list](reverse.c)
