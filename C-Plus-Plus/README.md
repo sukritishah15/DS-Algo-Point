@@ -35,6 +35,8 @@ Format: -[Program name](name of the file)
 
 -[Implement Merge Sort](MergeSort.cpp)
 
+-[Implementation of Queue](array_implementation_of_queue.cpp)
+
 -[Infix To Postfix](infixToPostStack.cpp)
 
 -[Kadane's Algorithm](KadaneAlgo.cpp)
