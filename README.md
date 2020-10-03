@@ -5,13 +5,13 @@
 
 ## Overview
 
-- The goal of this project is to have codes for various data structures and algorithms - in C, C++, Java and Python. 
+- The goal of this project is to have codes for various data structures and algorithms - in C, C++, Java, Python, C#, Go, JavaScript and PHP. 
 - Feel free to contribute in any way you want.
 - Make sure to follow the contribution guidelines listed below.
 
 ## Content
 
-- We currently have 4 folders for 4 programming languages - C, C++, Java, Python.
+- We currently have 4 folders for 8 programming languages - C, C++, Java, Python, C#, Go, JavaScript and PHP.
 - **Do not create folders in your submissions, unless specifically told to do so.**
 
 <br/>

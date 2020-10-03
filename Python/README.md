@@ -37,6 +37,8 @@ Format: -[Program name](name of the file)
 
 -[Harmonic Series](harmonic.py)
 
+-[KMP Pattern matching algorithm](KMP Algorithm in Python.py)
+
 -[Find an element in a sorted matrix](find_element_in_sorted_matrix.py)
 
 -[Greatest Common divisor](gcd.py)
@@ -77,6 +79,8 @@ Format: -[Program name](name of the file)
 
 -[Stack](stack.py)
 
+-[Timsort Algorithm](Tim sort Algorithm in Python.py)
+
 -[Ternary search](ternary_search.py)
 
 -[Find an element in a sorted matrix](find_element_in_sorted_matrix.py)
@@ -85,4 +89,4 @@ Format: -[Program name](name of the file)
 
 -[Dutch National Flag Problem](dutchflagproblem.py)
 
--[Post Order Travesal](postordertraversal.py)
+

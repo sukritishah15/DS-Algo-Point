@@ -66,11 +66,18 @@ Format:
 
 -[Tower of Hanoi](tower_of_hanoi.c)
 
+-[Ternary Search](Ternary Search in C.c)
+
 -[Heap Sort](heap_sort.c)
 
 -[Sieve Of Eratosthenes](Sieve_of_Eratosthenes.c)
 
 -[Stack Implementation](C_STACK.C)
 
--[Sudoko Solver ](sudoko.c)
+
+
+
+
+
+
 

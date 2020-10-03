@@ -41,6 +41,8 @@ Format: -[Program name](name of the file)
 
 -[Knapsack Problem](knapsack.cpp)
 
+-[Longest length path in a matrix](longest length path in a matrix.cpp)
+
 -[Largest Number](largest_number.cpp)
 
 -[Linear Search](linear_search.cpp)
@@ -50,6 +52,8 @@ Format: -[Program name](name of the file)
 -[Minimum number of denominations using Greedy algo approach](MinDenominations_GreedyAlgo.cpp)
 
 -[Mathematical Series Demo](maths-series.cpp)
+
+-[Pancake Sorting](Pancake_sort.cpp)
 
 -[Postfix expression evaluation](evalPostfixStack.cpp)
 
