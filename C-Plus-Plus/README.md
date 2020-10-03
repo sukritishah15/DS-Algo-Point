@@ -61,6 +61,8 @@ Format: -[Program name](name of the file)
 
 -[Search an element in a sorted matrix](Search_Sorted_Matrix.cpp)
 
+-[Search repeating elements](search_repeating.cpp)
+
 -[Selection Sort](selection_sort.cpp)
 
 -[Sieve of Eratosthenes](sieve_of_eratosthenes.cpp)
