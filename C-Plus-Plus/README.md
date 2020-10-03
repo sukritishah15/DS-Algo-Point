@@ -20,10 +20,6 @@ Format: -[Program name](name of the file)
 -[Dijkstra's Algorithm](Dijkstra.cpp)
 
 -[Find nth term in an A.P.](nth_term_ap.cpp)
-<<<<<<< HEAD
--[Balanced Parentheses] (balance_paranthesis.cpp)
-
-=======
 
 -[Find nth term in an G.P](nth-term-gp.cpp)
 
@@ -98,4 +94,3 @@ Format: -[Program name](name of the file)
 -[First Come First Scheduling](firstcomefirstscheduling.cpp)
 
 -[Interpolation Search](interpolation_search.cpp)
->>>>>>> upstream/master
