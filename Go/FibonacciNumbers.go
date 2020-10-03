@@ -38,3 +38,10 @@ func main(){
  }
  fmt.Println(fibonacciSum(n))
 }
+
+/*
+I/O =>
+Enter value of 'n'(integer):
+7
+33
+*/
