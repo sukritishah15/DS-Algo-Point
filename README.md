@@ -46,9 +46,8 @@
 
 <br/>
 
-<br/>
-- [How to create a PR?](STEPS_FOR_PR.md)
-<br/>
+## Don't know how to create a PR? Refer this: [Steps to create a PR](STEPS_FOR_PR.md)
+
 
 ## Maintainers for this project 
 - Sukriti Shah - @sukritishah15

@@ -31,6 +31,8 @@ Format: -[Program name](name of the file)
 
 -[Fibonacci Series](Fibonacci.py)
 
+-[First Come First Scheduling](fcfs.py)
+
 -[Geometric Progression](geometric.py)
 
 -[Harmonic Series](harmonic.py)
@@ -60,6 +62,8 @@ Format: -[Program name](name of the file)
 -[Nth Term of GP](nth_term_of_gp.py)
 
 -[Queue](Queue.py)
+
+-[PreOrder Tree Traversal](preorder.py)
 
 -[Radix Sort](radixsort.py)
 

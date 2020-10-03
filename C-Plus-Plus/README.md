@@ -39,6 +39,8 @@ Format: -[Program name](name of the file)
 
 -[Kosaraju's Algorithm](kosarajualgo.cpp)
 
+-[Knapsack Problem](knapsack.cpp)
+
 -[Largest Number](largest_number.cpp)
 
 -[Linear Search](linear_search.cpp)
@@ -53,6 +55,8 @@ Format: -[Program name](name of the file)
 
 -[PostOrder Traversal of Tree](postOrderTree.cpp)
 
+-[PreOrder Traversal of Tree](Preorder_traversal_tree.cpp)
+
 -[Remove Nth node of Linked List](Remove_Nth_node_of_Linked_List.cpp)
 
 -[Prime Factors in LogN time](prime-factors.cpp)
@@ -60,6 +64,8 @@ Format: -[Program name](name of the file)
 -[Radix Sort in C++](radix.cpp)
 
 -[Search an element in a sorted matrix](Search_Sorted_Matrix.cpp)
+
+-[Search repeating elements](search_repeating.cpp)
 
 -[Selection Sort](selection_sort.cpp)
 

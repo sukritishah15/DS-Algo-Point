@@ -10,11 +10,13 @@ When you’re on the main page of a repository, you’ll see a button to "Star" 
 
 GitHub repository URLs will reference both the username associated with the owner of the repository, as well as the repository name. 
 
-For example, sukritishah15 is the owner of this repository, so the GitHub URL for this is: https://github.com/your-username/DS-Algo-Point
+For example, sukritishah15 is the owner of this repository, so the GitHub URL for this is: https://github.com/sukritishah15/DS-Algo-Point
+
+Once you fork this repository, a copy of this repository will be created on your GitHub account. You will be the owner of this newly created repository, so the GitHub URL for this will be: https://github.com/your-username/DS-Algo-Point
 
 ### 2. Clone the Repository
 
-To make your own local copy of the repository you would like to contribute to, let’s first open up a terminal window.
+To make your own local copy of the repository (on your local machine, say laptop), that you would use to make changes and ultimately contribute, let’s first open up a terminal window.
 
 We’ll use the `git clone` command along with the URL that points to your fork of the repository.
 
