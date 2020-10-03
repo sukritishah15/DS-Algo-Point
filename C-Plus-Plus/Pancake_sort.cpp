@@ -59,7 +59,7 @@ input example:
 Output:
 1 2 3 4 5
 
-Overall time complexity = O(n) ; Overall Space complexity = O(1) */
+Overall time complexity = O(n*n) ; Overall Space complexity = O(1) */
 
 
 
