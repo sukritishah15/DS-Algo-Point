@@ -47,7 +47,7 @@
 <br/>
 
 <br/>
-- [Steps to create a PR](STEPS_FOR_PR.md)
+- [Steps to create a PR](https://github.com/sukritishah15/DS-Algo-Point/blob/master/STEPS_FOR_PR.md)
 <br/>
 
 ## Maintainers for this project 
