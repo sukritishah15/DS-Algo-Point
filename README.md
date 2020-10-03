@@ -46,6 +46,9 @@
 
 <br/>
 
+## Don't know how to create a PR? Refer this: [Steps to create a PR](STEPS_FOR_PR.md)
+
+
 ## Maintainers for this project 
 - Sukriti Shah - @sukritishah15
 - Aditi Khemka - @aditik03
@@ -61,12 +64,14 @@
 - Sunil - @sunilgknair051
 - Muskan Gupta - @muskangupta19
 - Priyal - @priyal2806
+- Mahima Goyal - @mahimagoyalx
 
 <br/>
 
 <div align="center">
   <h1>In association with</h1>
   <h3>ACM-W MUST STUDENT CHAPTER</h3>
+  <img src="img/ACM_MUST_Logo.png"/>
 </div>
 
 ## License

@@ -69,3 +69,6 @@ Format:
 -[Stack Implementation](C_STACK.C)
 
 -[Sudoko Solver ](sudoko.c)
+
+-[Inorder tree traversal](Tree_Inorder_Traversal.c)
+

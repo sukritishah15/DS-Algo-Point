@@ -25,6 +25,8 @@ Format: -[Program name](name of the file)
 
 -[Find the middle element in a linked list](middle_element_of_linkedlist.cpp)
 
+-[Greatest common divisor](GCD.cpp)
+
 -[Heap Sort](heap_sort.cpp)
 
 -[Height of a Binary Tree](height_of_binary_tree.cpp)
@@ -51,6 +53,8 @@ Format: -[Program name](name of the file)
 
 -[PostOrder Traversal of Tree](postOrderTree.cpp)
 
+-[PreOrder Traversal of Tree](Preorder_traversal_tree.cpp)
+
 -[Remove Nth node of Linked List](Remove_Nth_node_of_Linked_List.cpp)
 
 -[Prime Factors in LogN time](prime-factors.cpp)
@@ -66,6 +70,8 @@ Format: -[Program name](name of the file)
 -[Stack - Array Implementation](stackByArray.cpp)
 
 -[Stack - Linked List Implementation](stackByLinkedList.cpp)
+
+-[Sudoku Solver](SudokuSolver.cpp)
 
 -[Tarjan's Algorithm for finding Articulation Points in a graph](tarjanArticulationPoint.cpp)
 
@@ -86,3 +92,5 @@ Format: -[Program name](name of the file)
 -[Bucket Sort](Bucketsort.cpp)
 
 -[First Come First Scheduling](firstcomefirstscheduling.cpp)
+
+-[Interpolation Search](interpolation_search.cpp)

@@ -51,6 +51,8 @@ Format: -[Program name](name of the file)
 
 -[Longest length path in a matrix](longest_length_path.java)
 
+-[Maximum Possible Number with Given Digits](MaxNumber.java)
+
 -[Merge Sort Java](MergeSort.java)
 
 -[Nth term of ap](nth_term_of_ap.java)
@@ -79,6 +81,10 @@ Format: -[Program name](name of the file)
 
 -[Singly Linked List](SList.java)
 
+-[Seive Of Eratosthenes](SeiveOfEratosthenes.java)
+
+-[Tarjan Algorithm](tarjan.java)
+
 -[Tower of Hanoi](tower-of-hanoi.java)
 
 -[Implement quick sort](quick_sort.java)
@@ -88,3 +94,5 @@ Format: -[Program name](name of the file)
 -[Queue](Queue.java)
 
 -[Stack](Stack.java)
+
+-[Z Function](z_function.java)
