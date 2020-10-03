@@ -46,6 +46,9 @@ int main(){
 /*
 Consider an example of a thief who wants to steal jewelry from a jewelry shop but he has a constraint with the bag he carries which can only 
 hold some specific weight. Help him picking up the jewelry such that he gets maximum profit without violating the bag's constraint.
+
+Time complexity : O(n*W)
+space compexity : O(n*W)
 For example-
 
 Input-
