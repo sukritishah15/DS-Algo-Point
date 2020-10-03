@@ -44,4 +44,7 @@ I/O =>
 Enter value of 'n'(integer):
 4
 Sum till nth term:7
+
+Time complexity: O(n)
+Space complexity: O(1)
 */
