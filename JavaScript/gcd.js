@@ -9,5 +9,6 @@ function gcd_two_numbers(x, y) {
   
 }
   console.log(gcd_two_numbers(2, 10));
- 
-
+/* 
+time complexity O(log(min(x,y))) ; space complexity O(1);  
+*/
