@@ -27,7 +27,11 @@ Format: -[Program name](name of the file)
 
 -[Doubly Linked List](Doubly_Linked_List.py)
 
+-[Find an element in a sorted matrix](find_element_in_sorted_matrix.py)
+
 -[Heap Sort](Heap_sort.py)
+
+-[Kadane's Algorithm](kadane_algorithm.py)
 
 -[Linear Search](Linear_Search.py)
 
@@ -54,7 +58,3 @@ Format: -[Program name](name of the file)
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
 
 -[Stack](stack.py)
-
--[Find an element in a sorted matrix](find_element_in_sorted_matrix.py)
-
--[Kadane's Algorithm](kadane_algorithm.py)
