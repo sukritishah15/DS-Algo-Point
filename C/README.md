@@ -46,8 +46,6 @@ Format:
 
 -[Nth Term of GP](NthTermGP.c)
 
--[Pancake Sorting](pancakeSort.c)
-
 -[Postorder Tree Traversal](postorder.c)
 
 -[Prime Factors using seive of eratosthenes](primefactors.c)
