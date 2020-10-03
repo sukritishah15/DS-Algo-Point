@@ -46,7 +46,7 @@
 
 <br/>
 
-## [Steps to create a PR](STEPS_FOR_PR.md)
+## Don't know how to create a PR? Refer this: [Steps to create a PR](STEPS_FOR_PR.md)
 
 
 ## Maintainers for this project 
