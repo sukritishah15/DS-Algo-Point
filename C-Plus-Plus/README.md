@@ -23,9 +23,15 @@ Format: -[Program name](name of the file)
 
 -[Find nth term in an G.P](nth-term-gp.cpp)
 
--[Find the middle element in a linked list] (middle_element_of_linkedlist.cpp)
+-[Find the middle element in a linked list](middle_element_of_linkedlist.cpp)
+
+-[Greatest common divisor](GCD.cpp)
 
 -[Heap Sort](heap_sort.cpp)
+
+-[Height of a Binary Tree](height_of_binary_tree.cpp)
+
+-[Implement Merge Sort](MergeSort.cpp)
 
 -[Infix To Postfix](infixToPostStack.cpp)
 
@@ -33,13 +39,27 @@ Format: -[Program name](name of the file)
 
 -[Kosaraju's Algorithm](kosarajualgo.cpp)
 
+-[Knapsack Problem](knapsack.cpp)
+
+-[Longest length path in a matrix](longest length path in a matrix.cpp)
+
+-[Largest Number](largest_number.cpp)
+
 -[Linear Search](linear_search.cpp)
 
 -[Longest Common Subsequence](longest_common_subseq.cpp)
 
 -[Minimum number of denominations using Greedy algo approach](MinDenominations_GreedyAlgo.cpp)
 
+-[Mathematical Series Demo](maths-series.cpp)
+
+-[Pancake Sorting](Pancake_sort.cpp)
+
 -[Postfix expression evaluation](evalPostfixStack.cpp)
+
+-[PostOrder Traversal of Tree](postOrderTree.cpp)
+
+-[PreOrder Traversal of Tree](Preorder_traversal_tree.cpp)
 
 -[Remove Nth node of Linked List](Remove_Nth_node_of_Linked_List.cpp)
 
@@ -49,6 +69,8 @@ Format: -[Program name](name of the file)
 
 -[Search an element in a sorted matrix](Search_Sorted_Matrix.cpp)
 
+-[Search repeating elements](search_repeating.cpp)
+
 -[Selection Sort](selection_sort.cpp)
 
 -[Sieve of Eratosthenes](sieve_of_eratosthenes.cpp)
@@ -56,6 +78,10 @@ Format: -[Program name](name of the file)
 -[Stack - Array Implementation](stackByArray.cpp)
 
 -[Stack - Linked List Implementation](stackByLinkedList.cpp)
+
+-[Sudoku Solver](SudokuSolver.cpp)
+
+-[Tarjan's Algorithm for finding Articulation Points in a graph](tarjanArticulationPoint.cpp)
 
 -[Ternary Search](ternary_search.cpp)
 
@@ -67,7 +93,12 @@ Format: -[Program name](name of the file)
 
 -[Quick Sort on Doubly Linked List](quickSort_DoublyLinkedList.cpp)
 
+-[Knuth Moris Pattern Matching(KMP Algorithm)](KMP_algorithm.cpp)
+
 -[Check if number is automorphic](automorphic.cpp)
 
 -[Bucket Sort](Bucketsort.cpp)
 
+-[First Come First Scheduling](firstcomefirstscheduling.cpp)
+
+-[Interpolation Search](interpolation_search.cpp)

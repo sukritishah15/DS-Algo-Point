@@ -3,6 +3,8 @@ Format: -[Program name](name of the file)
 
 -[0/1 Knapsack Problem using Dynamic Programming approach](Knapsack_DP.py)
 
+-[Arithmetic Progression](arithmetic.py)
+
 -[Automorphic Number](automorphic.py)
 
 -[Balanced Parentheses](balanced_parentheses.py)
@@ -27,13 +29,31 @@ Format: -[Program name](name of the file)
 
 -[Doubly Linked List](Doubly_Linked_List.py)
 
+-[Fibonacci Series](Fibonacci.py)
+
+-[First Come First Scheduling](fcfs.py)
+
+-[Geometric Progression](geometric.py)
+
+-[Harmonic Series](harmonic.py)
+
+-[KMP Pattern matching algorithm](KMP Algorithm in Python.py)
+
+-[Find an element in a sorted matrix](find_element_in_sorted_matrix.py)
+
+-[Greatest Common divisor](gcd.py)
+
 -[Heap Sort](Heap_sort.py)
+
+-[Interpolation Search](Interpolation_Search.py)
 
 -[Linear Search](Linear_Search.py)
 
 -[Longest Common Subsequence](lcs.py)
 
 -[Longest length path in a matrix](LongestPath_Matrix.py)
+
+-[Maximum number formed from given digits](maximum.py)
 
 -[Merge Sort](mergeSort.py)
 
@@ -45,11 +65,15 @@ Format: -[Program name](name of the file)
 
 -[Queue](Queue.py)
 
+-[PreOrder Tree Traversal](preorder.py)
+
 -[Radix Sort](radixsort.py)
 
 -[Remove_nth_node_from_linkedlist](remove_nth_node_from_linkedlist.py)
 
 -[Selection Sort](selectionsort.py)
+
+-[Shell Sort](shell_sort.py)
 
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
 
@@ -57,6 +81,12 @@ Format: -[Program name](name of the file)
 
 -[Search Repeating elements using Map/Hashmap](Repeating_Element_Hashmap.py)
 
+-[Timsort Algorithm](Tim sort Algorithm in Python.py)
+
+-[Ternary search](ternary_search.py)
+
 -[Find an element in a sorted matrix](find_element_in_sorted_matrix.py)
 
 -[Kadane's Algorithm](kadane_algorithm.py)
+
+-[Dutch National Flag Problem](dutchflagproblem.py)
