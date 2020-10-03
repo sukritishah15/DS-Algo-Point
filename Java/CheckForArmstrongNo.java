@@ -4,7 +4,7 @@ public class CheckForArmstrongNo {
 
     public static void main(String[] args) {
 
-        /* Check whether a given number is armstring is not */
+        /* Check whether a given number is armstring or not */
 
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt();
