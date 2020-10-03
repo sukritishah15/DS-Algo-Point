@@ -23,6 +23,9 @@
     Explanation:
     There are two strongly connected components in the sample input graph
     First one consists of (1,2,3) and the second contains (4).
+
+    Time Complexity :- O(|E| + |V|) where |E| is number of edges and |V| is number of vertices
+    Space Complexity :- O(|V|) where |V| is the number of vertices.
 */
 
 
