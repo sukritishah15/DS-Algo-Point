@@ -3,6 +3,8 @@ Format: -[Program name](name of the file)
 
 -[Height of Binary Tree](HeightOfBinaryTree.java)
 
+-[AVL Tree Implementation](AVL_Tree_Implementation.java)
+
 -[Binary Search Tree Implementation](ImplementingBST.java)
 
 -[Binary Search](binarySearch.java)
