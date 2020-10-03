@@ -39,6 +39,8 @@ Format: -[Program name](name of the file)
 
 -[Kosaraju's Algorithm](kosarajualgo.cpp)
 
+-[Knapsack Problem](knapsack.cpp)
+
 -[Largest Number](largest_number.cpp)
 
 -[Linear Search](linear_search.cpp)
