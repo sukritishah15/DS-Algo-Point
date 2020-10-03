@@ -64,6 +64,8 @@ Format:
 
 -[Singly Linked List](SinglyLL.c)
 
+-[Sum of Fibonacci Series](sumofFibonacciSeries.c)
+
 -[Tower of Hanoi](tower_of_hanoi.c)
 
 -[Ternary Search](Ternary Search in C.c)
