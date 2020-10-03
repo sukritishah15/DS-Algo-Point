@@ -14,6 +14,10 @@ def find_repeating(intial_dict):
             reverse[v].append(k) # Append duplicate key to 
     print(reverse)
 
+'''
+# Sample input. Uncomment to test. 
 
 initial_dict = {1: "One", 2: "Two", 3: "Three", 4: "One"}
-find_repeating(initial_dict)
+find_repeating(initial_dict) # Output:  {'One': [1, 4], 'Two': [2], 'Three': [3]}
+
+'''
