@@ -9,6 +9,8 @@ Format: -[Program name](name of the file)
 
 -[Binary Search](binarySearch.java)
 
+-[BODMAS_Eval](BODMAS_Eval.java)
+
 -[Bubble Sort](bubble.java)
 
 -[Check whether a number is Neon or not](neonNumber.java)
