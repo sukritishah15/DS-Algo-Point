@@ -71,7 +71,7 @@ if __name__ =="__main__":
   
     findavgTime(processes, n, burst_time) 
     
-    /*
+    '''
     
     Time complexity O(N) and Space Complexity O(1)
     Input :Taken in the code
@@ -83,4 +83,4 @@ if __name__ =="__main__":
     Average waiting time = 8.33333
     Average turn around time = 16
     
-    */
+    '''
