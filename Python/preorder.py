@@ -28,7 +28,7 @@ root.left.left  = Node(4)
 root.left.right  = Node(5) 
 print "Preorder traversal of binary tree is"
 printPreorder(root) 
-  /*
+  '''
   
   
   Time Complexity - O(N)
@@ -38,4 +38,4 @@ printPreorder(root)
   Output -Prerder traversal of binary tree is
           1 2 4 5 3
   
-  */
+  '''
