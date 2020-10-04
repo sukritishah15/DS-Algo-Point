@@ -65,6 +65,8 @@ Format: -[Program name](name of the file)
 
 -[Nth Term of GP](nth_term_of_gp.py)
 
+-[Pancake Sort](PancakeSort.py)
+
 -[Queue](Queue.py)
 
 -[PreOrder Tree Traversal](preorder.py)
