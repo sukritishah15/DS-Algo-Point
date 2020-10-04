@@ -1,126 +1,128 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
--[Balanced Parentheses](balance_paranthesis.cpp)
+- [Balanced Parentheses](balance_paranthesis.cpp)
 
--[Binary Search](BinarySearch.cpp)
+- [Binary Search](BinarySearch.cpp)
 
--[Binary Search Tree Implementation](BinarySearchTree.cpp)
+- [Binary Search Tree Implementation](BinarySearchTree.cpp)
 
--[Bubble Sort Implementation](BubbleSort.cpp)
+- [Bubble Sort Implementation](BubbleSort.cpp)
 
--[Circular Doubly Linked List](Circular_Doubly_Linked_List.cpp)
+- [Circular Doubly Linked List](Circular_Doubly_Linked_List.cpp)
 
--[Circular Queue Implementation](Circular_Queue_Cpp.cpp)
+- [Circular Queue Implementation](Circular_Queue_Cpp.cpp)
 
--[Circular Singly Linked List](CircularSinglyLinkedList.cpp)
+- [Circular Singly Linked List](CircularSinglyLinkedList.cpp)
 
--[Check whether a number is an armstrong number](Check_Armstrong_Number.cpp)
+- [Check whether a number is an armstrong number](Check_Armstrong_Number.cpp)
 
--[Check Whether a Number is Neon or Not](NeonNumber.cpp)
+- [Check Whether a Number is Neon or Not](NeonNumber.cpp)
 
--[Coin change problem](coinchange.cpp)
+- [Coin change problem](coinchange.cpp)
 
--[Dijkstra's Algorithm](Dijkstra.cpp)
+- [Dijkstra's Algorithm](Dijkstra.cpp)
 
--[Find nth term in an A.P.](nth_term_ap.cpp)
+- [Find nth term in an A.P.](nth_term_ap.cpp)
 
--[Find nth term in an G.P](nth-term-gp.cpp)
+- [Find nth term in an G.P](nth-term-gp.cpp)
 
--[Find the middle element in a linked list](middle_element_of_linkedlist.cpp)
+- [Find the middle element in a linked list](middle_element_of_linkedlist.cpp)  
 
--[Floyd Warshall Algorithm](Floyd–Warshall.cpp)
+- [Finding Hamiltonian Cycles in a Graph](finding-hamiltonian-cycles.cpp)
 
--[FizzBuzz](fizz_buzz.cpp)
+- [Floyd Warshall Algorithm](Floyd–Warshall.cpp)
 
--[Greatest common divisor](GCD.cpp)
+- [FizzBuzz](fizz_buzz.cpp)
 
--[Heap Sort](heap_sort.cpp)
+- [Greatest common divisor](GCD.cpp)
 
--[Height of a Binary Tree](height_of_binary_tree.cpp)
+- [Heap Sort](heap_sort.cpp)
 
--[Implement Merge Sort](MergeSort.cpp)
+- [Height of a Binary Tree](height_of_binary_tree.cpp)
 
--[Implementation of Queue](array_implementation_of_queue.cpp)
+- [Implement Merge Sort](MergeSort.cpp)
 
--[Infix To Postfix](infixToPostStack.cpp)
+- [Implementation of Queue](array_implementation_of_queue.cpp)
 
--[Kadane's Algorithm](KadaneAlgo.cpp)
+- [Infix To Postfix](infixToPostStack.cpp)
 
--[Kosaraju's Algorithm](kosarajualgo.cpp)
+- [Kadane's Algorithm](KadaneAlgo.cpp)
 
--[Knapsack Problem](knapsack.cpp)
+- [Kosaraju's Algorithm](kosarajualgo.cpp)
 
--[Longest length path in a matrix](longest length path in a matrix.cpp)
+- [Knapsack Problem](knapsack.cpp)
 
--[Largest Number](largest_number.cpp)
+- [Longest length path in a matrix](longest length path in a matrix.cpp)
 
--[Linear Search](linear_search.cpp)
+- [Largest Number](largest_number.cpp)
 
--[Longest Common Subsequence](longest_common_subseq.cpp)
+- [Linear Search](linear_search.cpp)
 
--[Minimum number of denominations using Greedy algo approach](MinDenominations_GreedyAlgo.cpp)
+- [Longest Common Subsequence](longest_common_subseq.cpp)
 
--[Mathematical Series Demo](maths-series.cpp)
+- [Minimum number of denominations using Greedy algo approach](MinDenominations_GreedyAlgo.cpp)
 
--[Mean Median](mean_median.cpp)
+- [Mathematical Series Demo](maths-series.cpp)
 
--[Pancake Sorting](Pancake_sort.cpp)
+- [Mean Median](mean_median.cpp)
 
--[Pigeonhole Sort](pigeon.cpp)
+- [Pancake Sorting](Pancake_sort.cpp)
 
--[Postfix expression evaluation](evalPostfixStack.cpp)
+- [Pigeonhole Sort](pigeon.cpp)
 
--[PostOrder Traversal of Tree](postOrderTree.cpp)
+- [Postfix expression evaluation](evalPostfixStack.cpp)
 
--[PreOrder Traversal of Tree](Preorder_traversal_tree.cpp)
+- [PostOrder Traversal of Tree](postOrderTree.cpp)
 
--[Remove Nth node of Linked List](Remove_Nth_node_of_Linked_List.cpp)
+- [PreOrder Traversal of Tree](Preorder_traversal_tree.cpp)
 
--[Prime Factors in LogN time](prime-factors.cpp)
+- [Remove Nth node of Linked List](Remove_Nth_node_of_Linked_List.cpp)
 
--[Radix Sort in C++](radix.cpp)
+- [Prime Factors in LogN time](prime-factors.cpp)
 
--[Search an element in a sorted matrix](Search_Sorted_Matrix.cpp)
+- [Radix Sort in C++](radix.cpp)
 
--[Search repeating elements](search_repeating.cpp)
+- [Search an element in a sorted matrix](Search_Sorted_Matrix.cpp)
 
--[Selection Sort](selection_sort.cpp)
+- [Search repeating elements](search_repeating.cpp)
 
--[Sieve of Eratosthenes](sieve_of_eratosthenes.cpp)
+- [Selection Sort](selection_sort.cpp)
 
--[Stack - Array Implementation](stackByArray.cpp)
+- [Sieve of Eratosthenes](sieve_of_eratosthenes.cpp)
 
--[Stack - Linked List Implementation](stackByLinkedList.cpp)
+- [Stack - Array Implementation](stackByArray.cpp)
 
--[Sudoku Solver](SudokuSolver.cpp)
+- [Stack - Linked List Implementation](stackByLinkedList.cpp)
 
--[Tarjan's Algorithm for finding Articulation Points in a graph](tarjanArticulationPoint.cpp)
+- [Sudoku Solver](SudokuSolver.cpp)
 
--[Ternary Search](ternary_search.cpp)
+- [Tarjan's Algorithm for finding Articulation Points in a graph](tarjanArticulationPoint.cpp)
 
--[Tower of Hanoi](TowerOfHanoi.cpp)
+- [Ternary Search](ternary_search.cpp)
 
--[Topological Sort using Kahn's Algorithm](kahn-algorithm.cpp)
+- [Tower of Hanoi](TowerOfHanoi.cpp)
 
--[Travelling Salesman Problem](TSP_Cpp.cpp)
+- [Topological Sort using Kahn's Algorithm](kahn-algorithm.cpp)
 
--[Shell Sort Algorithm](shell_sort.cpp)
+- [Travelling Salesman Problem](TSP_Cpp.cpp)
 
--[Quick Sort on Doubly Linked List](quickSort_DoublyLinkedList.cpp)
+- [Shell Sort Algorithm](shell_sort.cpp)
 
--[Knuth Moris Pattern Matching(KMP Algorithm)](KMP_algorithm.cpp)
+- [Quick Sort on Doubly Linked List](quickSort_DoublyLinkedList.cpp)
 
--[Check if number is automorphic](automorphic.cpp)
+- [Knuth Moris Pattern Matching(KMP Algorithm)](KMP_algorithm.cpp)
+ 
+- [Check if number is automorphic](automorphic.cpp)
 
--[Bucket Sort](Bucketsort.cpp)
+- [Bucket Sort](Bucketsort.cpp)
 
--[First Come First Scheduling](firstcomefirstscheduling.cpp)
+- [First Come First Scheduling](firstcomefirstscheduling.cpp)
 
--[Interpolation Search](interpolation_search.cpp)
+- [Interpolation Search](interpolation_search.cpp)
 
--[Bellman-Ford's algo](Bellman-Ford's_algorithm.cpp)
+- [Bellman-Ford's algo](Bellman-Ford's_algorithm.cpp)
 
--[Tim sort](Tim_Sort.cpp)
+- [Tim sort](Tim_Sort.cpp)
 
--[Manhattan Distance](manhattan_distance.cpp) 
+- [Manhattan Distance](manhattan_distance.cpp) 
