@@ -67,6 +67,8 @@ Format: -[Program name](name of the file)
 
 -[Queue](Queue.py)
 
+-[Quick Sort](Quick_sort.py)
+
 -[PreOrder Tree Traversal](preorder.py)
 
 -[Radix Sort](radixsort.py)
