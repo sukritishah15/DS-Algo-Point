@@ -64,6 +64,8 @@ Format:
 
 -[Singly Linked List](SinglyLL.c)
 
+-[Sum of Fibonacci Series](sumofFibonacciSeries.c)
+
 -[Tower of Hanoi](tower_of_hanoi.c)
 
 -[Ternary Search](Ternary Search in C.c)
@@ -75,3 +77,5 @@ Format:
 -[Stack Implementation](C_STACK.C)
 
 -[Bellman-Ford's algo](Bellman-Ford's_algorithm.c)
+
+-[FizzBuzz](fizzbuzz.c)

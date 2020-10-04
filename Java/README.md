@@ -9,6 +9,8 @@ Format: -[Program name](name of the file)
 
 -[Binary Search](binarySearch.java)
 
+-[BODMAS_Eval](BODMAS_Eval.java)
+
 -[Bubble Sort](bubble.java)
 
 -[Check whether a number is Neon or not](neonNumber.java)
@@ -47,6 +49,8 @@ Format: -[Program name](name of the file)
 
 -[KMP Pattern Matching Algorithm ](KMPpatternMatching.java)
 
+-[Kosaraju's Algorithm for Strongly Connected Components](Kosaraju.java)
+
 -[Linear Search](LinearSearch.java)
 
 -[Longest common sequence](Longest_common_subsequence.java)
@@ -60,6 +64,8 @@ Format: -[Program name](name of the file)
 -[Nth term of ap](nth_term_of_ap.java)
 
 -[Nth term of gp](nth_term_of_gp.java)
+
+-[Pancake Sorting](PancakeSort.java)
 
 -[Postorder Traversal of Tree](postorder.java)
 
@@ -94,6 +100,8 @@ Format: -[Program name](name of the file)
 -[Implement quick sort](quick_sort.java)
 
 -[Singly Linked List](SList.java)  
+
+-[Suduko Solver](sudokuSolver.java)
 
 -[Queue](Queue.java)
 
