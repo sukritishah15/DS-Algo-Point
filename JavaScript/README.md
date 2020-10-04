@@ -11,4 +11,6 @@ Format: -[Program name](name of the file)
 
 -[Trie](Trie.js)
 
+-[Bubble Sort](bubbleSort.js)
+
 
