@@ -19,6 +19,8 @@ Format: -[Program name](name of the file)
 
 -[Check Whether a Number is Neon or Not](NeonNumber.cpp)
 
+-[Coin change problem](coinchange.cpp)
+
 -[Dijkstra's Algorithm](Dijkstra.cpp)
 
 -[Find nth term in an A.P.](nth_term_ap.cpp)
@@ -62,6 +64,8 @@ Format: -[Program name](name of the file)
 -[Mathematical Series Demo](maths-series.cpp)
 
 -[Pancake Sorting](Pancake_sort.cpp)
+
+-[Pigeonhole Sort](pigeon.cpp)
 
 -[Postfix expression evaluation](evalPostfixStack.cpp)
 
@@ -116,3 +120,5 @@ Format: -[Program name](name of the file)
 -[Bellman-Ford's algo](Bellman-Ford's_algorithm.cpp)
 
 -[Tim sort](Tim_Sort.cpp)
+
+-[Manhattan Distance](manhattan_distance.cpp) 
