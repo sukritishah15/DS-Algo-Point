@@ -6,7 +6,7 @@ Format:
 
 -[Circular Queue](CircularQueue.py)
 
--[Linked List](find_mid_element_in_linked_list.py)
+-[Mid Element In Linked List](find_mid_element_in_linked_list.py)
 
 -[Neon Numbers](neon_numbers.py)
 
