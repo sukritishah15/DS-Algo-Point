@@ -55,9 +55,13 @@ Format: -[Program name](name of the file)
 
 -[Longest length path in a matrix](LongestPath_Matrix.py)
 
+-[Manhattan Distance](manhattan.py)
+
 -[Maximum number formed from given digits](maximum.py)
 
 -[Merge Sort](mergeSort.py)
+
+-[Mid Element In Linked List](find_mid_element_in_linked_list.py)
 
 -[Neon Numbers](neon_numbers.py)
 
@@ -65,7 +69,12 @@ Format: -[Program name](name of the file)
 
 -[Nth Term of GP](nth_term_of_gp.py)
 
+-[Pancake Sort](PancakeSort.py)
+
 -[Queue](Queue.py)
+
+
+-[QuickSort](quicksort.py)
 
 -[PreOrder Tree Traversal](preorder.py)
 
@@ -76,6 +85,7 @@ Format: -[Program name](name of the file)
 -[Selection Sort](selectionsort.py)
 
 -[Shell Sort](shell_sort.py)
+
 
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
 
