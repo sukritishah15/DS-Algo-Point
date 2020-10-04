@@ -50,6 +50,8 @@ Format:
 
 -[Postorder Tree Traversal](postorder.c)
 
+-[Powerset of the given set](powerset.c)
+
 -[Prime Factors using seive of eratosthenes](primefactors.c)
 
 -[Quick Sort](Quick_Sort.c)
