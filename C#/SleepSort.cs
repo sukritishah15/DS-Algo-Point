@@ -26,7 +26,9 @@ class Program
     }
 }
 
-// for input 11,6,2,90,23
-//output is 2 6 11 23 90
-//as input is dynamic so time complexity for can be different
-//Complexity for the sleepSort method : O(NlogN + max(input))
+/* for input 11,6,2,90,23
+ * Output is 2 6 11 23 90
+ * As input is dynamic so  complexity for can be different
+ * Complexity for the sleepSort method : O(NlogN + max(input))
+ * Space complexity and time complexity both  are calculated as the function of input size(n).
+ */
