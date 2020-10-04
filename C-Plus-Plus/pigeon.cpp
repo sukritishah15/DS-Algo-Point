@@ -27,10 +27,6 @@ void pigeonhole_sort(int arr[], int n)
   
 int main() 
 { 
-	#ifndef ONLINE_JUDGE
-    freopen("input.txt.txt","r",stdin);
-    freopen("output.txt.txt","w",stdout);
-#endif
     int n ; cin >> n ; 
     int a[n] ; 
     for(int i = 0 ; i < n ; i ++) cin >> a[i] ; 
@@ -49,7 +45,9 @@ input example:
 Output:
 1 2 3 4 5
 
-Overall time complexity = O(n) ; Overall Space complexity = O(1) */
+
+Length of the range of possible key values = N; number of elements in the array =n;
+Overall time complexity = O(n+N) ; Overall Space complexity = O(N) */
 
 
 
