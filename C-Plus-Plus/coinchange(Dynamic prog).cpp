@@ -41,3 +41,7 @@ int main()
     cout<<b[n][sum];
 }
 
+/* Sample input:  4 3
+                  1 2 3
+   Sample output: 4
+ */
