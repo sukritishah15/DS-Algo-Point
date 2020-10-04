@@ -1,21 +1,14 @@
 #include <stdio.h> 
 #include <stdlib.h> 
-
-/* A binary tree node has data, pointer to left child 
-   and a pointer to right child */
 struct node 
 { 
      int data; 
      struct node* left; 
      struct node* right; 
 }; 
-
-/* Helper function that allocates a new node with the 
-   given data and NULL left and right pointers. */
 struct node* newNode(int data) 
 { 
-     struct node* node = (struct node*) 
-                                  malloc(sizeof(struct node)); 
+     struct node* node = (struct node*) malloc(sizeof(struct node)); 
      node->data = data; 
      node->left = NULL; 
      node->right = NULL; 
@@ -23,7 +16,6 @@ struct node* newNode(int data)
      return(node); 
 } 
 
-/* Given a binary tree, print its nodes in preorder*/
 void printPreorder(struct node* node) 
 { 
      if (node == NULL) 
@@ -32,21 +24,18 @@ void printPreorder(struct node* node)
      /* first print data of node */
      printf("%d ", node->data);   
 
-     /* then recur on left sutree */
      printPreorder(node->left);   
 
-     /* now recur on right subtree */
      printPreorder(node->right); 
 }     
 
-/* Driver program to test above functions*/
 int main() 
 { 
-     struct node *root  = newNode(1); 
-     root->left             = newNode(2); 
-     root->right           = newNode(3); 
-     root->left->left     = newNode(4); 
-     root->left->right   = newNode(5);  
+     struct node *root  = newNode(5); 
+     root->left             = newNode(6); 
+     root->right           = newNode(7); 
+     root->left->left     = newNode(8); 
+     root->left->right   = newNode(9);  
 
      printf("\nPreorder traversal of binary tree is \n"); 
      printPreorder(root); 
@@ -60,5 +49,5 @@ int main()
   
   Input - Taken in the Code .
   Output -Prerder traversal of binary tree is
-          1 2 4 5 3
+          5 6 8 9 7
 */
