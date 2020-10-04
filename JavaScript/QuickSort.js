@@ -41,6 +41,7 @@ function quickSort(items, left, right) {
 var sortedArray = quickSort(items, 0, items.length - 1);
 console.log(sortedArray); 
 
-//Input : 5 3 7 6 2 9
-//OutPut: 2 3 5 6 7 9
-//Time: O(nlogn)
+/*Input : 5 3 7 6 2 9
+OutPut: 2 3 5 6 7 9
+Time: O(nlogn)
+Space: O(n)*/
