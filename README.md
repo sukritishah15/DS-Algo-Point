@@ -4,13 +4,13 @@
 
 ## Overview
 
-- The goal of this project is to have codes for various data structures and algorithms - in C, C++, Java and Python.
+- The goal of this project is to have codes for various data structures and algorithms - in C, C++, Java, Python, C#, Go, JavaScript and PHP.
 - Feel free to contribute in any way you want.
 - Make sure to follow the contribution guidelines listed below.
 
 ## Content
 
-- We currently have 4 folders for 4 programming languages - C, C++, Java, Python.
+- We currently have 4 folders for 8 programming languages - C, C++, Java, Python, C#, Go, JavaScript and PHP.
 - **Do not create folders in your submissions, unless specifically told to do so.**
 
 <br/>
@@ -31,6 +31,8 @@
 
 <br/>
 
+## Don't know how to create a PR? Refer this: [Steps to create a PR](STEPS_FOR_PR.md)
+
 ## Maintainers for this project
 
 - Sukriti Shah - @sukritishah15
@@ -47,12 +49,15 @@
 - Sunil - @sunilgknair051
 - Muskan Gupta - @muskangupta19
 - Priyal - @priyal2806
+- Mahima Goyal - @mahimagoyalx
+- Paul Evans - @PaulEvans8669
 
 <br/>
 
 <div align="center">
   <h1>In association with</h1>
   <h3>ACM-W MUST STUDENT CHAPTER</h3>
+  <img src="img/ACM_MUST_Logo.png"/>
 </div>
 
 ## License

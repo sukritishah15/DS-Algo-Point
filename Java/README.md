@@ -1,6 +1,8 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
+-[The Dutch National Flag Problem](TheDutchNationalFlag.java)
+
 -[Height of Binary Tree](HeightOfBinaryTree.java)
 
 -[Binary Search Tree Implementation](ImplementingBST.java)
@@ -45,11 +47,15 @@ Format: -[Program name](name of the file)
 
 -[KMP Pattern Matching Algorithm ](KMPpatternMatching.java)
 
+-[Kosaraju's Algorithm for Strongly Connected Components](Kosaraju.java)
+
 -[Linear Search](LinearSearch.java)
 
 -[Longest common sequence](Longest_common_subsequence.java)
 
 -[Longest length path in a matrix](longest_length_path.java)
+
+-[Maximum Possible Number with Given Digits](MaxNumber.java)
 
 -[Merge Sort Java](MergeSort.java)
 
@@ -79,12 +85,24 @@ Format: -[Program name](name of the file)
 
 -[Singly Linked List](SList.java)
 
+-[Seive Of Eratosthenes](SeiveOfEratosthenes.java)
+
+-[Tarjan Algorithm](tarjan.java)
+
 -[Tower of Hanoi](tower-of-hanoi.java)
+
+-[Travelling salesman problem](tsp.java)  
 
 -[Implement quick sort](quick_sort.java)
 
 -[Singly Linked List](SList.java)  
 
+-[Suduko Solver](sudokuSolver.java)
+
 -[Queue](Queue.java)
 
 -[Stack](Stack.java)
+
+-[Z Function](z_function.java)
+
+-[Sleep Sort](SleepSort.java)

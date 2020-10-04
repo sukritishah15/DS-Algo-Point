@@ -31,15 +31,23 @@ Format: -[Program name](name of the file)
 
 -[Fibonacci Series](Fibonacci.py)
 
+-[First Come First Scheduling](fcfs.py)
+
+-[FizzBuzz Problem](FizzBuzz.py)
+
 -[Geometric Progression](geometric.py)
 
 -[Harmonic Series](harmonic.py)
+
+-[KMP Pattern matching algorithm](KMP Algorithm in Python.py)
 
 -[Find an element in a sorted matrix](find_element_in_sorted_matrix.py)
 
 -[Greatest Common divisor](gcd.py)
 
 -[Heap Sort](Heap_sort.py)
+
+-[Interpolation Search](Interpolation_Search.py)
 
 -[Linear Search](Linear_Search.py)
 
@@ -59,6 +67,8 @@ Format: -[Program name](name of the file)
 
 -[Queue](Queue.py)
 
+-[PreOrder Tree Traversal](preorder.py)
+
 -[Radix Sort](radixsort.py)
 
 -[Remove_nth_node_from_linkedlist](remove_nth_node_from_linkedlist.py)
@@ -71,9 +81,20 @@ Format: -[Program name](name of the file)
 
 -[Stack](stack.py)
 
+-[Timsort Algorithm](Tim sort Algorithm in Python.py)
+
 -[Ternary search](ternary_search.py)
 
 -[Find an element in a sorted matrix](find_element_in_sorted_matrix.py)
 
 -[Kadane's Algorithm](kadane_algorithm.py)
 
+-[Dutch National Flag Problem](dutchflagproblem.py)
+
+
+-[Floyd Warshall Algorithm](Floyd_Warshall_Algorithm.py)
+
+-[Pigeonhole sort](Pigeonhole_Sort.py)
+
+
+-[Tower of hanoi](tower_of_hanoi.py)
