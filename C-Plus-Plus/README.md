@@ -25,6 +25,8 @@ Format: -[Program name](name of the file)
 
 -[Find the middle element in a linked list](middle_element_of_linkedlist.cpp)
 
+-[Floyd Warshall Algorithm](Floyd–Warshall.cpp)
+
 -[FizzBuzz](fizz_buzz.cpp)
 
 -[Greatest common divisor](GCD.cpp)
@@ -34,6 +36,8 @@ Format: -[Program name](name of the file)
 -[Height of a Binary Tree](height_of_binary_tree.cpp)
 
 -[Implement Merge Sort](MergeSort.cpp)
+
+-[Implementation of Queue](array_implementation_of_queue.cpp)
 
 -[Infix To Postfix](infixToPostStack.cpp)
 
@@ -106,4 +110,7 @@ Format: -[Program name](name of the file)
 -[First Come First Scheduling](firstcomefirstscheduling.cpp)
 
 -[Interpolation Search](interpolation_search.cpp)
+
+
+-[Tim sort](Tim_Sort.cpp)
 

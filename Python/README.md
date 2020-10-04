@@ -33,6 +33,8 @@ Format: -[Program name](name of the file)
 
 -[First Come First Scheduling](fcfs.py)
 
+-[FizzBuzz Problem](FizzBuzz.py)
+
 -[Geometric Progression](geometric.py)
 
 -[Harmonic Series](harmonic.py)
@@ -89,3 +91,10 @@ Format: -[Program name](name of the file)
 
 -[Dutch National Flag Problem](dutchflagproblem.py)
 
+
+-[Floyd Warshall Algorithm](Floyd_Warshall_Algorithm.py)
+
+-[Pigeonhole sort](Pigeonhole_Sort.py)
+
+
+-[Tower of hanoi](tower_of_hanoi.py)
