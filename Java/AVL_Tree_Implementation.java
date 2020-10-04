@@ -157,20 +157,38 @@ class AVL_Tree_Implementation {
         AVL_Tree_Implementation tree = new AVL_Tree_Implementation();
         System.out.println("Enter the number of nodes you want to enter.");
         int numOfNodes = sc.nextInt();
-
         System.out.println("Enter the individual nodes separated by spaces.");
         for(int i=0; i < numOfNodes;i++ ){
             int key = sc.nextInt();
             tree.root = tree.insert(tree.root, key);
         }
-		System.out.println("Preorder traversal of constructed tree is : ");
+	System.out.println("Preorder traversal of constructed tree is : ");
         tree.preOrder(tree.root);
+	System.out.println("");
         System.out.println("Enter the node to be deleted : ");
         int delKey = sc.nextInt();
-		tree.root = tree.deleteNode(tree.root, delKey);
-		System.out.println("");
-		System.out.println("Preorder traversal after deletion of 10 :");
+	tree.root = tree.deleteNode(tree.root, delKey);
+	System.out.println("");
+	System.out.println("Preorder traversal after deletion of 10 :");
         tree.preOrder(tree.root);
         sc.close();
 	}
 }
+
+/*
+Sample Input Output - 
+Enter the number of nodes you want to enter.
+12
+
+Enter the individual nodes separated by spaces.
+9 8 7 6 4 2 3 17 19 22 23 13
+
+Preorder traversal of constructed tree is : 
+8 6 3 2 4 7 17 9 13 22 19 23 
+
+Enter the node to be deleted : 
+13
+
+Preorder traversal after deletion of 10 :
+8 6 3 2 4 7 17 9 22 19 23
+*/
