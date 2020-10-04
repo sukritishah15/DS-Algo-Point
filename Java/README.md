@@ -1,6 +1,8 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
+-[The Dutch National Flag Problem](TheDutchNationalFlag.java)
+
 -[Height of Binary Tree](HeightOfBinaryTree.java)
 
 -[Binary Search Tree Implementation](ImplementingBST.java)
@@ -44,6 +46,8 @@ Format: -[Program name](name of the file)
 -[Kadane's Algorithm](kadane_algorithm.java)
 
 -[KMP Pattern Matching Algorithm ](KMPpatternMatching.java)
+
+-[Kosaraju's Algorithm for Strongly Connected Components](Kosaraju.java)
 
 -[Linear Search](LinearSearch.java)
 
@@ -92,6 +96,8 @@ Format: -[Program name](name of the file)
 -[Implement quick sort](quick_sort.java)
 
 -[Singly Linked List](SList.java)  
+
+-[Suduko Solver](sudokuSolver.java)
 
 -[Queue](Queue.java)
 
