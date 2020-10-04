@@ -97,7 +97,9 @@ Format: -[Program name](name of the file)
 
 -[Tower of Hanoi](tower-of-hanoi.java)
 
--[Travelling salesman problem](tsp.java)  
+-[Travelling salesman problem](tsp.java) 
+
+-[Twin Prime](Twin_Prime.java)
 
 -[Two Pointer Algorithm](TwoPointerAlgo.java)
 
