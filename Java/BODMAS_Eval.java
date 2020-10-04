@@ -8,6 +8,8 @@
 	        String exp2="log50+tan15";
 	        System.out.println(gunnercal(exp2));
 		//Contributed by Ajiri Gunn
+                //Sample input: gunnercal("2+3(cos(35+5^2)+log10)")
+                //Sample output: "6.5"
 		//Time complexity O(n):linear
 		//Space complexity O(n):linear
 	    }
