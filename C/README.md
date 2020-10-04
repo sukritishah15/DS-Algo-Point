@@ -48,6 +48,8 @@ Format:
 
 -[Nth Term of GP](NthTermGP.c)
 
+-[N Queens](nQueens.c)
+
 -[Postorder Tree Traversal](postorder.c)
 
 -[Prime Factors using seive of eratosthenes](primefactors.c)
