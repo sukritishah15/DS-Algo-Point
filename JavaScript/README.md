@@ -13,6 +13,8 @@ Format: -[Program name](name of the file)
 
 -[Pancake Sorting](pancakeSorting.js)
 
+-[Sieve of Eratosthenes](Sieve.js)
+
 -[Trie](Trie.js)
 
 
