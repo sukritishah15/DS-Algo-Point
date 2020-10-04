@@ -5,13 +5,13 @@
 
 ## Overview
 
-- The goal of this project is to have codes for various data structures and algorithms - in C, C++, Java, Python, C#, Go, JavaScript and PHP. 
+- The goal of this project is to have codes for various data structures and algorithms - in C, C++, Java, Python, C#, Go, JavaScript, PHP, Kotlin and Scala. 
 - Feel free to contribute in any way you want.
 - Make sure to follow the contribution guidelines listed below.
 
 ## Content
 
-- We currently have 4 folders for 8 programming languages - C, C++, Java, Python, C#, Go, JavaScript and PHP.
+- We currently have 10 folders for 10 programming languages - C, C++, Java, Python, C#, Go, JavaScript, PHP, Kotlin and Scala.
 - **Do not create folders in your submissions, unless specifically told to do so.**
 
 <br/>
@@ -65,7 +65,12 @@
 - Muskan Gupta - @muskangupta19
 - Priyal - @priyal2806
 - Mahima Goyal - @mahimagoyalx
+
 - Paul Evans - @PaulEvans8669
+=======
+- Arnav Roy - @arnav-roy
+- Wallace Costa - @wallacecosta
+
 <br/>
 
 <div align="center">

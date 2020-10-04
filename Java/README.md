@@ -65,6 +65,8 @@ Format: -[Program name](name of the file)
 
 -[Nth term of gp](nth_term_of_gp.java)
 
+-[Pancake Sorting](PancakeSort.java)
+
 -[Postorder Traversal of Tree](postorder.java)
 
 -[Preorder Tree Traveral](preorder.java)
@@ -110,3 +112,5 @@ Format: -[Program name](name of the file)
 -[Z Function](z_function.java)
 
 -[Sleep Sort](SleepSort.java)
+
+-[Bellman-Ford's algo](Bellman-Ford's_algorithm.java)
