@@ -14,7 +14,7 @@ Output:
 0 1 0 0 
 0 1 1 1 
 
- * Time complexity: O(n*n*2^n);
+ * Time complexity: O(2^n*n);
  * Space Complexity: O(n*n);
  * 
  */
