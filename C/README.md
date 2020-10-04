@@ -74,6 +74,8 @@ Format:
 
 -[Sum of Fibonacci Series](sumofFibonacciSeries.c)
 
+-[Twin Prime Numbers](twinPrime.C)
+
 -[Tower of Hanoi](tower_of_hanoi.c)
 
 -[Ternary Search](Ternary Search in C.c)
