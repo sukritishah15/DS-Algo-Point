@@ -37,5 +37,5 @@ Input: 1 4 4 1
 Output: 6
 
 Time complexity: O(1)
-Space complexiity: O(5)
+Space complexiity: O(1)
 */
