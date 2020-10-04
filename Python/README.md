@@ -101,10 +101,10 @@ Format: -[Program name](name of the file)
 
 -[Dutch National Flag Problem](dutchflagproblem.py)
 
+-[Bellman-Ford's algo](Bellman-Ford's_algorithm.py)
 
 -[Floyd Warshall Algorithm](Floyd_Warshall_Algorithm.py)
 
 -[Pigeonhole sort](Pigeonhole_Sort.py)
-
 
 -[Tower of hanoi](tower_of_hanoi.py)
