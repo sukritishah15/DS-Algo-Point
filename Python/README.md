@@ -79,6 +79,8 @@ Format: -[Program name](name of the file)
 
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
 
+-[Sudoku solver](soduko solver.py)
+
 -[Stack](stack.py)
 
 -[Timsort Algorithm](Tim sort Algorithm in Python.py)
