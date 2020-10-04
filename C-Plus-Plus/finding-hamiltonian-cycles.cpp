@@ -73,3 +73,42 @@ int main(){
     cout << result.size() <<" hamiltonian cycles found in the graph!!"; 
     return 0;
 }
+
+/*
+
+TIME COMPLEXITY: For each of the N vertices you have another N-1 vertices to explore, which can lead to possible cycles.
+
+Hence Time Complexity = O(N!)
+
+INPUT
+
+7
+0 1 0 1 1 0 0
+1 0 1 1 1 1 1
+0 1 0 1 0 0 1
+1 1 1 0 0 0 0
+1 1 0 0 0 1 1
+0 1 0 0 1 0 1
+0 1 1 0 1 1 0
+
+OUTPUT
+
+0 1 3 2 6 5 4 0
+0 1 4 5 6 2 3 0
+0 1 5 4 6 2 3 0
+0 3 1 2 6 5 4 0
+0 3 2 1 5 6 4 0
+0 3 2 1 6 5 4 0
+0 3 2 6 1 5 4 0
+0 3 2 6 4 5 1 0
+0 3 2 6 5 1 4 0
+0 3 2 6 5 4 1 0
+0 4 1 5 6 2 3 0
+0 4 5 1 6 2 3 0
+0 4 5 6 1 2 3 0
+0 4 5 6 2 1 3 0
+0 4 5 6 2 3 1 0
+0 4 6 5 1 2 3 0
+16 hamiltonian cycles found in the graph!!
+
+*/
