@@ -3,6 +3,8 @@
 Topic : Mean and Median Calculation
 Language : C
 *
+Worst Case Time Complexity : O(n^2)
+Space Complexity : O(n)
 */
 
 #include<stdio.h>
