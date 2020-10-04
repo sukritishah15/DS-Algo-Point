@@ -218,4 +218,6 @@ Enter your choice:1
 List is Empty!
 
 Time complexity:O(n)
+Space complexiy:O(1)
+
 */
