@@ -16,6 +16,8 @@ Format:
 
 -[Circular Singly Linked List](circularSLL.c)
 
+-[FCFS ](fcfs.c)
+
 -[Find nth term in an A.P.](AP.c)
 
 -[Find the middle element of linked list](middle.c)
