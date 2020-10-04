@@ -45,3 +45,5 @@ int main()
                   1 2 3
    Sample output: 4
  */
+/* Time complexity is O(sum*n)
+   Space complexity is O(n)
