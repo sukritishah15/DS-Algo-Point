@@ -110,3 +110,5 @@ Format: -[Program name](name of the file)
 -[Pigeonhole sort](Pigeonhole_Sort.py)
 
 -[Tower of hanoi](tower_of_hanoi.py)
+
+-[Power Set](Power_Set.py)
