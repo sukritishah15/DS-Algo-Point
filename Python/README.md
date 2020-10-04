@@ -63,6 +63,8 @@ Format: -[Program name](name of the file)
 
 -[Maximum number formed from given digits](maximum.py)
 
+-[Mean and Median calculation](meanAndmedian.py)
+
 -[Merge Sort](mergeSort.py)
 
 -[Mid Element In Linked List](find_mid_element_in_linked_list.py)
