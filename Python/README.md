@@ -5,6 +5,8 @@ Format: -[Program name](name of the file)
 
 -[Arithmetic Progression](arithmetic.py)
 
+-[AVL Tree](avl tree.py)
+
 -[Automorphic Number](automorphic.py)
 
 -[Balanced Parentheses](balanced_parentheses.py)
