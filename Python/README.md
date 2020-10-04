@@ -30,3 +30,4 @@ Format:
 
 -[Automorphic Number](automorphic.py)
 
+-[Tower of hanoi](tower_of_hanoi.py)
