@@ -22,9 +22,7 @@ input :
 6
 6 5 4 3 2 1
 Output:
-1 2 3 4 5 6
-
-Overall time complexity = O(n) ; Overall Space complexity = O(1) */
+1 2 3 4 5 6 */
 
 public class PancakeSort {
 
@@ -37,6 +35,7 @@ public class PancakeSort {
             arr[j] = temp1 ;
         }
     }
+    // time complexity = O(n) ; Space complexity = O(1) 
 
     public static int max_element(int arr[] , int n){
         int maks = arr[0] ;
@@ -56,7 +55,7 @@ public class PancakeSort {
         int curr_size=n ;
         while(curr_size > 0){
 
-            int max_index = max_element(arr , curr_size) ;
+            int max_index = max_element(arr , curr_size) ;// time complexity = O(n) ; space complexity = O(1);
 
             if(max_index !=curr_size -1)
             {
@@ -68,7 +67,7 @@ public class PancakeSort {
 
         }
     }
-
+//time complexity = O(n * max(p, q)) where p is the time complexity of flip() and q is the complexity of max_element(); space complexity = O(1)
     public static void main(String[] args) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -89,4 +88,4 @@ public class PancakeSort {
             System.out.print(arr[i]+" ");
         }
     }
-}
+}//Overall time complexity = O(n) ; Overall Space complexity = O(1) 
