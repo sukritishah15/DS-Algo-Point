@@ -59,6 +59,8 @@ Format: -[Program name](name of the file)
 
 -[Maximum Possible Number with Given Digits](MaxNumber.java)
 
+-[Maze](Maze.java)
+
 -[Merge Sort Java](MergeSort.java)
 
 -[Nth term of ap](nth_term_of_ap.java)
@@ -95,7 +97,11 @@ Format: -[Program name](name of the file)
 
 -[Tower of Hanoi](tower-of-hanoi.java)
 
--[Travelling salesman problem](tsp.java)  
+-[Travelling salesman problem](tsp.java) 
+
+-[Twin Prime](Twin_Prime.java)
+
+-[Two Pointer Algorithm](TwoPointerAlgo.java)
 
 -[Implement quick sort](quick_sort.java)
 

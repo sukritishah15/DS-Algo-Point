@@ -49,7 +49,7 @@
 ## Don't know how to create a PR? Refer this: [Steps to create a PR](STEPS_FOR_PR.md)
 
 
-## Maintainers for this project 
+## Maintainers for this project (Refer [this](MAINTAINERS.md) for Instructions specific to Maintainers)
 - Sukriti Shah - @sukritishah15
 - Aditi Khemka - @aditik03
 - Gunisha Chaturvedi - @gunisha30
@@ -65,6 +65,7 @@
 - Muskan Gupta - @muskangupta19
 - Priyal - @priyal2806
 - Mahima Goyal - @mahimagoyalx
+- Paul Evans - @PaulEvans8669
 - Arnav Roy - @arnav-roy
 - Wallace Costa - @wallacecosta
 
