@@ -61,6 +61,8 @@ Format: -[Program name](name of the file)
 
 -[Merge Sort](mergeSort.py)
 
+-[Mid Element In Linked List](find_mid_element_in_linked_list.py)
+
 -[Neon Numbers](neon_numbers.py)
 
 -[Nth Term of AP](nth_term_of_ap.py)
