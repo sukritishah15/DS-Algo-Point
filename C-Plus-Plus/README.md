@@ -103,4 +103,4 @@ Format: -[Program name](name of the file)
 
 -[Interpolation Search](interpolation_search.cpp)
 
--[Bellman-Ford's algo](Bellman-Ford's algorithm.cpp)
+-[Bellman-Ford's algo](Bellman-Ford's_algorithm.cpp)
