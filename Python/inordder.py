@@ -30,11 +30,11 @@ root.left.right  = Node(5)
 print "\nInorder traversal of binary tree is"
 printInorder(root) 
 
-/*
+'''
   Time Complexity - O(N)
   Space Complexity - O(N)
 
   Input - Taken in the Code .
   Output -Inorder traversal of binary tree is
           4 2 5 1 3 
-*/
+'''
