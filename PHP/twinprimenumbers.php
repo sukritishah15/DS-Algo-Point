@@ -27,4 +27,13 @@ $n = 25;
   
 printTwinPrime($n); 
   
-?> 
+?>
+
+/*
+Example : 
+Input -- 25
+Output -- (3, 5)(5, 7)(11, 13)(17, 19)
+
+Time complexity - O(n*sqrt(n))
+Space complexity - O(n)
+*/
