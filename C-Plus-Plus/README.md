@@ -102,3 +102,5 @@ Format: -[Program name](name of the file)
 -[First Come First Scheduling](firstcomefirstscheduling.cpp)
 
 -[Interpolation Search](interpolation_search.cpp)
+
+-[Bellman-Ford's algo](Bellman-Ford's algorithm.cpp)
