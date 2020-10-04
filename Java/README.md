@@ -59,6 +59,8 @@ Format: -[Program name](name of the file)
 
 -[Maximum Possible Number with Given Digits](MaxNumber.java)
 
+-[Maze](Maze.java)
+
 -[Merge Sort Java](MergeSort.java)
 
 -[Nth term of ap](nth_term_of_ap.java)
