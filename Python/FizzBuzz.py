@@ -32,4 +32,17 @@ for each number between start and end point (inclusive)
 Time complexity: O(N) (N is length of range of numbers)
 
 Space complexity: O(1) (Uses only constant memory for iterator from start to end)
+
+Sample Input/Output:
+
+Input: start_point=1, end_point=5
+print_fizz_buzz(1, 5)
+
+Output:
+1
+2
+Fizz
+4
+Buzz
+
 """
