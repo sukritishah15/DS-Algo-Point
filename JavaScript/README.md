@@ -5,6 +5,8 @@ Format: -[Program name](name of the file)
 
 -[Bubble Sort](bubbleSort.js)
 
+-[Checks whether given number is neon or not](neonNumber.js)
+
 -[Fibonacci Series](fibonacciSum.js)
 
 -[FizzBuzz](fizzBuzz.js)
