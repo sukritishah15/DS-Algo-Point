@@ -74,10 +74,4 @@ Format:
 
 -[Stack Implementation](C_STACK.C)
 
-
-
-
-
-
-
-
+-[Bellman-Ford's algo](Bellman-Ford's_algorithm)
