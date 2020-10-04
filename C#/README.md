@@ -10,5 +10,8 @@ Format: -[Program name](name of the file)
 -[Mean and Median](MeanAndMedian.cs)
 
 
+-[Bubble Sort](BubbleSort.cs)
+
+
 
 
