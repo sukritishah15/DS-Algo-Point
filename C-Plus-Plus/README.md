@@ -17,7 +17,7 @@ Format: -[Program name](name of the file)
 
 -[Check Whether a Number is Neon or Not](NeonNumber.cpp)
 
--[Coin change problem(DP)](coinchange(Dynamic prog).cpp)
+-[Coin change problem](coinchange.cpp)
 
 -[Dijkstra's Algorithm](Dijkstra.cpp)
 
