@@ -72,6 +72,8 @@ Format:
 
 -[Ternary Search](Ternary Search in C.c)
 
+-[Two Pointer algorithm to find sum pairs](TwoPointer_to_find_sum_pairs.c)
+
 -[Heap Sort](heap_sort.c)
 
 -[Sieve Of Eratosthenes](Sieve_of_Eratosthenes.c)
