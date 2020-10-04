@@ -1,9 +1,11 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
--[Fibonacci Series](fibonacciSum.js)
-
 -[Binary Search](binarySearch.js)
+
+-[Bubble Sort](bubbleSort.js)
+
+-[Fibonacci Series](fibonacciSum.js)
 
 -[FizzBuzz](fizzBuzz.js)
 
@@ -11,6 +13,6 @@ Format: -[Program name](name of the file)
 
 -[Trie](Trie.js)
 
--[Bubble Sort](bubbleSort.js)
+
 
 
