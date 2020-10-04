@@ -75,9 +75,9 @@ Format: -[Program name](name of the file)
 
 - [PostOrder Traversal of Tree](postOrderTree.cpp)
 
--[PowerSet](PowerSet.cpp)
+- [PowerSet](PowerSet.cpp)
 
--[PreOrder Traversal of Tree](Preorder_traversal_tree.cpp)
+- [PreOrder Traversal of Tree](Preorder_traversal_tree.cpp)
 
 - [PreOrder Traversal of Tree](Preorder_traversal_tree.cpp)
 
