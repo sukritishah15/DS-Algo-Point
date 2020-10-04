@@ -52,5 +52,8 @@ Enter end: 50
 {17, 19}
 {29, 31}
 {41, 43}
+
+time complexity-n
+space complexity-constant
 */
 
