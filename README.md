@@ -66,7 +66,6 @@
 - Priyal - @priyal2806
 - Mahima Goyal - @mahimagoyalx
 - Paul Evans - @PaulEvans8669
-- Shreyon Sinha - @ShreyonSinha
 <br/>
 
 <div align="center">
