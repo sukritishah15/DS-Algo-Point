@@ -42,6 +42,6 @@ public class TwoPointerAlgo {
 //Output :
 //25 and 1 is the pair
 
-//Solution in O(n) 
-
+//Time Complexity : O(n) 
+// Space Complexity : O(1)
 
