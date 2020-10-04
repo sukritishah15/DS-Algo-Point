@@ -23,6 +23,6 @@ Format: -[Program name](name of the file)
 
 -[Powerset of a set](Powerset.js)
 
-
+-[Mean and Median calculation](mean_median.js)
 
 
