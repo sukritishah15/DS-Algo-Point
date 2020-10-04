@@ -55,6 +55,8 @@ Format: -[Program name](name of the file)
 
 -[Maximum number formed from given digits](maximum.py)
 
+-[Mean and Median calculation](meanAndmedian.py)
+
 -[Merge Sort](mergeSort.py)
 
 -[Neon Numbers](neon_numbers.py)
