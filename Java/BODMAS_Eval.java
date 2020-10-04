@@ -77,7 +77,7 @@
 	    //registers all number characters
 	    public static Boolean numcon(char i){
 
-	        Boolean numcond=(i=='3'||i=='1'||i=='2'||i=='4'||i=='5'||i=='6'||i=='7'||i=='8'||i=='9'||i=='0'||i=='.');
+	        Boolean numcond=(i=='0'||i=='1'||i=='2'||i=='3'||i=='4'||i=='5'||i=='6'||i=='7'||i=='8'||i=='9'||i=='.');
 	        return(numcond);
 
 	    }
@@ -86,10 +86,7 @@
 	        int k=0,count=0;
 	        String temp="";
 	        temp=bracketinput.replaceAll("\\)\\^", "\\)x");
-	        bracketinput
-
-
-	                =temp;
+	        bracketinput =temp;
 	        while ((k<bracketinput.length())&&((k+1)<bracketinput.length())){
 	            if (numcondition(bracketinput.charAt(k))&&(bracketinput.charAt(k+1)=='(')){
 	                temp=bracketinput.substring(0,(k+1))+"o"+bracketinput.substring(k+1);
@@ -121,7 +118,6 @@
 	        int k=i+1;
 	        int countb=1;
 	        while (true){
-
 	            if (bracketinput.charAt(k)=='(')
 	                countb++;
 	            if(bracketinput.charAt(k)==')')
@@ -129,7 +125,6 @@
 	            if (countb==0)
 	                break;
 	            k++;
-
 	        }
 
 	        /*while (k<bracketinput.length()){
