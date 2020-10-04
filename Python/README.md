@@ -47,7 +47,7 @@ Format: -[Program name](name of the file)
 
 -[Heap Sort](Heap_sort.py)
 
--[Inorder Tee Traversal](inorder.py)
+-[Inorder Tree Traversal](inorder.py)
 
 -[Interpolation Search](Interpolation_Search.py)
 
