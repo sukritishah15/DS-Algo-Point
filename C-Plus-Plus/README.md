@@ -63,6 +63,8 @@ Format: -[Program name](name of the file)
 
 -[Mathematical Series Demo](maths-series.cpp)
 
+-[Mean Median](mean_median.cpp)
+
 -[Pancake Sorting](Pancake_sort.cpp)
 
 -[Pigeonhole Sort](pigeon.cpp)
