@@ -43,3 +43,16 @@ int main()
 
     return 0;
 }
+
+
+/*
+*
+Input 
+10
+11 13 18 31 15 0 9 -1 -10 3
+
+Output
+Mean : 8
+Median : 10
+*
+*/
