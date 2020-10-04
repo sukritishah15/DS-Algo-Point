@@ -97,6 +97,8 @@ Format: -[Program name](name of the file)
 
 -[Travelling salesman problem](tsp.java)  
 
+-[Two Pointer Algorithm](TwoPointerAlgo.java)
+
 -[Implement quick sort](quick_sort.java)
 
 -[Singly Linked List](SList.java)  

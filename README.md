@@ -65,6 +65,9 @@
 - Muskan Gupta - @muskangupta19
 - Priyal - @priyal2806
 - Mahima Goyal - @mahimagoyalx
+
+- Paul Evans - @PaulEvans8669
+=======
 - Arnav Roy - @arnav-roy
 - Wallace Costa - @wallacecosta
 
