@@ -3,11 +3,12 @@ Format: -[Program name](name of the file)
 
 -[FizzBuzz](FizzBuzz.cs)
 
+-[Mean and Median](MeanAndMedian.cs)
+
+-[Sleep Sort](SleepSort.cs)
 
 -[TwinPrime](TwinPrime.cs)
 
-
--[Mean and Median](MeanAndMedian.cs)
 
 
 
