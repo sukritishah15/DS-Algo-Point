@@ -42,6 +42,8 @@ Format:
 
 -[Longest Common Subsequence](Longest_Common_Subsequence.c)
 
+-[Manhattan Distance](manhattanDistance.c)
+
 -[Maximum digit using given numbers](Maximum_number.c)
 
 -[Merge Sort](Mergesort.c)
