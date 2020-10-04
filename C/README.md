@@ -42,6 +42,8 @@ Format:
 
 -[Maximum digit using given numbers](Maximum_number.c)
 
+-[Mean Median Calculation](Mean_Median_Calculation.c)
+
 -[Merge Sort](Mergesort.c)
 
 -[Neon Number](neon_number.c)
