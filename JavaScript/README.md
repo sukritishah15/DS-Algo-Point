@@ -17,6 +17,9 @@ Format: -[Program name](name of the file)
 
 -[Sieve of Eratosthenes](Sieve.js)
 
+-[Quick Sort](QuickSort.js)
+
+
 -[Trie](Trie.js)
 
 -[Manhattan distance](Manhattan_distance.js)
