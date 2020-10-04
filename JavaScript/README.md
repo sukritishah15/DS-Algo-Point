@@ -21,6 +21,8 @@ Format: -[Program name](name of the file)
 
 -[Manhattan distance](Manhattan_distance.js)
 
+-[Powerset of a set](Powerset.js)
+
 
 
 
