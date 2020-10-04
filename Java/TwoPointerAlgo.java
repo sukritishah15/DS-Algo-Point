@@ -36,4 +36,12 @@ public class TwoPointerAlgo {
         }
     }
 }
+// Input :
+// array = [ 10,25,1,30]
+//req_sum = 26
+//Output :
+//25 and 1 is the pair
+
+//Solution in O(n) 
+
 
