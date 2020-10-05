@@ -191,4 +191,12 @@ Enter the node to be deleted :
 
 Preorder traversal after deletion of 10 :
 8 6 3 2 4 7 17 9 22 19 23
+
+
+Complexity - 
+Insertion - Log(n)
+Deletion - Log(n)
+
+This is because for a BST, both of them are O(height) where height refers to the height of the tree. 
+But, when we talk about AVL Tree, since it is balanced, we check log(height) times only.
 */
