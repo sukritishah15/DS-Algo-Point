@@ -63,6 +63,8 @@ Format: -[Program name](name of the file)
 
 -[Nth term of gp](nth_term_of_gp.java)
 
+-[Permutations and Combination](PermutationsAndCombination.java)
+
 -[Postorder Traversal of Tree](postorder.java)
 
 -[Preorder Tree Traveral](preorder.java)
