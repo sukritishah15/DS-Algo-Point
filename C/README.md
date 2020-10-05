@@ -64,6 +64,8 @@ Format:
 
 -[Singly Linked List](SinglyLL.c)
 
+-[Sleep Sort](SleepSort.c)
+
 -[Sum of Fibonacci Series](sumofFibonacciSeries.c)
 
 -[Tower of Hanoi](tower_of_hanoi.c)
