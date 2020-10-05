@@ -5,6 +5,8 @@ Format: -[Program name](name of the file)
 
 -[Arithmetic Progression](arithmetic.py)
 
+-[AVL Tree](avl tree.py)
+
 -[Automorphic Number](automorphic.py)
 
 -[Balanced Parentheses](balanced_parentheses.py)
@@ -39,6 +41,8 @@ Format: -[Program name](name of the file)
 
 -[Harmonic Series](harmonic.py)
 
+-[Insertion Sort](insertion_sort.py)
+
 -[KMP Pattern matching algorithm](KMP Algorithm in Python.py)
 
 -[Find an element in a sorted matrix](find_element_in_sorted_matrix.py)
@@ -46,6 +50,8 @@ Format: -[Program name](name of the file)
 -[Greatest Common divisor](gcd.py)
 
 -[Heap Sort](Heap_sort.py)
+
+-[Inorder Tree Traversal](inordder.py)
 
 -[Interpolation Search](Interpolation_Search.py)
 
@@ -55,9 +61,15 @@ Format: -[Program name](name of the file)
 
 -[Longest length path in a matrix](LongestPath_Matrix.py)
 
+-[Manhattan Distance](manhattan.py)
+
 -[Maximum number formed from given digits](maximum.py)
 
+-[Mean and Median calculation](meanAndmedian.py)
+
 -[Merge Sort](mergeSort.py)
+
+-[Mid Element In Linked List](find_mid_element_in_linked_list.py)
 
 -[Neon Numbers](neon_numbers.py)
 
@@ -65,7 +77,12 @@ Format: -[Program name](name of the file)
 
 -[Nth Term of GP](nth_term_of_gp.py)
 
+-[Pancake Sort](PancakeSort.py)
+
 -[Queue](Queue.py)
+
+
+-[QuickSort](quicksort.py)
 
 -[PreOrder Tree Traversal](preorder.py)
 
@@ -78,6 +95,10 @@ Format: -[Program name](name of the file)
 -[Shell Sort](shell_sort.py)
 
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
+
+-[Sleep Sort](SleepSort.py)
+
+-[Sudoku solver](sudoku solver.py)
 
 -[Stack](stack.py)
 
@@ -92,9 +113,15 @@ Format: -[Program name](name of the file)
 -[Dutch National Flag Problem](dutchflagproblem.py)
 
 
+-[Post Order Traversal](postordertraversal.py)
+
+-[Bellman-Ford's algo](Bellman-Ford's_algorithm.py)
+
 -[Floyd Warshall Algorithm](Floyd_Warshall_Algorithm.py)
 
 -[Pigeonhole sort](Pigeonhole_Sort.py)
 
-
 -[Tower of hanoi](tower_of_hanoi.py)
+
+-[Power Set](Power_Set.py)
+
