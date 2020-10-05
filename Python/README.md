@@ -49,6 +49,8 @@ Format: -[Program name](name of the file)
 
 -[Heap Sort](Heap_sort.py)
 
+-[Inorder Tree Traversal](inordder.py)
+
 -[Interpolation Search](Interpolation_Search.py)
 
 -[Linear Search](Linear_Search.py)
@@ -60,6 +62,8 @@ Format: -[Program name](name of the file)
 -[Manhattan Distance](manhattan.py)
 
 -[Maximum number formed from given digits](maximum.py)
+
+-[Mean and Median calculation](meanAndmedian.py)
 
 -[Merge Sort](mergeSort.py)
 
@@ -91,6 +95,8 @@ Format: -[Program name](name of the file)
 
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
 
+-[Sudoku solver](sudoku solver.py)
+
 -[Stack](stack.py)
 
 -[Timsort Algorithm](Tim sort Algorithm in Python.py)
@@ -110,3 +116,5 @@ Format: -[Program name](name of the file)
 -[Pigeonhole sort](Pigeonhole_Sort.py)
 
 -[Tower of hanoi](tower_of_hanoi.py)
+
+-[Power Set](Power_Set.py)
