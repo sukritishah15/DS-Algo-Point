@@ -103,6 +103,10 @@ Format: -[Program name](name of the file)
 
 - [Stack - Linked List Implementation](stackByLinkedList.cpp)
 
+- [Twin prime](twin_prime.cpp)
+
+- [Shell Sort Algorithm](shell_sort.cpp)
+
 - [Sudoku Solver](SudokuSolver.cpp)
 
 - [Tarjan's Algorithm for finding Articulation Points in a graph](tarjanArticulationPoint.cpp)
