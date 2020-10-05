@@ -16,3 +16,9 @@ rotatethearray(array, d)
 #then we reversed the elements from Dth index to the end
 #finally we reversed the entire array
 #doing so, our array gets reversed by D elements clockwise
+# Input: 1 2 3 4 5
+# D = 3
+# Output: 4 5 1 2 3
+# T.C: O(n)
+# S.C: O(n)
+
