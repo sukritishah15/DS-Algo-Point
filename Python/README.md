@@ -125,3 +125,4 @@ Format: -[Program name](name of the file)
 
 -[Power Set](Power_Set.py)
 
+-[Kruskal's Algorithm](Kruskals.py)
