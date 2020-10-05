@@ -127,6 +127,11 @@ Format: -[Program name](name of the file)
 
 - [Bellman-Ford's algo](Bellman-Ford's_algorithm.cpp)
 
+
 - [Tim sort](Tim_Sort.cpp)
 
 - [Manhattan Distance](manhattan_distance.cpp) 
+
+- [Manhattan Distance](manhattan_distance.cpp) 
+
+- [priority based scheuling](priority_scheduling.cpp)

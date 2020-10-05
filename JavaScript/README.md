@@ -15,6 +15,8 @@ Format: -[Program name](name of the file)
 
 -[Pancake Sorting](pancakeSorting.js)
 
+-[QuickSort](QuickSort.js)
+
 -[Sieve of Eratosthenes](Sieve.js)
 
 -[Trie](Trie.js)
@@ -23,6 +25,6 @@ Format: -[Program name](name of the file)
 
 -[Powerset of a set](Powerset.js)
 
-
+-[Mean and Median calculation](mean_median.js)
 
 

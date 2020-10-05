@@ -46,6 +46,8 @@ Format:
 
 -[Maximum digit using given numbers](Maximum_number.c)
 
+-[Mean Median Calculation](Mean_Median_Calculation.c)
+
 -[Merge Sort](Mergesort.c)
 
 -[Neon Number](neon_number.c)
@@ -73,6 +75,8 @@ Format:
 -[Singly Linked List](SinglyLL.c)
 
 -[Sum of Fibonacci Series](sumofFibonacciSeries.c)
+
+-[Twin Prime Numbers](twinPrime.C)
 
 -[Tower of Hanoi](tower_of_hanoi.c)
 

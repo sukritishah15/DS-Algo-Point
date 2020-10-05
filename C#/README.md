@@ -1,6 +1,8 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
+-[Bubble Sort](BubbleSort.cs)
+
 -[FizzBuzz](FizzBuzz.cs)
 
 -[Mean and Median](MeanAndMedian.cs)
@@ -8,7 +10,6 @@ Format: -[Program name](name of the file)
 -[Sleep Sort](SleepSort.cs)
 
 -[TwinPrime](TwinPrime.cs)
-
 
 
 
