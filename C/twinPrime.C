@@ -31,7 +31,7 @@ int main(void)
     printf("Enter end: ");
     scanf("%d", &end);
 
-    for(int i = start; i < end; i++)
+    for(int i = start; i < end-1; i++)
     {
         if(check_prime(i) && check_prime(i + 2))
         {            
