@@ -1,6 +1,8 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
+-[The Dutch National Flag Problem](TheDutchNationalFlag.java)
+
 -[Height of Binary Tree](HeightOfBinaryTree.java)
 
 -[Binary Search Tree Implementation](ImplementingBST.java)
