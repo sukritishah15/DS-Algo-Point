@@ -33,4 +33,4 @@ Format: -[Program name](name of the file)
 
 -[Twin_Prime](twin_prime.js)
 
--[Permution_Combination](permutation_combination.js)
+-[Permutation_Combination](permutation_combination.js)
