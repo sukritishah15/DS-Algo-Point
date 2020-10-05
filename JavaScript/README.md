@@ -28,3 +28,5 @@ Format: -[Program name](name of the file)
 -[Mean and Median calculation](mean_median.js)
 
 -[Merge Sort](mergesort.js)
+
+-[Twin_Prime](twin_prime.js)
