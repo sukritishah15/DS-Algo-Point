@@ -58,3 +58,14 @@ class interpolationsearch
             else
                System.out.println("Element not found."); 
     } 
+  
+  
+  
+  /*
+  arr ={10, 12, 13, 16, 18, 19, 20, 21, 22, 23, 
+                                         24, 33, 35, 42, 47};
+  input x=18
+  
+  Output:
+Element found at index 4
+*/
