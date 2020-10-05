@@ -109,6 +109,9 @@ Format: -[Program name](name of the file)
 
 -[Dutch National Flag Problem](dutchflagproblem.py)
 
+
+-[Post Order Traversal](postordertraversal.py)
+
 -[Bellman-Ford's algo](Bellman-Ford's_algorithm.py)
 
 -[Floyd Warshall Algorithm](Floyd_Warshall_Algorithm.py)
@@ -118,3 +121,4 @@ Format: -[Program name](name of the file)
 -[Tower of hanoi](tower_of_hanoi.py)
 
 -[Power Set](Power_Set.py)
+
