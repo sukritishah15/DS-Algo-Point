@@ -8,3 +8,5 @@ Format: -[Program name](name of the file)
 -[Fibonacci Numbers](fibonacci_numbers.php)
 
 -[Mean and Median Caluclation](mean_median.php)
+
+-[Merge Sort](merge_sort.php)
