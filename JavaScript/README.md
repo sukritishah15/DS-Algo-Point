@@ -15,6 +15,8 @@ Format: -[Program name](name of the file)
 
 -[Pancake Sorting](pancakeSorting.js)
 
+-[QuickSort](QuickSort.js)
+
 -[Sieve of Eratosthenes](Sieve.js)
 
 -[Trie](Trie.js)
