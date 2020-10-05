@@ -19,6 +19,8 @@ Format: -[Program name](name of the file)
 
 -[Dijkstra's Algorithm](Dijkstra.cpp)
 
+-[Fibonacci Series](Fibonacci.cpp)
+
 -[Find nth term in an A.P.](nth_term_ap.cpp)
 
 -[Find nth term in an G.P](nth-term-gp.cpp)
