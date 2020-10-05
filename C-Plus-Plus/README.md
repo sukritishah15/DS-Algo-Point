@@ -152,5 +152,7 @@ Format: -[Program name](name of the file)
 
 - [priority based scheuling](priority_scheduling.cpp)
 
+- [value of Pi by random numbers](ValueOfPiByRandomNumbers.cpp)
+
 - [Z algorithm](ZAlgorithm.cpp)
 
