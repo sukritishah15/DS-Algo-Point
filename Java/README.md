@@ -71,6 +71,8 @@ Format: -[Program name](name of the file)
 
 -[Postorder Traversal of Tree](postorder.java)
 
+-[Power set](powerset.java)
+
 -[Preorder Tree Traveral](preorder.java)
 
 -[Prime Factors in LogN time](Primefactor.java)
