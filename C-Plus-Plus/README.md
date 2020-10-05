@@ -65,6 +65,8 @@ Format: -[Program name](name of the file)
 
 -[Mathematical Series Demo](maths-series.cpp)
 
+-[Majority Element in Constant Space](Majority_Element.cpp)
+
 -[Mean Median](mean_median.cpp)
 
 -[Pancake Sorting](Pancake_sort.cpp)
@@ -127,6 +129,6 @@ Format: -[Program name](name of the file)
 
 -[Tim sort](Tim_Sort.cpp)
 
--[Manhattan Distance](manhattan_distance.cpp) 
+-[Manhattan Distance](manhattan_distance.cpp)
 
 -[priority based scheuling](priority_scheduling.cpp)
