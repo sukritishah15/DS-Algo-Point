@@ -48,7 +48,7 @@ Format:
 
 -[Nth Term of GP](NthTermGP.c)
 
--[N Queens](nQueens.c)
+-[N Queens Puzzle](nQueens.c)
 
 -[Postorder Tree Traversal](postorder.c)
 
