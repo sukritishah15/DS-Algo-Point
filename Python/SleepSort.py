@@ -16,3 +16,13 @@ print("Printing the sorted array - ")
 for item in items:
     th = threading.Thread(target=printSleepSort, args = (item,))
     th.start()
+    
+    
+"""
+Sample Input - 8, 9, 3, 1, 7
+Sample Output - 1, 3, 7, 8, 9
+
+Time Complexity - 
+Since all the threads start at once, the maximum time taken by the algorithm will be the maximum element in the input array.
+Therefor the time complexity is - O(max(input))
+"""
