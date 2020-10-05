@@ -82,6 +82,7 @@ Format: -[Program name](name of the file)
 
 -[Remove_nth_node_from_linkedlist](remove_nth_node_from_linkedlist.py)
 
+-[Rotate the array by D elements clockwise](Rotate-array-by-D-elements)
 -[Selection Sort](selectionsort.py)
 
 -[Shell Sort](shell_sort.py)
