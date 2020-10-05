@@ -41,5 +41,5 @@ int main()
 /*
 Final Estimation of Pi = 3.14167
 time complexity: O(INTERVAL*2^INTERVAL)
-space complexity: O(INTERVAL)
+space complexity: O(1)
 */
