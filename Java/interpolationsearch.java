@@ -68,4 +68,7 @@ class interpolationsearch
   
   Output:
 Element found at index 4
+
+Time Complexity: If elements are uniformly distributed, then O (log log n)). In worst case it can take upto O(n).
+Auxiliary Space: O(1)
 */
