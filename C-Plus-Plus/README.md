@@ -19,6 +19,10 @@ Format: -[Program name](name of the file)
 
 - [Check Whether a Number is Neon or Not](NeonNumber.cpp)
 
+- [Fibonacci Series](Fibonacci.cpp)
+
+- [Find nth term in an A.P.](nth_term_ap.cpp)
+
 - [Coin change problem](coinchange.cpp)
 
 - [Dijkstra's Algorithm](Dijkstra.cpp)
@@ -93,7 +97,12 @@ Format: -[Program name](name of the file)
 
 - [Search an element in a sorted matrix](Search_Sorted_Matrix.cpp)
 
+- [Rat maze problem](rat_maze_backtracking.cpp)
+
+- [Topological Sort using Kahn's Algorithm](kahn-algorithm.cpp)
+
 - [Search repeating elements](search_repeating.cpp)
+
 
 - [Selection Sort](selection_sort.cpp)
 
@@ -108,6 +117,8 @@ Format: -[Program name](name of the file)
 - [Shell Sort Algorithm](shell_sort.cpp)
 
 - [Sudoku Solver](SudokuSolver.cpp)
+
+- [Tim sort](Tim_Sort.cpp)
 
 - [Tarjan's Algorithm for finding Articulation Points in a graph](tarjanArticulationPoint.cpp)
 
@@ -140,3 +151,4 @@ Format: -[Program name](name of the file)
 - [Manhattan Distance](manhattan_distance.cpp)
 
 - [priority based scheuling](priority_scheduling.cpp)
+
