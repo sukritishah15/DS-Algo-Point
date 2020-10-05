@@ -42,6 +42,8 @@ Format:
 
 -[Longest Common Subsequence](Longest_Common_Subsequence.c)
 
+-[Majority Element in O(1)](majority.c)
+
 -[Manhattan Distance](manhattanDistance.c)
 
 -[Maximum digit using given numbers](Maximum_number.c)
