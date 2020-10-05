@@ -77,6 +77,8 @@ Format: -[Program name](name of the file)
 
 -[Pancake Sort](PancakeSort.py)
 
+-[Permutations and Combinations](Permutations_And_Combinations.py)
+
 -[Queue](Queue.py)
 
 
