@@ -9,6 +9,8 @@ Format: -[Program name](name of the file)
 
 -[Binary Search](binarySearch.java)
 
+-[BODMAS_Eval](BODMAS_Eval.java)
+
 -[Bubble Sort](bubble.java)
 
 -[Check whether a number is Neon or not](neonNumber.java)
@@ -57,6 +59,8 @@ Format: -[Program name](name of the file)
 
 -[Maximum Possible Number with Given Digits](MaxNumber.java)
 
+-[Maze](Maze.java)
+
 -[Merge Sort Java](MergeSort.java)
 
 -[Nth term of ap](nth_term_of_ap.java)
@@ -65,7 +69,11 @@ Format: -[Program name](name of the file)
 
 -[Permutations and Combination](PermutationsAndCombination.java)
 
+-[Pancake Sorting](PancakeSort.java)
+
 -[Postorder Traversal of Tree](postorder.java)
+
+-[Power set](powerset.java)
 
 -[Preorder Tree Traveral](preorder.java)
 
@@ -93,7 +101,12 @@ Format: -[Program name](name of the file)
 
 -[Tower of Hanoi](tower-of-hanoi.java)
 
--[Travelling salesman problem](tsp.java)  
+-[Travelling salesman problem](tsp.java) 
+
+-[Twin Prime](Twin_Prime.java)
+
+-[Two Pointer Algorithm](TwoPointerAlgo.java)
+-[Implement Radix Sort](RadixSort.java)
 
 -[Implement quick sort](quick_sort.java)
 
@@ -108,3 +121,5 @@ Format: -[Program name](name of the file)
 -[Z Function](z_function.java)
 
 -[Sleep Sort](SleepSort.java)
+
+-[Bellman-Ford's algo](Bellman-Ford's_algorithm.java)
