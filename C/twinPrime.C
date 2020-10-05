@@ -36,7 +36,7 @@ int main(void)
         if(check_prime(i) && check_prime(i + 2))
         {            
             printf("{%d, %d}\n", i, i + 2);
-            i = i + 1; 
+            
         }                
     }    
 
