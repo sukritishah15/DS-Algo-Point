@@ -62,6 +62,31 @@ int main()
 }
 
 /*
+Space Complexity for this problem: O(1)
+Time Complexity for this problem: O(N)
+*/
+
+/*
+Sample Input 1:
+5
+1   2   3   4   5
+8
+
+Output 1:
+Yes, there exists a pair in the array with sum equal to 8
+
+
+Sample Input 2:
+5
+1   2   3   4   5
+10
+
+Output 2:
+No pair exists in the array with sum equal to 10
+*/
+
+
+/*
 Other Problems that can be solved using Two Pointer Technique are:
 
 1. 3 Sum Problem
