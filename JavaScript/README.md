@@ -32,3 +32,5 @@ Format: -[Program name](name of the file)
 -[Merge Sort](mergesort.js)
 
 -[Twin_Prime](twin_prime.js)
+
+-[Permutation_Combination](permutation_combination.js)

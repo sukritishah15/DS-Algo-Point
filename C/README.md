@@ -56,6 +56,8 @@ Format:
 
 -[Nth Term of GP](NthTermGP.c)
 
+-[N Queens Puzzle](nQueens.c)
+
 -[Postorder Tree Traversal](postorder.c)
 
 -[Powerset of the given set](powerset.c)
@@ -63,6 +65,8 @@ Format:
 -[Prime Factors using seive of eratosthenes](primefactors.c)
 
 -[Quick Sort](Quick_Sort.c)
+
+-[Quick Sort on Doubly Linked List](quick sort in doubly linked list.c)
 
 -[Remove Nth node of Linked List](remove_nth_node.c)
 
