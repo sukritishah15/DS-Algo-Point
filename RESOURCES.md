@@ -18,6 +18,8 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 
 Read the [participation details](https://hacktoberfest.digitalocean.com/details) to learn how to earn your Hacktoberfest tee or tree reward.
 
+![Do's & Dont's](https://github.com/BlankCoders/GoogleKickStart2020_Solutions/blob/master/assets/EditorSS/20201003_160953.jpg)
+
 ## Resources for learning Git and GitHub
 
 ### What is Git?
@@ -58,6 +60,10 @@ Read the [participation details](https://hacktoberfest.digitalocean.com/details)
 * [Version Control with Git - Introduction to Version Control(Udacity)](https://classroom.udacity.com/courses/ud123)
 
 * [Introduction To Open Source (Facebook Developer)](https://www.developercircleresources.com/learningPath/open-source/)
+
+* [Introduction to Github Actions - Read Blog](https://www.infracloud.io/blogs/github-actions-demystified/)
+
+* [Knowing Few Usefull Cloud Native OpenSource Tools Quickly - Read Blogs](https://www.infracloud.io/blogs/)
 
 #### Text Resources
 * [Deep Dive Into Git](https://medium.com/@mallickdebajit3/deep-dive-into-git-2e190c5404ea)
