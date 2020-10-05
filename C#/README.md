@@ -4,6 +4,9 @@ Format: -[Program name](name of the file)
 -[FizzBuzz](FizzBuzz.cs)
 
 
+-[GCD](GCD.cs)
+
+
 -[TwinPrime](TwinPrime.cs)
 
 
