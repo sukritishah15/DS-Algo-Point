@@ -62,5 +62,9 @@ Sample Input-Output:
   59 61
   71 73
 
+Time Complexity= O((a-b)*sqrt(b))
+By prime number theory 
+  number of prime number from 1 to n ~ n/log n
+Space complexity = O(b/log(b)-a/log(a))
 Contributed by : Hitansh K Doshi(github id: Hitansh159)
 */
