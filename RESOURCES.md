@@ -18,6 +18,8 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 
 Read the [participation details](https://hacktoberfest.digitalocean.com/details) to learn how to earn your Hacktoberfest tee or tree reward.
 
+![Do's & Dont's](https://github.com/BlankCoders/GoogleKickStart2020_Solutions/blob/master/assets/EditorSS/20201003_160953.jpg)
+
 ## Resources for learning Git and GitHub
 
 ### What is Git?
