@@ -11,6 +11,8 @@ Format: -[Program name](name of the file)
 
 -[FizzBuzz](fizzBuzz.js)
 
+-[Linear Search](linearSearch.js)
+
 -[Kadane's Algorithm](kadaneAlgo.js)
 
 -[Pancake Sorting](pancakeSorting.js)
