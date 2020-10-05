@@ -13,6 +13,8 @@ Format: -[Program name](name of the file)
 
 -[Trie](Trie.js)
 
+-[Manhattan distance](Manhattan_distance.js)
+
 
 
 

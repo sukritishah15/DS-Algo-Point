@@ -20,6 +20,8 @@ Format:
 
 -[Find the middle element of linked list](middle.c)
 
+-[Floyd Warshall algorithm](floyd-warshall.c)
+
 -[Height of Binary Tree](btheight.c)
 
 -[Implement bubblesort using c](bubblesort.c)
@@ -47,6 +49,8 @@ Format:
 -[Nth Term of GP](NthTermGP.c)
 
 -[Postorder Tree Traversal](postorder.c)
+
+-[Powerset of the given set](powerset.c)
 
 -[Prime Factors using seive of eratosthenes](primefactors.c)
 
@@ -76,10 +80,6 @@ Format:
 
 -[Stack Implementation](C_STACK.C)
 
+-[Bellman-Ford's algo](Bellman-Ford's_algorithm.c)
+
 -[FizzBuzz](fizzbuzz.c)
-
-
-
-
-
-
