@@ -16,9 +16,13 @@ Format:
 
 -[Circular Singly Linked List](circularSLL.c)
 
+-[FCFS ](fcfs.c)
+
 -[Find nth term in an A.P.](AP.c)
 
 -[Find the middle element of linked list](middle.c)
+
+-[Floyd Warshall algorithm](floyd-warshall.c)
 
 -[Height of Binary Tree](btheight.c)
 
@@ -38,7 +42,13 @@ Format:
 
 -[Longest Common Subsequence](Longest_Common_Subsequence.c)
 
+-[Majority Element in O(1)](majority.c)
+
+-[Manhattan Distance](manhattanDistance.c)
+
 -[Maximum digit using given numbers](Maximum_number.c)
+
+-[Mean Median Calculation](Mean_Median_Calculation.c)
 
 -[Merge Sort](Mergesort.c)
 
@@ -47,6 +57,8 @@ Format:
 -[Nth Term of GP](NthTermGP.c)
 
 -[Postorder Tree Traversal](postorder.c)
+
+-[Powerset of the given set](powerset.c)
 
 -[Prime Factors using seive of eratosthenes](primefactors.c)
 
@@ -66,9 +78,13 @@ Format:
 
 -[Sum of Fibonacci Series](sumofFibonacciSeries.c)
 
+-[Twin Prime Numbers](twinPrime.C)
+
 -[Tower of Hanoi](tower_of_hanoi.c)
 
 -[Ternary Search](Ternary Search in C.c)
+
+-[Two Pointer algorithm to find sum pairs](TwoPointer_to_find_sum_pairs.c)
 
 -[Heap Sort](heap_sort.c)
 
@@ -76,10 +92,6 @@ Format:
 
 -[Stack Implementation](C_STACK.C)
 
+-[Bellman-Ford's algo](Bellman-Ford's_algorithm.c)
+
 -[FizzBuzz](fizzbuzz.c)
-
-
-
-
-
-
