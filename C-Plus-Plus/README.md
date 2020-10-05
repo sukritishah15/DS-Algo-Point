@@ -63,7 +63,7 @@ Format: -[Program name](name of the file)
 
 -[Mathematical Series Demo](maths-series.cpp)
 
--[Majority Element in Constant Space](https://practice.geeksforgeeks.org/problems/majority-element/0)
+-[Majority Element in Constant Space](Majority_Element.cpp)
 
 -[Mean Median](mean_median.cpp)
 
