@@ -53,7 +53,7 @@ Enter end: 50
 {29, 31}
 {41, 43}
 
-time complexity-n
-space complexity-constant
+time complexity- O(n^2)
+space complexity- O(1)
 */
 

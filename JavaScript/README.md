@@ -11,6 +11,8 @@ Format: -[Program name](name of the file)
 
 -[FizzBuzz](fizzBuzz.js)
 
+-[Linear Search](linearSearch.js)
+
 -[Kadane's Algorithm](kadaneAlgo.js)
 
 -[Pancake Sorting](pancakeSorting.js)
@@ -27,4 +29,8 @@ Format: -[Program name](name of the file)
 
 -[Mean and Median calculation](mean_median.js)
 
+-[Merge Sort](mergesort.js)
 
+-[Twin_Prime](twin_prime.js)
+
+-[Permutation_Combination](permutation_combination.js)

@@ -23,6 +23,8 @@ Format: -[Program name](name of the file)
 
 - [Dijkstra's Algorithm](Dijkstra.cpp)
 
+- [Diameter_Of_Binary_Tree](Diameter_Of_Binary_Tree.cpp)
+
 - [Find nth term in an A.P.](nth_term_ap.cpp)
 
 - [Find nth term in an G.P](nth-term-gp.cpp)
@@ -61,11 +63,13 @@ Format: -[Program name](name of the file)
 
 - [Longest Common Subsequence](longest_common_subseq.cpp)
 
-- [Minimum number of denominations using Greedy algo approach](MinDenominations_GreedyAlgo.cpp)
-
 - [Mathematical Series Demo](maths-series.cpp)
 
+- [Majority Element in Constant Space](Majority_Element.cpp)
+
 - [Mean Median](mean_median.cpp)
+
+- [Minimum number of denominations using Greedy algo approach](MinDenominations_GreedyAlgo.cpp)
 
 - [Pancake Sorting](Pancake_sort.cpp)
 
@@ -129,6 +133,6 @@ Format: -[Program name](name of the file)
 
 - [Tim sort](Tim_Sort.cpp)
 
-- [Manhattan Distance](manhattan_distance.cpp) 
+- [Manhattan Distance](manhattan_distance.cpp)
 
 - [priority based scheuling](priority_scheduling.cpp)

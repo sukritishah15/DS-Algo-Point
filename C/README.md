@@ -42,6 +42,8 @@ Format:
 
 -[Longest Common Subsequence](Longest_Common_Subsequence.c)
 
+-[Majority Element in O(1)](majority.c)
+
 -[Manhattan Distance](manhattanDistance.c)
 
 -[Maximum digit using given numbers](Maximum_number.c)
@@ -69,6 +71,8 @@ Format:
 -[Rotate Linked List in Group of K](rotatell.c)
 
 -[Search in Row And Column Wise Sorted Matrix](Search_in_Row_And_Column_Wise_Sorted_Matrix.c)
+
+-[Search Repeating elements using Map/Hashmap](rep.c)
 
 -[Selection Sort](Selection_Sort_C.c)
 
