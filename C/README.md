@@ -56,6 +56,8 @@ Format:
 
 -[Nth Term of GP](NthTermGP.c)
 
+-[N Queens Puzzle](nQueens.c)
+
 -[Postorder Tree Traversal](postorder.c)
 
 -[Powerset of the given set](powerset.c)

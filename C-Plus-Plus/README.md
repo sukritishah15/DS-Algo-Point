@@ -152,3 +152,6 @@ Format: -[Program name](name of the file)
 - [Manhattan Distance](manhattan_distance.cpp)
 
 - [priority based scheuling](priority_scheduling.cpp)
+
+- [Z algorithm](ZAlgorithm.cpp)
+
