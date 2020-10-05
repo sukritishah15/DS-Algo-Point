@@ -72,6 +72,8 @@ Format:
 
 -[Search in Row And Column Wise Sorted Matrix](Search_in_Row_And_Column_Wise_Sorted_Matrix.c)
 
+-[Search Repeating elements using Map/Hashmap](rep.c)
+
 -[Selection Sort](Selection_Sort_C.c)
 
 -[Singly Linked List](SinglyLL.c)
