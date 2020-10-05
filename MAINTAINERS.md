@@ -26,6 +26,7 @@
 3. Check if they have provided Sample I/O, Time and Space Complexity in the code file or not. It is recommended that they provide it at the bottom of the file in a single multiline comment. However, sometimes contributors divide the comments and provide it at the top or somewhere in the middle. This is acceptable as long as they are using multiline comments. Because, single line comments make the code difficult to read (NOT RECOMMENDED).
 4. Try to squash and merge. Though, simply merging works.
 5. If there are Merge Conflicts, resolve if you can. Else, tag me. I'll resolve them.
+6. **Add _hacktoberfest-accepted_ label.**
 
 ### Always be polite.
 

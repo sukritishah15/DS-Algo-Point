@@ -73,6 +73,8 @@ Format: -[Program name](name of the file)
 
 -[PostOrder Traversal of Tree](postOrderTree.cpp)
 
+-[PowerSet](PowerSet.cpp)
+
 -[PreOrder Traversal of Tree](Preorder_traversal_tree.cpp)
 
 -[Remove Nth node of Linked List](Remove_Nth_node_of_Linked_List.cpp)
@@ -124,3 +126,5 @@ Format: -[Program name](name of the file)
 -[Tim sort](Tim_Sort.cpp)
 
 -[Manhattan Distance](manhattan_distance.cpp) 
+
+-[priority based scheuling](priority_scheduling.cpp)
