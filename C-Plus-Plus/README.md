@@ -130,6 +130,8 @@ Format: -[Program name](name of the file)
 
 - [Travelling Salesman Problem](TSP_Cpp.cpp)
 
+- [Two Pointer Algorithm](two_pointer_algorithm.cpp)
+
 - [Shell Sort Algorithm](shell_sort.cpp)
 
 - [Quick Sort on Doubly Linked List](quickSort_DoublyLinkedList.cpp)
