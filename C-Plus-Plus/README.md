@@ -63,6 +63,8 @@ Format: -[Program name](name of the file)
 
 -[Mathematical Series Demo](maths-series.cpp)
 
+-[Mean Median](mean_median.cpp)
+
 -[Pancake Sorting](Pancake_sort.cpp)
 
 -[Pigeonhole Sort](pigeon.cpp)
@@ -70,6 +72,8 @@ Format: -[Program name](name of the file)
 -[Postfix expression evaluation](evalPostfixStack.cpp)
 
 -[PostOrder Traversal of Tree](postOrderTree.cpp)
+
+-[PowerSet](PowerSet.cpp)
 
 -[PreOrder Traversal of Tree](Preorder_traversal_tree.cpp)
 
@@ -122,3 +126,5 @@ Format: -[Program name](name of the file)
 -[Tim sort](Tim_Sort.cpp)
 
 -[Manhattan Distance](manhattan_distance.cpp) 
+
+-[priority based scheuling](priority_scheduling.cpp)
