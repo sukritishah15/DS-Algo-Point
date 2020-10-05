@@ -38,6 +38,8 @@ Format:
 
 -[Longest Common Subsequence](Longest_Common_Subsequence.c)
 
+-[Longest Length Path in Matrix](longestLengthPathMatrix.c)
+
 -[Maximum digit using given numbers](Maximum_number.c)
 
 -[Merge Sort](Mergesort.c)
