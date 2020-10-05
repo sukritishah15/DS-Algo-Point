@@ -152,3 +152,5 @@ Format: -[Program name](name of the file)
 
 - [priority based scheuling](priority_scheduling.cpp)
 
+- [Z algorithm](ZAlgorithm.cpp)
+
