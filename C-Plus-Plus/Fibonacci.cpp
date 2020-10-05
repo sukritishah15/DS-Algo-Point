@@ -17,3 +17,15 @@ int main ()
 	return 0; 
 } 
 
+/*
+	Time Complexity: T(n) = T(n-1) + T(n-2) which is exponential
+	Extra Space: O(n) if we consider the function call stack size, otherwise O(1).
+------------------------------------------------------------------------------------------------	
+	Given a number n, print n-th Fibonacci Number.
+	Examples:
+		Input  : n = 2
+		Output : 1
+
+		Input  : n = 9
+		Output : 34
+*/
