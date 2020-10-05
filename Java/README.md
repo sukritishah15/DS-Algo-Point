@@ -67,6 +67,8 @@ Format: -[Program name](name of the file)
 
 -[Nth term of gp](nth_term_of_gp.java)
 
+-[Permutations and Combination](PermutationsAndCombination.java)
+
 -[Pancake Sorting](PancakeSort.java)
 
 -[Postorder Traversal of Tree](postorder.java)
@@ -104,6 +106,7 @@ Format: -[Program name](name of the file)
 -[Twin Prime](Twin_Prime.java)
 
 -[Two Pointer Algorithm](TwoPointerAlgo.java)
+-[Implement Radix Sort](RadixSort.java)
 
 -[Implement quick sort](quick_sort.java)
 
