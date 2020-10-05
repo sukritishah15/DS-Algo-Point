@@ -92,8 +92,9 @@ Format: -[Program name](name of the file)
 
 -[Shell Sort](shell_sort.py)
 
-
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
+
+-[Sleep Sort](SleepSort.py)
 
 -[Sudoku solver](sudoku solver.py)
 
