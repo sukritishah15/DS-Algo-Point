@@ -40,6 +40,6 @@ int main()
 } 
 /*
 Final Estimation of Pi = 3.14167
-time complexity: O(N2^N)
-space complexity: O(N)
+time complexity: O(n2^n)
+space complexity: O(n)
 */
