@@ -1,6 +1,8 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
+- [AVL Tree](AVLTree.cpp)
+
 - [Balanced Parentheses](balance_paranthesis.cpp)
 
 - [Binary Search](BinarySearch.cpp)
