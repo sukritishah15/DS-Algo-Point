@@ -52,6 +52,8 @@ Format:
 
 -[Maximum digit using given numbers](Maximum_number.c)
 
+-[Maze Problem using Backtracking](Maze_Problem.c)
+
 -[Mean Median Calculation](Mean_Median_Calculation.c)
 
 -[Merge Sort](Mergesort.c)
