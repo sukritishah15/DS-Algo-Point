@@ -2,12 +2,15 @@ import java.lang.Math;
 
 class approxing_pi{
   public static void main(String[] args){
+    long itr=(long)(10000000000.0);
+    
     double x=Math.random();
     double y=Math.random();
 
     long point_circle=0; 
     long point_square=0;
-    for(long i=0;i<1e10;i++){     
+
+    for(long i=0;i<itr;i++){     
       x=Math.random();
       y=Math.random();
       if((x*x+y*y)<=1)
