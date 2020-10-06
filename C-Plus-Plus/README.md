@@ -75,6 +75,8 @@ Format: -[Program name](name of the file)
 
 - [Minimum number of denominations using Greedy algo approach](MinDenominations_GreedyAlgo.cpp)
 
+-[N Queens Problem](n_queens_problem.cpp)
+
 - [Pancake Sorting](Pancake_sort.cpp)
 
 - [Pigeonhole Sort](pigeon.cpp)
