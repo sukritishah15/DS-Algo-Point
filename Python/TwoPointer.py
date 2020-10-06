@@ -25,33 +25,35 @@ while t:
     t -= 1
     solve()
 
+'''
+Sample input  
+3
+6 4 3
+1 6
+2 3
+5 5
+4 1 2
+2 4
+1 2
+3 3 2
+2 3
+1 2
 
-# sample input  
-# 3
-# 6 4 3
-# 1 6
-# 2 3
-# 5 5
-# 4 1 2
-# 2 4
-# 1 2
-# 3 3 2
-# 2 3
-# 1 2
-
-# sample output 
-# 6
-# 2
-# 3
-
-
-
-# time complexity O(n)
-# space complexity O(1)
+Sample output 
+6
+2
+3
 
 
-# Other Problems that can be solved using Two Pointer Technique are:
-# 1. 3 Sum Problem
-# 2. Intersection of Sorted Arrays
-# 3. Remove Duplicates from Array
-# 4. Container with most Water
+
+Time complexity O(n)
+Space complexity O(1)
+
+
+Other Problems that can be solved using Two Pointer Technique are:
+1. 3 Sum Problem
+2. Intersection of Sorted Arrays
+3. Remove Duplicates from Array
+4. Container with most Water
+
+'''
