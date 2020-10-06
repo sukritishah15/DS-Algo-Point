@@ -163,5 +163,7 @@ Format: -[Program name](name of the file)
 
 - [priority based scheuling](priority_scheduling.cpp)
 
+- [Unique Number From Set of Numbers where every repeated number is repeated only twice](unique_number_from_other_numbers_repeated_twice.cpp)
+
 - [Z algorithm](ZAlgorithm.cpp)
 
