@@ -159,3 +159,4 @@ Format: -[Program name](name of the file)
 
 - [Z algorithm](ZAlgorithm.cpp)
 
+- [Unique Number From Set of Numbers where every repeated number is repeated only twice](unique_number_from_other_numbers_repeated_twice.cpp)
