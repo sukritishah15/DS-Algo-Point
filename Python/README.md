@@ -129,3 +129,5 @@ Format: -[Program name](name of the file)
 
 -[Power Set](Power_Set.py)
 
+-[Majority Element](majority_element.py)
+
