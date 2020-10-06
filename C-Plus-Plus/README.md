@@ -5,9 +5,15 @@ Format: -[Program name](name of the file)
 
 - [Balanced Parentheses](balance_paranthesis.cpp)
 
+- [Bellman-Ford's algo](Bellman-Ford's_algorithm.cpp)
+
 - [Binary Search](BinarySearch.cpp)
 
 - [Binary Search Tree Implementation](BinarySearchTree.cpp)
+
+- [Bucket Sort](Bucketsort.cpp)
+
+- [Check if number is automorphic](automorphic.cpp)
 
 - [Bubble Sort Implementation](BubbleSort.cpp)
 
@@ -21,12 +27,6 @@ Format: -[Program name](name of the file)
 
 - [Check Whether a Number is Neon or Not](NeonNumber.cpp)
 
-- [Clockwise array rotation](array_rotation_clocklwise.cpp)
-
-- [Fibonacci Series](Fibonacci.cpp)
-
-- [Find nth term in an A.P.](nth_term_ap.cpp)
-
 - [Coin change problem](coinchange.cpp)
 
 - [Dijkstra's Algorithm](Dijkstra.cpp)
@@ -35,6 +35,8 @@ Format: -[Program name](name of the file)
 
 - [Euclid's Algorithm: GCD of two numbers](gcd_of_two_numbers.cpp)
 
+- [Fibonacci Series](Fibonacci.cpp)
+
 - [Find nth term in an A.P.](nth_term_ap.cpp)
 
 - [Find nth term in an G.P](nth-term-gp.cpp)
@@ -42,6 +44,8 @@ Format: -[Program name](name of the file)
 - [Find the middle element in a linked list](middle_element_of_linkedlist.cpp)
 
 - [Finding Hamiltonian Cycles in a Graph](finding-hamiltonian-cycles.cpp)
+
+- [First Come First Scheduling](firstcomefirstscheduling.cpp)
 
 - [Floyd Warshall Algorithm](Floyd–Warshall.cpp)
 
@@ -59,11 +63,15 @@ Format: -[Program name](name of the file)
 
 - [Infix To Postfix](infixToPostStack.cpp)
 
+- [Interpolation Search](interpolation_search.cpp)
+
 - [Kadane's Algorithm](KadaneAlgo.cpp)
 
 - [Kosaraju's Algorithm](kosarajualgo.cpp)
 
 - [Knapsack Problem](knapsack.cpp)
+
+- [Knuth Moris Pattern Matching(KMP Algorithm)](KMP_algorithm.cpp)
 
 - [Longest length path in a matrix](longest_length_path_in_a_matrix.cpp)
 
@@ -76,6 +84,8 @@ Format: -[Program name](name of the file)
 - [Mathematical Series Demo](maths-series.cpp)
 
 - [Majority Element in Constant Space](Majority_Element.cpp)
+
+- [Manhattan Distance](manhattan_distance.cpp)
 
 - [Mean Median](mean_median.cpp)
 
@@ -99,31 +109,33 @@ Format: -[Program name](name of the file)
 
 - [PreOrder Traversal of Tree](Preorder_traversal_tree.cpp)
 
+- [Prime Factors in LogN time](prime-factors.cpp)
+
+- [Priority based scheduling](priority_scheduling.cpp)
+
 - [Remove Nth node of Linked List](Remove_Nth_node_of_Linked_List.cpp)
 
-- [Prime Factors in LogN time](prime-factors.cpp)
+- [Quick Sort on Doubly Linked List](quickSort_DoublyLinkedList.cpp)
 
 - [Radix Sort in C++](radix.cpp)
 
-- [Search an element in a sorted matrix](Search_Sorted_Matrix.cpp)
-
 - [Rat maze problem](rat_maze_backtracking.cpp)
 
-- [Topological Sort using Kahn's Algorithm](kahn-algorithm.cpp)
+- [Reverse a Linked List](reverse_a_linked_list.cpp)
+
+- [Search an element in a sorted matrix](Search_Sorted_Matrix.cpp)
 
 - [Search repeating elements](search_repeating.cpp)
 
 - [Selection Sort](selection_sort.cpp)
+
+- [Shell Sort Algorithm](shell_sort.cpp)
 
 - [Sieve of Eratosthenes](sieve_of_eratosthenes.cpp)
 
 - [Stack - Array Implementation](stackByArray.cpp)
 
 - [Stack - Linked List Implementation](stackByLinkedList.cpp)
-
-- [Twin prime](twin_prime.cpp)
-
-- [Shell Sort Algorithm](shell_sort.cpp)
 
 - [Sudoku Solver](SudokuSolver.cpp)
 
@@ -141,31 +153,8 @@ Format: -[Program name](name of the file)
 
 - [Two Pointer Algorithm](two_pointer_algorithm.cpp)
 
-- [Shell Sort Algorithm](shell_sort.cpp)
-
-- [Quick Sort on Doubly Linked List](quickSort_DoublyLinkedList.cpp)
-
-- [Knuth Moris Pattern Matching(KMP Algorithm)](KMP_algorithm.cpp)
-
-- [Check if number is automorphic](automorphic.cpp)
-
-- [Bucket Sort](Bucketsort.cpp)
-
-- [First Come First Scheduling](firstcomefirstscheduling.cpp)
-
-- [Interpolation Search](interpolation_search.cpp)
-
-- [Bellman-Ford's algo](Bellman-Ford's_algorithm.cpp)
-
-- [Tim sort](Tim_Sort.cpp)
+- [Twin prime](twin_prime.cpp)
 
 - [Value of Pi by Random Numbers](ValueOfPi.cpp)
 
-- [Manhattan Distance](manhattan_distance.cpp)
-
-- [priority based scheuling](priority_scheduling.cpp)
-
-- [Unique Number From Set of Numbers where every repeated number is repeated only twice](unique_number_from_other_numbers_repeated_twice.cpp)
-
 - [Z algorithm](ZAlgorithm.cpp)
-
