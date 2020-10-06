@@ -35,6 +35,8 @@ Format: -[Program name](name of the file)
 
 -[Delete Nth Node from Linked List](LinkedList.java)
 
+-[Diameter of BinaryTree](DiameterOfBinaryTree.java)
+
 -[Dijsktra Algorithm](Dijsktra-adjacencyList.java)
 
 -[Doubly Linked List](DList.java)
