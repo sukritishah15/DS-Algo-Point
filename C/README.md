@@ -20,6 +20,8 @@ Format:
 
 -[Linear Search.](LinearSearch.c)
 
+-[Maze Problem using Backtracking](Maze_Problem.c)
+
 -[Merge Sort](Mergesort.c)
 
 -[Quick Sort](Quick_Sort.c)
