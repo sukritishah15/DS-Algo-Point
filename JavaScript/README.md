@@ -35,4 +35,6 @@ Format: -[Program name](name of the file)
 
 -[Permutation_Combination](permutation_combination.js)
 
+-[Post Order Traversal of Tree](postOrder.js)
+
 -[Diameter of Tree](treeDiameter.js)
