@@ -5,10 +5,21 @@ import java.lang.*;
  * nth_term_of_ap
  */
 public class nth_term_of_ap {
+    private static Scanner scanner=new Scanner(System.in);
     public static void main(String[] args) {
-        int t1 = 2;
-        int t2 = 5;
-        int n = 5;
+        System.out.println("Enter the first term of A.P.");
+        int t1 = scanner.nextInt();
+        scanner.nextInt();
+
+        System.out.println("Enter the second term of A.P.");
+        int t2 = scanner.nextInt();
+        scanner.nextInt();
+
+        System.out.println("Write the position of the term you want to find out ");
+        int n = scanner.nextInt();
+        scanner.nextLine();
+
+        System.out.println("The "+n+"th term of the A.P. equals");
         System.out.println(t1+((n-1)*(t2-t1)));
         
         /* sample input 
