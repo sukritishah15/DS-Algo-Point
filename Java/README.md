@@ -126,6 +126,7 @@ Format: -[Program name](name of the file)
 -[Twin Prime](Twin_Prime.java)
 
 -[Two Pointer Algorithm](TwoPointerAlgo.java)
+
 -[Implement Radix Sort](RadixSort.java)
 
 -[Implement Radix Sort](RadixSort.java)
@@ -145,4 +146,6 @@ Format: -[Program name](name of the file)
 -[Sleep Sort](SleepSort.java)
 
 -[Bellman-Ford's algo](Bellman-Ford's_algorithm.java)
+
+-[Kruskal Algorithm](Kruskal_Algorithm.java)
 
