@@ -41,6 +41,8 @@ Format: -[Program name](name of the file)
 
 -[Harmonic Series](harmonic.py)
 
+-[Insertion Sort](insertion_sort.py)
+
 -[KMP Pattern matching algorithm](KMP Algorithm in Python.py)
 
 -[Find an element in a sorted matrix](find_element_in_sorted_matrix.py)
@@ -62,6 +64,8 @@ Format: -[Program name](name of the file)
 -[Manhattan Distance](manhattan.py)
 
 -[Maximum number formed from given digits](maximum.py)
+
+-[Mean and Median calculation](meanAndmedian.py)
 
 -[Merge Sort](mergeSort.py)
 
@@ -90,8 +94,11 @@ Format: -[Program name](name of the file)
 
 -[Shell Sort](shell_sort.py)
 
-
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
+
+-[Sleep Sort](SleepSort.py)
+
+-[Sudoku solver](sudoku solver.py)
 
 -[Stack](stack.py)
 
@@ -105,6 +112,9 @@ Format: -[Program name](name of the file)
 
 -[Dutch National Flag Problem](dutchflagproblem.py)
 
+
+-[Post Order Traversal](postordertraversal.py)
+
 -[Bellman-Ford's algo](Bellman-Ford's_algorithm.py)
 
 -[Floyd Warshall Algorithm](Floyd_Warshall_Algorithm.py)
@@ -112,3 +122,6 @@ Format: -[Program name](name of the file)
 -[Pigeonhole sort](Pigeonhole_Sort.py)
 
 -[Tower of hanoi](tower_of_hanoi.py)
+
+-[Power Set](Power_Set.py)
+

@@ -42,15 +42,23 @@ Format:
 
 -[Longest Common Subsequence](Longest_Common_Subsequence.c)
 
+-[Majority Element in O(1)](majority.c)
+
 -[Manhattan Distance](manhattanDistance.c)
 
 -[Maximum digit using given numbers](Maximum_number.c)
+
+-[Mean Median Calculation](Mean_Median_Calculation.c)
 
 -[Merge Sort](Mergesort.c)
 
 -[Neon Number](neon_number.c)
 
 -[Nth Term of GP](NthTermGP.c)
+
+-[N Queens Puzzle](nQueens.c)
+
+-[Permutations and Combinations](Permutations_And_Combinations.c)
 
 -[Postorder Tree Traversal](postorder.c)
 
@@ -60,6 +68,8 @@ Format:
 
 -[Quick Sort](Quick_Sort.c)
 
+-[Quick Sort on Doubly Linked List](quick sort in doubly linked list.c)
+
 -[Remove Nth node of Linked List](remove_nth_node.c)
 
 -[Reverse a linked list](reverse.c)
@@ -68,11 +78,15 @@ Format:
 
 -[Search in Row And Column Wise Sorted Matrix](Search_in_Row_And_Column_Wise_Sorted_Matrix.c)
 
+-[Search Repeating elements using Map/Hashmap](rep.c)
+
 -[Selection Sort](Selection_Sort_C.c)
 
 -[Singly Linked List](SinglyLL.c)
 
 -[Sum of Fibonacci Series](sumofFibonacciSeries.c)
+
+-[Twin Prime Numbers](twinPrime.C)
 
 -[Tower of Hanoi](tower_of_hanoi.c)
 
