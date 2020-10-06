@@ -78,6 +78,8 @@ Format:
 
 -[FizzBuzz](fizzbuzz.c)
 
+-[AVL Tree](AVL_Tree.c)
+
 
 
 
