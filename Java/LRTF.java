@@ -109,3 +109,17 @@ public class LRTF
 
 	}
 }
+
+// OUTPUT
+// Chosen PIDMAX: 0
+// Chosen PIDMAX: 0
+// Chosen PIDMAX: 0
+// Chosen PIDMAX: 2
+// Current time: 6
+// Chosen PIDMAX: 0
+// Current time: 8
+// Chosen PIDMAX: 1
+// Current time: 10
+// Chosen PIDMAX: 3
+// Current time: 11
+// .

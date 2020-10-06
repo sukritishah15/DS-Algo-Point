@@ -114,3 +114,16 @@ public class SRTF
 
 	}
 }
+
+// OUTPUT
+// Chosen PROCESSID: 0
+// Chosen PROCESSID: 1
+// Chosen PROCESSID: 1
+// Current time: 3
+// Chosen PROCESSID: 2
+// Chosen PROCESSID: 3
+// Current time: 4
+// Chosen PROCESSID: 2
+// Current time: 7
+// Chosen PROCESSID: 0
+// Current time: 11
