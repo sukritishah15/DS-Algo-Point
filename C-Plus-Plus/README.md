@@ -1,6 +1,8 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
+- [AVL Tree](AVLTree.cpp)
+
 - [Balanced Parentheses](balance_paranthesis.cpp)
 
 - [Binary Search](BinarySearch.cpp)
@@ -19,6 +21,8 @@ Format: -[Program name](name of the file)
 
 - [Check Whether a Number is Neon or Not](NeonNumber.cpp)
 
+- [Clockwise array rotation](array_rotation_clocklwise.cpp)
+
 - [Fibonacci Series](Fibonacci.cpp)
 
 - [Find nth term in an A.P.](nth_term_ap.cpp)
@@ -28,6 +32,8 @@ Format: -[Program name](name of the file)
 - [Dijkstra's Algorithm](Dijkstra.cpp)
 
 - [Diameter_Of_Binary_Tree](Diameter_Of_Binary_Tree.cpp)
+
+- [Euclid's Algorithm: GCD of two numbers](gcd_of_two_numbers.cpp)
 
 - [Find nth term in an A.P.](nth_term_ap.cpp)
 
@@ -74,6 +80,8 @@ Format: -[Program name](name of the file)
 - [Mean Median](mean_median.cpp)
 
 - [Minimum number of denominations using Greedy algo approach](MinDenominations_GreedyAlgo.cpp)
+
+- [N Queens Problem](n_queens_problem.cpp)
 
 - [Pancake Sorting](Pancake_sort.cpp)
 
@@ -157,5 +165,12 @@ Format: -[Program name](name of the file)
 
 - [priority based scheuling](priority_scheduling.cpp)
 
+- [Unique Number From Set of Numbers where every repeated number is repeated only twice](unique_number_from_other_numbers_repeated_twice.cpp)
+
 - [Z algorithm](ZAlgorithm.cpp)
 
+- [Multisource Dijkstra](MultiSouceDijkstra.cpp)
+
+- [Word Break](Word-Break.cpp)
+
+- [BFS with path](BFS.cpp)

@@ -7,3 +7,4 @@ Format: -[Program name](name of the file)
 
 -[Merge Sort Algorithm](MergeSort.kt)
 
+-[Rotate Array by specific given count](RotateArrayClockwise.kt)

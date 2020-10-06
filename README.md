@@ -60,7 +60,7 @@
 - Unnati Deshwal - @unnatideshwal
 - Manan Chawla - @mananchawla2005
 - Niranjan Kumar S - @niranjantuty
-- Sunil - @sunilgknair051
+- Sunil Nair- @sunilgknair051
 - Muskan Gupta - @muskangupta19
 - Priyal - @priyal2806
 - Mahima Goyal - @mahimagoyalx

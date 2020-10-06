@@ -34,3 +34,10 @@ Format: -[Program name](name of the file)
 -[Twin_Prime](twin_prime.js)
 
 -[Permutation_Combination](permutation_combination.js)
+
+-[Sleep Sort](Sleep_Sort.js)
+
+-[Post Order Traversal of Tree](postOrder.js)
+
+-[Diameter of Tree](treeDiameter.js)
+
