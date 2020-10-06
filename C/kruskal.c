@@ -109,5 +109,3 @@ int main()
 	kruskal();
 	print();
 }
-
-// ChampInMyThought
