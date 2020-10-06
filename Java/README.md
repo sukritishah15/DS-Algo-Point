@@ -1,6 +1,8 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
+-[AVL Tree Implementation](AVL_Tree_Implementation.java)
+
 -[The Dutch National Flag Problem](TheDutchNationalFlag.java)
 
 -[Height of Binary Tree](HeightOfBinaryTree.java)
@@ -45,6 +47,8 @@ Format: -[Program name](name of the file)
 
 -[Insertion Sort](Insertion_Sort.java)
 
+-[Interpolation Search](interpolationsearch.java)
+
 -[Kadane's Algorithm](kadane_algorithm.java)
 
 -[KMP Pattern Matching Algorithm ](KMPpatternMatching.java)
@@ -57,6 +61,8 @@ Format: -[Program name](name of the file)
 
 -[Longest length path in a matrix](longest_length_path.java)
 
+-[Majority Element of array in constant space](MajorityElement.java)
+
 -[Maximum Possible Number with Given Digits](MaxNumber.java)
 
 -[Maze](Maze.java)
@@ -66,6 +72,8 @@ Format: -[Program name](name of the file)
 -[Nth term of ap](nth_term_of_ap.java)
 
 -[Nth term of gp](nth_term_of_gp.java)
+
+-[Permutations and Combination](PermutationsAndCombination.java)
 
 -[Pancake Sorting](PancakeSort.java)
 
@@ -104,6 +112,9 @@ Format: -[Program name](name of the file)
 -[Twin Prime](Twin_Prime.java)
 
 -[Two Pointer Algorithm](TwoPointerAlgo.java)
+-[Implement Radix Sort](RadixSort.java)
+
+-[Implement Radix Sort](RadixSort.java)
 
 -[Implement quick sort](quick_sort.java)
 

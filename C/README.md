@@ -56,6 +56,10 @@ Format:
 
 -[Nth Term of GP](NthTermGP.c)
 
+-[N Queens Puzzle](nQueens.c)
+
+-[Permutations and Combinations](Permutations_And_Combinations.c)
+
 -[Postorder Tree Traversal](postorder.c)
 
 -[Powerset of the given set](powerset.c)
@@ -64,6 +68,8 @@ Format:
 
 -[Quick Sort](Quick_Sort.c)
 
+-[Quick Sort on Doubly Linked List](quick sort in doubly linked list.c)
+
 -[Remove Nth node of Linked List](remove_nth_node.c)
 
 -[Reverse a linked list](reverse.c)
@@ -71,6 +77,8 @@ Format:
 -[Rotate Linked List in Group of K](rotatell.c)
 
 -[Search in Row And Column Wise Sorted Matrix](Search_in_Row_And_Column_Wise_Sorted_Matrix.c)
+
+-[Search Repeating elements using Map/Hashmap](rep.c)
 
 -[Selection Sort](Selection_Sort_C.c)
 

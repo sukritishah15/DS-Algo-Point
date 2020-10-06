@@ -49,8 +49,8 @@ let root = tree.root;
 root = tree.insert(root, 10);
 root = tree.insert(root, 4);
 root = tree.insert(root, 14);
-root = tree.insert(root, 12);
-root = tree.insert(root, 11);
+root = tree.insert(root, 17);
+root = tree.insert(root, 15);
 root = tree.insert(root, 7);
 root = tree.insert(root, 6);
 root = tree.insert(root, 8);
@@ -60,13 +60,26 @@ root = tree.insert(root, 9);
 console.log('Diamter of given tree: ' + tree.findDiameter(root));
 
 /*
-*  Example
-*
-*                10
-*         4             14
-*       1   7         12
-*         6   8     11
-*               9 
-*
-* for above tree, diameter is the path from 9 to 11 ( 9-8-7-5-10-14-12-11)
+
+Time Complexity: O(n) as we are visiting every node once.
+Space Complexity: O(d) where d is the depth of the binary tree
+
+EXAMPLE
+
+Input:
+
+       10
+     /    \
+    4     14
+   / \      \
+  1   7     17
+     / \    /
+    6   8  15
+         \
+          9
+
+Output:
+
+Diameter of given tree: 8
+
 */

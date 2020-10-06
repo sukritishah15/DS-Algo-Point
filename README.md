@@ -65,6 +65,7 @@
 - Priyal - @priyal2806
 - Mahima Goyal - @mahimagoyalx
 - Paul Evans - @PaulEvans8669
+- Aman Parauliya - @parauliya
 - Arnav Roy - @arnav-roy
 - Wallace Costa - @wallacecosta
 

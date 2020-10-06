@@ -61,6 +61,10 @@ Read the [participation details](https://hacktoberfest.digitalocean.com/details)
 
 * [Introduction To Open Source (Facebook Developer)](https://www.developercircleresources.com/learningPath/open-source/)
 
+* [Introduction to Github Actions - Read Blog](https://www.infracloud.io/blogs/github-actions-demystified/)
+
+* [Knowing Few Usefull Cloud Native OpenSource Tools Quickly - Read Blogs](https://www.infracloud.io/blogs/)
+
 #### Text Resources
 * [Deep Dive Into Git](https://medium.com/@mallickdebajit3/deep-dive-into-git-2e190c5404ea)
 
