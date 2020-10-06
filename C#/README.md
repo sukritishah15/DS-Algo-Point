@@ -9,6 +9,8 @@ Format: -[Program name](name of the file)
 
 -[Mean and Median](MeanAndMedian.cs)
 
+-[Rotation of Array](RotationOfArray.cs)
+
 -[Sleep Sort](SleepSort.cs)
 
 -[TwinPrime](TwinPrime.cs)

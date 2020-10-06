@@ -41,6 +41,8 @@ Format: -[Program name](name of the file)
 
 -[Harmonic Series](harmonic.py)
 
+-[Insertion Sort](insertion_sort.py)
+
 -[KMP Pattern matching algorithm](KMP Algorithm in Python.py)
 
 -[Find an element in a sorted matrix](find_element_in_sorted_matrix.py)
