@@ -114,7 +114,7 @@ int main()
 } 
 
 /*
-Input: Hard-coded, which were given in the issue
+Input: Hard-coded, which was given in the issue
 
 Output:
 Linked List: 1->2->3->4->5->6->NULL
