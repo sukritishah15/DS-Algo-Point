@@ -163,3 +163,8 @@ Format: -[Program name](name of the file)
 
 - [Z algorithm](ZAlgorithm.cpp)
 
+- [Multisource Dijkstra](MultiSouceDijkstra.cpp)
+
+- [Word Break](Word-Break.cpp)
+
+- [BFS with path](BFS.cpp)
