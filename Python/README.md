@@ -83,7 +83,6 @@ Format: -[Program name](name of the file)
 
 -[Queue](Queue.py)
 
-
 -[QuickSort](quicksort.py)
 
 -[PreOrder Tree Traversal](preorder.py)
@@ -110,12 +109,13 @@ Format: -[Program name](name of the file)
 
 -[Ternary search](ternary_search.py)
 
+-[Traveling salesman problem](travelingSalesman.py)
+
 -[Find an element in a sorted matrix](find_element_in_sorted_matrix.py)
 
 -[Kadane's Algorithm](kadane_algorithm.py)
 
 -[Dutch National Flag Problem](dutchflagproblem.py)
-
 
 -[Post Order Traversal](postordertraversal.py)
 
