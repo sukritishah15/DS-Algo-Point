@@ -41,6 +41,8 @@ Format: -[Program name](name of the file)
 
 -[Harmonic Series](harmonic.py)
 
+-[Insertion Sort](insertion_sort.py)
+
 -[KMP Pattern matching algorithm](KMP Algorithm in Python.py)
 
 -[Find an element in a sorted matrix](find_element_in_sorted_matrix.py)
@@ -77,6 +79,8 @@ Format: -[Program name](name of the file)
 
 -[Pancake Sort](PancakeSort.py)
 
+-[Permutations and Combinations](Permutations_And_Combinations.py)
+
 -[Queue](Queue.py)
 
 
@@ -87,6 +91,8 @@ Format: -[Program name](name of the file)
 -[Radix Sort](radixsort.py)
 
 -[Remove_nth_node_from_linkedlist](remove_nth_node_from_linkedlist.py)
+
+-[Rotate the array by D elements clockwise](Rotate-array-by-D-elements.py)
 
 -[Selection Sort](selectionsort.py)
 
@@ -123,3 +129,4 @@ Format: -[Program name](name of the file)
 
 -[Power Set](Power_Set.py)
 
+-[Kruskal's Algorithm](Kruskals.py)
