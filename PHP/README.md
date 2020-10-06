@@ -15,3 +15,5 @@ Format: -[Program name](name of the file)
 
 -[Merge Sort](merge_sort.php)
 
+-[String Palindrome Check](string_palindrome.php)
+
