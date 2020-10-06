@@ -99,6 +99,10 @@ Format: -[Program name](name of the file)
 
 -[Shell Sort](ShellSort.java)
 
+-[Shortest Remaining Time Scheduling](SRTF.java)
+
+-[Longest Remaining Time Scheduling](LRTF.java)
+
 -[Singly Linked List](SList.java)
 
 -[Seive Of Eratosthenes](SeiveOfEratosthenes.java)
