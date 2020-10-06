@@ -97,6 +97,8 @@ Format: -[Program name](name of the file)
 
 -[Selection Sort](SelectionSort.java)
 
+-[sequence and series](SequenceAndSeries.java)
+
 -[Shell Sort](ShellSort.java)
 
 -[Singly Linked List](SList.java)
