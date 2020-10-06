@@ -38,6 +38,8 @@ Format:
 
 -[KMP Algorithm](kmp.c)
 
+-[Kruskal Algorithm](kruskal.c)
+
 -[Linear Search.](LinearSearch.c)
 
 -[Longest Common Subsequence](Longest_Common_Subsequence.c)
@@ -49,6 +51,8 @@ Format:
 -[Manhattan Distance](manhattanDistance.c)
 
 -[Maximum digit using given numbers](Maximum_number.c)
+
+-[Maze Problem using Backtracking](Maze_Problem.c)
 
 -[Mean Median Calculation](Mean_Median_Calculation.c)
 
@@ -107,3 +111,5 @@ Format:
 -[Bellman-Ford's algo](Bellman-Ford's_algorithm.c)
 
 -[FizzBuzz](fizzbuzz.c)
+
+-[AVL Tree](AVL_Tree.c)

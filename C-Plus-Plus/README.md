@@ -1,6 +1,8 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
+- [AVL Tree](AVLTree.cpp)
+
 - [Balanced Parentheses](balance_paranthesis.cpp)
 
 - [Binary Search](BinarySearch.cpp)
@@ -28,6 +30,8 @@ Format: -[Program name](name of the file)
 - [Dijkstra's Algorithm](Dijkstra.cpp)
 
 - [Diameter_Of_Binary_Tree](Diameter_Of_Binary_Tree.cpp)
+
+- [Euclid's Algorithm: GCD of two numbers](gcd_of_two_numbers.cpp)
 
 - [Find nth term in an A.P.](nth_term_ap.cpp)
 
@@ -74,6 +78,8 @@ Format: -[Program name](name of the file)
 - [Mean Median](mean_median.cpp)
 
 - [Minimum number of denominations using Greedy algo approach](MinDenominations_GreedyAlgo.cpp)
+
+- [N Queens Problem](n_queens_problem.cpp)
 
 - [Pancake Sorting](Pancake_sort.cpp)
 
