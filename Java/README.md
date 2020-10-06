@@ -43,6 +43,8 @@ Format: -[Program name](name of the file)
 
 -[Euclid's Algorithm for Greatest Common Divisor (GCD)](GCD.java)
 
+-[GCD](GCD_1.java)
+
 -[Heap Sort](HeapSort.java)
 
 -[Implement of Rotation of Array](RotateClockwise.java)
