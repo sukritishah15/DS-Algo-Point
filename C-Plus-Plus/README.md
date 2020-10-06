@@ -1,6 +1,8 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
+- [AVL Tree](AVLTree.cpp)
+
 - [Balanced Parentheses](balance_paranthesis.cpp)
 
 - [Binary Search](BinarySearch.cpp)
@@ -18,6 +20,8 @@ Format: -[Program name](name of the file)
 - [Check whether a number is an armstrong number](Check_Armstrong_Number.cpp)
 
 - [Check Whether a Number is Neon or Not](NeonNumber.cpp)
+
+- [Clockwise array rotation](array_rotation_clocklwise.cpp)
 
 - [Fibonacci Series](Fibonacci.cpp)
 
@@ -160,6 +164,8 @@ Format: -[Program name](name of the file)
 - [Manhattan Distance](manhattan_distance.cpp)
 
 - [priority based scheuling](priority_scheduling.cpp)
+
+- [Unique Number From Set of Numbers where every repeated number is repeated only twice](unique_number_from_other_numbers_repeated_twice.cpp)
 
 - [Z algorithm](ZAlgorithm.cpp)
 

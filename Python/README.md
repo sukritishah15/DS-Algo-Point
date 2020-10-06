@@ -127,6 +127,11 @@ Format: -[Program name](name of the file)
 
 -[Tower of hanoi](tower_of_hanoi.py)
 
+-[Two Pointers](TwoPointer.py)
+
 -[Power Set](Power_Set.py)
 
+-[Majority Element](majority_element.py)
+
 -[Kruskal's Algorithm](Kruskals.py)
+
