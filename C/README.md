@@ -16,6 +16,8 @@ Format:
 
 -[Circular Singly Linked List](circularSLL.c)
 
+-[Dutch Flag](DutchFlag.c)
+
 -[FCFS ](fcfs.c)
 
 -[Find nth term in an A.P.](AP.c)
