@@ -47,6 +47,8 @@ Format: -[Program name](name of the file)
 
 -[Insertion Sort](Insertion_Sort.java)
 
+-[Interpolation Search](interpolationsearch.java)
+
 -[Kadane's Algorithm](kadane_algorithm.java)
 
 -[KMP Pattern Matching Algorithm ](KMPpatternMatching.java)
@@ -110,6 +112,8 @@ Format: -[Program name](name of the file)
 -[Twin Prime](Twin_Prime.java)
 
 -[Two Pointer Algorithm](TwoPointerAlgo.java)
+-[Implement Radix Sort](RadixSort.java)
+
 -[Implement Radix Sort](RadixSort.java)
 
 -[Implement quick sort](quick_sort.java)

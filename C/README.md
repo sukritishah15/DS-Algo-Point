@@ -42,6 +42,8 @@ Format:
 
 -[Longest Common Subsequence](Longest_Common_Subsequence.c)
 
+-[Longest Length Path in Matrix](longestLengthPathMatrix.c)
+
 -[Majority Element in O(1)](majority.c)
 
 -[Manhattan Distance](manhattanDistance.c)
@@ -58,6 +60,8 @@ Format:
 
 -[N Queens Puzzle](nQueens.c)
 
+-[Permutations and Combinations](Permutations_And_Combinations.c)
+
 -[Postorder Tree Traversal](postorder.c)
 
 -[Powerset of the given set](powerset.c)
@@ -71,6 +75,8 @@ Format:
 -[Remove Nth node of Linked List](remove_nth_node.c)
 
 -[Reverse a linked list](reverse.c)
+
+-[Rotate Array Clockwise by k elements](RotateArrayClockwise.c)
 
 -[Rotate Linked List in Group of K](rotatell.c)
 

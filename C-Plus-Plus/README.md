@@ -33,7 +33,7 @@ Format: -[Program name](name of the file)
 
 - [Find nth term in an G.P](nth-term-gp.cpp)
 
-- [Find the middle element in a linked list](middle_element_of_linkedlist.cpp)  
+- [Find the middle element in a linked list](middle_element_of_linkedlist.cpp)
 
 - [Finding Hamiltonian Cycles in a Graph](finding-hamiltonian-cycles.cpp)
 
@@ -77,6 +77,8 @@ Format: -[Program name](name of the file)
 
 - [Pancake Sorting](Pancake_sort.cpp)
 
+- [Permutation and Combination](Permutations_And_Combinations.cpp)
+
 - [Pigeonhole Sort](pigeon.cpp)
 
 - [Postfix expression evaluation](evalPostfixStack.cpp)
@@ -102,7 +104,6 @@ Format: -[Program name](name of the file)
 - [Topological Sort using Kahn's Algorithm](kahn-algorithm.cpp)
 
 - [Search repeating elements](search_repeating.cpp)
-
 
 - [Selection Sort](selection_sort.cpp)
 
@@ -130,12 +131,14 @@ Format: -[Program name](name of the file)
 
 - [Travelling Salesman Problem](TSP_Cpp.cpp)
 
+- [Two Pointer Algorithm](two_pointer_algorithm.cpp)
+
 - [Shell Sort Algorithm](shell_sort.cpp)
 
 - [Quick Sort on Doubly Linked List](quickSort_DoublyLinkedList.cpp)
 
 - [Knuth Moris Pattern Matching(KMP Algorithm)](KMP_algorithm.cpp)
- 
+
 - [Check if number is automorphic](automorphic.cpp)
 
 - [Bucket Sort](Bucketsort.cpp)
@@ -147,6 +150,8 @@ Format: -[Program name](name of the file)
 - [Bellman-Ford's algo](Bellman-Ford's_algorithm.cpp)
 
 - [Tim sort](Tim_Sort.cpp)
+
+- [Value of Pi by Random Numbers](ValueOfPi.cpp)
 
 - [Manhattan Distance](manhattan_distance.cpp)
 
