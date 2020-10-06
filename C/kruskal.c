@@ -94,7 +94,7 @@ void print()
 		printf("\n%d\t%d\t%d",spanlist.data[i].u,spanlist.data[i].v,spanlist.data[i].w);
 		cost=cost+spanlist.data[i].w;
 	}
-    printf("\n\nCost of the spanning tree=%d",cost);
+    printf("\n\nThe spanning tree cost=%d",cost);
 }
 
 int main()
@@ -109,3 +109,24 @@ int main()
 	kruskal();
 	print();
 }
+
+//Overall time complexity = O(ElogE) + O(ElogN)
+//Overall space complexity = O(N^2)
+/*
+Input
+0 3 1 6 0 0
+3 0 5 0 3 0
+1 5 0 5 6 4
+6 0 5 0 0 2
+0 3 6 0 0 6
+0 0 4 2 6 0
+
+Output
+2	0	1
+5	3	2
+1	0	3
+4	1	3
+5	2	4
+
+The spanning tree cost = 13
+*/
