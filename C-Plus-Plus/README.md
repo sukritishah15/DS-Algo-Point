@@ -174,3 +174,9 @@ Format: -[Program name](name of the file)
 - [Word Break](Word-Break.cpp)
 
 - [BFS with path](BFS.cpp)
+
+- [Longest Path in DAG](Longest_path_in_DAG.cpp)
+
+- [K'th Parent of a node](K-th_parent_of_a_node.cpp)
+
+- [Number of ways to reach target node](Number_of_ways_to_reach_target_node.cpp)
