@@ -29,6 +29,8 @@ Format: -[Program name](name of the file)
 
 -[Circular Singly Linked List](Circular_Singly_Linked_List.py)
 
+-[Comb Sort](comb_sort.py)
+
 -[Doubly Linked List](Doubly_Linked_List.py)
 
 -[Fibonacci Series](Fibonacci.py)
