@@ -8,4 +8,12 @@ int main(){
         ans = ans ^ no;
     }
     cout<<ans<<endl;
+    /*
+        Sample Input #1: 1 1 2 3 3 4 4 5 5
+        Output : 2
+        Sample Input #2: 1 2 2 3 3 4 5 4 5
+        Output : 1
+        Time Complexity : O(N)
+        Space Complexity : O(1)
+    */
 }
