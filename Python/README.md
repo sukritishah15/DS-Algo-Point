@@ -39,6 +39,8 @@ Format: -[Program name](name of the file)
 
 -[Geometric Progression](geometric.py)
 
+-[Gcd](GreatestCommonDivisor.py)
+
 -[Harmonic Series](harmonic.py)
 
 -[Insertion Sort](insertion_sort.py)
