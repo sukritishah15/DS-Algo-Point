@@ -29,6 +29,8 @@ Format: -[Program name](name of the file)
 
 - [Diameter_Of_Binary_Tree](Diameter_Of_Binary_Tree.cpp)
 
+- [Euclid's Algorithm: GCD of two numbers](gcd_of_two_numbers.cpp)
+
 - [Find nth term in an A.P.](nth_term_ap.cpp)
 
 - [Find nth term in an G.P](nth-term-gp.cpp)
