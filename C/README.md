@@ -66,6 +66,8 @@ Format:
 
 -[Quick Sort on Doubly Linked List](quick sort in doubly linked list.c)
 
+-[Radix Sort](Radix_Sort.c)
+
 -[Remove Nth node of Linked List](remove_nth_node.c)
 
 -[Reverse a linked list](reverse.c)
