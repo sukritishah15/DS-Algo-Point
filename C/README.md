@@ -111,3 +111,5 @@ Format:
 -[Bellman-Ford's algo](Bellman-Ford's_algorithm.c)
 
 -[FizzBuzz](fizzbuzz.c)
+
+-[AVL Tree](AVL_Tree.c)
