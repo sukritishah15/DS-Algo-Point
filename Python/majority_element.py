@@ -3,7 +3,7 @@
 def majorityElement(nums, n):
     nums.sort()
     for i in range(0, n):
-        if(i+int(n/2)) < n and nums[i] == nums[int(n/2)]:
+        if(i+int(n/2)) < n and nums[i] == nums[i+int(n/2)]:
             return nums[i]
 
     return None
