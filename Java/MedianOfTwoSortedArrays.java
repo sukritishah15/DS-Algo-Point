@@ -1,26 +1,3 @@
-/* 
-Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
-
-Example 1: nums1 = [1,3], nums2 = [2]
- Output: 2.0
- 
-Explanation: merged array = [1,2,3] and median is 2.
-
-
-Example 2: nums1 = [1,2], nums2 = [3,4]
-Output: 2.5
-
-Explanation: merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5
-
-*/
-
-/*  
-Time complexity = O(log(min(m,n)))
-
-Space complexity = O(1)
-
-*/
-
 public class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
 
@@ -76,3 +53,21 @@ public class Solution {
     }
 }
 
+/*
+ 
+
+Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
+Example 1: nums1 = [1,3], nums2 = [2]
+Output: 2.0
+Explanation: merged array = [1,2,3] and median is 2.
+
+Example 2: nums1 = [1,2], nums2 = [3,4]
+Output: 2.5
+Explanation: merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5
+
+
+Time complexity = O(log(min(m,n)))
+Space complexity = O(1)
+ 
+
+*/

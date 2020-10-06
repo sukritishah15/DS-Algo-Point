@@ -67,6 +67,8 @@ Format: -[Program name](name of the file)
 
 -[Maze](Maze.java)
 
+-[Median of Two Sorted Arrays](MedianOfTwoSortedArrays)
+
 -[Merge Sort Java](MergeSort.java)
 
 -[Nth term of ap](nth_term_of_ap.java)
@@ -132,4 +134,3 @@ Format: -[Program name](name of the file)
 
 -[Bellman-Ford's algo](Bellman-Ford's_algorithm.java)
 
--[Median of Two Sorted Arraya](MedianOfTwoSortedArrays.java)
