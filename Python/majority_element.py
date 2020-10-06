@@ -20,12 +20,13 @@ else:
     print("Majority element is", result)
 
 '''        
-Time complexity ==> O(nlogn +n)
+Time complexity ==> O(nlogn)
 Space complexity=> O(1)
 I/O -->
 Enter the total number of elements
 10
 Enter a list of 10 number in a single line
 1 1 3 1 2 1 1 6 5 1
+O/P -->
 Majority element is 1
 '''
