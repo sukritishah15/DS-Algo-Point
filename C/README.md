@@ -38,6 +38,8 @@ Format:
 
 -[KMP Algorithm](kmp.c)
 
+-[Kruskal Algorithm](kruskal.c)
+
 -[Linear Search.](LinearSearch.c)
 
 -[Longest Common Subsequence](Longest_Common_Subsequence.c)
