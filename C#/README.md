@@ -13,6 +13,8 @@ Format: -[Program name](name of the file)
 
 -[Sleep Sort](SleepSort.cs)
 
+-[Tim Sort](Tim_sort.cs)
+
 -[TwinPrime](TwinPrime.cs)
 
 
