@@ -32,4 +32,16 @@ public class CollatzSequence {
         collatz(3); // 3, 10, 5, 16, 8, 4, 2, 1
         collatz(6); // 6, 3, 10, 5, 16, 8, 4, 2, 1
     }
+
+    // No known time complexity
+
+    /*
+    Sample I/O
+
+    INPUT: 3
+    OUTPUT: 3, 10, 5, 16, 8, 4, 2, 1
+
+    INPUT: 6
+    OUTPUT: 6, 3, 10, 5, 16, 8, 4, 2, 1
+     */
 }
