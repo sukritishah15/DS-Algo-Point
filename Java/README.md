@@ -17,6 +17,8 @@ Format: -[Program name](name of the file)
 
 -[Bubble Sort](bubble.java)
 
+-[Collatz Sequence](CollatzSequence.java)
+
 -[Check whether a number is Neon or not](neonNumber.java)
 
 -[Check for Armstrong number](CheckForArmstrongNo.java)
