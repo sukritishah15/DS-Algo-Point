@@ -15,3 +15,18 @@ class Swap {
 						+ x + ", y = " + y); 
 	} 
 }
+/*
+ ** Sample I/O
+ **
+ ** INPUT: x = 10 
+ 	   y = 5
+ **
+ ** OUTPUT: x = 5
+ **         y = 10
+ ** Sum till nth term.
+ **
+ ** Time complexity - O(n)
+ ** 
+ ** Space complexity - O(1)
+ **
+ */			
