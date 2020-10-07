@@ -11,6 +11,8 @@ Format: -[Program name](name of the file)
 
 -[FizzBuzz](fizzBuzz.js)
 
+-[GCD of two numbers](gcd.js)
+
 -[Linear Search](linearSearch.js)
 
 -[Kadane's Algorithm](kadaneAlgo.js)
@@ -20,6 +22,8 @@ Format: -[Program name](name of the file)
 -[QuickSort](QuickSort.js)
 
 -[Sieve of Eratosthenes](Sieve.js)
+
+-[Swap two numbers without using third variable](swapTwoNumbers.js)
 
 -[Trie](Trie.js)
 
@@ -41,3 +45,4 @@ Format: -[Program name](name of the file)
 
 -[Diameter of Tree](treeDiameter.js)
 
+-[Largest Number Formation](largest_number.js)
