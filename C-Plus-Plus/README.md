@@ -3,6 +3,8 @@ Format: -[Program name](name of the file)
 
 - [AVL Tree](AVLTree.cpp)
 
+- [BFS with path](BFS.cpp)
+
 - [Balanced Parentheses](balance_paranthesis.cpp)
 
 - [Bellman-Ford's algo](Bellman-Ford's_algorithm.cpp)
@@ -16,6 +18,10 @@ Format: -[Program name](name of the file)
 - [Check if number is automorphic](automorphic.cpp)
 
 - [Bubble Sort Implementation](BubbleSort.cpp)
+
+-[BigMod using Binary Exponentiation](Binary_Exponentiation_BigMod.cpp)
+
+-[Check whether a number is an armstrong number](Check_Armstrong_Number.cpp)
 
 - [Circular Doubly Linked List](Circular_Doubly_Linked_List.cpp)
 
@@ -65,6 +71,8 @@ Format: -[Program name](name of the file)
 
 - [Interpolation Search](interpolation_search.cpp)
 
+- [K'th Parent of a node](K-th_parent_of_a_node.cpp)
+
 - [Kadane's Algorithm](KadaneAlgo.cpp)
 
 - [Kosaraju's Algorithm](kosarajualgo.cpp)
@@ -73,13 +81,15 @@ Format: -[Program name](name of the file)
 
 - [Knuth Moris Pattern Matching(KMP Algorithm)](KMP_algorithm.cpp)
 
-- [Longest length path in a matrix](longest_length_path_in_a_matrix.cpp)
-
 - [Largest Number](largest_number.cpp)
 
 - [Linear Search](linear_search.cpp)
 
 - [Longest Common Subsequence](longest_common_subseq.cpp)
+
+- [Longest Length Path in a Matrix](longest_length_path_in_a_matrix.cpp)
+
+- [Longest Path in DAG](Longest_path_in_DAG.cpp)
 
 - [Mathematical Series Demo](maths-series.cpp)
 
@@ -91,7 +101,11 @@ Format: -[Program name](name of the file)
 
 - [Minimum number of denominations using Greedy algo approach](MinDenominations_GreedyAlgo.cpp)
 
+- [Multisource Dijkstra](MultiSouceDijkstra.cpp)
+
 - [N Queens Problem](n_queens_problem.cpp)
+
+- [Number of ways to reach target node](Number_of_ways_to_reach_target_node.cpp)
 
 - [Pancake Sorting](Pancake_sort.cpp)
 
@@ -156,5 +170,7 @@ Format: -[Program name](name of the file)
 - [Twin prime](twin_prime.cpp)
 
 - [Value of Pi by Random Numbers](ValueOfPi.cpp)
+
+- [Word Break](Word-Break.cpp)
 
 - [Z algorithm](ZAlgorithm.cpp)

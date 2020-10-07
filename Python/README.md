@@ -29,6 +29,8 @@ Format: -[Program name](name of the file)
 
 -[Circular Singly Linked List](Circular_Singly_Linked_List.py)
 
+-[Comb Sort](comb_sort.py)
+
 -[Doubly Linked List](Doubly_Linked_List.py)
 
 -[Fibonacci Series](Fibonacci.py)
@@ -38,6 +40,8 @@ Format: -[Program name](name of the file)
 -[FizzBuzz Problem](FizzBuzz.py)
 
 -[Geometric Progression](geometric.py)
+
+-[Gcd](GreatestCommonDivisor.py)
 
 -[Harmonic Series](harmonic.py)
 
@@ -54,6 +58,8 @@ Format: -[Program name](name of the file)
 -[Inorder Tree Traversal](inordder.py)
 
 -[Interpolation Search](Interpolation_Search.py)
+
+-[Karatsuba Algorithm](Karatsuba_Algorithm.py)
 
 -[Linear Search](Linear_Search.py)
 
@@ -83,7 +89,6 @@ Format: -[Program name](name of the file)
 
 -[Queue](Queue.py)
 
-
 -[QuickSort](quicksort.py)
 
 -[PreOrder Tree Traversal](preorder.py)
@@ -110,12 +115,13 @@ Format: -[Program name](name of the file)
 
 -[Ternary search](ternary_search.py)
 
+-[Traveling salesman problem](travelingSalesman.py)
+
 -[Find an element in a sorted matrix](find_element_in_sorted_matrix.py)
 
 -[Kadane's Algorithm](kadane_algorithm.py)
 
 -[Dutch National Flag Problem](dutchflagproblem.py)
-
 
 -[Post Order Traversal](postordertraversal.py)
 
