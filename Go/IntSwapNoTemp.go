@@ -31,3 +31,18 @@ func swapIntXor(x *int, y *int){
 	*y = *x^*y //y = x xor y xor y = x
 	*x = *x^*y // x = x xor y xor x = y
 }
+
+/*
+I/O =>
+This program swaps two integers without using a temp variable.
+Enter integer x :
+18
+Enter integer y : 
+-32
+x is 18, y is -32
+Swapping x and y...
+x is -32, y is 18
+
+Time complexity: O(1)
+Space complexity: O(1)
+*/
