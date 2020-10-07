@@ -1,7 +1,7 @@
 // Implemented by AmanParmar-git(https://github.com/AmanParmar-git)
 // wikipedia (https://en.wikipedia.org/wiki/Maze_generation_algorithm#Recursive_implementation)
 // demo video (https://www.youtube.com/watch?v=KkPT9OIduc8)
-
+// TheCodingTrain video (https://www.youtube.com/watch?v=HyK_Q5rrcr4)
 
 import javax.swing.*;
 import java.awt.*;
@@ -9,8 +9,8 @@ import java.util.*;
 
 public class RBMazeGen {
 
-    //you can change this 3 variables to change rect size and width,height of frame.
-    //choose specific values for width and height of frame so that divison by rectsize ends with reminder zero, else it will throw arrayoutofbound exeption. 
+    //you can change this 3 variables to change rectsize and width,height of frame.
+    //choose specific values for width and height of frame so that division by rectsize ends with remainder zero, else it will throw arrayoutofbound exeption. 
     private static final int RectSize = 20 , fheight = 1800 , fwidth = 800;
     //you can control speed with this.
     private static final int delay = 10;
@@ -152,20 +152,23 @@ public class RBMazeGen {
             g.setStroke(new BasicStroke(2));
             for(int i = 1; i < w ; i+=RectSize){
                 for(int j = 1; j < h ; j+=RectSize){
-                    if(currently.contains(arr[i/RectSize][j/RectSize])) {
+
+                    Node current = arr[i/RectSize][j/RectSize];
+
+                    if(currently.contains(current)) {
                         g.setColor(Color.green);
                         g.fillRect(i, j, RectSize, RectSize);
                     }
-                    else if(visited.contains(arr[i/RectSize][j/RectSize]))
+                    else if(visited.contains(current))
                     {
                         g.setColor(Color.WHITE);
-                        if(arr[i/RectSize][j/RectSize].isHasTop())
+                        if(current.isHasTop())
                             g.drawLine(i,j,i+RectSize,j);
-                        if(arr[i/RectSize][j/RectSize].isHasRight())
+                        if(current.isHasRight())
                             g.drawLine(i+RectSize,j,i+RectSize,j+RectSize);
-                        if(arr[i/RectSize][j/RectSize].isHasBottom())
+                        if(current.isHasBottom())
                             g.drawLine(i,j+RectSize,i+RectSize,j+RectSize);
-                        if(arr[i/RectSize][j/RectSize].isHasLeft())
+                        if(current.isHasLeft())
                             g.drawLine(i,j,i,j+RectSize);
 
                         g.setColor(Color.BLACK);
