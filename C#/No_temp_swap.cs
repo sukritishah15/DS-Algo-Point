@@ -20,7 +20,7 @@ class Swap {
  **
  ** INPUT: x = 10 
  	   y = 5
- **
+ 
  ** OUTPUT: x = 5
  **         y = 10
  ** Sum till nth term.
