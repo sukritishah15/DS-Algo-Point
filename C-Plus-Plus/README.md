@@ -167,6 +167,8 @@ Format: -[Program name](name of the file)
 
 - [Unique Number From Set of Numbers where every repeated number is repeated only twice](unique_number_from_other_numbers_repeated_twice.cpp)
 
+- [Unique Number From Set of Numbers where every repeated number is repeated only thrice](unique_number_from_other_numbers_repeated_thrice.cpp)
+
 - [Z algorithm](ZAlgorithm.cpp)
 
 - [Multisource Dijkstra](MultiSouceDijkstra.cpp)
