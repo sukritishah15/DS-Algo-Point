@@ -24,6 +24,10 @@ int main() {
 	return 0;
     /*
         Note : This logic can also be extended to numbers of form 5N+1,7N+1 ...
+		Sample Input : 
+		7
+		1 1 1 2 3 3 3
+		Output : 2
         Time Complexity : O(Nlog(num))
         Space Complexity : O(1)
     */
