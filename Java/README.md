@@ -21,6 +21,8 @@ Format: -[Program name](name of the file)
 
 -[Check for Armstrong number](CheckForArmstrongNo.java)
 
+-[Check String Palindrome](StringPalindrome.java)
+
 -[Circular Doubly Linked List](CircularDList.java)
 
 -[Circular Singly Linked List](CircularSList.java)
