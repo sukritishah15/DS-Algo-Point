@@ -64,6 +64,8 @@ Format:
 
 -[Singly Linked List](SinglyLL.c)
 
+-[String Palindrome](String_Palindrome.c)
+
 -[Sum of Fibonacci Series](sumofFibonacciSeries.c)
 
 -[Tower of Hanoi](tower_of_hanoi.c)
@@ -77,9 +79,3 @@ Format:
 -[Stack Implementation](C_STACK.C)
 
 -[FizzBuzz](fizzbuzz.c)
-
-
-
-
-
-
