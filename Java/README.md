@@ -21,6 +21,8 @@ Format: -[Program name](name of the file)
 
 -[Circular Queue](CircularQueue.java)
 
+-[Closest Pair](closestPair.java)
+
 -[Circular Singly Linked List](CircularSList.java)  
 
 -[Code to check balance paranthesis](Bracket.java)
