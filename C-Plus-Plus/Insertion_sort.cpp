@@ -63,6 +63,6 @@ OUTPUT
 Array before sorting: 5 6 0 -7 54 
 Array after sorting: -7 0 5 6 54
 ----------------
-Time complexity of Insertion sort : O(n*2)
+Time complexity of Insertion sort : O(n^2)
 Auxiliary Space complexity of Insertion sort : O(1)
 */
