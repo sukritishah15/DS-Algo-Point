@@ -1,5 +1,3 @@
-### [Recursive Backtracking MazeGeneraion](RBMazeGen.java)
+Add links to your code in Alphabetical Order. Format: -[Program name](name of the file)
 
-[wikipedia](https://en.wikipedia.org/wiki/Maze_generation_algorithm#Recursive_implementation)
-
-[demo video](https://www.youtube.com/watch?v=KkPT9OIduc8)
+-[Recursive Backtracking MazeGeneraion](RBMazeGen.java)
