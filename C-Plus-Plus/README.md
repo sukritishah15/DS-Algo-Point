@@ -101,6 +101,8 @@ Format: -[Program name](name of the file)
 
 - [Search an element in a sorted matrix](Search_Sorted_Matrix.cpp)
 
+- [String Palindrome Check](string_palindrome_check.cpp)
+
 - [Rat maze problem](rat_maze_backtracking.cpp)
 
 - [Topological Sort using Kahn's Algorithm](kahn-algorithm.cpp)
