@@ -27,6 +27,8 @@ Format: -[Program name](name of the file)
 
 -[Circular Queue](CircularQueue.java)
 
+-[Closest Pair](closestPair.java)
+
 -[Circular Singly Linked List](CircularSList.java)  
 
 -[Code to check balance paranthesis](Bracket.java)
@@ -56,6 +58,8 @@ Format: -[Program name](name of the file)
 -[Inorder Traversal Of Binary tree](inorder.java)
 
 -[Insertion Sort](Insertion_Sort.java)
+
+-[Inversion](Inversion.java)
 
 -[Interpolation Search](interpolationsearch.java)
 

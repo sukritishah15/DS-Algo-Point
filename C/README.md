@@ -6,6 +6,10 @@ Format:
 
 -[Armstrong Number Checker](Armstrong.c)
 
+-[AVL Tree](AVL_Tree.c)
+
+-[Bellman-Ford's algo](Bellman-Ford's_algorithm.c)
+
 -[Binary Search](Binary_Search.c)
 
 -[Bubble Sort](bubblesort.c)
@@ -23,6 +27,8 @@ Format:
 -[Find nth term in an A.P.](AP.c)
 
 -[Find the middle element of linked list](middle.c)
+
+-[FizzBuzz](fizzbuzz.c)
 
 -[Floyd Warshall algorithm](floyd-warshall.c)
 
@@ -96,6 +102,8 @@ Format:
 
 -[Singly Linked List](SinglyLL.c)
 
+-[String Palindrome](String_Palindrome.c)
+
 -[Sum of Fibonacci Series](sumofFibonacciSeries.c)
 
 -[Twin Prime Numbers](twinPrime.C)
@@ -112,8 +120,4 @@ Format:
 
 -[Stack Implementation](C_STACK.C)
 
--[Bellman-Ford's algo](Bellman-Ford's_algorithm.c)
 
--[FizzBuzz](fizzbuzz.c)
-
--[AVL Tree](AVL_Tree.c)
