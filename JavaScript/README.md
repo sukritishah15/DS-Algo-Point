@@ -11,6 +11,8 @@ Format: -[Program name](name of the file)
 
 -[FizzBuzz](fizzBuzz.js)
 
+-[GCD of two numbers](gcd.js)
+
 -[Linear Search](linearSearch.js)
 
 -[Kadane's Algorithm](kadaneAlgo.js)
