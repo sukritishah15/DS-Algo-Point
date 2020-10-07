@@ -23,6 +23,8 @@ Format: -[Program name](name of the file)
 
 -[Sieve of Eratosthenes](Sieve.js)
 
+-[Swap two numbers without using third variable](swapTwoNumbers.js)
+
 -[Trie](Trie.js)
 
 -[Manhattan distance](Manhattan_distance.js)
