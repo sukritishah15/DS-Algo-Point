@@ -1,11 +1,12 @@
 Add links to your code in Alphabetical Order.
+
 Format: -[Program name](name of the file)
 
 -[0/1 Knapsack Problem using Dynamic Programming approach](Knapsack_DP.py)
 
 -[Arithmetic Progression](arithmetic.py)
 
--[AVL Tree](avl tree.py)
+-[AVL Tree](avl-tree.py)
 
 -[Automorphic Number](automorphic.py)
 
@@ -47,7 +48,7 @@ Format: -[Program name](name of the file)
 
 -[Insertion Sort](insertion_sort.py)
 
--[KMP Pattern matching algorithm](KMP Algorithm in Python.py)
+-[KMP Pattern matching algorithm](KMPAlgorithminPython.py)
 
 -[Find an element in a sorted matrix](find_element_in_sorted_matrix.py)
 
@@ -56,6 +57,8 @@ Format: -[Program name](name of the file)
 -[Heap Sort](Heap_sort.py)
 
 -[Inorder Tree Traversal](inordder.py)
+
+-[Insertion Sort](Insertion-Sort.py)
 
 -[Interpolation Search](Interpolation_Search.py)
 
@@ -109,11 +112,11 @@ Format: -[Program name](name of the file)
 
 -[Sleep Sort](SleepSort.py)
 
--[Sudoku solver](sudoku solver.py)
+-[Sudoku solver](sudoku-solver.py)
 
 -[Stack](stack.py)
 
--[Timsort Algorithm](Tim sort Algorithm in Python.py)
+-[Timsort Algorithm](Tim-sort-Algorithm-in-Python.py)
 
 -[Ternary search](ternary_search.py)
 
