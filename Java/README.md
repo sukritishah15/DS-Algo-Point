@@ -129,6 +129,8 @@ Format: -[Program name](name of the file)
 
 -[Seive Of Eratosthenes](SeiveOfEratosthenes.java)
 
+-[Swap Two Numbers Without Third Variable](SwapNumbersWithoutThirdVariable.java)
+
 -[Tarjan Algorithm](tarjan.java)
 
 -[Tower of Hanoi](tower-of-hanoi.java)
