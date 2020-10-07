@@ -63,6 +63,8 @@ Format: -[Program name](name of the file)
 
 - [Infix To Postfix](infixToPostStack.cpp)
 
+- [Insertion Sort](Insertion_sort.cpp)
+
 - [Kadane's Algorithm](KadaneAlgo.cpp)
 
 - [Kosaraju's Algorithm](kosarajualgo.cpp)
