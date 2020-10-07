@@ -147,6 +147,8 @@ Format: -[Program name](name of the file)
 
 - [Shell Sort Algorithm](shell_sort.cpp)
 
+- [Stack - Infix and Postfix Example](Stack_Example.cpp)
+
 - [Quick Sort on Doubly Linked List](quickSort_DoublyLinkedList.cpp)
 
 - [Knuth Moris Pattern Matching(KMP Algorithm)](KMP_algorithm.cpp)
