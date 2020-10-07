@@ -1,6 +1,8 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
+-[CollatzSequence].(CollatzSequence.cs)
+
 -[Fibonacci Numbers](Fibonacci.cs)
 
 -[Bubble Sort](BubbleSort.cs)
