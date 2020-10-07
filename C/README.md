@@ -66,6 +66,8 @@ Format:
 
 -[Merge Sort](Mergesort.c)
 
+-[Minimum number of denominations (Indian Currency) using Greedy algo approach](MinDenominations_GreedyAlgo.c)
+
 -[Neon Number](neon_number.c)
 
 -[Nth Term of GP](NthTermGP.c)
