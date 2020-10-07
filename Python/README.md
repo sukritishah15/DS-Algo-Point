@@ -141,3 +141,4 @@ Format: -[Program name](name of the file)
 
 -[Kruskal's Algorithm](Kruskals.py)
 
+-[Unique Number From A Set of Numbers repeated twice except unique number](unique_number_repeated_twice_except_unique_number.py)
