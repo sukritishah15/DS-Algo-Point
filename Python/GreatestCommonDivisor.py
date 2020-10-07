@@ -1,4 +1,4 @@
-def (a,b): 
+def GreatestCommonDivisor(a,b): 
     if(b==0): 
         return a 
     else: 
