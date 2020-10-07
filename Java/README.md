@@ -45,6 +45,8 @@ Format: -[Program name](name of the file)
 
 -[Insertion Sort](Insertion_Sort.java)
 
+-[Inversions](Inversion.java)
+
 -[Kadane's Algorithm](kadane_algorithm.java)
 
 -[KMP Pattern Matching Algorithm ](KMPpatternMatching.java)
