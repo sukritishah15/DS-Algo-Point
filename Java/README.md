@@ -49,6 +49,8 @@ Format: -[Program name](name of the file)
 
 -[Find middle element in a Linked List](Middle_element_of_a_Linked_List.java)
 
+-[FizzBuzz](FizzBuzz.java)
+
 -[Euclid's Algorithm for Greatest Common Divisor (GCD)](GCD.java)
 
 -[GCD](GCD_1.java)
