@@ -57,6 +57,8 @@ Format: -[Program name](name of the file)
 
 -[Interpolation Search](Interpolation_Search.py)
 
+-[Karatsuba Algorithm](Karatsuba_Algorithm.py)
+
 -[Linear Search](Linear_Search.py)
 
 -[Longest Common Subsequence](lcs.py)
