@@ -6,6 +6,10 @@ Format:
 
 -[Armstrong Number Checker](Armstrong.c)
 
+-[AVL Tree](AVL_Tree.c)
+
+-[Bellman-Ford's algo](Bellman-Ford's_algorithm.c)
+
 -[Binary Search](Binary_Search.c)
 
 -[Bubble Sort](bubblesort.c)
@@ -16,11 +20,15 @@ Format:
 
 -[Circular Singly Linked List](circularSLL.c)
 
+-[Dutch Flag](DutchFlag.c)
+
 -[FCFS ](fcfs.c)
 
 -[Find nth term in an A.P.](AP.c)
 
 -[Find the middle element of linked list](middle.c)
+
+-[FizzBuzz](fizzbuzz.c)
 
 -[Floyd Warshall algorithm](floyd-warshall.c)
 
@@ -38,15 +46,21 @@ Format:
 
 -[KMP Algorithm](kmp.c)
 
+-[Kruskal Algorithm](kruskal.c)
+
 -[Linear Search.](LinearSearch.c)
 
 -[Longest Common Subsequence](Longest_Common_Subsequence.c)
+
+-[Longest Length Path in Matrix](longestLengthPathMatrix.c)
 
 -[Majority Element in O(1)](majority.c)
 
 -[Manhattan Distance](manhattanDistance.c)
 
 -[Maximum digit using given numbers](Maximum_number.c)
+
+-[Maze Problem using Backtracking](Maze_Problem.c)
 
 -[Mean Median Calculation](Mean_Median_Calculation.c)
 
@@ -55,6 +69,10 @@ Format:
 -[Neon Number](neon_number.c)
 
 -[Nth Term of GP](NthTermGP.c)
+
+-[N Queens Puzzle](nQueens.c)
+
+-[Permutations and Combinations](Permutations_And_Combinations.c)
 
 -[Postorder Tree Traversal](postorder.c)
 
@@ -66,9 +84,13 @@ Format:
 
 -[Quick Sort on Doubly Linked List](quick sort in doubly linked list.c)
 
+-[Radix Sort](Radix_Sort.c)
+
 -[Remove Nth node of Linked List](remove_nth_node.c)
 
 -[Reverse a linked list](reverse.c)
+
+-[Rotate Array Clockwise by k elements](RotateArrayClockwise.c)
 
 -[Rotate Linked List in Group of K](rotatell.c)
 
@@ -79,6 +101,8 @@ Format:
 -[Selection Sort](Selection_Sort_C.c)
 
 -[Singly Linked List](SinglyLL.c)
+
+-[String Palindrome](String_Palindrome.c)
 
 -[Sum of Fibonacci Series](sumofFibonacciSeries.c)
 
@@ -96,6 +120,4 @@ Format:
 
 -[Stack Implementation](C_STACK.C)
 
--[Bellman-Ford's algo](Bellman-Ford's_algorithm.c)
 
--[FizzBuzz](fizzbuzz.c)

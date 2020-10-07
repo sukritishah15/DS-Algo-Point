@@ -1,6 +1,10 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
+-[Approximating PI value](approxing_pi.java)
+
+-[AVL Tree Implementation](AVL_Tree_Implementation.java)
+
 -[The Dutch National Flag Problem](TheDutchNationalFlag.java)
 
 -[Height of Binary Tree](HeightOfBinaryTree.java)
@@ -23,6 +27,8 @@ Format: -[Program name](name of the file)
 
 -[Circular Queue](CircularQueue.java)
 
+-[Closest Pair](closestPair.java)
+
 -[Circular Singly Linked List](CircularSList.java)  
 
 -[Code to check balance paranthesis](Bracket.java)
@@ -31,19 +37,31 @@ Format: -[Program name](name of the file)
 
 -[Delete Nth Node from Linked List](LinkedList.java)
 
+-[Diameter of BinaryTree](DiameterOfBinaryTree.java)
+
 -[Dijsktra Algorithm](Dijsktra-adjacencyList.java)
 
 -[Doubly Linked List](DList.java)
+
+-[Fibonnaci Numbers](FibonnaciNumbers.java)
 
 -[Find middle element in a Linked List](Middle_element_of_a_Linked_List.java)
 
 -[Euclid's Algorithm for Greatest Common Divisor (GCD)](GCD.java)
 
+-[GCD](GCD_1.java)
+
 -[Heap Sort](HeapSort.java)
+
+-[Implement of Rotation of Array](RotateClockwise.java)
 
 -[Inorder Traversal Of Binary tree](inorder.java)
 
 -[Insertion Sort](Insertion_Sort.java)
+
+-[Inversion](Inversion.java)
+
+-[Interpolation Search](interpolationsearch.java)
 
 -[Kadane's Algorithm](kadane_algorithm.java)
 
@@ -62,6 +80,8 @@ Format: -[Program name](name of the file)
 -[Maximum Possible Number with Given Digits](MaxNumber.java)
 
 -[Maze](Maze.java)
+
+-[Median of Two Sorted Arrays](MedianOfTwoSortedArrays)
 
 -[Merge Sort Java](MergeSort.java)
 
@@ -93,7 +113,13 @@ Format: -[Program name](name of the file)
 
 -[Selection Sort](SelectionSort.java)
 
+-[sequence and series](SequenceAndSeries.java)
+
 -[Shell Sort](ShellSort.java)
+
+-[Shortest Remaining Time Scheduling](SRTF.java)
+
+-[Longest Remaining Time Scheduling](LRTF.java)
 
 -[Singly Linked List](SList.java)
 
@@ -108,6 +134,9 @@ Format: -[Program name](name of the file)
 -[Twin Prime](Twin_Prime.java)
 
 -[Two Pointer Algorithm](TwoPointerAlgo.java)
+
+-[Implement Radix Sort](RadixSort.java)
+
 -[Implement Radix Sort](RadixSort.java)
 
 -[Implement quick sort](quick_sort.java)
@@ -125,3 +154,6 @@ Format: -[Program name](name of the file)
 -[Sleep Sort](SleepSort.java)
 
 -[Bellman-Ford's algo](Bellman-Ford's_algorithm.java)
+
+-[Kruskal Algorithm](Kruskal_Algorithm.java)
+

@@ -1,6 +1,8 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
+- [AVL Tree](AVLTree.cpp)
+
 - [Balanced Parentheses](balance_paranthesis.cpp)
 
 - [Binary Search](BinarySearch.cpp)
@@ -8,6 +10,10 @@ Format: -[Program name](name of the file)
 - [Binary Search Tree Implementation](BinarySearchTree.cpp)
 
 - [Bubble Sort Implementation](BubbleSort.cpp)
+
+-[BigMod using Binary Exponentiation](Binary_Exponentiation_BigMod.cpp)
+
+-[Check whether a number is an armstrong number](Check_Armstrong_Number.cpp)
 
 - [Circular Doubly Linked List](Circular_Doubly_Linked_List.cpp)
 
@@ -19,6 +25,8 @@ Format: -[Program name](name of the file)
 
 - [Check Whether a Number is Neon or Not](NeonNumber.cpp)
 
+- [Clockwise array rotation](array_rotation_clocklwise.cpp)
+
 - [Fibonacci Series](Fibonacci.cpp)
 
 - [Find nth term in an A.P.](nth_term_ap.cpp)
@@ -29,11 +37,13 @@ Format: -[Program name](name of the file)
 
 - [Diameter_Of_Binary_Tree](Diameter_Of_Binary_Tree.cpp)
 
+- [Euclid's Algorithm: GCD of two numbers](gcd_of_two_numbers.cpp)
+
 - [Find nth term in an A.P.](nth_term_ap.cpp)
 
 - [Find nth term in an G.P](nth-term-gp.cpp)
 
-- [Find the middle element in a linked list](middle_element_of_linkedlist.cpp)  
+- [Find the middle element in a linked list](middle_element_of_linkedlist.cpp)
 
 - [Finding Hamiltonian Cycles in a Graph](finding-hamiltonian-cycles.cpp)
 
@@ -75,7 +85,11 @@ Format: -[Program name](name of the file)
 
 - [Minimum number of denominations using Greedy algo approach](MinDenominations_GreedyAlgo.cpp)
 
+- [N Queens Problem](n_queens_problem.cpp)
+
 - [Pancake Sorting](Pancake_sort.cpp)
+
+- [Permutation and Combination](Permutations_And_Combinations.cpp)
 
 - [Pigeonhole Sort](pigeon.cpp)
 
@@ -103,7 +117,6 @@ Format: -[Program name](name of the file)
 
 - [Search repeating elements](search_repeating.cpp)
 
-
 - [Selection Sort](selection_sort.cpp)
 
 - [Sieve of Eratosthenes](sieve_of_eratosthenes.cpp)
@@ -130,12 +143,14 @@ Format: -[Program name](name of the file)
 
 - [Travelling Salesman Problem](TSP_Cpp.cpp)
 
+- [Two Pointer Algorithm](two_pointer_algorithm.cpp)
+
 - [Shell Sort Algorithm](shell_sort.cpp)
 
 - [Quick Sort on Doubly Linked List](quickSort_DoublyLinkedList.cpp)
 
 - [Knuth Moris Pattern Matching(KMP Algorithm)](KMP_algorithm.cpp)
- 
+
 - [Check if number is automorphic](automorphic.cpp)
 
 - [Bucket Sort](Bucketsort.cpp)
@@ -148,7 +163,26 @@ Format: -[Program name](name of the file)
 
 - [Tim sort](Tim_Sort.cpp)
 
+- [Value of Pi by Random Numbers](ValueOfPi.cpp)
+
 - [Manhattan Distance](manhattan_distance.cpp)
 
 - [priority based scheuling](priority_scheduling.cpp)
 
+- [Unique Number From Set of Numbers where every repeated number is repeated only twice](unique_number_from_other_numbers_repeated_twice.cpp)
+
+- [Unique Number From Set of Numbers where every repeated number is repeated only thrice](unique_number_from_other_numbers_repeated_thrice.cpp)
+
+- [Z algorithm](ZAlgorithm.cpp)
+
+- [Multisource Dijkstra](MultiSouceDijkstra.cpp)
+
+- [Word Break](Word-Break.cpp)
+
+- [BFS with path](BFS.cpp)
+
+- [Longest Path in DAG](Longest_path_in_DAG.cpp)
+
+- [K'th Parent of a node](K-th_parent_of_a_node.cpp)
+
+- [Number of ways to reach target node](Number_of_ways_to_reach_target_node.cpp)

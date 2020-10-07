@@ -11,6 +11,8 @@ Format: -[Program name](name of the file)
 
 -[FizzBuzz](fizzBuzz.js)
 
+-[GCD of two numbers](gcd.js)
+
 -[Linear Search](linearSearch.js)
 
 -[Kadane's Algorithm](kadaneAlgo.js)
@@ -34,3 +36,11 @@ Format: -[Program name](name of the file)
 -[Twin_Prime](twin_prime.js)
 
 -[Permutation_Combination](permutation_combination.js)
+
+-[Sleep Sort](Sleep_Sort.js)
+
+-[Post Order Traversal of Tree](postOrder.js)
+
+-[Diameter of Tree](treeDiameter.js)
+
+-[Largest Number Formation](largest_number.js)

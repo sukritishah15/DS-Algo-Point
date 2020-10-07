@@ -9,12 +9,14 @@ Format: -[Program name](name of the file)
 
 -[Mean and Median](MeanAndMedian.cs)
 
+-[Power Set](Power_Set.cs)
+
+-[Rotation of Array](RotationOfArray.cs)
+
 -[Sleep Sort](SleepSort.cs)
 
 -[Swap without temp variable](No_temp_swap.cs)
 
+-[Tim Sort](Tim_sort.cs)
+
 -[TwinPrime](TwinPrime.cs)
-
-
-
-
