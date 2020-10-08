@@ -24,6 +24,8 @@ Format:
 
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
 
+-[Singly Linked List](SinglyLinkedList.py)
+
 -[Linear Search](Linear_Search.py)
 
 -[Stack](stack.py)
