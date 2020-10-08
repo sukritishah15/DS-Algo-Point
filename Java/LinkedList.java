@@ -107,8 +107,67 @@ public class LinkedList {
 
     }
 
+    public boolean clear() {
+        head = null;
+        return true;
+    }
+
+    /* indexOf Methods */
+
+    public int indexOf(int value) {
+        int index = 0;
+        if (head == null) {
+            return -1;
+        }
+        Node current = head;
+        while (current != null) {
+            if (current.data == value) {
+                return index;
+            }
+            current = current.next;
+            index++;
+        }
+        return -1;
+    }
+
+    public int indexOfFirstAppearance(int value) {
+        return indexOf(value);
+    }
+
+    public int indexOfLastAppearance(int value) {
+        int index = 0;
+        int position = -1;
+        if (head == null) {
+            return -1;
+        }
+        Node current = head;
+        while (current != null) {
+            if (current.data == value) {
+                position = index;
+            }
+            current = current.next;
+            index++;
+        }
+        return position;
+    }
+
 
     /* Other Methods */
+
+    public boolean contains(int value) {
+        if (head == null) {
+            return false;
+        }
+        Node current = head;
+        while (current != null) {
+            if (current.data == value) {
+                return true;
+            }
+            current = current.next;
+        }
+        return false;
+    }
+
     public int size() {
         return size;
     }
@@ -148,6 +207,7 @@ public class LinkedList {
             this.data = data;
         }
     }
+
     /*
     Space Complexity: O(n)
     Time Complexity: O(n)
