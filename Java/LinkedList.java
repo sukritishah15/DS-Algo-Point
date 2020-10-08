@@ -3,6 +3,7 @@ public class LinkedList {
     private Node head;
     private int size;
 
+    /* Add Methods */
     public boolean add(int value) {
         if (head == null) {
             head = new Node(value);
@@ -54,6 +55,60 @@ public class LinkedList {
         return true;
     }
 
+    /* Remove Methods */
+
+    public boolean remove(int value) {
+        if (head == null) {
+            return false;
+        }
+        if (head.data == value) {
+            head = head.next;
+            size--;
+            return true;
+        }
+        Node current = head;
+        while (current.next != null) {
+            if (current.next.data == value) {
+                size--;
+                current.next = current.next.next;
+                return true;
+            }
+            current = current.next;
+        }
+        return false;
+    }
+
+    public boolean removeAtLocation(int value, int location) {
+        if (head == null) {
+            return false;
+        }
+        if (location > size) {
+            return false;
+        }
+        if (location == 0 && head.data == value) {
+            head = head.next;
+            size--;
+            return true;
+        }
+
+        Node current = head;
+
+        for (int i = 0; i < location-1; i++) {
+            current = current.next;
+        }
+
+        if (current.next.data == value) {
+            current.next = current.next.next;
+            size--;
+            return true;
+        }
+
+        return false;
+
+    }
+
+
+    /* Other Methods */
     public int size() {
         return size;
     }
@@ -72,18 +127,19 @@ public class LinkedList {
         return output;
     }
 
-
+    /* Main Methods */
     public static void main(String[] args) {
         LinkedList list = new LinkedList();
         list.add(3);
-        list.add(2);
+        list.add(3);
         list.add(7);
         list.addAtLocation(1, 2);
         list.addAtLocation(4, 9);
         System.out.println(list.toString());
-        // 3 3 1 7 4
     }
 
+
+    /* Node Class*/
     private class Node {
         int data;
         Node next;
@@ -92,7 +148,6 @@ public class LinkedList {
             this.data = data;
         }
     }
-
     /*
     Space Complexity: O(n)
     Time Complexity: O(n)
