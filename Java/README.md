@@ -93,6 +93,8 @@ Format: -[Program name](name of the file)
 
 -[Merge Sort Java](MergeSort.java)
 
+-[Minimum product subset](MinimumProductSubset.java)
+
 -[Minimum number of denominations using Greedy algo approach](MinDenominations_GreedyAlgo.java)
 
 -[Nth term of ap](nth_term_of_ap.java)
