@@ -21,6 +21,8 @@ Format: -[Program name](name of the file)
 
 -[Check for Armstrong number](CheckForArmstrongNo.java)
 
+-[Check String Palindrome](StringPalindrome.java)
+
 -[Circular Doubly Linked List](CircularDList.java)
 
 -[Circular Singly Linked List](CircularSList.java)
@@ -48,6 +50,8 @@ Format: -[Program name](name of the file)
 -[Fibonnaci Numbers](FibonnaciNumbers.java)
 
 -[Find middle element in a Linked List](Middle_element_of_a_Linked_List.java)
+
+-[FizzBuzz](FizzBuzz.java)
 
 -[Floyd Warshall Algorithm](FloydWarshall.java)
 
