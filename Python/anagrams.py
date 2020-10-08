@@ -18,6 +18,6 @@ string2=ACT
 Sample Output:
 true
 
-Time complexity : O(N)
+Time complexity : O(N log N)
 Space complexity: O(1)
 '''
