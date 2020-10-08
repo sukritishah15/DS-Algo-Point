@@ -79,7 +79,6 @@ Format: -[Program name](name of the file)
 
 -[Queue](Queue.py)
 
-
 -[QuickSort](quicksort.py)
 
 -[PreOrder Tree Traversal](preorder.py)
@@ -92,7 +91,6 @@ Format: -[Program name](name of the file)
 
 -[Shell Sort](shell_sort.py)
 
-
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
 
 -[Stack](stack.py)
@@ -100,6 +98,8 @@ Format: -[Program name](name of the file)
 -[Timsort Algorithm](Tim sort Algorithm in Python.py)
 
 -[Ternary search](ternary_search.py)
+
+-[Value of Pi](valueofPi.py)
 
 -[Find an element in a sorted matrix](find_element_in_sorted_matrix.py)
 
