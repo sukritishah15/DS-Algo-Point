@@ -69,8 +69,8 @@ const knapSackSolution = (items, totalCapacity) => {
 /*  Name of Algorithm : Kadane's Algorithm
 Time Complexity : O(n)
 Space Complexity : O(1)
-The first argument is the array of objects with weight and items, second argument is 
-the total capacity of the bag.  */
+The first argument is the array of objects with weight and items, second argument is
+the total capacity of the bag.
 
 
 const items = [{
@@ -90,4 +90,13 @@ const items = [{
 let value = knapSackSolution(items, 15);
 console.log(value);
 
-Output: 
+Output: {
+    Maximum Value: 3,
+    Solution Set: [{
+    index: 2,
+    weight: 10
+  }, {
+    index: 1,
+    weight: 5
+  }]
+  }  */
