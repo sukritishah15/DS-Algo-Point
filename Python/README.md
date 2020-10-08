@@ -122,6 +122,8 @@ Format: -[Program name](name of the file)
 
 -[Ternary search](ternary_search.py)
 
+-[Value of Pi](valueofPi.py)
+
 -[Traveling salesman problem](travelingSalesman.py)
 
 -[Find an element in a sorted matrix](find_element_in_sorted_matrix.py)
