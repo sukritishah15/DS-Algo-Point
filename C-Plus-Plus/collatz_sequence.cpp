@@ -13,7 +13,7 @@ using namespace std;
 
 void collatz_sequence(int n)
 {
-    vector<int> answer;
+    
     if(n<=0)
     {
         cout<<"Collatz Sequence is not possible";
