@@ -11,11 +11,19 @@ Format: -[Program name](name of the file)
 
 -[FizzBuzz](fizzBuzz.js)
 
+-[GCD of two numbers](gcd.js)
+
+-[Linear Search](linearSearch.js)
+
 -[Kadane's Algorithm](kadaneAlgo.js)
 
 -[Pancake Sorting](pancakeSorting.js)
 
+-[QuickSort](QuickSort.js)
+
 -[Sieve of Eratosthenes](Sieve.js)
+
+-[Swap two numbers without using third variable](swapTwoNumbers.js)
 
 -[Trie](Trie.js)
 
@@ -25,4 +33,18 @@ Format: -[Program name](name of the file)
 
 -[Mean and Median calculation](mean_median.js)
 
+-[Merge Sort](mergesort.js)
 
+-[Twin_Prime](twin_prime.js)
+
+-[Permutation_Combination](permutation_combination.js)
+
+-[Sleep Sort](Sleep_Sort.js)
+
+-[Post Order Traversal of Tree](postOrder.js)
+
+-[Diameter of Tree](treeDiameter.js)
+
+-[Largest Number Formation](largest_number.js)
+
+-[Counting sort](CountSort.js)
