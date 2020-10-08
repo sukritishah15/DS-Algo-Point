@@ -19,6 +19,8 @@ Format: -[Program name](name of the file)
 
 - [Check Whether a Number is Neon or Not](NeonNumber.cpp)
 
+- [Collatz Sequence](collatz_sequence.cpp)
+
 - [Counting Sort](counting_sort.cpp)
 
 - [Fibonacci Series](Fibonacci.cpp)
