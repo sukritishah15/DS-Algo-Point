@@ -1,4 +1,4 @@
-class FloydWarshall:
+class Algorithms.FloydWarshall:
     """
     Implements : Floyd Warshall Algorithm
     Inputs     : Adjaceny Matrix (list of lists)
@@ -45,7 +45,7 @@ def main():
              [float('inf'), float('inf'), float('inf'), 0]]
 
 
-    floyd = FloydWarshall(graph)
+    floyd = Algorithms.FloydWarshall(graph)
     floyd.run()
     floyd.print_distance()
 

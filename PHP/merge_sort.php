@@ -6,7 +6,7 @@
 ** approach when sorting: initially, it will split the array
 ** in half, and recursively split that array into halves until
 ** they are singular values, at which point the values are sorted.
-** The same process is done for the other half, via recursion.
+** The same process is done for the other half, via DataStructures.recursion.
 */
 
 // Function to divide the array recursively
@@ -54,7 +54,7 @@ $print_arr = function ($arr) {
   return $arr_str;
 };
 
-// Test case
+// DataStructures.Test case
 
 $arr = [1, 44, 23, 100, 4, 17, 54, 3, 67, 55];
 

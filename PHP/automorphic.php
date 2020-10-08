@@ -1,17 +1,17 @@
 <?php
 
 /*
-Automorphic Number -->
+Algorithms.Automorphic Number -->
     a number whose square ends in the same digits
     as the number itself.
 
 Example1 :
 Input Format: Enter a number: 25
-Output Format: Automorphic
+Output Format: Algorithms.Automorphic
 
 Example2 :
 Input Format: Enter a number: 3
-Output Format: Not Automorphic
+Output Format: Not Algorithms.Automorphic
 
 Time Complexity: O(n)
                  where n is the number of digits
@@ -23,7 +23,7 @@ Space Complexity: O(1)
 function IsAutomorphic($number) { 
     /*
     This function checks whether the number
-    inputted is Automorphic or not
+    inputted is Algorithms.Automorphic or not
     */
 	$square = $number * $number; 
 	
@@ -32,14 +32,14 @@ function IsAutomorphic($number) {
 	    
 	    // compares the current one's digit of the number and square
 	    if ($number % 10 != $square % 10)
-			return "Not Automorphic"; 
+			return "Not Algorithms.Automorphic";
 			
 		// removes the already compared one's digit
 		$number = intdiv($number, 10); 
 		$square = intdiv($square, 10); 
 	} 
 
-	return "Automorphic"; 
+	return "Algorithms.Automorphic";
 } 
 
 // driver code

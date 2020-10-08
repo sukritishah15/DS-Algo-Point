@@ -10,9 +10,9 @@ When you’re on the main page of a repository, you’ll see a button to "Star" 
 
 GitHub repository URLs will reference both the username associated with the owner of the repository, as well as the repository name. 
 
-For example, sukritishah15 is the owner of this repository, so the GitHub URL for this is: https://github.com/sukritishah15/DS-Algo-Point
+For example, sukritishah15 is the owner of this repository, so the GitHub URL for this is: https://github.com/sukritishah15/DS-Algo-Algorithms.Point
 
-Once you fork this repository, a copy of this repository will be created on your GitHub account. You will be the owner of this newly created repository, so the GitHub URL for this will be: https://github.com/your-username/DS-Algo-Point
+Once you fork this repository, a copy of this repository will be created on your GitHub account. You will be the owner of this newly created repository, so the GitHub URL for this will be: https://github.com/your-username/DS-Algo-Algorithms.Point
 
 ### 2. Clone the Repository
 
@@ -21,21 +21,21 @@ To make your own local copy of the repository (on your local machine, say laptop
 We’ll use the `git clone` command along with the URL that points to your fork of the repository.
 
 This URL will be similar to the URL above, except now it will end with `.git.` The URL will look like this:
-https://github.com/your-username/DS-Algo-Point.git
+https://github.com/your-username/DS-Algo-Algorithms.Point.git
 
 You can alternatively copy the URL by using the green “Clone or download” button from your repository page that you just forked from the original repository page. Once you click the button, you’ll be able to copy the URL by clicking the binder button next to the URL.
 
 Once we have the URL, we’re ready to clone the repository. To do this, we’ll combine the git clone command with the repository URL from the command line in a terminal window:
 
-`git clone https://github.com/your-username/DS-Algo-Point.git`
+`git clone https://github.com/your-username/DS-Algo-Algorithms.Point.git`
 
 ### 3. Create a New Branch
 
 To create your branch, from your terminal window, change your directory so that you are working in the directory of the repository. 
 
-Be sure to use the actual name of the repository (i.e. DS-Algo-Point) to switch into that directory.
+Be sure to use the actual name of the repository (i.e. DS-Algo-Algorithms.Point) to switch into that directory.
 
-##### `cd DS-Algo-Point`
+##### `cd DS-Algo-Algorithms.Point`
 
 Now, we’ll create our new branch with the git branch command. Make sure you name it descriptively so that others working on the project understand what you are working on.
 
@@ -89,7 +89,7 @@ We’ll first go over configuring a remote for the fork, then syncing the fork.
 
 Next up, you’ll have to specify a new remote upstream repository for us to sync with the fork. This will be the original repository that you forked from. you’ll have to do this with the git remote add command.
 
-##### `git remote add upstream https://github.com/sukritishah15/DS-Algo-Point.git`
+##### `git remote add upstream https://github.com/sukritishah15/DS-Algo-Algorithms.Point.git`
 
 In this example, // upstream // is the shortname we have supplied for the remote repository since in terms of Git, “upstream” refers to the repository that you cloned from. If you want to add a remote pointer to the repository of a collaborator, you may want to provide that collaborator’s username or a shortened nickname for the shortname.
 

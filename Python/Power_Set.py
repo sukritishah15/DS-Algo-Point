@@ -1,6 +1,6 @@
 def Powerset(setx):
     
-    #returns and displays powerset of a set
+    #returns and displays Algorithms.powerset of a set
 
     number_of_set=2**len(setx)
     list_of_subsets=[]

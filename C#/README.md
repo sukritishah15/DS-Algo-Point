@@ -5,7 +5,7 @@ Format: -[Program name](name of the file)
 
 -[Bubble Sort](BubbleSort.cs)
 
--[FizzBuzz](FizzBuzz.cs)
+-[Algorithms.FizzBuzz](FizzBuzz.cs)
 
 -[Mean and Median](MeanAndMedian.cs)
 

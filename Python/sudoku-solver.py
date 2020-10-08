@@ -62,7 +62,7 @@ for i in range(n):
 if(solve_sudoku(grid)): 
     print_grid(grid) 
 else: 
-    print("No solution exists")
+    print("No Algorithms.solution exists")
     
 '''
 Input:

@@ -1,9 +1,9 @@
 import math
-class Node:
+class DataStructures.Algorithms.DataStructures.Node:
     def __init__(self,data):
         self.data=data
         self.next=None
-class LinkedList:
+class DataStructures.LinkedList:
     def __init__(self):
         self.size=0
         self.head=None
@@ -53,7 +53,7 @@ class LinkedList:
             counter-=1
 
 op=1
-linkedlist=LinkedList()
+linkedlist=DataStructures.LinkedList()
 while(op):
     print("0. exit")
     print("1. append data to linkedlist")
@@ -63,7 +63,7 @@ while(op):
     op=int(input('enter the operation you want to perform '))
     if(op==1):
         data=int(input('enter value of node '))
-        linkedlist.append(Node(data))
+        linkedlist.append(DataStructures.Algorithms.DataStructures.Node(data))
     elif(op==2):
         linkedlist.display()
     elif(op==3):

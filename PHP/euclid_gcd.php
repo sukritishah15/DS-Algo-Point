@@ -11,7 +11,7 @@ $get_gcd = function ($int_a, $int_b) use (&$get_gcd) {
   return ($int_a == 0) ? $int_b : $get_gcd($int_b % $int_a, $int_a);
 };
 
-// Test Case
+// DataStructures.Test Case
 
 $int_a = 325;
 $int_b = 5;

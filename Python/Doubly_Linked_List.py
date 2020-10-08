@@ -1,4 +1,4 @@
-class Node:
+class DataStructures.Algorithms.DataStructures.Node:
 	def __init__(self, data):
 		self.data = data
 		self.next = None
@@ -9,7 +9,7 @@ class doublyLinkedList:
 		self.head = None
 	def insertFirst(self):
 		data = int(input("Enter the value of the node to be inserted : "))
-		newNode = Node(data)
+		newNode = DataStructures.Algorithms.DataStructures.Node(data)
 
 		newNode.next = self.head
 		newNode.prev = None
@@ -33,7 +33,7 @@ class doublyLinkedList:
 
 	def insertLast(self):
 		data = int(input("Enter the vlaue of the node to be inserted : "))
-		newNode = Node(data)
+		newNode = DataStructures.Algorithms.DataStructures.Node(data)
 
 		if self.head is None:
 			self.head = newNode
@@ -66,13 +66,13 @@ class doublyLinkedList:
 		if prev_node == None:
 			print("Previous node can not be Null")
 		else:
-			newNode = Node(data)
+			newNode = DataStructures.Algorithms.DataStructures.Node(data)
 			nxt_node = prev_node.next
 			newNode.prev = prev_node
 			prev_node.next = newNode
 			newNode.next = nxt_node
 			nxt_node.prev = newNode
-		print("The Node has been sucessfully inserted after ", prev_node.data, "\n")
+		print("The DataStructures.Algorithms.DataStructures.Node has been sucessfully inserted after ", prev_node.data, "\n")
 
 	def delete(self):
 		key = int(input("Enter the key to be deleted : "))
@@ -141,7 +141,7 @@ while True:
 		if(flag):
 			DLL.insertAfter(curr)
 		else:
-			print("The Node was not found")
+			print("The DataStructures.Algorithms.DataStructures.Node was not found")
 
 	elif(op==6):
 		DLL.delete()
@@ -325,7 +325,7 @@ Enter a option you want to perform
 5
 enter the  value of the node After which you want to insert the new node : 2
 Enter the value of the node to be inserted : 13
-The Node has been sucessfully inserted after  2
+The DataStructures.Algorithms.DataStructures.Node has been sucessfully inserted after  2
 
 Enter a option you want to perform
 1.Insert First

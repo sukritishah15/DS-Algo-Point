@@ -1,4 +1,4 @@
-# Python program for implementation of MergeSort
+# Python program for implementation of Sorting.MergeSort
 
 # Merge two subarrays of arr[].
 # 1st subarray is arr[l..mid]

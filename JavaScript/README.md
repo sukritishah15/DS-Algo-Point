@@ -9,7 +9,7 @@ Format: -[Program name](name of the file)
 
 -[Fibonacci Series](fibonacciSum.js)
 
--[FizzBuzz](fizzBuzz.js)
+-[Algorithms.FizzBuzz](fizzBuzz.js)
 
 -[GCD of two numbers](gcd.js)
 

@@ -14,7 +14,7 @@ print(array)
 
 
 """
-Problem : Sort the given array using bubble sort.
+Problem : Sort the given array using Sorting.bubble sort.
 
 Traverse through all elements of array and in each pass place the element having maximum value at last of unsorted array. After each pass length of unsorted elements decreases hence we don't have to traverse all elements in every pass.
 

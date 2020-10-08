@@ -1,11 +1,11 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
--[Automorphic Numbers](automorphic.php)
+-[Algorithms.Automorphic Numbers](automorphic.php)
 
 -[Euclidian Algorith (GCD)](euclid_gcd.php)
 
--[FizzBuzz](fizz_buzz.php)
+-[Algorithms.FizzBuzz](fizz_buzz.php)
 
 -[Fibonacci Numbers](fibonacci_numbers.php)
 

@@ -1,4 +1,4 @@
-class Node: 
+class DataStructures.Algorithms.DataStructures.Node:
     def __init__(self,key): 
         self.left = None
         self.right = None
@@ -21,11 +21,11 @@ def printPreorder(root):
   
   
 # Driver code 
-root = Node(1) 
-root.left      = Node(2) 
-root.right     = Node(3) 
-root.left.left  = Node(4) 
-root.left.right  = Node(5) 
+root = DataStructures.Algorithms.DataStructures.Node(1)
+root.left      = DataStructures.Algorithms.DataStructures.Node(2)
+root.right     = DataStructures.Algorithms.DataStructures.Node(3)
+root.left.left  = DataStructures.Algorithms.DataStructures.Node(4)
+root.left.right  = DataStructures.Algorithms.DataStructures.Node(5)
 print "Preorder traversal of binary tree is"
 printPreorder(root) 
   '''

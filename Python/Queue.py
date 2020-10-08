@@ -1,4 +1,4 @@
-class Queue:
+class DataStructures.Queue:
     def __init__(self, mx_size):
         self.myQueue = []
         self.maxSize = mx_size
@@ -7,7 +7,7 @@ class Queue:
 
     def EnQueue(self):
         if self.front != -1 and (self.rear - self.front + 1) == self.maxSize:
-            print("Queue is full . no new element can be added \n")
+            print("DataStructures.Queue is full . no new element can be added \n")
         else:
             data = int(input("Enter data to enqueue : "))
             if (self.front == -1):
@@ -25,13 +25,13 @@ class Queue:
 
     def isEmpty(self):
         if (self.front > self.rear or self.front == -1):
-            print("Queue is Empty\n")
+            print("DataStructures.Queue is Empty\n")
         else:
-            print("Queue is not empty\n")
+            print("DataStructures.Queue is not empty\n")
 
     def display(self):
         if (self.front > self.rear or self.front == -1):
-            print("Queue is Empty\n")
+            print("DataStructures.Queue is Empty\n")
         else:
             print("The elements in the queue are : ")
             for i in range(self.front, self.rear + 1):
@@ -40,26 +40,26 @@ class Queue:
 
     def peekFront(self):
         if (self.front > self.rear or self.front == -1):
-            print("Queue is Empty\n")
+            print("DataStructures.Queue is Empty\n")
         else:
-            print("The first element in the Queue is : ", self.myQueue[self.front], "\n")
+            print("The first element in the DataStructures.Queue is : ", self.myQueue[self.front], "\n")
 
     def peekRear(self):
         if (self.front > self.rear or self.front == -1):
-            print("Queue is Empty\n")
+            print("DataStructures.Queue is Empty\n")
         else:
-            print("The last element in the Queue is : ", self.myQueue[self.rear], "\n")
+            print("The last element in the DataStructures.Queue is : ", self.myQueue[self.rear], "\n")
 
     def length(self):
         if (self.front == -1):
             size = 0
         else:
             size = self.rear - self.front + 1
-        print("Length of the Queue is ", size, "\n")
+        print("Length of the DataStructures.Queue is ", size, "\n")
 
 
 ms = int(input("Enter the maximum size for the queue : "))
-Q = Queue(ms)
+Q = DataStructures.Queue(ms)
 
 while True:
     print("Enter a option you want to perform ")
@@ -72,7 +72,7 @@ while True:
         print("enter correct option")
 	
 """
-Implementation of Queue
+Implementation of DataStructures.Queue
 
 Sample output:
 
@@ -139,7 +139,7 @@ Enter a option you want to perform
 7.length
 8.Exit
 4
-The first element in the Queue is :  1
+The first element in the DataStructures.Queue is :  1
 
 Enter a option you want to perform
 1.enqueue
@@ -151,7 +151,7 @@ Enter a option you want to perform
 7.length
 8.Exit
 5
-The last element in the Queue is :  3
+The last element in the DataStructures.Queue is :  3
 
 Enter a option you want to perform
 1.enqueue
@@ -163,7 +163,7 @@ Enter a option you want to perform
 7.length
 8.Exit
 6
-Queue is not empty
+DataStructures.Queue is not empty
 
 Enter a option you want to perform
 1.enqueue
@@ -175,7 +175,7 @@ Enter a option you want to perform
 7.length
 8.Exit
 7
-Length of the Queue is  3
+Length of the DataStructures.Queue is  3
 
 Enter a option you want to perform
 1.enqueue
@@ -224,7 +224,7 @@ Enter a option you want to perform
 7.length
 8.Exit
 4
-The first element in the Queue is :  3
+The first element in the DataStructures.Queue is :  3
 
 Enter a option you want to perform
 1.enqueue
@@ -236,7 +236,7 @@ Enter a option you want to perform
 7.length
 8.Exit
 5
-The last element in the Queue is :  3
+The last element in the DataStructures.Queue is :  3
 
 Enter a option you want to perform
 1.enqueue
@@ -248,7 +248,7 @@ Enter a option you want to perform
 7.length
 8.Exit
 6
-Queue is not empty
+DataStructures.Queue is not empty
 
 Enter a option you want to perform
 1.enqueue
@@ -260,7 +260,7 @@ Enter a option you want to perform
 7.length
 8.Exit
 7
-Length of the Queue is  1
+Length of the DataStructures.Queue is  1
 
 Enter a option you want to perform
 1.enqueue
@@ -296,7 +296,7 @@ Enter a option you want to perform
 7.length
 8.Exit
 3
-Queue is Empty
+DataStructures.Queue is Empty
 
 Enter a option you want to perform
 1.enqueue
@@ -308,7 +308,7 @@ Enter a option you want to perform
 7.length
 8.Exit
 4
-Queue is Empty
+DataStructures.Queue is Empty
 
 Enter a option you want to perform
 1.enqueue
@@ -320,7 +320,7 @@ Enter a option you want to perform
 7.length
 8.Exit
 5
-Queue is Empty
+DataStructures.Queue is Empty
 
 Enter a option you want to perform
 1.enqueue
@@ -332,7 +332,7 @@ Enter a option you want to perform
 7.length
 8.Exit
 6
-Queue is Empty
+DataStructures.Queue is Empty
 
 Enter a option you want to perform
 1.enqueue
@@ -344,7 +344,7 @@ Enter a option you want to perform
 7.length
 8.Exit
 7
-Length of the Queue is  0
+Length of the DataStructures.Queue is  0
 
 Enter a option you want to perform
 1.enqueue
@@ -408,7 +408,7 @@ Enter a option you want to perform
 7.length
 8.Exit
 4
-The first element in the Queue is :  4
+The first element in the DataStructures.Queue is :  4
 
 Enter a option you want to perform
 1.enqueue
@@ -420,7 +420,7 @@ Enter a option you want to perform
 7.length
 8.Exit
 5
-The last element in the Queue is :  6
+The last element in the DataStructures.Queue is :  6
 
 Enter a option you want to perform
 1.enqueue
@@ -432,7 +432,7 @@ Enter a option you want to perform
 7.length
 8.Exit
 6
-Queue is not empty
+DataStructures.Queue is not empty
 
 Enter a option you want to perform
 1.enqueue
@@ -444,7 +444,7 @@ Enter a option you want to perform
 7.length
 8.Exit
 7
-Length of the Queue is  3
+Length of the DataStructures.Queue is  3
 
 Enter a option you want to perform
 1.enqueue
@@ -466,7 +466,7 @@ peekFront : O(1)
 
 Space Complexity: 
 -----------------------------------------------
-Queue : O(n)
+DataStructures.Queue : O(n)
 
 
 

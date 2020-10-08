@@ -1,5 +1,5 @@
-# A Binary Tree Node 
-class Node:
+# A Binary Tree DataStructures.Algorithms.DataStructures.Node
+class DataStructures.Algorithms.DataStructures.Node:
 
     def __init__(self, key):
         self.key = key
@@ -19,7 +19,7 @@ def inorder(root):
 def insert(node, key):
     # If the tree is empty, return a new node
     if node is None:
-        return Node(key)
+        return DataStructures.Algorithms.DataStructures.Node(key)
 
     if key < node.key:
         node.left = insert(node.left, key)
@@ -49,7 +49,7 @@ def deleteNode(root, key):
         root.right = deleteNode(root.right, key)
     else:
 
-        # Node with only one child or no child 
+        # DataStructures.Algorithms.DataStructures.Node with only one child or no child
         if root.left is None:
             temp = root.right
             root = None

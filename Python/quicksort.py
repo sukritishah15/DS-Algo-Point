@@ -67,7 +67,7 @@ print(a)
     Sorted array is:
     [2, 4, 6, 8, 10]
    SPACE COMPLEXITY:
-   Solution: Quicksort has a space complexity of O(logn), even in the worst case.
+   Algorithms.Algorithms.Solution: Quicksort has a space complexity of O(logn), even in the worst case.
    TIME COMPLEXITY
    time complexity in worst case is  O(n^2).
 """

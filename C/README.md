@@ -28,7 +28,7 @@ Format:
 
 -[Find the middle element of linked list](middle.c)
 
--[FizzBuzz](fizzbuzz.c)
+-[Algorithms.FizzBuzz](fizzbuzz.c)
 
 -[Floyd Warshall algorithm](floyd-warshall.c)
 
@@ -50,7 +50,7 @@ Format:
 
 -[Kruskal Algorithm](kruskal.c)
 
--[Linear Search.](LinearSearch.c)
+-[Linear Search.](Search.LinearSearch.c)
 
 -[Longest Common Subsequence](Longest_Common_Subsequence.c)
 
@@ -62,7 +62,7 @@ Format:
 
 -[Maximum digit using given numbers](Maximum_number.c)
 
--[Maze Problem using Backtracking](Maze_Problem.c)
+-[Algorithms.Maze Problem using Backtracking](Maze_Problem.c)
 
 -[Mean Median Calculation](Mean_Median_Calculation.c)
 

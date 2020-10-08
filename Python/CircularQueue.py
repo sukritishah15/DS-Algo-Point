@@ -1,4 +1,4 @@
-class Queue:
+class DataStructures.Queue:
     def __init__(self,ms):
         self.myqueue=[]
         self.maxsize=ms
@@ -7,7 +7,7 @@ class Queue:
     def EnQueue(self):
         
         if len(self.myqueue)==self.maxsize:
-            print("Queue is full . no new element can be added")
+            print("DataStructures.Queue is full . no new element can be added")
         else:
             data=int(input("Enter data to enqueue  "))
             self.myqueue.append(data)
@@ -26,21 +26,21 @@ class Queue:
         
     def isEmpty(self):
         if len(self.myqueue)==0:
-            print("Queue is empty")
+            print("DataStructures.Queue is empty")
         else:
-            print("Queue is not empty")
+            print("DataStructures.Queue is not empty")
     def display(self):
-        print("Elements in Queue are")
+        print("Elements in DataStructures.Queue are")
         print(self.myqueue)
     def peek(self):
-        print("The first element in the Queue is ",self.myqueue[self.front])
+        print("The first element in the DataStructures.Queue is ",self.myqueue[self.front])
         
     def length(self):
-        print("Length of CircularQueue is ",len(self.myqueue))
+        print("Length of DataStructures.CircularQueue is ",len(self.myqueue))
 
 
 ms=int(input("Enter maximum size for cricular queue \n"))
-Q=Queue(ms)
+Q=DataStructures.Queue(ms)
 while True:
     print("Enter a option you want to perform ")
     op=int(input("\n1.enque \n2.dequeue \n3.display \n4.peek \n5.isEmpty \n6.length \n7.Exit \n"))
@@ -64,7 +64,7 @@ while True:
 
 
 """
-Implementation of Circular Queue
+Implementation of Circular DataStructures.Queue
 
 Sample output:
 Enter maximum size for cricular queue 
@@ -115,7 +115,7 @@ Enter a option you want to perform
 6.length 
 7.Exit 
 3
-Elements in Queue are
+Elements in DataStructures.Queue are
 [1, 2, 3]
 Enter a option you want to perform 
 
@@ -127,7 +127,7 @@ Enter a option you want to perform
 6.length 
 7.Exit 
 4
-The first element in the Queue is  1
+The first element in the DataStructures.Queue is  1
 Enter a option you want to perform 
 
 1.enque 
@@ -138,7 +138,7 @@ Enter a option you want to perform
 6.length 
 7.Exit 
 5
-Queue is not empty
+DataStructures.Queue is not empty
 Enter a option you want to perform 
 
 1.enque 
@@ -149,7 +149,7 @@ Enter a option you want to perform
 6.length 
 7.Exit 
 6
-Length of CircularQueue is  3
+Length of DataStructures.CircularQueue is  3
 Enter a option you want to perform 
 
 1.enque 

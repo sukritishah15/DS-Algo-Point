@@ -8,7 +8,7 @@ Format: -[Program name](name of the file)
 
 -[AVL Tree](avl-tree.py)
 
--[Automorphic Number](automorphic.py)
+-[Algorithms.Automorphic Number](automorphic.py)
 
 -[Balanced Parentheses](balanced_parentheses.py)
 
@@ -24,9 +24,9 @@ Format: -[Program name](name of the file)
 
 -[Circular Doubly Linked List](Circular_Doubly_Linked_List.py)
 
--[Circular Queue](CircularQueue.py)
+-[Circular DataStructures.Queue](CircularQueue.py)
 
--[Circular Queue](CircularQueue.py)
+-[Circular DataStructures.Queue](CircularQueue.py)
 
 -[Circular Singly Linked List](Circular_Singly_Linked_List.py)
 
@@ -38,7 +38,7 @@ Format: -[Program name](name of the file)
 
 -[First Come First Scheduling](fcfs.py)
 
--[FizzBuzz Problem](FizzBuzz.py)
+-[Algorithms.FizzBuzz Problem](FizzBuzz.py)
 
 -[Geometric Progression](geometric.py)
 
@@ -92,7 +92,7 @@ Format: -[Program name](name of the file)
 
 -[Permutations and Combinations](Permutations_And_Combinations.py)
 
--[Queue](Queue.py)
+-[DataStructures.Queue](DataStructures.Queue.py)
 
 -[QuickSort](quicksort.py)
 

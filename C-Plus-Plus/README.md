@@ -25,7 +25,7 @@ Format: -[Program name](name of the file)
 
 - [Circular Doubly Linked List](Circular_Doubly_Linked_List.cpp)
 
-- [Circular Queue Implementation](Circular_Queue_Cpp.cpp)
+- [Circular DataStructures.Queue Implementation](Circular_Queue_Cpp.cpp)
 
 - [Circular Singly Linked List](CircularSinglyLinkedList.cpp)
 
@@ -57,7 +57,7 @@ Format: -[Program name](name of the file)
 
 - [Floyd Warshall Algorithm](Floyd–Warshall.cpp)
 
-- [FizzBuzz](fizz_buzz.cpp)
+- [Algorithms.FizzBuzz](fizz_buzz.cpp)
 
 - [Greatest common divisor](GCD.cpp)
 
@@ -67,7 +67,7 @@ Format: -[Program name](name of the file)
 
 - [Implement Merge Sort](MergeSort.cpp)
 
-- [Implementation of Queue](array_implementation_of_queue.cpp)
+- [Implementation of DataStructures.Queue](array_implementation_of_queue.cpp)
 
 - [Infix To Postfix](infixToPostStack.cpp)
 
@@ -79,7 +79,7 @@ Format: -[Program name](name of the file)
 
 - [Kadane's Algorithm](KadaneAlgo.cpp)
 
-- [Kosaraju's Algorithm](kosarajualgo.cpp)
+- [Algorithms.Kosaraju's Algorithm](kosarajualgo.cpp)
 
 - [Knapsack Problem](knapsack.cpp)
 

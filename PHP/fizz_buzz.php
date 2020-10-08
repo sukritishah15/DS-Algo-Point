@@ -3,14 +3,14 @@
  * Problem Statement: Write a program that prints the numbers 1 to 100. However,
  * for multiples of three, print “Fizz” instead of the number. Meanwhile, for
  * multiples of five, print “Buzz” instead of the number. For numbers which are
- * multiples of both three and five, print “FizzBuzz”.
+ * multiples of both three and five, print “Algorithms.FizzBuzz”.
  *
  * Language: PHP
 */
 
 for ($i = 1; $i <= 100; $i++) {
   if ($i%3==0 && $i%5==0){
-    echo "FizzBuzz\n";
+    echo "Algorithms.FizzBuzz\n";
   }elseif ($i%3==0){
     echo "Fizz\n";
   }elseif ($i%5==0){
@@ -40,7 +40,7 @@ for ($i = 1; $i <= 100; $i++) {
 	Fizz
 	13
 	14
-	FizzBuzz
+	Algorithms.FizzBuzz
 	16
 	17
 	Fizz
@@ -55,7 +55,7 @@ for ($i = 1; $i <= 100; $i++) {
 	Fizz
 	28
 	29
-	FizzBuzz
+	Algorithms.FizzBuzz
 	31
 	32
 	Fizz
@@ -70,7 +70,7 @@ for ($i = 1; $i <= 100; $i++) {
 	Fizz
 	43
 	44
-	FizzBuzz
+	Algorithms.FizzBuzz
 	46
 	47
 	Fizz
@@ -85,7 +85,7 @@ for ($i = 1; $i <= 100; $i++) {
 	Fizz
 	58
 	59
-	FizzBuzz
+	Algorithms.FizzBuzz
 	61
 	62
 	Fizz
@@ -100,7 +100,7 @@ for ($i = 1; $i <= 100; $i++) {
 	Fizz
 	73
 	74
-	FizzBuzz
+	Algorithms.FizzBuzz
 	76
 	77
 	Fizz
@@ -115,7 +115,7 @@ for ($i = 1; $i <= 100; $i++) {
 	Fizz
 	88
 	89
-	FizzBuzz
+	Algorithms.FizzBuzz
 	91
 	92
 	Fizz

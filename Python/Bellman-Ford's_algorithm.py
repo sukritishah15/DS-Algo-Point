@@ -1,6 +1,6 @@
 import math
 
-class Edge:
+class Algorithms.Edge:
     def __init__(self, a, b, c):
         self.a = a
         self.b = b
@@ -45,6 +45,6 @@ n, m, src = map(int, input().split())
 
 for i in range(m):
     a, b, c = map(int, input().split())
-    edge.append(Edge(a, b, c))
+    edge.append(Algorithms.Edge(a, b, c))
 
 bellmanFord(n, m, src)

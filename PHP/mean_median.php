@@ -34,7 +34,7 @@ $print_arr = function ($arr) {
   return $arr_str;
 };
 
-// Test Case
+// DataStructures.Test Case
 
 $arr = [1, 22, 30, 8, 5, 14, 8];
 

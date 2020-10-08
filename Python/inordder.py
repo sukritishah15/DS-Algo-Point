@@ -1,4 +1,4 @@
-class Node: 
+class DataStructures.Algorithms.DataStructures.Node:
     def __init__(self,key): 
         self.left = None
         self.right = None
@@ -11,11 +11,11 @@ def printInorder(root):
         print(root.val), 
         printInorder(root.right) 
 
-root = Node(1) 
-root.left      = Node(2) 
-root.right     = Node(3) 
-root.left.left  = Node(4) 
-root.left.right  = Node(5) 
+root = DataStructures.Algorithms.DataStructures.Node(1)
+root.left      = DataStructures.Algorithms.DataStructures.Node(2)
+root.right     = DataStructures.Algorithms.DataStructures.Node(3)
+root.left.left  = DataStructures.Algorithms.DataStructures.Node(4)
+root.left.right  = DataStructures.Algorithms.DataStructures.Node(5)
 
 print "\nInorder traversal of binary tree is"
 printInorder(root) 

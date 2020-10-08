@@ -4,7 +4,7 @@
 # In[2]:
 
 
-class TreeNode(object): 
+class DataStructures.TreeNode(object):
     def __init__(self, val): 
         self.val = val 
         self.left = None
@@ -14,7 +14,7 @@ class TreeNode(object):
 class AVL_Tree(object): 
     def insert(self, root, key): 
         if not root: 
-            return TreeNode(key) 
+            return DataStructures.TreeNode(key)
         elif key < root.val: 
             root.left = self.insert(root.left, key) 
         else: 

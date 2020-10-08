@@ -1,4 +1,4 @@
-class Node:
+class DataStructures.Algorithms.DataStructures.Node:
     def __init__(self, data):
         self.data = data
         self.next = None
@@ -11,7 +11,7 @@ class circularDoublyLinkedList:
 
     def insertFirst(self):
         data = int(input("Enter the value of the node to be inserted : "))
-        newNode = Node(data)
+        newNode = DataStructures.Algorithms.DataStructures.Node(data)
         if (self.last == None):
             self.last = newNode
             newNode.next = self.last
@@ -23,7 +23,7 @@ class circularDoublyLinkedList:
             newNode.next = head
             head.prev = newNode
 
-        print("The Node has been inserted in the beginning of the list\n")
+        print("The DataStructures.Algorithms.DataStructures.Node has been inserted in the beginning of the list\n")
 
     def deleteFirst(self):
         if (self.last == None):
@@ -40,7 +40,7 @@ class circularDoublyLinkedList:
 
     def insertLast(self):
         data = int(input("Enter the value of the node to be inserted : "))
-        newNode = Node(data)
+        newNode = DataStructures.Algorithms.DataStructures.Node(data)
         if (self.last == None):
             self.last = newNode
             newNode.next = self.last
@@ -51,7 +51,7 @@ class circularDoublyLinkedList:
             newNode.next = head
             head.prev = newNode
             self.last = newNode
-        print("The Node has been inserted in the end of the list\n")
+        print("The DataStructures.Algorithms.DataStructures.Node has been inserted in the end of the list\n")
 
     def deleteLast(self):
         if (self.last == None):
@@ -153,7 +153,7 @@ Enter a option you want to perform
 8.exit
 1
 Enter the value of the node to be inserted : 1
-The Node has been inserted in the beginning of the list
+The DataStructures.Algorithms.DataStructures.Node has been inserted in the beginning of the list
 
 Enter a option you want to perform
 1.Insert First
@@ -166,7 +166,7 @@ Enter a option you want to perform
 8.exit
 1
 Enter the value of the node to be inserted : 2
-The Node has been inserted in the beginning of the list
+The DataStructures.Algorithms.DataStructures.Node has been inserted in the beginning of the list
 
 Enter a option you want to perform
 1.Insert First
@@ -179,7 +179,7 @@ Enter a option you want to perform
 8.exit
 1
 Enter the value of the node to be inserted : 3
-The Node has been inserted in the beginning of the list
+The DataStructures.Algorithms.DataStructures.Node has been inserted in the beginning of the list
 
 Enter a option you want to perform
 1.Insert First
@@ -218,7 +218,7 @@ Enter a option you want to perform
 8.exit
 3
 Enter the value of the node to be inserted : 5
-The Node has been inserted in the end of the list
+The DataStructures.Algorithms.DataStructures.Node has been inserted in the end of the list
 
 Enter a option you want to perform
 1.Insert First

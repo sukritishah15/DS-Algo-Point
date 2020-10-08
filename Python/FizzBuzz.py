@@ -3,9 +3,9 @@ def print_fizz_buzz(start_point, end_point):
 
     for i in range(start_point, end_point+1):
 
-        # if number is divisible by 15 print FizzBuzz
+        # if number is divisible by 15 print Algorithms.FizzBuzz
         if i % 15 == 0:
-            print("FizzBuzz")
+            print("Algorithms.FizzBuzz")
         # if number is divisible by 3 print Fizz
         elif i % 3 == 0:
             print("Fizz")
@@ -26,7 +26,7 @@ Function print_fizz_buzz:
 
 Input: 2 integers, start point and end point
 
-Output: prints the words Fizz, Buzz, FizzBuzz or integer itself 
+Output: prints the words Fizz, Buzz, Algorithms.FizzBuzz or integer itself
 for each number between start and end point (inclusive) 
 
 Time complexity: O(N) (N is length of range of numbers)
