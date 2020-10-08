@@ -53,6 +53,8 @@ Format: -[Program name](name of the file)
 
 -[FizzBuzz](FizzBuzz.java)
 
+-[Floyd Warshall Algorithm](FloydWarshall.java)
+
 -[Euclid's Algorithm for Greatest Common Divisor (GCD)](GCD.java)
 
 -[GCD](GCD_1.java)
