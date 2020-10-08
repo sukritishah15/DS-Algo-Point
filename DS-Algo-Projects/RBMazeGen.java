@@ -13,14 +13,15 @@ public class RBMazeGen {
     //choose specific values for width and height of frame so that division by rectsize ends with remainder zero, else it will throw arrayoutofbound exeption. 
     private static final int RectSize = 20 , fheight = 1800 , fwidth = 800;
     //you can control speed with this.
-    private static final int delay = 10;
+    private static final int delay = 5;
 
 
     private static int h,w; //height and width of frame that will be used in array.
     private static Node[][] arr; //array that we are gonna make maze on.
     private static JFrame f; 
     private static Random random;
-    private static Set<Node> visited , currently; //visited contains traversed nodes.currently contains nodes that we still have to traverse. 
+    private static Set<Node> visited , currently; //visited contains traversed nodes.
+                                                  // currently contains node that we are currently traversing.(that green node in frame) 
 
     public static void main(String[] args) {
         f = new JFrame();
@@ -53,13 +54,11 @@ public class RBMazeGen {
     }
 
      static void stackMaze() throws InterruptedException {
-        Stack<Node> stack = new Stack<>(); //stack for backtracking
-
+        Stack<Node> stack = new Stack<>(); //stack for backtracking. 
         stack.push(arr[0][0]);
         visited.add(arr[0][0]);
 
         while (!stack.isEmpty()){
-
             var current = stack.pop();
             currently.add(current);
             f.repaint();
@@ -79,6 +78,7 @@ public class RBMazeGen {
             var child = children.get(childindex);
 
             removeWall(child,current);
+            currently.remove(current);
 
             visited.add(child);
             stack.push(child);
@@ -117,7 +117,6 @@ public class RBMazeGen {
         }
 
             Thread.sleep(delay);
-        currently.remove(current);
 
         f.repaint();
     }
@@ -158,7 +157,7 @@ public class RBMazeGen {
             for(int i = 1; i < w ; i+=RectSize){
                 for(int j = 1; j < h ; j+=RectSize){
 
-                    Node current = arr[i/RectSize][j/RectSize];
+                    Node current = arr[i/RectSize][j/RectSize]; 
 
                     if(currently.contains(current)) {
                         g2.setColor(Color.green);
