@@ -39,6 +39,8 @@ Format: -[Program name](name of the file)
 
 - [Diameter_Of_Binary_Tree](Diameter_Of_Binary_Tree.cpp)
 
+- [Distance, Slope and Equation of a line given two points](distance_slope_equation_of_a_line_two_points.cpp)
+
 - [Euclid's Algorithm: GCD of two numbers](gcd_of_two_numbers.cpp)
 
 - [Fibonacci Series](Fibonacci.cpp)
