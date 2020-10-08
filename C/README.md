@@ -124,4 +124,5 @@ Format:
 
 -[Stack Implementation](C_STACK.C)
 
+-[Automorphic Number](automorphic.c)
 
