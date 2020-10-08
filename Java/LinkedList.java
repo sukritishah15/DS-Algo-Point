@@ -1,91 +1,100 @@
-public class LinkedList { 
-  
-    Node head; 
-    static class Node { 
-  
-        int data; 
-        Node next; 
-  
-        // Constructor 
-        Node(int d) 
-        { 
-            data = d; 
-            next = null; 
-        } 
-    }  
-    public static LinkedList insert(LinkedList list, int data) 
-    { 
-        Node new_node = new Node(data); 
-        new_node.next = null; 
-  
-        if (list.head == null) { 
-            list.head = new_node; 
-        } 
-        else { 
-            Node last = list.head; 
-            while (last.next != null) { 
-                last = last.next; 
-            } 
-            last.next = new_node; 
-        } 
+public class LinkedList {
 
-        return list; 
-    } 
-    public static void printList(LinkedList list) 
-    { 
-        Node n = list.head; 
-   
-        System.out.print("The Linked List is "); 
-        
-        while (n != null) { 
-            System.out.print(n.data + " "); 
-            n=n.next; 
-        } 
-    } 
-    public static void deleteN(LinkedList l,int p) 
-    { 
-        if (l.head == null) 
-            return; 
-        Node n = l.head; 
-        if (p == 0) 
-        { 
-            l.head = n.next; 
-            return; 
-        } 
-        for (int i=0; n!=null && i<p-1; i++) 
-            n = n.next; 
- 
-        
-        Node n1 = n.next.next; 
-  
-        n.next = n1;
-    } 
-    public static void main(String[] args) 
-    { 
-        LinkedList list = new LinkedList();   
-        list = insert(list, 1); 
-        list = insert(list, 2); 
-        list = insert(list, 3); 
-        list = insert(list, 4); 
-        list = insert(list, 5); 
-        list = insert(list, 6); 
-        list = insert(list, 7); 
-        list = insert(list, 8);
+    private Node head;
+    private int size;
 
-        printList(list); 
+    public boolean add(int value) {
+        if (head == null) {
+            head = new Node(value);
+            size++;
+            return true;
+        }
 
-        deleteN(list,4);
-        
-        printList(list);
+        Node toAdd = new Node(value);
+        Node current = head;
+
+        while (current.next != null) {
+            current = current.next;
+        }
+
+        current.next = toAdd;
+        size++;
+        return true;
+    }
+
+    public boolean addAtLocation(int value, int location) {
+        Node toAdd = new Node(value);
+
+        if (location == 0) {
+            toAdd.next = head;
+            head = toAdd;
+            size++;
+            return true;
+        }
+
+        Node current = head;
+
+        if (location > size) {
+            while (current.next != null) {
+                current = current.next;
+            }
+
+            current.next = toAdd;
+            size++;
+            return true;
+        }
+
+        for (int i = 0; i < location-1; i++) {
+            current = current.next;
+        }
+
+        toAdd.next = current.next;
+        current.next = toAdd;
+        size++;
+        return true;
+    }
+
+    public int size() {
+        return size;
+    }
+
+    @Override
+    public String toString() {
+        String output = "";
+        if (head == null) {
+            return output;
+        }
+        Node current = head;
+        while (current != null) {
+            output += current.data + " ";
+            current = current.next;
+        }
+        return output;
+    }
+
+
+    public static void main(String[] args) {
+        LinkedList list = new LinkedList();
+        list.add(3);
+        list.add(2);
+        list.add(7);
+        list.addAtLocation(1, 2);
+        list.addAtLocation(4, 9);
+        System.out.println(list.toString());
+        // 3 3 1 7 4
+    }
+
+    private class Node {
+        int data;
+        Node next;
+
+        public Node(int data) {
+            this.data = data;
+        }
+    }
 
     /*
-    Output: The Linked List is  1 2 3 4 5 6 7 8
-            The Linked List is  1 2 3 4 6 7 8
-            
     Space Complexity: O(n)
     Time Complexity: O(n)
-    */
-    
-
-    } 
-} 
+     */
+}
