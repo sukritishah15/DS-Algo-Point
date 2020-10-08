@@ -30,6 +30,8 @@ Format: -[Program name](name of the file)
 
 -[Circular Singly Linked List](Circular_Singly_Linked_List.py)
 
+-[Collatz Sequence](Collatz_sequence.py)
+
 -[Comb Sort](comb_sort.py)
 
 -[Doubly Linked List](Doubly_Linked_List.py)
