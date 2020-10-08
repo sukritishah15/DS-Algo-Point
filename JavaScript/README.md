@@ -46,3 +46,5 @@ Format: -[Program name](name of the file)
 -[Diameter of Tree](treeDiameter.js)
 
 -[Largest Number Formation](largest_number.js)
+
+-[Counting sort](CountSort.js)
