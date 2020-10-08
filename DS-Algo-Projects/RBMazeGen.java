@@ -16,11 +16,11 @@ public class RBMazeGen {
     private static final int delay = 10;
 
 
-    private static int h,w;
-    private static Node[][] arr;
-    private static JFrame f;
+    private static int h,w; //height and width of frame that will be used in array.
+    private static Node[][] arr; //array that we are gonna make maze on.
+    private static JFrame f; 
     private static Random random;
-    private static Set<Node> visited , currently;
+    private static Set<Node> visited , currently; //visited contains traversed nodes.currently contains nodes that we still have to traverse. 
 
     public static void main(String[] args) {
         f = new JFrame();
@@ -53,7 +53,7 @@ public class RBMazeGen {
     }
 
      static void stackMaze() throws InterruptedException {
-        Stack<Node> stack = new Stack<>();
+        Stack<Node> stack = new Stack<>(); //stack for backtracking
 
         stack.push(arr[0][0]);
         visited.add(arr[0][0]);
@@ -89,6 +89,8 @@ public class RBMazeGen {
         f.repaint();
     }
 
+
+    //this method removes wall between two nodes based on where those nodes are.
      static void removeWall(Node child, Node current) throws InterruptedException {
 
         int x = child.getX() - current.getX();
@@ -121,6 +123,7 @@ public class RBMazeGen {
     }
 
 
+    //this method returns all the unvisited childrens of current node.
      static ArrayList<Node> getChildren(Node current) {
 
         ArrayList<Node> ans = new ArrayList<>();
@@ -144,35 +147,37 @@ public class RBMazeGen {
         return ans;
     }
 
+
+
     static class Canvas extends JComponent{
 		
 		@Override
-        public void paint(Graphics g2) {
-            Graphics2D g = (Graphics2D) g2;
-            g.setStroke(new BasicStroke(2));
+        public void paint(Graphics g) {
+            Graphics2D g2 = (Graphics2D) g;
+            g2.setStroke(new BasicStroke(2));
             for(int i = 1; i < w ; i+=RectSize){
                 for(int j = 1; j < h ; j+=RectSize){
 
                     Node current = arr[i/RectSize][j/RectSize];
 
                     if(currently.contains(current)) {
-                        g.setColor(Color.green);
-                        g.fillRect(i, j, RectSize, RectSize);
+                        g2.setColor(Color.green);
+                        g2.fillRect(i, j, RectSize, RectSize);
                     }
                     else if(visited.contains(current))
                     {
-                        g.setColor(Color.WHITE);
+                        g2.setColor(Color.WHITE);
                         if(current.isHasTop())
-                            g.drawLine(i,j,i+RectSize,j);
+                            g2.drawLine(i,j,i+RectSize,j);
                         if(current.isHasRight())
-                            g.drawLine(i+RectSize,j,i+RectSize,j+RectSize);
+                            g2.drawLine(i+RectSize,j,i+RectSize,j+RectSize);
                         if(current.isHasBottom())
-                            g.drawLine(i,j+RectSize,i+RectSize,j+RectSize);
+                            g2.drawLine(i,j+RectSize,i+RectSize,j+RectSize);
                         if(current.isHasLeft())
-                            g.drawLine(i,j,i,j+RectSize);
+                            g2.drawLine(i,j,i,j+RectSize);
 
-                        g.setColor(Color.BLACK);
-                        g.fillRect(i,j,RectSize,RectSize);
+                        g2.setColor(Color.BLACK);
+                        g2.fillRect(i,j,RectSize,RectSize);
                     }
                 }
             }
