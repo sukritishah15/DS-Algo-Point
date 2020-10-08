@@ -101,6 +101,8 @@ Format: -[Program name](name of the file)
 
 - [Mean Median](mean_median.cpp)
 
+- [Minimum product subset using Greedy](minimumProductSubset.cpp)
+
 - [Minimum number of denominations using Greedy algo approach](MinDenominations_GreedyAlgo.cpp)
 
 - [Multisource Dijkstra](MultiSouceDijkstra.cpp)
