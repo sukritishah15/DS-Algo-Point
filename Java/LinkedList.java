@@ -109,6 +109,7 @@ public class LinkedList {
 
     public boolean clear() {
         head = null;
+        size = 0;
         return true;
     }
 
@@ -189,12 +190,28 @@ public class LinkedList {
     /* Main Methods */
     public static void main(String[] args) {
         LinkedList list = new LinkedList();
-        list.add(3);
-        list.add(3);
-        list.add(7);
-        list.addAtLocation(1, 2);
-        list.addAtLocation(4, 9);
-        System.out.println(list.toString());
+
+        list.add(3); // 3
+        list.add(3); // 3 3
+        list.add(7); // 3 3 7
+        list.addAtLocation(1, 2); // 3 3 1 7
+        list.addAtLocation(4, 9); // 3 3 1 7 4
+
+        list.indexOf(3); // 0
+        list.indexOfFirstAppearance(3); // 0
+        list.indexOfLastAppearance(3); // 1
+
+        list.contains(3); // true
+        list.contains(8); // false
+
+        list.size(); // 5
+
+        list.remove(3); // 3 1 7 4
+        list.remove(6); // 3 1 7 4
+        list.removeAtLocation(7, 2); // 3 1 4
+        list.removeAtLocation(1, 9); // 3 1 4
+
+        list.clear(); // true
     }
 
 
