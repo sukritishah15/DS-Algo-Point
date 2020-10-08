@@ -76,3 +76,11 @@ public class InfixToPostfix{
         System.out.println(ConvertExp(exp)); 
     }
 }
+
+/*
+  Time Complexity - O(N^2)
+  Space Complexity - O(N)
+  
+  Input - Taken in the Code .
+  Output - ab-cde*f/i*+
+*/
