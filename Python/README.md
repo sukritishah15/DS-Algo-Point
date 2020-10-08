@@ -116,6 +116,8 @@ Format: -[Program name](name of the file)
 
 -[Stack](stack.py)
 
+-[Swap two numbers without using third variable](Swap-two-numbers.py)
+
 -[Timsort Algorithm](Tim-sort-Algorithm-in-Python.py)
 
 -[Ternary search](ternary_search.py)
