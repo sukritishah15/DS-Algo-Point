@@ -37,6 +37,8 @@ Format: -[Program name](name of the file)
 
 -[Code to check if the entered integer is automorphic or not](Automorphic.java)
 
+-[Collatz Sequence](CollatzSequence.java)
+
 -[Counting Sort](CountingSort.java)
 
 -[Delete Nth Node from Linked List](LinkedList.java)
