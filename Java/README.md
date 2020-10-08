@@ -33,6 +33,8 @@ Format: -[Program name](name of the file)
 
 -[Doubly Linked List](DList.java)
 
+-[Equation of line ,slope ,Distance between 2 points](EqOfLine.java)
+
 -[Find middle element in a Linked List](Middle_element_of_a_Linked_List.java)
 
 -[Euclid's Algorithm for Greatest Common Divisor (GCD)](GCD.java)
