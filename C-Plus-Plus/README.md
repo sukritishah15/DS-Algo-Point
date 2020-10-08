@@ -19,9 +19,9 @@ Format: -[Program name](name of the file)
 
 - [Bubble Sort Implementation](BubbleSort.cpp)
 
--[BigMod using Binary Exponentiation](Binary_Exponentiation_BigMod.cpp)
+- [BigMod using Binary Exponentiation](Binary_Exponentiation_BigMod.cpp)
 
--[Check whether a number is an armstrong number](Check_Armstrong_Number.cpp)
+- [Check whether a number is an armstrong number](Check_Armstrong_Number.cpp)
 
 - [Circular Doubly Linked List](Circular_Doubly_Linked_List.cpp)
 
@@ -68,6 +68,8 @@ Format: -[Program name](name of the file)
 - [Implementation of Queue](array_implementation_of_queue.cpp)
 
 - [Infix To Postfix](infixToPostStack.cpp)
+
+- [Insertion Sort](Insertion_sort.cpp)
 
 - [Interpolation Search](interpolation_search.cpp)
 
