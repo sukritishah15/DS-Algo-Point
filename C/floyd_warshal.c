@@ -88,5 +88,8 @@ OUTPUT
 7	2	3	0	
 
 Time Complexity :O(N^3)
+Space Complexity : O(N^2)
+
+
 
 */
