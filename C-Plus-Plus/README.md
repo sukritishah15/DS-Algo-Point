@@ -109,6 +109,8 @@ Format: -[Program name](name of the file)
 
 - [Number of ways to reach target node](Number_of_ways_to_reach_target_node.cpp)
 
+- [Pangram](Pangram.cpp)
+
 - [Pancake Sorting](Pancake_sort.cpp)
 
 - [Permutation and Combination](Permutations_And_Combinations.cpp)
@@ -186,4 +188,3 @@ Format: -[Program name](name of the file)
 - [Floyd-Warshall Algorithm](Floyd_warshall.cpp)
 
 - [Z algorithm](ZAlgorithm.cpp)
-
