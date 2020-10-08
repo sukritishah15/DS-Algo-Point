@@ -3,7 +3,6 @@ import java.util.*;
 import java.util.Stack; 
 
 public class InfixToPostfix{
-
     // function to find precedence of operator
     static int Precedence(char ch) 
     { 
