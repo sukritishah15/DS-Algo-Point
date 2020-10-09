@@ -12,18 +12,20 @@ Implemented by [AmanParmar-git](https://github.com/AmanParmar-git)
 
 1. BFS
 
-[BFS](gif/BFS.gif)
+![BFS](gif/BFS.gif)
 
 2. Astar
 
-[Astar](gif/Astar.gif)
+![Astar](gif/Astar.gif)
 
 3. Hamiltonian Cycle
 
-[Hamil](gif/Hamil.gif)
+![Hamil](gif/Hamil.gif)
 
 ### Resources
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pathfinding)
+
 [CodeBullet](https://www.youtube.com/watch?v=tjQIO1rqTBE)
+
 [AlphaPhoenix](https://www.youtube.com/watch?v=TOpBcfbAgPg)
