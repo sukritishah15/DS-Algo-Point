@@ -118,6 +118,10 @@ Format: -[Program name](name of the file)
 
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
 
+-[Singly Linked List](SinglyLinkedList.py)
+
+-[Linear Search](Linear_Search.py)
+
 -[Sleep Sort](SleepSort.py)
 
 -[Sudoku solver](sudoku-solver.py)
