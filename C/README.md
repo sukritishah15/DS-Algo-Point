@@ -4,6 +4,8 @@ Format:
 
 -[Program name](name of the file)
 
+-[Anagram of Strings](AnagramString.c)
+
 -[Armstrong Number Checker](Armstrong.c)
 
 -[AVL Tree](AVL_Tree.c)
