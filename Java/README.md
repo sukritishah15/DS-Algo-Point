@@ -11,6 +11,8 @@ Format: -[Program name](name of the file)
 
 -[Binary Search Tree Implementation](ImplementingBST.java)
 
+-[Binary Exponentiation](binaryExponent.java)
+
 -[Binary Search](binarySearch.java)
 
 -[BODMAS_Eval](BODMAS_Eval.java)
