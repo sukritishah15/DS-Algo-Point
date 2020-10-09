@@ -28,6 +28,6 @@ else:
     Input: 'hjoiztuafvk'
     Output: Given String is not a Pangram
     
-Time Complexity : O(n)
-Space Complexity : O(n)
+    Time Complexity : O(n)
+    Space Complexity : O(n)
 */
