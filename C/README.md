@@ -38,6 +38,8 @@ Format:
 
 -[Implement Euclidean Algorithm to find greatest common divisor of 2 given numbers.](Euclid_GCD.c)
 
+-[Implement Swapping Numbers](SwappingNumber.c)
+
 -[Implement 0/1 Knapsack using Dynamic Programming](0-1_knapsack.c)
 
 -[Inorder tree traversal](Tree_Inorder_Traversal.c)
@@ -65,6 +67,8 @@ Format:
 -[Mean Median Calculation](Mean_Median_Calculation.c)
 
 -[Merge Sort](Mergesort.c)
+
+-[Minimum number of denominations (Indian Currency) using Greedy algo approach](MinDenominations_GreedyAlgo.c)
 
 -[Neon Number](neon_number.c)
 
@@ -121,5 +125,7 @@ Format:
 -[Stack Implementation](C_STACK.C)
 
 -[Shortest Job First Scheduling Algorithm](Shortest Job First Scheduling Algorithm (SJF - Non-Preemptive).C)
+
+- [Floyd Warshell](floyd_warrshal.c)
 
 

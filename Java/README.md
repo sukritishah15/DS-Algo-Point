@@ -21,6 +21,8 @@ Format: -[Program name](name of the file)
 
 -[Check for Armstrong number](CheckForArmstrongNo.java)
 
+-[Check String Palindrome](StringPalindrome.java)
+
 -[Circular Doubly Linked List](CircularDList.java)
 
 -[Circular Singly Linked List](CircularSList.java)
@@ -35,6 +37,10 @@ Format: -[Program name](name of the file)
 
 -[Code to check if the entered integer is automorphic or not](Automorphic.java)
 
+-[Collatz Sequence](CollatzSequence.java)
+
+-[Counting Sort](CountingSort.java)
+
 -[Delete Nth Node from Linked List](LinkedList.java)
 
 -[Diameter of BinaryTree](DiameterOfBinaryTree.java)
@@ -46,6 +52,10 @@ Format: -[Program name](name of the file)
 -[Fibonnaci Numbers](FibonnaciNumbers.java)
 
 -[Find middle element in a Linked List](Middle_element_of_a_Linked_List.java)
+
+-[FizzBuzz](FizzBuzz.java)
+
+-[Floyd Warshall Algorithm](FloydWarshall.java)
 
 -[Euclid's Algorithm for Greatest Common Divisor (GCD)](GCD.java)
 
@@ -84,6 +94,8 @@ Format: -[Program name](name of the file)
 -[Median of Two Sorted Arrays](MedianOfTwoSortedArrays)
 
 -[Merge Sort Java](MergeSort.java)
+
+-[Minimum number of denominations using Greedy algo approach](MinDenominations_GreedyAlgo.java)
 
 -[Nth term of ap](nth_term_of_ap.java)
 
@@ -124,6 +136,8 @@ Format: -[Program name](name of the file)
 -[Singly Linked List](SList.java)
 
 -[Seive Of Eratosthenes](SeiveOfEratosthenes.java)
+
+-[Swap Two Numbers Without Third Variable](SwapNumbersWithoutThirdVariable.java)
 
 -[Tarjan Algorithm](tarjan.java)
 
