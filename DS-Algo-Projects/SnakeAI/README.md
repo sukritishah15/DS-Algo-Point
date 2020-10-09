@@ -29,3 +29,5 @@ Implemented by [AmanParmar-git](https://github.com/AmanParmar-git)
 [CodeBullet](https://www.youtube.com/watch?v=tjQIO1rqTBE)
 
 [AlphaPhoenix](https://www.youtube.com/watch?v=TOpBcfbAgPg)
+
+[JohnTapsell](https://johnflux.com/2015/05/02/nokia-6110-part-3-algorithms/)
