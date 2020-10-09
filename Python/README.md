@@ -38,6 +38,8 @@ Format: -[Program name](name of the file)
 
 -[Doubly Linked List](Doubly_Linked_List.py)
 
+-[Equation of a Line](EquationOfLines.py)
+
 -[Fibonacci Series](Fibonacci.py)
 
 -[First Come First Scheduling](fcfs.py)
