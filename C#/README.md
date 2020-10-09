@@ -1,9 +1,11 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
--[Fibonacci Numbers](Fibonacci.cs)
-
 -[Bubble Sort](BubbleSort.cs)
+
+-[Counting Sort](countingSort.cs)
+
+-[Fibonacci Numbers](Fibonacci.cs)
 
 -[FizzBuzz](FizzBuzz.cs)
 
