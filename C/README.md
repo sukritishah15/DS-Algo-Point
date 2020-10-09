@@ -38,6 +38,8 @@ Format:
 
 -[Implement Euclidean Algorithm to find greatest common divisor of 2 given numbers.](Euclid_GCD.c)
 
+-[Implement Swapping Numbers](SwappingNumber.c)
+
 -[Implement 0/1 Knapsack using Dynamic Programming](0-1_knapsack.c)
 
 -[Inorder tree traversal](Tree_Inorder_Traversal.c)
@@ -121,5 +123,9 @@ Format:
 -[Sieve Of Eratosthenes](Sieve_of_Eratosthenes.c)
 
 -[Stack Implementation](C_STACK.C)
+
+-[Shortest Job First Scheduling Algorithm](Shortest Job First Scheduling Algorithm (SJF - Non-Preemptive).C)
+
+- [Floyd Warshell](floyd_warrshal.c)
 
 
