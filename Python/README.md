@@ -144,6 +144,8 @@ Format: -[Program name](name of the file)
 
 -[Two Pointers](TwoPointer.py)
 
+-[Pangram String](Pangram_in_python.py)
+
 -[Power Set](Power_Set.py)
 
 -[Majority Element](majority_element.py)
