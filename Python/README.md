@@ -24,6 +24,8 @@ Format: -[Program name](name of the file)
 
 -[Check whether a number is an armstrong number](armstrong_number.py)
 
+-[Collatz Sequence](Collatz_sequence.py)
+
 -[Circular Doubly Linked List](Circular_Doubly_Linked_List.py)
 
 -[Circular Queue](CircularQueue.py)
