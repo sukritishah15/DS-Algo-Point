@@ -85,6 +85,8 @@ Format: -[Program name](name of the file)
 
 - [Knuth Moris Pattern Matching(KMP Algorithm)](KMP_algorithm.cpp)
 
+- [Kruskal's Algorithm](Kruskals_Algo.cpp)
+
 - [Largest Number](largest_number.cpp)
 
 - [Linear Search](linear_search.cpp)
