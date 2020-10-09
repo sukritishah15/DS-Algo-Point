@@ -175,6 +175,26 @@ Format: -[Program name](name of the file)
 
 - [Two Pointer Algorithm](two_pointer_algorithm.cpp)
 
+- [Shell Sort Algorithm](shell_sort.cpp)
+
+- [Stack - Infix and Postfix Example](Stack_Example.cpp)
+
+- [Quick Sort on Doubly Linked List](quickSort_DoublyLinkedList.cpp)
+
+- [Knuth Moris Pattern Matching(KMP Algorithm)](KMP_algorithm.cpp)
+
+- [Check if number is automorphic](automorphic.cpp)
+
+- [Bucket Sort](Bucketsort.cpp)
+
+- [First Come First Scheduling](firstcomefirstscheduling.cpp)
+
+- [Interpolation Search](interpolation_search.cpp)
+
+- [Bellman-Ford's algo](Bellman-Ford's_algorithm.cpp)
+
+- [Tim sort](Tim_Sort.cpp)
+
 - [Twin prime](twin_prime.cpp)
 
 - [Value of Pi by Random Numbers](ValueOfPi.cpp)
