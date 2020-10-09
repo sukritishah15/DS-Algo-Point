@@ -103,7 +103,7 @@ Format: -[Program name](name of the file)
 
 -[Permutations and Combination](PermutationsAndCombination.java)
 
--[Panagrams](Panagrams.java)
+-[Pangrams](Pangrams.java)
 
 -[Pancake Sorting](PancakeSort.java)
 

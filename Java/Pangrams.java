@@ -1,5 +1,5 @@
-public class Panagrams {
-    public static boolean isPanagram(String phrase) {
+public class Pangrams {
+    public static boolean isPangram(String phrase) {
         String alphabet = "abcdefghijklmnopqrstuvwxyz";
         char[] letters = alphabet.toCharArray();
 
@@ -12,8 +12,8 @@ public class Panagrams {
     }
 
     public static void main(String[] args) {
-        isPanagram("The quick brown fox jumps over the lazy dog");
-        isPanagram("Hello");
+        isPangram("The quick brown fox jumps over the lazy dog");
+        isPangram("Hello");
     }
     /*
     Sample I/O:
