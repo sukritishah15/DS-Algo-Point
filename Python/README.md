@@ -14,6 +14,8 @@ Format: -[Program name](name of the file)
 
 -[Balanced Parentheses](balanced_parentheses.py)
 
+-[Binary Exponentiation](binary_exponentiation.py)
+
 -[Binary Search](Binary_Search.py)
 
 -[Binary Search Tree](Binary_Search_Tree.py)
