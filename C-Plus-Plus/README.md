@@ -115,6 +115,8 @@ Format: -[Program name](name of the file)
 
 - [Pancake Sorting](Pancake_sort.cpp)
 
+- [Palindromic Substring](Palindromic_substring.cpp)
+
 - [Permutation and Combination](Permutations_And_Combinations.cpp)
 
 - [Pigeonhole Sort](pigeon.cpp)
