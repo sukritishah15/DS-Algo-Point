@@ -1,9 +1,10 @@
 # Python3 code to check if the given string is a Pangram 
 
-import string 
+import string  //Using the string on your sample code
   
 def ispangram(str): 
     alphabet = "abcdefghijklmnopqrstuvwxyz"
+    
     for char in alphabet: 
         if char not in str.lower(): 
             return False
