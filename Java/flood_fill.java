@@ -55,7 +55,7 @@ public class FFill
         int sx = scan.nextInt();
         int sy = scan.nextInt();
  
-        if (arr[sx][sy] != 'X')
+        if (array[sx][sy] != 'X')
         {
             System.out.println("Invalid coordinates!");
             System.exit(0);
@@ -67,3 +67,73 @@ public class FFill
     }  
     /**End Main Function**/  
 }
+
+/**
+Sample Input output
+Enter dimensions:
+5 5
+Enter grid with 'X'=passage and 'Y'=obstacle
+X X X X X
+Y X Y X Y
+Y Y X X Y
+X Y Y Y Y
+X Y Y Y Y
+Enter coordinates: 
+3 3
+OUTPUT
+Grid : 
+X X X X X 
+Y X Y X Y 
+Y Y W X Y 
+X Y Y Y Y 
+X Y Y Y Y 
+Grid : 
+X X X X X 
+Y X Y X Y 
+Y Y W W Y 
+X Y Y Y Y 
+X Y Y Y Y 
+Grid : 
+X X X X X 
+Y X Y W Y 
+Y Y W W Y 
+X Y Y Y Y 
+X Y Y Y Y 
+Grid : 
+X X X W X 
+Y X Y W Y 
+Y Y W W Y 
+X Y Y Y Y 
+X Y Y Y Y 
+Grid : 
+X X X W W 
+Y X Y W Y 
+Y Y W W Y 
+X Y Y Y Y 
+X Y Y Y Y 
+Grid : 
+X X W W W 
+Y X Y W Y 
+Y Y W W Y 
+X Y Y Y Y 
+X Y Y Y Y 
+Grid : 
+X W W W W 
+Y X Y W Y 
+Y Y W W Y 
+X Y Y Y Y 
+X Y Y Y Y 
+Grid : 
+X W W W W 
+Y W Y W Y 
+Y Y W W Y 
+X Y Y Y Y 
+X Y Y Y Y 
+Grid : 
+W W W W W 
+Y W Y W Y 
+Y Y W W Y 
+X Y Y Y Y 
+X Y Y Y Y 
+Time Complexity= O(N^2)
+**/
