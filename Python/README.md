@@ -98,7 +98,9 @@ Format: -[Program name](name of the file)
 
 -[Nth Term of GP](nth_term_of_gp.py)
 
--[Pancake Sort](PancakeSort.py)
+-[Pancake Sort](PancakeSort.py
+
+-[Pangram String](Pangram_in_python.py)
 
 -[Permutations and Combinations](Permutations_And_Combinations.py)
 
