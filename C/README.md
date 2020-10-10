@@ -126,8 +126,10 @@ Format:
 
 -[Stack Implementation](C_STACK.C)
 
+-[Automorphic Number](automorphic.c)
+
 -[Shortest Job First Scheduling Algorithm](Shortest Job First Scheduling Algorithm (SJF - Non-Preemptive).C)
 
-- [Floyd Warshell](floyd_warrshal.c)
+- [Floyd Warshall](floyd_warrshal.c)
 
 
