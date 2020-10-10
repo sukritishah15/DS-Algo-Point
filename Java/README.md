@@ -71,6 +71,8 @@ Format: -[Program name](name of the file)
 
 -[Inorder Traversal Of Binary tree](inorder.java)
 
+-[Inorder Traversal Of Binary tree using Morris Traversal](MorrisTraversal.java)
+
 -[Insertion Sort](Insertion_Sort.java)
 
 -[Inversion](Inversion.java)
