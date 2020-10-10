@@ -1,6 +1,8 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
+-[Anagrams](Anagrams.java)
+
 -[Approximating PI value](approxing_pi.java)
 
 -[AVL Tree Implementation](AVL_Tree_Implementation.java)
@@ -21,6 +23,8 @@ Format: -[Program name](name of the file)
 
 -[Check for Armstrong number](CheckForArmstrongNo.java)
 
+-[Check String Palindrome](StringPalindrome.java)
+
 -[Circular Doubly Linked List](CircularDList.java)
 
 -[Circular Singly Linked List](CircularSList.java)
@@ -35,6 +39,8 @@ Format: -[Program name](name of the file)
 
 -[Code to check if the entered integer is automorphic or not](Automorphic.java)
 
+-[Collatz Sequence](CollatzSequence.java)
+
 -[Counting Sort](CountingSort.java)
 
 -[Delete Nth Node from Linked List](LinkedList.java)
@@ -45,9 +51,15 @@ Format: -[Program name](name of the file)
 
 -[Doubly Linked List](DList.java)
 
+-[Equation of line ,slope ,Distance between 2 points](EqOfLine.java)
+
 -[Fibonnaci Numbers](FibonnaciNumbers.java)
 
 -[Find middle element in a Linked List](Middle_element_of_a_Linked_List.java)
+
+-[FizzBuzz](FizzBuzz.java)
+
+-[Floyd Warshall Algorithm](FloydWarshall.java)
 
 -[Euclid's Algorithm for Greatest Common Divisor (GCD)](GCD.java)
 
@@ -95,6 +107,8 @@ Format: -[Program name](name of the file)
 
 -[Permutations and Combination](PermutationsAndCombination.java)
 
+-[Pangrams](Pangrams.java)
+
 -[Pancake Sorting](PancakeSort.java)
 
 -[Postorder Traversal of Tree](postorder.java)
@@ -129,6 +143,8 @@ Format: -[Program name](name of the file)
 
 -[Seive Of Eratosthenes](SeiveOfEratosthenes.java)
 
+-[Swap Two Numbers Without Third Variable](SwapNumbersWithoutThirdVariable.java)
+
 -[Tarjan Algorithm](tarjan.java)
 
 -[Tower of Hanoi](tower-of-hanoi.java)
@@ -161,3 +177,4 @@ Format: -[Program name](name of the file)
 
 -[Kruskal Algorithm](Kruskal_Algorithm.java)
 
+- [Flood Fill Algorithm](flood_fill.java)

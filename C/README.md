@@ -4,6 +4,8 @@ Format:
 
 -[Program name](name of the file)
 
+-[Anagram of Strings](AnagramString.c)
+
 -[Armstrong Number Checker](Armstrong.c)
 
 -[AVL Tree](AVL_Tree.c)
@@ -37,6 +39,8 @@ Format:
 -[Implement bubblesort using c](bubblesort.c)
 
 -[Implement Euclidean Algorithm to find greatest common divisor of 2 given numbers.](Euclid_GCD.c)
+
+-[Implement Swapping Numbers](SwappingNumber.c)
 
 -[Implement 0/1 Knapsack using Dynamic Programming](0-1_knapsack.c)
 
@@ -121,5 +125,9 @@ Format:
 -[Sieve Of Eratosthenes](Sieve_of_Eratosthenes.c)
 
 -[Stack Implementation](C_STACK.C)
+
+-[Shortest Job First Scheduling Algorithm](Shortest Job First Scheduling Algorithm (SJF - Non-Preemptive).C)
+
+- [Floyd Warshell](floyd_warrshal.c)
 
 
