@@ -78,6 +78,8 @@ Format:
 
 -[N Queens Puzzle](nQueens.c)
 
+-[Palindrome Substring](Palindrome_substring.c)
+
 -[Permutations and Combinations](Permutations_And_Combinations.c)
 
 -[Postorder Tree Traversal](postorder.c)
