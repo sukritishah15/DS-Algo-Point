@@ -20,7 +20,7 @@ else:
     print("Given String is not Pangram") 
     
     
-/*    
+'''   
     Sample case 1:
     Input: 'the quick brown fox jumps over the lazy dog'
     Output: Given String is a Pangram
@@ -31,4 +31,4 @@ else:
     
     Time Complexity : O(n)
     Space Complexity : O(n)
-*/
+ '''
