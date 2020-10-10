@@ -4,6 +4,8 @@ Format:
 
 -[Program name](name of the file)
 
+-[Anagram of Strings](AnagramString.c)
+
 -[Armstrong Number Checker](Armstrong.c)
 
 -[AVL Tree](AVL_Tree.c)
@@ -123,5 +125,9 @@ Format:
 -[Sieve Of Eratosthenes](Sieve_of_Eratosthenes.c)
 
 -[Stack Implementation](C_STACK.C)
+
+-[Shortest Job First Scheduling Algorithm](Shortest Job First Scheduling Algorithm (SJF - Non-Preemptive).C)
+
+- [Floyd Warshell](floyd_warrshal.c)
 
 

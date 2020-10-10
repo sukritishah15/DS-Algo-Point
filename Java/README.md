@@ -1,6 +1,8 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
+-[Anagrams](Anagrams.java)
+
 -[Approximating PI value](approxing_pi.java)
 
 -[AVL Tree Implementation](AVL_Tree_Implementation.java)
@@ -36,6 +38,8 @@ Format: -[Program name](name of the file)
 -[Code to check balance paranthesis](Bracket.java)
 
 -[Code to check if the entered integer is automorphic or not](Automorphic.java)
+
+-[Collatz Sequence](CollatzSequence.java)
 
 -[Counting Sort](CountingSort.java)
 
@@ -100,6 +104,8 @@ Format: -[Program name](name of the file)
 -[Nth term of gp](nth_term_of_gp.java)
 
 -[Permutations and Combination](PermutationsAndCombination.java)
+
+-[Pangrams](Pangrams.java)
 
 -[Pancake Sorting](PancakeSort.java)
 

@@ -39,6 +39,8 @@ Format: -[Program name](name of the file)
 
 - [Diameter_Of_Binary_Tree](Diameter_Of_Binary_Tree.cpp)
 
+- [Distance, Slope and Equation of a line given two points](distance_slope_equation_of_a_line_two_points.cpp)
+
 - [Euclid's Algorithm: GCD of two numbers](gcd_of_two_numbers.cpp)
 
 - [Fibonacci Series](Fibonacci.cpp)
@@ -83,6 +85,8 @@ Format: -[Program name](name of the file)
 
 - [Knuth Moris Pattern Matching(KMP Algorithm)](KMP_algorithm.cpp)
 
+- [Kruskal's Algorithm](Kruskals_Algo.cpp)
+
 - [Largest Number](largest_number.cpp)
 
 - [Linear Search](linear_search.cpp)
@@ -101,6 +105,8 @@ Format: -[Program name](name of the file)
 
 - [Mean Median](mean_median.cpp)
 
+- [Minimum product subset using Greedy](minimumProductSubset.cpp)
+
 - [Minimum number of denominations using Greedy algo approach](MinDenominations_GreedyAlgo.cpp)
 
 - [Multisource Dijkstra](MultiSouceDijkstra.cpp)
@@ -110,6 +116,8 @@ Format: -[Program name](name of the file)
 - [Number of ways to reach target node](Number_of_ways_to_reach_target_node.cpp)
 
 - [Pancake Sorting](Pancake_sort.cpp)
+
+- [Palindromic Substring](Palindromic_substring.cpp)
 
 - [Permutation and Combination](Permutations_And_Combinations.cpp)
 
@@ -168,6 +176,26 @@ Format: -[Program name](name of the file)
 - [Travelling Salesman Problem](TSP_Cpp.cpp)
 
 - [Two Pointer Algorithm](two_pointer_algorithm.cpp)
+
+- [Shell Sort Algorithm](shell_sort.cpp)
+
+- [Stack - Infix and Postfix Example](Stack_Example.cpp)
+
+- [Quick Sort on Doubly Linked List](quickSort_DoublyLinkedList.cpp)
+
+- [Knuth Moris Pattern Matching(KMP Algorithm)](KMP_algorithm.cpp)
+
+- [Check if number is automorphic](automorphic.cpp)
+
+- [Bucket Sort](Bucketsort.cpp)
+
+- [First Come First Scheduling](firstcomefirstscheduling.cpp)
+
+- [Interpolation Search](interpolation_search.cpp)
+
+- [Bellman-Ford's algo](Bellman-Ford's_algorithm.cpp)
+
+- [Tim sort](Tim_Sort.cpp)
 
 - [Twin prime](twin_prime.cpp)
 

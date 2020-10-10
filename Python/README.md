@@ -4,6 +4,8 @@ Format: -[Program name](name of the file)
 
 -[0/1 Knapsack Problem using Dynamic Programming approach](Knapsack_DP.py)
 
+-[Anagrams](anagrams.py)
+
 -[Arithmetic Progression](arithmetic.py)
 
 -[AVL Tree](avl-tree.py)
@@ -11,6 +13,8 @@ Format: -[Program name](name of the file)
 -[Automorphic Number](automorphic.py)
 
 -[Balanced Parentheses](balanced_parentheses.py)
+
+-[Binary Exponentiation](binary_exponentiation.py)
 
 -[Binary Search](Binary_Search.py)
 
@@ -22,6 +26,8 @@ Format: -[Program name](name of the file)
 
 -[Check whether a number is an armstrong number](armstrong_number.py)
 
+-[Collatz Sequence](Collatz_sequence.py)
+
 -[Circular Doubly Linked List](Circular_Doubly_Linked_List.py)
 
 -[Circular Queue](CircularQueue.py)
@@ -30,9 +36,13 @@ Format: -[Program name](name of the file)
 
 -[Circular Singly Linked List](Circular_Singly_Linked_List.py)
 
+-[Collatz Sequence](Collatz_sequence.py)
+
 -[Comb Sort](comb_sort.py)
 
 -[Doubly Linked List](Doubly_Linked_List.py)
+
+-[Equation of a Line](EquationOfLines.py)
 
 -[Fibonacci Series](Fibonacci.py)
 
@@ -110,6 +120,10 @@ Format: -[Program name](name of the file)
 
 -[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
 
+-[Singly Linked List](SinglyLinkedList.py)
+
+-[Linear Search](Linear_Search.py)
+
 -[Sleep Sort](SleepSort.py)
 
 -[Sudoku solver](sudoku-solver.py)
@@ -121,6 +135,8 @@ Format: -[Program name](name of the file)
 -[Timsort Algorithm](Tim-sort-Algorithm-in-Python.py)
 
 -[Ternary search](ternary_search.py)
+
+-[Value of Pi](valueofPi.py)
 
 -[Traveling salesman problem](travelingSalesman.py)
 
