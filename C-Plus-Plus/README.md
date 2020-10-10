@@ -33,11 +33,21 @@ Format: -[Program name](name of the file)
 
 - [Check Whether a Number is Neon or Not](NeonNumber.cpp)
 
+- [Collatz Sequence](collatz_sequence.cpp)
+
+- [Counting Sort](counting_sort.cpp)
+
+- [Fibonacci Series](Fibonacci.cpp)
+
+- [Find nth term in an A.P.](nth_term_ap.cpp)
+
 - [Coin change problem](coinchange.cpp)
 
 - [Dijkstra's Algorithm](Dijkstra.cpp)
 
 - [Diameter_Of_Binary_Tree](Diameter_Of_Binary_Tree.cpp)
+
+- [Distance, Slope and Equation of a line given two points](distance_slope_equation_of_a_line_two_points.cpp)
 
 - [Euclid's Algorithm: GCD of two numbers](gcd_of_two_numbers.cpp)
 
@@ -83,6 +93,8 @@ Format: -[Program name](name of the file)
 
 - [Knuth Moris Pattern Matching(KMP Algorithm)](KMP_algorithm.cpp)
 
+- [Kruskal's Algorithm](Kruskals_Algo.cpp)
+
 - [Largest Number](largest_number.cpp)
 
 - [Linear Search](linear_search.cpp)
@@ -101,6 +113,8 @@ Format: -[Program name](name of the file)
 
 - [Mean Median](mean_median.cpp)
 
+- [Minimum product subset using Greedy](minimumProductSubset.cpp)
+
 - [Minimum number of denominations using Greedy algo approach](MinDenominations_GreedyAlgo.cpp)
 
 - [Multisource Dijkstra](MultiSouceDijkstra.cpp)
@@ -110,6 +124,8 @@ Format: -[Program name](name of the file)
 - [Number of ways to reach target node](Number_of_ways_to_reach_target_node.cpp)
 
 - [Pancake Sorting](Pancake_sort.cpp)
+
+- [Palindromic Substring](Palindromic_substring.cpp)
 
 - [Permutation and Combination](Permutations_And_Combinations.cpp)
 
@@ -134,6 +150,10 @@ Format: -[Program name](name of the file)
 - [Quick Sort on Doubly Linked List](quickSort_DoublyLinkedList.cpp)
 
 - [Radix Sort in C++](radix.cpp)
+
+- [Search an element in a sorted matrix](Search_Sorted_Matrix.cpp)
+
+- [String Palindrome Check](string_palindrome_check.cpp)
 
 - [Rat maze problem](rat_maze_backtracking.cpp)
 
@@ -169,6 +189,26 @@ Format: -[Program name](name of the file)
 
 - [Two Pointer Algorithm](two_pointer_algorithm.cpp)
 
+- [Shell Sort Algorithm](shell_sort.cpp)
+
+- [Stack - Infix and Postfix Example](Stack_Example.cpp)
+
+- [Quick Sort on Doubly Linked List](quickSort_DoublyLinkedList.cpp)
+
+- [Knuth Moris Pattern Matching(KMP Algorithm)](KMP_algorithm.cpp)
+
+- [Check if number is automorphic](automorphic.cpp)
+
+- [Bucket Sort](Bucketsort.cpp)
+
+- [First Come First Scheduling](firstcomefirstscheduling.cpp)
+
+- [Interpolation Search](interpolation_search.cpp)
+
+- [Bellman-Ford's algo](Bellman-Ford's_algorithm.cpp)
+
+- [Tim sort](Tim_Sort.cpp)
+
 - [Twin prime](twin_prime.cpp)
 
 - [Value of Pi by Random Numbers](ValueOfPi.cpp)
@@ -187,3 +227,4 @@ Format: -[Program name](name of the file)
 
 - [Z algorithm](ZAlgorithm.cpp)
 
+- [Least Common Multiple](lcm.cpp)
