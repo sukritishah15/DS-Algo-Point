@@ -4,6 +4,8 @@ Format:
 
 -[Program name](name of the file)
 
+-[Anagram of Strings](AnagramString.c)
+
 -[Armstrong Number Checker](Armstrong.c)
 
 -[AVL Tree](AVL_Tree.c)
@@ -76,6 +78,8 @@ Format:
 
 -[N Queens Puzzle](nQueens.c)
 
+-[Palindrome Substring](Palindrome_substring.c)
+
 -[Permutations and Combinations](Permutations_And_Combinations.c)
 
 -[Postorder Tree Traversal](postorder.c)
@@ -124,6 +128,10 @@ Format:
 
 -[Stack Implementation](C_STACK.C)
 
-- [Floyd Warshell](floyd_warrshal.c)
+-[Automorphic Number](automorphic.c)
+
+-[Shortest Job First Scheduling Algorithm](Shortest Job First Scheduling Algorithm (SJF - Non-Preemptive).C)
+
+- [Floyd Warshall](floyd_warrshal.c)
 
 
