@@ -33,6 +33,8 @@ Format: -[Program name](name of the file)
 
 - [Check Whether a Number is Neon or Not](NeonNumber.cpp)
 
+- [Chinese Remainder Theorem](CRT.cpp)
+
 - [Collatz Sequence](collatz_sequence.cpp)
 
 - [Counting Sort](counting_sort.cpp)
