@@ -17,6 +17,8 @@ Format: -[Program name](name of the file)
 
 -[Kadane's Algorithm](kadaneAlgo.js)
 
+-[Knapsack Algorith](knapSack.js)
+
 -[Pancake Sorting](pancakeSorting.js)
 
 -[Pangram String](pangram.js)

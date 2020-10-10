@@ -35,6 +35,14 @@ Format: -[Program name](name of the file)
 
 - [Chinese Remainder Theorem](CRT.cpp)
 
+- [Collatz Sequence](collatz_sequence.cpp)
+
+- [Counting Sort](counting_sort.cpp)
+
+- [Fibonacci Series](Fibonacci.cpp)
+
+- [Find nth term in an A.P.](nth_term_ap.cpp)
+
 - [Coin change problem](coinchange.cpp)
 
 - [Dijkstra's Algorithm](Dijkstra.cpp)
@@ -145,6 +153,10 @@ Format: -[Program name](name of the file)
 
 - [Radix Sort in C++](radix.cpp)
 
+- [Search an element in a sorted matrix](Search_Sorted_Matrix.cpp)
+
+- [String Palindrome Check](string_palindrome_check.cpp)
+
 - [Rat maze problem](rat_maze_backtracking.cpp)
 
 - [Reverse a Linked List](reverse_a_linked_list.cpp)
@@ -217,3 +229,4 @@ Format: -[Program name](name of the file)
 
 - [Z algorithm](ZAlgorithm.cpp)
 
+- [Least Common Multiple](lcm.cpp)

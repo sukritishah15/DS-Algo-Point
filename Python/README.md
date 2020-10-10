@@ -100,6 +100,8 @@ Format: -[Program name](name of the file)
 
 -[Pancake Sort](PancakeSort.py)
 
+-[Pangram String](Pangram_in_python.py)
+
 -[Permutations and Combinations](Permutations_And_Combinations.py)
 
 -[Queue](Queue.py)

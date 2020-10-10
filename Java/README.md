@@ -51,6 +51,8 @@ Format: -[Program name](name of the file)
 
 -[Doubly Linked List](DList.java)
 
+-[Equation of line ,slope ,Distance between 2 points](EqOfLine.java)
+
 -[Fibonnaci Numbers](FibonnaciNumbers.java)
 
 -[Find middle element in a Linked List](Middle_element_of_a_Linked_List.java)
@@ -68,6 +70,8 @@ Format: -[Program name](name of the file)
 -[Implement of Rotation of Array](RotateClockwise.java)
 
 -[Inorder Traversal Of Binary tree](inorder.java)
+
+-[Inorder Traversal Of Binary tree using Morris Traversal](MorrisTraversal.java)
 
 -[Insertion Sort](Insertion_Sort.java)
 
@@ -175,3 +179,4 @@ Format: -[Program name](name of the file)
 
 -[Kruskal Algorithm](Kruskal_Algorithm.java)
 
+- [Flood Fill Algorithm](flood_fill.java)
