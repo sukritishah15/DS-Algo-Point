@@ -33,6 +33,14 @@ Format: -[Program name](name of the file)
 
 - [Check Whether a Number is Neon or Not](NeonNumber.cpp)
 
+- [Collatz Sequence](collatz_sequence.cpp)
+
+- [Counting Sort](counting_sort.cpp)
+
+- [Fibonacci Series](Fibonacci.cpp)
+
+- [Find nth term in an A.P.](nth_term_ap.cpp)
+
 - [Coin change problem](coinchange.cpp)
 
 - [Dijkstra's Algorithm](Dijkstra.cpp)
@@ -142,6 +150,10 @@ Format: -[Program name](name of the file)
 - [Quick Sort on Doubly Linked List](quickSort_DoublyLinkedList.cpp)
 
 - [Radix Sort in C++](radix.cpp)
+
+- [Search an element in a sorted matrix](Search_Sorted_Matrix.cpp)
+
+- [String Palindrome Check](string_palindrome_check.cpp)
 
 - [Rat maze problem](rat_maze_backtracking.cpp)
 
