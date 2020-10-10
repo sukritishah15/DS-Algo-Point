@@ -227,3 +227,4 @@ Format: -[Program name](name of the file)
 
 - [Z algorithm](ZAlgorithm.cpp)
 
+- [Least Common Multiple](lcm.cpp)
