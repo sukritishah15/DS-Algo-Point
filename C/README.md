@@ -20,6 +20,8 @@ Format:
 
 -[Circular Singly Linked List](circularSLL.c)
 
+-[Distance, Slope and Equation of a line given two points](Dist_Slope_EqOfLine.c)
+
 -[Dutch Flag](DutchFlag.c)
 
 -[FCFS ](fcfs.c)
