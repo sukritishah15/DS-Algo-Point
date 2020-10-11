@@ -57,6 +57,8 @@ Format: -[Program name](name of the file)
 
 -[Floyd Warshall Algorithm](FloydWarshall.java)
 
+-[Fisher Yates Shuffle](FisherYatesShuffle.java)
+
 -[Euclid's Algorithm for Greatest Common Divisor (GCD)](GCD.java)
 
 -[GCD](GCD_1.java)
