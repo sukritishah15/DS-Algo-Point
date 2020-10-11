@@ -33,7 +33,7 @@ Format: -[Program name](name of the file)
 
 -[Closest Pair](closestPair.java)
 
--[Circular Singly Linked List](CircularSList.java)  
+-[Circular Singly Linked List](CircularSList.java)
 
 -[Code to check balance paranthesis](Bracket.java)
 
@@ -151,7 +151,7 @@ Format: -[Program name](name of the file)
 
 -[Tower of Hanoi](tower-of-hanoi.java)
 
--[Travelling salesman problem](tsp.java) 
+-[Travelling salesman problem](tsp.java)
 
 -[Twin Prime](Twin_Prime.java)
 
@@ -163,7 +163,7 @@ Format: -[Program name](name of the file)
 
 -[Implement quick sort](quick_sort.java)
 
--[Singly Linked List](SList.java)  
+-[Singly Linked List](SList.java)
 
 -[Suduko Solver](sudokuSolver.java)
 
@@ -180,3 +180,5 @@ Format: -[Program name](name of the file)
 -[Kruskal Algorithm](Kruskal_Algorithm.java)
 
 - [Flood Fill Algorithm](flood_fill.java)
+
+-[Count of palindrome substring](CountOfPalindromeSubString.java)
