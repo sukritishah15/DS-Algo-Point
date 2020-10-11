@@ -13,6 +13,8 @@ Format: -[Program name](name of the file)
 
 -[Power Set](Power_Set.cs)
 
+-[Pythagorean Triplet](PythagoreanTriplet.cs)
+
 -[Rotation of Array](RotationOfArray.cs)
 
 -[Sleep Sort](SleepSort.cs)
