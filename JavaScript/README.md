@@ -25,6 +25,8 @@ Format: -[Program name](name of the file)
 
 -[QuickSort](QuickSort.js)
 
+-[Selection Sort](SelectionSort.js)
+
 -[Sieve of Eratosthenes](Sieve.js)
 
 -[Swap two numbers without using third variable](swapTwoNumbers.js)
