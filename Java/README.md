@@ -97,6 +97,8 @@ Format: -[Program name](name of the file)
 
 -[Power set](powerset.java)
 
+-[Preorder Traversal of Binary Tree using Morris Traversal Algorithm](MorrisPreorderTraversal.java)
+
 -[Preorder Tree Traveral](preorder.java)
 
 -[Prime Factors in LogN time](Primefactor.java)
