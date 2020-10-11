@@ -105,6 +105,8 @@ Format: -[Program name](name of the file)
 
 -[Pancake Sorting](PancakeSort.java)
 
+-[Point in Triangle](PointInTriangle.java)
+
 -[Postorder Traversal of Tree](postorder.java)
 
 -[Power set](powerset.java)
