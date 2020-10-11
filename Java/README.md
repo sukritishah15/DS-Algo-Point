@@ -113,6 +113,10 @@ Format: -[Program name](package/name of the file)
 
 -[Pancake Sorting](Sorting/PancakeSort.java)
 
+-[Preorder Traversal of Binary Tree using Morris Traversal Algorithm](MorrisPreorderTraversal.java)
+
+-[Preorder Tree Traveral](preorder.java)
+
 -[Postorder Traversal of Tree](DataStructures/postorder.java)
 
 -[Power set](Algorithms/powerset.java)
