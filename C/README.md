@@ -4,6 +4,8 @@ Format:
 
 -[Program name](name of the file)
 
+-[Anagram of Strings](AnagramString.c)
+
 -[Armstrong Number Checker](Armstrong.c)
 
 -[AVL Tree](AVL_Tree.c)
@@ -38,6 +40,8 @@ Format:
 
 -[Implement Euclidean Algorithm to find greatest common divisor of 2 given numbers.](Euclid_GCD.c)
 
+-[Implement Swapping Numbers](SwappingNumber.c)
+
 -[Implement 0/1 Knapsack using Dynamic Programming](0-1_knapsack.c)
 
 -[Inorder tree traversal](Tree_Inorder_Traversal.c)
@@ -66,11 +70,15 @@ Format:
 
 -[Merge Sort](Mergesort.c)
 
+-[Minimum number of denominations (Indian Currency) using Greedy algo approach](MinDenominations_GreedyAlgo.c)
+
 -[Neon Number](neon_number.c)
 
 -[Nth Term of GP](NthTermGP.c)
 
 -[N Queens Puzzle](nQueens.c)
+
+-[Palindrome Substring](Palindrome_substring.c)
 
 -[Permutations and Combinations](Permutations_And_Combinations.c)
 
@@ -120,4 +128,11 @@ Format:
 
 -[Stack Implementation](C_STACK.C)
 
+-[Automorphic Number](automorphic.c)
+
+-[Shortest Job First Scheduling Algorithm](Shortest Job First Scheduling Algorithm (SJF - Non-Preemptive).C)
+
+- [Floyd Warshall](floyd_warrshal.c)
+
+-[Priority based Scheduling](Priority based Scheduling (Non - Preemptive).C)
 

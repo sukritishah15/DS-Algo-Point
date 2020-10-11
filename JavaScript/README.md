@@ -17,7 +17,11 @@ Format: -[Program name](name of the file)
 
 -[Kadane's Algorithm](kadaneAlgo.js)
 
+-[Knapsack Algorith](knapSack.js)
+
 -[Pancake Sorting](pancakeSorting.js)
+
+-[Pangram String](pangram.js)
 
 -[QuickSort](QuickSort.js)
 
@@ -46,3 +50,5 @@ Format: -[Program name](name of the file)
 -[Diameter of Tree](treeDiameter.js)
 
 -[Largest Number Formation](largest_number.js)
+
+-[Counting sort](CountSort.js)
