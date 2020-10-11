@@ -113,6 +113,8 @@ Format: -[Program name](name of the file)
 
 -[Prime Factors in LogN time](Primefactor.java)
 
+-[Pythagorean Triplets](PythagoreanTriplets.java)
+
 -[Queue](Queue.java)
 
 -[Reverse LinkedList](reverse_linkedlist.java)
