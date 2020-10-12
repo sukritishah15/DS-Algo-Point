@@ -1,4 +1,5 @@
 Add links to your code in Alphabetical Order.
+Format: -[Program name](name of the file)
 -[floyd warshall](floyd_warrshal.c)
 
 -[Anagram of strings](anagramstring.c)
@@ -132,5 +133,3 @@ Add links to your code in Alphabetical Order.
 -[Twin prime numbers](twinprime.c)
 
 -[Two pointer algorithm to find sum pairs](twopointer_to_find_sum_pairs.c)
-
-FoRmat:

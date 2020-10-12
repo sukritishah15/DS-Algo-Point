@@ -26,6 +26,7 @@ for path in path_list :
       # taking all other lines
       lines.append(line[:2]+line[2:].capitalize())
 
+  format_line.append("\n")
   # creating a copy for check
   test = copy.deepcopy(lines) 
   test.sort()

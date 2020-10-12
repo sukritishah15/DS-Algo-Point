@@ -1,4 +1,5 @@
 Add links to your code in Alphabetical Order.
+Format: -[program name](name of the file)
 -[0/1 knapsack problem using dynamic programming approach](knapsack_dp.py)
 
 -[Anagrams](anagrams.py)
@@ -164,5 +165,3 @@ Add links to your code in Alphabetical Order.
 -[Unique number from a set of numbers repeated twice except unique number](unique_number_repeated_twice_except_unique_number.py)
 
 -[Value of pi](valueofpi.py)
-
-FoRmat: -[program name](name of the file)
