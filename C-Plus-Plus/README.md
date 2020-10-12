@@ -101,7 +101,7 @@ Format: -[Program name](name of the file)
 
 - [Linear Search](linear_search.cpp)
 
-- [Longest Common Subsequence](longest_common_subseq.cpp)
+- [Longest Common Subsequence](longest-common-subsequence.cpp)
 
 - [Longest Length Path in a Matrix](longest_length_path_in_a_matrix.cpp)
 
