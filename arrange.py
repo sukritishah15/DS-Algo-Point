@@ -19,7 +19,7 @@ for path in path_list :
         continue
 
       # taking first 2 line as it is
-      if i < 2 :
+      if i < 3 :
         format_line.append(line)
         continue
 

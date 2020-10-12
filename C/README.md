@@ -1,6 +1,5 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
--[floyd warshall](floyd_warrshal.c)
 
 -[Anagram of strings](anagramstring.c)
 
@@ -33,6 +32,8 @@ Format: -[Program name](name of the file)
 -[Fizzbuzz](fizzbuzz.c)
 
 -[Floyd warshall algorithm](floyd-warshall.c)
+
+-[Floyd warshall](floyd_warrshal.c)
 
 -[Heap sort](heap_sort.c)
 
