@@ -24,7 +24,7 @@ for path in path_list :
         continue
 
       # taking all other lines
-      lines.append(line)
+      lines.append(line[:2]+line[2:].capitalize())
 
   # creating a copy for check
   test = copy.deepcopy(lines) 
