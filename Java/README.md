@@ -187,4 +187,8 @@ Format: -[Program name](package/name of the file)
 
 - [Flood Fill Algorithm](flood_fill.java)
 
+-[Bellman-Ford's algo](Bellman-Ford's_algorithm.java)
+
 -[Count of palindrome substring](CountOfPalindromeSubString.java)
+
+-[Infix to Postfix](InfixToPostfix.java)
