@@ -1,4 +1,5 @@
 public class PythagoreanTriplets {
+    /* Takes in an array and determines if the array contains a set of three Pythagorean triplets */
     public static boolean containsTriplet(int[] array) {
         for (int i = 0; i < array.length; i++) {
             for (int j = i+1; j < array.length ; j++) {
@@ -12,6 +13,7 @@ public class PythagoreanTriplets {
         return false;
     }
 
+    /* Takes in three numbers and determines whether or not the three numbers are Pythagorean triplets */
     public static boolean isTriplet(int a, int b, int c) {
         if (a * a + b * b == c * c) {
             return true;
@@ -19,6 +21,7 @@ public class PythagoreanTriplets {
         return false;
     }
 
+    /* Main method that contains the tests */
     public static void main(String[] args) {
         int[] elements = {3, 1, 4, 6, 5};
         System.out.println(containsTriplet(elements));
