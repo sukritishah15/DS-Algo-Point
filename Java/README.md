@@ -131,3 +131,5 @@ Format: -[Program name](name of the file)
 -[Sleep Sort](SleepSort.java)
 
 -[Bellman-Ford's algo](Bellman-Ford's_algorithm.java)
+
+-[Infix to Postfix](InfixToPostfix.java )
