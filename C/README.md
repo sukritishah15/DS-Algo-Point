@@ -93,7 +93,6 @@ Format: -[Program name](name of the file)
 
 -[Priority based scheduling](priority based scheduling (non - preemptive).c)
 
--[Program name](name of the file)
 
 -[Quick sort on doubly linked list](quick sort in doubly linked list.c)
 
