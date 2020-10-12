@@ -1,135 +1,194 @@
 Add links to your code in Alphabetical Order.
-Format: -[Program name](name of the file)
+Format: -[Program name](package/name of the file)
 
--[AVL Tree Implementation](AVL_Tree_Implementation.java)
+-[Anagrams](Anagrams.java)
 
--[The Dutch National Flag Problem](TheDutchNationalFlag.java)
+-[Approximating PI value](Algorithms/approxing_pi.java)
 
--[Height of Binary Tree](HeightOfBinaryTree.java)
+-[AVL Tree Implementation](DataStructures/AVL_Tree_Implementation.java)
 
--[Binary Search Tree Implementation](ImplementingBST.java)
+-[The Dutch National Flag Problem](Algorithms/TheDutchNationalFlag.java)
 
--[Binary Search](binarySearch.java)
+-[Height of Binary Tree](DataStructures/HeightOfBinaryTree.java)
 
--[BODMAS_Eval](BODMAS_Eval.java)
+-[Binary Search Tree Implementation](DataStructures/ImplementingBST.java)
 
--[Bubble Sort](bubble.java)
+-[Binary Search](Search/binarySearch.java)
 
--[Check whether a number is Neon or not](neonNumber.java)
+-[BODMAS_Eval](Algorithms/BODMAS_Eval.java)
 
--[Check for Armstrong number](CheckForArmstrongNo.java)
+-[Bubble Sort](Sorting/bubbleSort.java)
 
--[Circular Doubly Linked List](CircularDList.java)
+-[Check whether a number is Neon or not](Algorithms/neonNumber.java)
+
+-[Check for Armstrong number](Algorithms/CheckForArmstrongNo.java)
+
+-[Check String Palindrome](Algorithms/StringPalindrome.java)
+
+-[Circular Doubly Linked List](DataStructures/CircularDList.java)
+
+-[Circular Singly Linked List](DataStructures/CircularSList.java)
+
+-[Circular Queue](DataStructures/CircularQueue.java)
+
+-[Closest Pair](Algorithms/closestPair.java)
 
 -[Circular Singly Linked List](CircularSList.java)
 
--[Circular Queue](CircularQueue.java)
+-[Code to check balance paranthesis](Algorithms/Bracket.java)
 
--[Circular Singly Linked List](CircularSList.java)  
+-[Code to check if the entered integer is automorphic or not](Algorithms/Automorphic.java)
 
--[Code to check balance paranthesis](Bracket.java)
+-[Collatz Sequence](Algorithms/CollatzSequence.java)
 
--[Code to check if the entered integer is automorphic or not](Automorphic.java)
+-[Counting Sort](Sorting/CountingSort.java)
 
--[Delete Nth Node from Linked List](LinkedList.java)
+-[Delete Nth Node from Linked List](DataStructures/LinkedList.java)
 
--[Dijsktra Algorithm](Dijsktra-adjacencyList.java)
+-[Diameter of BinaryTree](DataStructures/DiameterOfBinaryTree.java)
 
--[Doubly Linked List](DList.java)
+-[Dijsktra Algorithm](Algorithms/Dijsktra-adjacencyList.java)
 
--[Find middle element in a Linked List](Middle_element_of_a_Linked_List.java)
+-[Doubly Linked List](DataStructures/DList.java)
+
+-[Fibonnaci Numbers](Algorithms/FibonnaciNumbers.java)
+
+-[Equation of line ,slope ,Distance between 2 points](EqOfLine.java)
+
+-[Find middle element in a Linked List](DataStructures/Middle_element_of_a_Linked_List.java)
+
+-[FizzBuzz](Algorithms/FizzBuzz.java)
+
+-[Floyd Warshall Algorithm](Algorithms/FloydWarshall.java)
 
 -[Euclid's Algorithm for Greatest Common Divisor (GCD)](GCD.java)
 
--[Heap Sort](HeapSort.java)
+-[GCD](Algorithms/GCD_1.java)
 
--[Inorder Traversal Of Binary tree](inorder.java)
+-[Heap Sort](Sorting/HeapSort.java)
 
--[Insertion Sort](Insertion_Sort.java)
+-[Implement of Rotation of Array](Algorithms/RotateClockwise.java)
 
--[Interpolation Search](interpolationsearch.java)
+-[Inorder Traversal Of Binary tree](Algorithms/inorder.java)
 
--[Kadane's Algorithm](kadane_algorithm.java)
+-[Inorder Traversal Of Binary tree using Morris Traversal](MorrisTraversal.java)
 
--[KMP Pattern Matching Algorithm ](KMPpatternMatching.java)
+-[Insertion Sort](Sorting/Insertion_Sort.java)
 
--[Kosaraju's Algorithm for Strongly Connected Components](Kosaraju.java)
+-[Inversion](Algorithms/Inversion.java)
 
--[Linear Search](LinearSearch.java)
+-[Interpolation Search](Search/interpolationsearch.java)
 
--[Longest common sequence](Longest_common_subsequence.java)
+-[Kadane's Algorithm](Algorithms/kadane_algorithm.java)
 
--[Longest length path in a matrix](longest_length_path.java)
+-[KMP Pattern Matching Algorithm](Algorithms/KMPpatternMatching.java)
 
--[Majority Element of array in constant space](MajorityElement.java)
+-[Kosaraju's Algorithm for Strongly Connected Components](Algorithms/Kosaraju.java)
 
--[Maximum Possible Number with Given Digits](MaxNumber.java)
+-[Linear Search](Search/LinearSearch.java)
 
--[Maze](Maze.java)
+-[Longest common sequence](Algorithms/Longest_common_subsequence.java)
 
--[Merge Sort Java](MergeSort.java)
+-[Longest length path in a matrix](Algorithms/longest_length_path.java)
 
--[Nth term of ap](nth_term_of_ap.java)
+-[Majority Element of array in constant space](Algorithms/MajorityElement.java)
 
--[Nth term of gp](nth_term_of_gp.java)
+-[Maximum Possible Number with Given Digits](Algorithms/MaxNumber.java)
 
--[Permutations and Combination](PermutationsAndCombination.java)
+-[Maze](Algorithms/Maze.java)
 
--[Pancake Sorting](PancakeSort.java)
+-[Median of Two Sorted Arrays](Algorithms/MedianOfTwoSortedArrays.java)
 
--[Postorder Traversal of Tree](postorder.java)
+-[Merge Sort Java](Sorting/MergeSort.java)
 
--[Power set](powerset.java)
+-[Minimum number of denominations using Greedy algo approach](Algorithms/MinDenominations_GreedyAlgo.java)
+
+-[Nth term of ap](Algorithms/nth_term_of_ap.java)
+
+-[Nth term of gp](Algorithms/nth_term_of_gp.java)
+
+-[Permutations and Combination](Algorithms/PermutationsAndCombination.java)
+
+-[Pangrams](Pangrams.java)
+
+-[Pancake Sorting](Sorting/PancakeSort.java)
+
+-[Preorder Traversal of Binary Tree using Morris Traversal Algorithm](MorrisPreorderTraversal.java)
 
 -[Preorder Tree Traveral](preorder.java)
 
--[Prime Factors in LogN time](Primefactor.java)
+-[Postorder Traversal of Tree](DataStructures/postorder.java)
+
+-[Power set](Algorithms/powerset.java)
+
+-[Preorder Tree Traveral](DataStructures/preorder.java)
+
+-[Prime Factors in LogN time](Algorithms/Primefactor.java)
 
 -[Queue](Queue.java)
 
--[Reverse LinkedList](reverse_linkedlist.java)
+-[Reverse LinkedList](DataStructures/reverse_linkedlist.java)
 
--[Rotate LinkedList in K Groups](RotateLinkedListKGroups.java)
+-[Rotate LinkedList in K Groups](DataStructures/RotateLinkedListKGroups.java)
 
--[Search in a Sorted Matrix](MatrixSearch.java)
+-[Search in a Sorted Matrix](Search/MatrixSearch.java)
 
--[Search Repeating Element](SearchRepeatingElements.java)
+-[Search Repeating Element](Algorithms/SearchRepeatingElements.java)
 
--[Selection Sort](SelectionSort.java)
+-[Selection Sort](Sorting/SelectionSort.java)
 
--[Shell Sort](ShellSort.java)
+-[sequence and series](Algorithms/SequenceAndSeries.java)
+
+-[Shell Sort](Sorting/ShellSort.java)
+
+-[Shortest Remaining Time Scheduling](DataStructures/SRTF.java)
+
+-[Longest Remaining Time Scheduling](DataStructures/LRTF.java)
+
+-[Singly Linked List](DataStructures/SList.java)
+
+-[SJFPremptive](Algorithms/SJFPremptive.java)
+
+-[SJFNonpremptive](Algorithms/SJFNonpremptive.java)
+
+-[Seive Of Eratosthenes](Algorithms/SeiveOfEratosthenes.java)
+
+-[Swap Two Numbers Without Third Variable](Algorithms/SwapNumbersWithoutThirdVariable.java)
+
+-[Tarjan Algorithm](Algorithms/tarjan.java)
+
+-[Tower of Hanoi](Algorithms/tower-of-hanoi.java)
+
+-[Travelling salesman problem](Algorithms/tsp.java) 
+
+-[Twin Prime](Algorithms/Twin_Prime.java)
+
+-[Two Pointer Algorithm](Algorithms/TwoPointerAlgo.java)
+
+-[Implement Radix Sort](Sorting/RadixSort.java)
+
+-[Implement quick sort](Sorting/quick_sort.java)
 
 -[Singly Linked List](SList.java)
 
--[Seive Of Eratosthenes](SeiveOfEratosthenes.java)
+-[Suduko Solver](Algorithms/sudokuSolver.java)
 
--[Tarjan Algorithm](tarjan.java)
+-[Queue](DataStructures/Queue.java)
 
--[Tower of Hanoi](tower-of-hanoi.java)
+-[Stack](DataStructures/Stack.java)
 
--[Travelling salesman problem](tsp.java) 
+-[Z Function](Algorithms/z_function.java)
 
--[Twin Prime](Twin_Prime.java)
+-[Sleep Sort](Sorting/SleepSort.java)
 
--[Two Pointer Algorithm](TwoPointerAlgo.java)
--[Implement Radix Sort](RadixSort.java)
+-[Bellman-Ford's algo](Algorithms/Bellman-Ford's_algorithm.java)
 
--[Implement Radix Sort](RadixSort.java)
+-[Kruskal Algorithm](Algorithms/Kruskal_Algorithm.java)
 
--[Implement quick sort](quick_sort.java)
-
--[Singly Linked List](SList.java)  
-
--[Suduko Solver](sudokuSolver.java)
-
--[Queue](Queue.java)
-
--[Stack](Stack.java)
-
--[Z Function](z_function.java)
-
--[Sleep Sort](SleepSort.java)
+- [Flood Fill Algorithm](flood_fill.java)
 
 -[Bellman-Ford's algo](Bellman-Ford's_algorithm.java)
 
--[Infix to Postfix](InfixToPostfix.java )
+-[Count of palindrome substring](CountOfPalindromeSubString.java)
+
+-[Infix to Postfix](InfixToPostfix.java)

@@ -4,7 +4,13 @@ Format:
 
 -[Program name](name of the file)
 
+-[Anagram of Strings](AnagramString.c)
+
 -[Armstrong Number Checker](Armstrong.c)
+
+-[AVL Tree](AVL_Tree.c)
+
+-[Bellman-Ford's algo](Bellman-Ford's_algorithm.c)
 
 -[Binary Search](Binary_Search.c)
 
@@ -16,11 +22,15 @@ Format:
 
 -[Circular Singly Linked List](circularSLL.c)
 
+-[Dutch Flag](DutchFlag.c)
+
 -[FCFS ](fcfs.c)
 
 -[Find nth term in an A.P.](AP.c)
 
 -[Find the middle element of linked list](middle.c)
+
+-[FizzBuzz](fizzbuzz.c)
 
 -[Floyd Warshall algorithm](floyd-warshall.c)
 
@@ -30,6 +40,8 @@ Format:
 
 -[Implement Euclidean Algorithm to find greatest common divisor of 2 given numbers.](Euclid_GCD.c)
 
+-[Implement Swapping Numbers](SwappingNumber.c)
+
 -[Implement 0/1 Knapsack using Dynamic Programming](0-1_knapsack.c)
 
 -[Inorder tree traversal](Tree_Inorder_Traversal.c)
@@ -37,6 +49,8 @@ Format:
 -[Kadane's Algorithm For Getting Maximum Sub Array easy implementation using c](kadaneMaxSumSubArray.c)
 
 -[KMP Algorithm](kmp.c)
+
+-[Kruskal Algorithm](kruskal.c)
 
 -[Linear Search.](LinearSearch.c)
 
@@ -50,15 +64,21 @@ Format:
 
 -[Maximum digit using given numbers](Maximum_number.c)
 
+-[Maze Problem using Backtracking](Maze_Problem.c)
+
 -[Mean Median Calculation](Mean_Median_Calculation.c)
 
 -[Merge Sort](Mergesort.c)
+
+-[Minimum number of denominations (Indian Currency) using Greedy algo approach](MinDenominations_GreedyAlgo.c)
 
 -[Neon Number](neon_number.c)
 
 -[Nth Term of GP](NthTermGP.c)
 
 -[N Queens Puzzle](nQueens.c)
+
+-[Palindrome Substring](Palindrome_substring.c)
 
 -[Permutations and Combinations](Permutations_And_Combinations.c)
 
@@ -71,6 +91,8 @@ Format:
 -[Quick Sort](Quick_Sort.c)
 
 -[Quick Sort on Doubly Linked List](quick sort in doubly linked list.c)
+
+-[Radix Sort](Radix_Sort.c)
 
 -[Remove Nth node of Linked List](remove_nth_node.c)
 
@@ -88,6 +110,8 @@ Format:
 
 -[Singly Linked List](SinglyLL.c)
 
+-[String Palindrome](String_Palindrome.c)
+
 -[Sum of Fibonacci Series](sumofFibonacciSeries.c)
 
 -[Twin Prime Numbers](twinPrime.C)
@@ -104,6 +128,11 @@ Format:
 
 -[Stack Implementation](C_STACK.C)
 
--[Bellman-Ford's algo](Bellman-Ford's_algorithm.c)
+-[Automorphic Number](automorphic.c)
 
--[FizzBuzz](fizzbuzz.c)
+-[Shortest Job First Scheduling Algorithm](Shortest Job First Scheduling Algorithm (SJF - Non-Preemptive).C)
+
+- [Floyd Warshall](floyd_warrshal.c)
+
+-[Priority based Scheduling](Priority based Scheduling (Non - Preemptive).C)
+

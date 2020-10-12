@@ -31,7 +31,7 @@ public class GFG {
         } 
   
         // check for twin prime numbers 
-        // To display th result 
+        // To display the result 
         for (int i = 2; i <= n - 2; i++) { 
             if (prime[i] == true && prime[i + 2] == true) 
                 Console.Write(" (" + i + ", " + (i + 2) + ")"); 
@@ -78,7 +78,7 @@ Inside the function :
         } 
   
         // check for twin prime numbers 
-        // To display th result 
+        // To display the result 
         for (int i = 2; i <= n - 2; i++) {      -----------------O(n)
             if (prime[i] == true && prime[i + 2] == true) 
                 Console.Write(" (" + i + ", " + (i + 2) + ")"); 
