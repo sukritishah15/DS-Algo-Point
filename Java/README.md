@@ -97,6 +97,9 @@ Format: -[Program name](package/name of the file)
 
 -[Maze](Algorithms/Maze.java)
 
+-[Minimum product subset](Algorithms/MinimumProductSubset.java)
+
+
 -[Median of Two Sorted Arrays](Algorithms/MedianOfTwoSortedArrays.java)
 
 -[Merge Sort Java](Sorting/MergeSort.java)
