@@ -1,54 +1,53 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
+-[Binary search](binarysearch.js)
 
--[Binary Search](binarySearch.js)
+-[Bubble sort](bubblesort.js)
 
--[Bubble Sort](bubbleSort.js)
+-[Checks whether given number is neon or not](neonnumber.js)
 
--[Checks whether given number is neon or not](neonNumber.js)
+-[Counting sort](countsort.js)
 
--[Fibonacci Series](fibonacciSum.js)
+-[Diameter of tree](treediameter.js)
 
--[FizzBuzz](fizzBuzz.js)
+-[Fibonacci series](fibonaccisum.js)
 
--[GCD of two numbers](gcd.js)
+-[Fizzbuzz](fizzbuzz.js)
 
--[Linear Search](linearSearch.js)
+-[Gcd of two numbers](gcd.js)
 
--[Kadane's Algorithm](kadaneAlgo.js)
+-[Kadane's algorithm](kadanealgo.js)
 
--[Knapsack Algorith](knapSack.js)
+-[Knapsack algorith](knapsack.js)
 
--[Pancake Sorting](pancakeSorting.js)
+-[Largest number formation](largest_number.js)
 
--[Pangram String](pangram.js)
+-[Linear search](linearsearch.js)
 
--[QuickSort](QuickSort.js)
+-[Manhattan distance](manhattan_distance.js)
 
--[Sieve of Eratosthenes](Sieve.js)
+-[Mean and median calculation](mean_median.js)
 
--[Swap two numbers without using third variable](swapTwoNumbers.js)
+-[Merge sort](mergesort.js)
 
--[Trie](Trie.js)
+-[Pancake sorting](pancakesorting.js)
 
--[Manhattan distance](Manhattan_distance.js)
+-[Pangram string](pangram.js)
 
--[Powerset of a set](Powerset.js)
+-[Permutation_combination](permutation_combination.js)
 
--[Mean and Median calculation](mean_median.js)
+-[Post order traversal of tree](postorder.js)
 
--[Merge Sort](mergesort.js)
+-[Powerset of a set](powerset.js)
 
--[Twin_Prime](twin_prime.js)
+-[Quicksort](quicksort.js)
 
--[Permutation_Combination](permutation_combination.js)
+-[Sieve of eratosthenes](sieve.js)
 
--[Sleep Sort](Sleep_Sort.js)
+-[Sleep sort](sleep_sort.js)
 
--[Post Order Traversal of Tree](postOrder.js)
+-[Swap two numbers without using third variable](swaptwonumbers.js)
 
--[Diameter of Tree](treeDiameter.js)
+-[Trie](trie.js)
 
--[Largest Number Formation](largest_number.js)
-
--[Counting sort](CountSort.js)
+-[Twin_prime](twin_prime.js)

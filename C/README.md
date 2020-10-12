@@ -1,138 +1,136 @@
 Add links to your code in Alphabetical Order.
+-[floyd warshall](floyd_warrshal.c)
 
-Format:
+-[Anagram of strings](anagramstring.c)
 
--[Program name](name of the file)
+-[Armstrong number checker](armstrong.c)
 
--[Anagram of Strings](AnagramString.c)
+-[Automorphic number](automorphic.c)
 
--[Armstrong Number Checker](Armstrong.c)
+-[Avl tree](avl_tree.c)
 
--[AVL Tree](AVL_Tree.c)
+-[Bellman-ford's algo](bellman-ford's_algorithm.c)
 
--[Bellman-Ford's algo](Bellman-Ford's_algorithm.c)
+-[Binary search](binary_search.c)
 
--[Binary Search](Binary_Search.c)
+-[Bubble sort](bubblesort.c)
 
--[Bubble Sort](bubblesort.c)
+-[Check for balanced paranthesis expression](check_balanced_paranthesis.c)
 
--[Check for balanced paranthesis expression](Check_balanced_paranthesis.c)
+-[Circular doubly linked list](circulardll.c)
 
--[Circular Doubly Linked List](circularDLL.c)
+-[Circular singly linked list](circularsll.c)
 
--[Circular Singly Linked List](circularSLL.c)
+-[Dutch flag](dutchflag.c)
 
--[Dutch Flag](DutchFlag.c)
+-[Fcfs ](fcfs.c)
 
--[FCFS ](fcfs.c)
-
--[Find nth term in an A.P.](AP.c)
+-[Find nth term in an a.p.](ap.c)
 
 -[Find the middle element of linked list](middle.c)
 
--[FizzBuzz](fizzbuzz.c)
+-[Fizzbuzz](fizzbuzz.c)
 
--[Floyd Warshall algorithm](floyd-warshall.c)
+-[Floyd warshall algorithm](floyd-warshall.c)
 
--[Height of Binary Tree](btheight.c)
+-[Heap sort](heap_sort.c)
+
+-[Height of binary tree](btheight.c)
+
+-[Implement 0/1 knapsack using dynamic programming](0-1_knapsack.c)
 
 -[Implement bubblesort using c](bubblesort.c)
 
--[Implement Euclidean Algorithm to find greatest common divisor of 2 given numbers.](Euclid_GCD.c)
+-[Implement euclidean algorithm to find greatest common divisor of 2 given numbers.](euclid_gcd.c)
 
--[Implement Swapping Numbers](SwappingNumber.c)
+-[Implement swapping numbers](swappingnumber.c)
 
--[Implement 0/1 Knapsack using Dynamic Programming](0-1_knapsack.c)
+-[Inorder tree traversal](tree_inorder_traversal.c)
 
--[Inorder tree traversal](Tree_Inorder_Traversal.c)
+-[Kadane's algorithm for getting maximum sub array easy implementation using c](kadanemaxsumsubarray.c)
 
--[Kadane's Algorithm For Getting Maximum Sub Array easy implementation using c](kadaneMaxSumSubArray.c)
+-[Kmp algorithm](kmp.c)
 
--[KMP Algorithm](kmp.c)
+-[Kruskal algorithm](kruskal.c)
 
--[Kruskal Algorithm](kruskal.c)
+-[Linear search.](linearsearch.c)
 
--[Linear Search.](LinearSearch.c)
+-[Longest common subsequence](longest_common_subsequence.c)
 
--[Longest Common Subsequence](Longest_Common_Subsequence.c)
+-[Longest length path in matrix](longestlengthpathmatrix.c)
 
--[Longest Length Path in Matrix](longestLengthPathMatrix.c)
+-[Majority element in o(1)](majority.c)
 
--[Majority Element in O(1)](majority.c)
+-[Manhattan distance](manhattandistance.c)
 
--[Manhattan Distance](manhattanDistance.c)
+-[Maximum digit using given numbers](maximum_number.c)
 
--[Maximum digit using given numbers](Maximum_number.c)
+-[Maze problem using backtracking](maze_problem.c)
 
--[Maze Problem using Backtracking](Maze_Problem.c)
+-[Mean median calculation](mean_median_calculation.c)
 
--[Mean Median Calculation](Mean_Median_Calculation.c)
+-[Merge sort](mergesort.c)
 
--[Merge Sort](Mergesort.c)
+-[Minimum number of denominations (indian currency) using greedy algo approach](mindenominations_greedyalgo.c)
 
--[Minimum number of denominations (Indian Currency) using Greedy algo approach](MinDenominations_GreedyAlgo.c)
+-[N queens puzzle](nqueens.c)
 
--[Neon Number](neon_number.c)
+-[Neon number](neon_number.c)
 
--[Nth Term of GP](NthTermGP.c)
+-[Nth term of gp](nthtermgp.c)
 
--[N Queens Puzzle](nQueens.c)
+-[Palindrome substring](palindrome_substring.c)
 
--[Palindrome Substring](Palindrome_substring.c)
+-[Permutations and combinations](permutations_and_combinations.c)
 
--[Permutations and Combinations](Permutations_And_Combinations.c)
-
--[Postorder Tree Traversal](postorder.c)
+-[Postorder tree traversal](postorder.c)
 
 -[Powerset of the given set](powerset.c)
 
--[Prime Factors using seive of eratosthenes](primefactors.c)
+-[Prime factors using seive of eratosthenes](primefactors.c)
 
--[Quick Sort](Quick_Sort.c)
+-[Priority based scheduling](priority based scheduling (non - preemptive).c)
 
--[Quick Sort on Doubly Linked List](quick sort in doubly linked list.c)
+-[Program name](name of the file)
 
--[Radix Sort](Radix_Sort.c)
+-[Quick sort on doubly linked list](quick sort in doubly linked list.c)
 
--[Remove Nth node of Linked List](remove_nth_node.c)
+-[Quick sort](quick_sort.c)
+
+-[Radix sort](radix_sort.c)
+
+-[Remove nth node of linked list](remove_nth_node.c)
 
 -[Reverse a linked list](reverse.c)
 
--[Rotate Array Clockwise by k elements](RotateArrayClockwise.c)
+-[Rotate array clockwise by k elements](rotatearrayclockwise.c)
 
--[Rotate Linked List in Group of K](rotatell.c)
+-[Rotate linked list in group of k](rotatell.c)
 
--[Search in Row And Column Wise Sorted Matrix](Search_in_Row_And_Column_Wise_Sorted_Matrix.c)
+-[Search in row and column wise sorted matrix](search_in_row_and_column_wise_sorted_matrix.c)
 
--[Search Repeating elements using Map/Hashmap](rep.c)
+-[Search repeating elements using map/hashmap](rep.c)
 
--[Selection Sort](Selection_Sort_C.c)
+-[Selection sort](selection_sort_c.c)
 
--[Singly Linked List](SinglyLL.c)
+-[Shortest job first scheduling algorithm](shortest job first scheduling algorithm (sjf - non-preemptive).c)
 
--[String Palindrome](String_Palindrome.c)
+-[Sieve of eratosthenes](sieve_of_eratosthenes.c)
 
--[Sum of Fibonacci Series](sumofFibonacciSeries.c)
+-[Singly linked list](singlyll.c)
 
--[Twin Prime Numbers](twinPrime.C)
+-[Stack implementation](c_stack.c)
 
--[Tower of Hanoi](tower_of_hanoi.c)
+-[String palindrome](string_palindrome.c)
 
--[Ternary Search](Ternary Search in C.c)
+-[Sum of fibonacci series](sumoffibonacciseries.c)
 
--[Two Pointer algorithm to find sum pairs](TwoPointer_to_find_sum_pairs.c)
+-[Ternary search](ternary search in c.c)
 
--[Heap Sort](heap_sort.c)
+-[Tower of hanoi](tower_of_hanoi.c)
 
--[Sieve Of Eratosthenes](Sieve_of_Eratosthenes.c)
+-[Twin prime numbers](twinprime.c)
 
--[Stack Implementation](C_STACK.C)
+-[Two pointer algorithm to find sum pairs](twopointer_to_find_sum_pairs.c)
 
--[Automorphic Number](automorphic.c)
-
--[Shortest Job First Scheduling Algorithm](Shortest Job First Scheduling Algorithm (SJF - Non-Preemptive).C)
-
-- [Floyd Warshall](floyd_warrshal.c)
-
--[Priority based Scheduling](Priority based Scheduling (Non - Preemptive).C)
-
+FoRmat:
