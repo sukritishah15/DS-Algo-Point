@@ -129,6 +129,8 @@ Format: -[Program name](name of the file)
 
 - [Palindromic Substring](Palindromic_substring.cpp)
 
+- [Pangram](Pangram.cpp)
+
 - [Permutation and Combination](Permutations_And_Combinations.cpp)
 
 - [Pigeonhole Sort](pigeon.cpp)
