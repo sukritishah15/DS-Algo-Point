@@ -1,12 +1,12 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
--[Length of Longest Common Sub-Sequence using DP ](LongestCommonSubSequence.kt)
+-[Diameter of binary tree](diameterbinarytree.kt)
 
--[Diameter of Binary Tree](DiameterBinaryTree.kt)
+-[Length of longest common sub-sequence using dp ](longestcommonsubsequence.kt)
 
--[Merge Sort Algorithm](MergeSort.kt)
+-[Merge sort algorithm](mergesort.kt)
 
--[Rotate Array by specific given count](RotateArrayClockwise.kt)
+-[Rotate array by specific given count](rotatearrayclockwise.kt)
 
--[Swap two numbers without third variable](Swap_Numbers_without_third_variable.kt)
+-[Swap two numbers without third variable](swap_numbers_without_third_variable.kt)

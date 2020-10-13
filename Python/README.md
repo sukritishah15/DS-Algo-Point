@@ -1,169 +1,168 @@
 Add links to your code in Alphabetical Order.
+Format: -[program name](name of the file)
 
-Format: -[Program name](name of the file)
-
--[0/1 Knapsack Problem using Dynamic Programming approach](Knapsack_DP.py)
+-[0/1 knapsack problem using dynamic programming approach](knapsack_dp.py)
 
 -[Anagrams](anagrams.py)
 
--[Arithmetic Progression](arithmetic.py)
+-[Arithmetic progression](arithmetic.py)
 
--[AVL Tree](avl-tree.py)
+-[Automorphic number](automorphic.py)
 
--[Automorphic Number](automorphic.py)
+-[Avl tree](avl-tree.py)
 
--[Balanced Parentheses](balanced_parentheses.py)
+-[Balanced parentheses](balanced_parentheses.py)
 
--[Binary Exponentiation](binary_exponentiation.py)
+-[Bellman-ford's algo](bellman-ford's_algorithm.py)
 
--[Binary Search](Binary_Search.py)
+-[Binary exponentiation](binary_exponentiation.py)
 
--[Binary Search Tree](Binary_Search_Tree.py)
+-[Binary search tree](binary_search_tree.py)
 
--[Bubble Sort](Bubble_Sort.py)
+-[Binary search](binary_search.py)
 
--[Bucket Sort](bucketsort.py)
+-[Bubble sort](bubble_sort.py)
+
+-[Bucket sort](bucketsort.py)
 
 -[Check whether a number is an armstrong number](armstrong_number.py)
 
--[Collatz Sequence](Collatz_sequence.py)
+-[Circular doubly linked list](circular_doubly_linked_list.py)
 
--[Circular Doubly Linked List](Circular_Doubly_Linked_List.py)
+-[Circular queue](circularqueue.py)
 
--[Circular Queue](CircularQueue.py)
+-[Circular queue](circularqueue.py)
 
--[Circular Queue](CircularQueue.py)
+-[Circular singly linked list](circular_singly_linked_list.py)
 
--[Circular Singly Linked List](Circular_Singly_Linked_List.py)
+-[Collatz sequence](collatz_sequence.py)
 
--[Collatz Sequence](Collatz_sequence.py)
+-[Collatz sequence](collatz_sequence.py)
 
--[Comb Sort](comb_sort.py)
+-[Comb sort](comb_sort.py)
 
--[Doubly Linked List](Doubly_Linked_List.py)
+-[Doubly linked list](doubly_linked_list.py)
 
--[Equation of a Line](EquationOfLines.py)
+-[Dutch national flag problem](dutchflagproblem.py)
 
--[Fibonacci Series](Fibonacci.py)
+-[Equation of a line](equationoflines.py)
 
--[First Come First Scheduling](fcfs.py)
-
--[FizzBuzz Problem](FizzBuzz.py)
-
--[Geometric Progression](geometric.py)
-
--[Gcd](GreatestCommonDivisor.py)
-
--[Harmonic Series](harmonic.py)
-
--[Insertion Sort](insertion_sort.py)
-
--[KMP Pattern matching algorithm](KMPAlgorithminPython.py)
+-[Fibonacci series](fibonacci.py)
 
 -[Find an element in a sorted matrix](find_element_in_sorted_matrix.py)
 
--[Greatest Common divisor](gcd.py)
+-[Find an element in a sorted matrix](find_element_in_sorted_matrix.py)
 
--[Heap Sort](Heap_sort.py)
+-[First come first scheduling](fcfs.py)
 
--[Inorder Tree Traversal](inordder.py)
+-[Fizzbuzz problem](fizzbuzz.py)
 
--[Insertion Sort](Insertion-Sort.py)
+-[Floyd warshall algorithm](floyd_warshall_algorithm.py)
 
--[Interpolation Search](Interpolation_Search.py)
+-[Gcd](greatestcommondivisor.py)
 
--[Karatsuba Algorithm](Karatsuba_Algorithm.py)
+-[Geometric progression](geometric.py)
 
--[Linear Search](Linear_Search.py)
+-[Greatest common divisor](gcd.py)
 
--[Longest Common Subsequence](lcs.py)
+-[Harmonic series](harmonic.py)
 
--[Longest length path in a matrix](LongestPath_Matrix.py)
+-[Heap sort](heap_sort.py)
 
--[Manhattan Distance](manhattan.py)
+-[Inorder tree traversal](inordder.py)
+
+-[Insertion sort](insertion-sort.py)
+
+-[Insertion sort](insertion_sort.py)
+
+-[Interpolation search](interpolation_search.py)
+
+-[Kadane's algorithm](kadane_algorithm.py)
+
+-[Karatsuba algorithm](karatsuba_algorithm.py)
+
+-[Kmp pattern matching algorithm](kmpalgorithminpython.py)
+
+-[Kruskal's algorithm](kruskals.py)
+
+-[Linear search](linear_search.py)
+
+-[Linear search](linear_search.py)
+
+-[Longest common subsequence](lcs.py)
+
+-[Longest length path in a matrix](longestpath_matrix.py)
+
+-[Majority element](majority_element.py)
+
+-[Manhattan distance](manhattan.py)
 
 -[Maximum number formed from given digits](maximum.py)
 
--[Mean and Median calculation](meanAndmedian.py)
+-[Mean and median calculation](meanandmedian.py)
 
--[Merge Sort](mergeSort.py)
+-[Merge sort](mergesort.py)
 
--[Mid Element In Linked List](find_mid_element_in_linked_list.py)
+-[Mid element in linked list](find_mid_element_in_linked_list.py)
 
--[Minimum number of denominations in Indian Currency using Greedy algo approach](MinDenominations_GreedyAlgo.py)
+-[Minimum number of denominations in indian currency using greedy algo approach](mindenominations_greedyalgo.py)
 
--[Neon Numbers](neon_numbers.py)
+-[Neon numbers](neon_numbers.py)
 
--[Nth Term of AP](nth_term_of_ap.py)
+-[Nth term of ap](nth_term_of_ap.py)
 
--[Nth Term of GP](nth_term_of_gp.py)
+-[Nth term of gp](nth_term_of_gp.py)
 
--[Pancake Sort](PancakeSort.py)
+-[Pancake sort](pancakesort.py)
 
--[Pangram String](Pangram_in_python.py)
+-[Pangram string](pangram_in_python.py)
 
--[Permutations and Combinations](Permutations_And_Combinations.py)
+-[Permutations and combinations](permutations_and_combinations.py)
 
--[Queue](Queue.py)
+-[Pigeonhole sort](pigeonhole_sort.py)
 
--[QuickSort](quicksort.py)
+-[Post order traversal](postordertraversal.py)
 
--[PreOrder Tree Traversal](preorder.py)
+-[Power set](power_set.py)
 
--[Radix Sort](radixsort.py)
+-[Preorder tree traversal](preorder.py)
+
+-[Queue](queue.py)
+
+-[Quicksort](quicksort.py)
+
+-[Radix sort](radixsort.py)
 
 -[Remove_nth_node_from_linkedlist](remove_nth_node_from_linkedlist.py)
 
--[Rotate the array by D elements clockwise](Rotate-array-by-D-elements.py)
+-[Rotate the array by d elements clockwise](rotate-array-by-d-elements.py)
 
--[Selection Sort](selectionsort.py)
+-[Selection sort](selectionsort.py)
 
--[Shell Sort](shell_sort.py)
+-[Shell sort](shell_sort.py)
 
--[Sieve of Eratosthenes](Sieve_of_Eratosthenes.py)
+-[Sieve of eratosthenes](sieve_of_eratosthenes.py)
 
--[Singly Linked List](SinglyLinkedList.py)
+-[Singly linked list](singlylinkedlist.py)
 
--[Linear Search](Linear_Search.py)
-
--[Sleep Sort](SleepSort.py)
-
--[Sudoku solver](sudoku-solver.py)
+-[Sleep sort](sleepsort.py)
 
 -[Stack](stack.py)
 
--[Swap two numbers without using third variable](Swap-two-numbers.py)
+-[Sudoku solver](sudoku-solver.py)
 
--[Timsort Algorithm](Tim-sort-Algorithm-in-Python.py)
+-[Swap two numbers without using third variable](swap-two-numbers.py)
 
 -[Ternary search](ternary_search.py)
 
--[Value of Pi](valueofPi.py)
-
--[Traveling salesman problem](travelingSalesman.py)
-
--[Find an element in a sorted matrix](find_element_in_sorted_matrix.py)
-
--[Kadane's Algorithm](kadane_algorithm.py)
-
--[Dutch National Flag Problem](dutchflagproblem.py)
-
--[Post Order Traversal](postordertraversal.py)
-
--[Bellman-Ford's algo](Bellman-Ford's_algorithm.py)
-
--[Floyd Warshall Algorithm](Floyd_Warshall_Algorithm.py)
-
--[Pigeonhole sort](Pigeonhole_Sort.py)
+-[Timsort algorithm](tim-sort-algorithm-in-python.py)
 
 -[Tower of hanoi](tower_of_hanoi.py)
 
--[Two Pointers](TwoPointer.py)
+-[Traveling salesman problem](travelingsalesman.py)
 
--[Power Set](Power_Set.py)
+-[Two pointers](twopointer.py)
 
--[Majority Element](majority_element.py)
+-[Unique number from a set of numbers repeated twice except unique number](unique_number_repeated_twice_except_unique_number.py)
 
--[Kruskal's Algorithm](Kruskals.py)
-
--[Unique Number From A Set of Numbers repeated twice except unique number](unique_number_repeated_twice_except_unique_number.py)
+-[Value of pi](valueofpi.py)
