@@ -107,6 +107,8 @@ Format: -[Program name](name of the file)
 
 -[Postorder Traversal of Tree](postorder.java)
 
+-[Prefix Sums Array](PrefixSumsArray.java)
+
 -[Power set](powerset.java)
 
 -[Preorder Tree Traveral](preorder.java)
