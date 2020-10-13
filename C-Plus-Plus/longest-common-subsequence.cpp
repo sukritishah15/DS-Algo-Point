@@ -16,6 +16,12 @@ int main() {
     Input specification: 
     - Integer n, m
     - String a, b, the two strings with length n and m respectively
+    Sample Input:
+    3 5
+    abc
+    aabcc
+    Sample Output: 
+    The LCS is 3
     Time complexity: O(nm)
     Space complexity: O(nm)
     */
