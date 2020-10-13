@@ -31,7 +31,7 @@ public class BinaryIndexTree {
                 update(i, k);
             } else if(x==2) { //query sum of [L, R]
                 l = in.nextInt(); r = in.nextInt();
-                System.out.println("Sum of index "+i+" is "+query(l, r));
+                System.out.println("Sum of the range ["+l+", "+r+"] is "+query(l, r));
             }
         }
     }
