@@ -232,3 +232,8 @@ Format: -[Program name](name of the file)
 - [Z algorithm](ZAlgorithm.cpp)
 
 - [Least Common Multiple](lcm.cpp)
+<<<<<<< Updated upstream
+=======
+- [Shortest Job First Scheduling Algorithm](Shortest Job First Scheduling Algorithm (SJF - Non-Preemptive).cpp) 
+- [Round Robin Scheduling Algorithm](Round Robin Scheduling Algorithm (RR).cpp) 
+>>>>>>> Stashed changes
