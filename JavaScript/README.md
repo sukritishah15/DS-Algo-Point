@@ -1,54 +1,54 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
--[Binary Search](binarySearch.js)
+-[Binary search](binarysearch.js)
 
--[Bubble Sort](bubbleSort.js)
+-[Bubble sort](bubblesort.js)
 
--[Checks whether given number is neon or not](neonNumber.js)
+-[Checks whether given number is neon or not](neonnumber.js)
 
--[Fibonacci Series](fibonacciSum.js)
+-[Counting sort](countsort.js)
 
--[FizzBuzz](fizzBuzz.js)
+-[Diameter of tree](treediameter.js)
 
--[GCD of two numbers](gcd.js)
+-[Fibonacci series](fibonaccisum.js)
 
--[Linear Search](linearSearch.js)
+-[Fizzbuzz](fizzbuzz.js)
 
--[Kadane's Algorithm](kadaneAlgo.js)
+-[Gcd of two numbers](gcd.js)
 
--[Knapsack Algorith](knapSack.js)
+-[Kadane's algorithm](kadanealgo.js)
 
--[Pancake Sorting](pancakeSorting.js)
+-[Knapsack algorith](knapsack.js)
 
--[Pangram String](pangram.js)
+-[Largest number formation](largest_number.js)
 
--[QuickSort](QuickSort.js)
+-[Linear search](linearsearch.js)
 
--[Sieve of Eratosthenes](Sieve.js)
+-[Manhattan distance](manhattan_distance.js)
 
--[Swap two numbers without using third variable](swapTwoNumbers.js)
+-[Mean and median calculation](mean_median.js)
 
--[Trie](Trie.js)
+-[Merge sort](mergesort.js)
 
--[Manhattan distance](Manhattan_distance.js)
+-[Pancake sorting](pancakesorting.js)
 
--[Powerset of a set](Powerset.js)
+-[Pangram string](pangram.js)
 
--[Mean and Median calculation](mean_median.js)
+-[Permutation_combination](permutation_combination.js)
 
--[Merge Sort](mergesort.js)
+-[Post order traversal of tree](postorder.js)
 
--[Twin_Prime](twin_prime.js)
+-[Powerset of a set](powerset.js)
 
--[Permutation_Combination](permutation_combination.js)
+-[Quicksort](quicksort.js)
 
--[Sleep Sort](Sleep_Sort.js)
+-[Sieve of eratosthenes](sieve.js)
 
--[Post Order Traversal of Tree](postOrder.js)
+-[Sleep sort](sleep_sort.js)
 
--[Diameter of Tree](treeDiameter.js)
+-[Swap two numbers without using third variable](swaptwonumbers.js)
 
--[Largest Number Formation](largest_number.js)
+-[Trie](trie.js)
 
--[Counting sort](CountSort.js)
+-[Twin_prime](twin_prime.js)

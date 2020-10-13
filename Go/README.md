@@ -3,6 +3,8 @@ Format: -[Program name](name of the file)
 
 - [Approximating value of Pi by Random Numbers](RandomPi.go)
 
+- [Bubble Sort](BubbleSort.go)
+
 - [Counting Sort](CountingSort.go)
 
 - [Dutch National Flag - Sort an array of 0s, 1s and 2s](DutchNationalFlag.go)
