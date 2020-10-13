@@ -139,6 +139,8 @@ Format: -[Program name](name of the file)
 
 - [PowerSet](PowerSet.cpp)
 
+- [Prefix Sum Arrays](prefix-sum-array.cpp)
+
 - [PreOrder Traversal of Tree](Preorder_traversal_tree.cpp)
 
 - [PreOrder Traversal of Tree](Preorder_traversal_tree.cpp)
