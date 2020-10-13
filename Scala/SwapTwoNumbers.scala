@@ -4,7 +4,6 @@ object SwapTwoNumbers{
         //Input
         var x = 2
         var y = 1
-        var w = 0
     
         //Display variables and values
  	    println("Before Swapping:") 
@@ -14,9 +13,9 @@ object SwapTwoNumbers{
     	println("") 
   
         //Swap numbers
-        w = y 
-        y = x 
-        x = w
+        x = x + y 
+        y = x - y
+        x = x - y
   
         //Display the vriables with their swapped value
         println("After Swapping:") 
