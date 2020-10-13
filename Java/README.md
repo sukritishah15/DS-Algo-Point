@@ -11,6 +11,8 @@ Format: -[Program name](package/name of the file)
 
 -[Height of Binary Tree](DataStructures/HeightOfBinaryTree.java)
 
+-[Binary Index Tree](DataStructures/BinaryIndexTree.java)
+
 -[Binary Search Tree Implementation](DataStructures/ImplementingBST.java)
 
 -[Binary Search](Search/binarySearch.java)
