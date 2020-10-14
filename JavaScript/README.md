@@ -1,56 +1,57 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
--[Binary search](binarysearch.js)
+-[Binary Search](binarySearch.js)
 
--[Bubble sort](bubblesort.js)
+-[Bubble Sort](bubbleSort.js)
 
--[Checks whether given number is neon or not](neonnumber.js)
+-[Checks whether given number is neon or not](neonNumber.js)
 
--[Counting sort](countsort.js)
+-[Counting sort](CountSort.js)
 
--[Diameter of tree](treediameter.js)
+-[Diameter of Tree](treeDiameter.js)
 
--[Fibonacci series](fibonaccisum.js)
+-[Fibonacci Series](fibonacciSum.js)
 
--[Fizzbuzz](fizzbuzz.js)
+-[FizzBuzz](fizzBuzz.js)
 
 -[FloodFill](Flood_Fill.js)
 
--[Gcd of two numbers](gcd.js)
+-[GCD of two numbers](gcd.js)
 
--[Kadane's algorithm](kadanealgo.js)
+-[Kadane's Algorithm](kadaneAlgo.js)
 
--[Knapsack algorith](knapsack.js)
+-[Knapsack Algorith](knapSack.js)
 
--[Largest number formation](largest_number.js)
+-[Largest Number Formation](largest_number.js)
 
--[Linear search](linearsearch.js)
+-[Linear Search](linearSearch.js)
 
--[Manhattan distance](manhattan_distance.js)
+-[Manhattan distance](Manhattan_distance.js)
 
--[Mean and median calculation](mean_median.js)
+-[Mean and Median calculation](mean_median.js)
 
--[Merge sort](mergesort.js)
+-[Merge Sort](mergesort.js)
 
--[Pancake sorting](pancakesorting.js)
+-[Pancake Sorting](pancakeSorting.js)
 
--[Pangram string](pangram.js)
+-[Pangram String](pangram.js)
 
--[Permutation_combination](permutation_combination.js)
+-[Permutation_Combination](permutation_combination.js)
 
--[Post order traversal of tree](postorder.js)
+-[Post Order Traversal of Tree](postOrder.js)
 
--[Powerset of a set](powerset.js)
+-[Powerset of a set](Powerset.js)
 
--[Quicksort](quicksort.js)
+-[QuickSort](QuickSort.js)
 
--[Sieve of eratosthenes](sieve.js)
+-[Sieve of Eratosthenes](Sieve.js)
 
--[Sleep sort](sleep_sort.js)
+-[Sleep Sort](Sleep_Sort.js)
 
--[Swap two numbers without using third variable](swaptwonumbers.js)
+-[Swap two numbers without using third variable](swapTwoNumbers.js)
 
--[Trie](trie.js)
+-[Trie](Trie.js)
 
--[Twin_prime](twin_prime.js)
+-[Twin_Prime](twin_prime.js)
+
