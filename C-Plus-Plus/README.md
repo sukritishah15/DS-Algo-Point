@@ -171,6 +171,8 @@ Format: -[Program name](name of the file)
 
 - [priority based scheduling](priority_scheduling.cpp)
 
+- [quick sort](QuickSort.cpp)
+
 - [quick sort on doubly linked list](quicksort_doublylinkedlist.cpp)
 
 - [quick sort on doubly linked list](quicksort_doublylinkedlist.cpp)
