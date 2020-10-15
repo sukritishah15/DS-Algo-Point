@@ -163,6 +163,8 @@ Format: -[Program name](name of the file)
 
 - [powerset](powerset.cpp)
 
+- [prefix sum array](prefix-sum-array.cpp)
+
 - [preorder traversal of tree](preorder_traversal_tree.cpp)
 
 - [preorder traversal of tree](preorder_traversal_tree.cpp)
@@ -312,6 +314,7 @@ Format: -[Program name](name of the file)
 - [Postfix expression evaluation](evalPostfixStack.cpp)
 - [PostOrder Traversal of Tree](postOrderTree.cpp)
 - [PowerSet](PowerSet.cpp)
+- [Prefix Sum Array](prefix-sum-array.cpp)
 - [PreOrder Traversal of Tree](Preorder_traversal_tree.cpp)
 - [PreOrder Traversal of Tree](Preorder_traversal_tree.cpp)
 - [Prime Factors in LogN time](prime-factors.cpp)
