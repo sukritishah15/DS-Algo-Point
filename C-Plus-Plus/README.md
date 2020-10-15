@@ -217,6 +217,8 @@ Format: -[Program name](name of the file)
 
 - [stack - linked list implementation](stackbylinkedlist.cpp)
 
+- [string hashing](string_hashing.cpp)
+
 - [string palindrome check](string_palindrome_check.cpp)
 
 - [sudoku solver](sudokusolver.cpp)
@@ -350,6 +352,7 @@ Format: -[Program name](name of the file)
 - [Two Pointer Algorithm](two_pointer_algorithm.cpp)
 - [Shell Sort Algorithm](shell_sort.cpp)
 - [Stack - Infix and Postfix Example](Stack_Example.cpp)
+- [String Hashing](string_hasing.cpp)
 - [Quick Sort on Doubly Linked List](quickSort_DoublyLinkedList.cpp)
 - [Knuth Moris Pattern Matching(KMP Algorithm)](KMP_algorithm.cpp)
 - [Check if number is automorphic](automorphic.cpp)
