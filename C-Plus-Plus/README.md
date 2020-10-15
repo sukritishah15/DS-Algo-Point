@@ -129,6 +129,10 @@ Format: -[Program name](name of the file)
 
 - [longest path in dag](longest_path_in_dag.cpp)
 
+- [Pangram](Pangram.cpp)
+
+- [Permutation and Combination](Permutations_And_Combinations.cpp)
+
 - [majority element in constant space](majority_element.cpp)
 
 - [manhattan distance](manhattan_distance.cpp)
