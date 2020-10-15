@@ -129,6 +129,10 @@ Format: -[Program name](name of the file)
 
 - [longest path in dag](longest_path_in_dag.cpp)
 
+- [Pangram](Pangram.cpp)
+
+- [Permutation and Combination](Permutations_And_Combinations.cpp)
+
 - [majority element in constant space](majority_element.cpp)
 
 - [manhattan distance](manhattan_distance.cpp)
@@ -153,6 +157,8 @@ Format: -[Program name](name of the file)
 
 - [pancake sorting](pancake_sort.cpp)
 
+- [Pangram](Pangram.cpp)
+
 - [permutation and combination](permutations_and_combinations.cpp)
 
 - [pigeonhole sort](pigeon.cpp)
@@ -172,6 +178,8 @@ Format: -[Program name](name of the file)
 - [prime factors in logn time](prime-factors.cpp)
 
 - [priority based scheduling](priority_scheduling.cpp)
+
+- [quick sort](QuickSort.cpp)
 
 - [quick sort on doubly linked list](quicksort_doublylinkedlist.cpp)
 
@@ -361,4 +369,4 @@ Format: -[Program name](name of the file)
 - [Z algorithm](ZAlgorithm.cpp)
 - [Least Common Multiple](lcm.cpp)
 - [Shortest Job First Scheduling Algorithm](Shortest Job First Scheduling Algorithm (SJF - Non-Preemptive).cpp) 
-
+- [Page Allocation Problem](Page_Allocation_Problem.cpp)

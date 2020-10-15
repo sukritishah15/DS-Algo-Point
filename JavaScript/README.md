@@ -7,6 +7,8 @@ Format: -[Program name](name of the file)
 
 -[Checks whether given number is neon or not](neonNumber.js)
 
+-[Collatz series](collatzSeries.js)
+
 -[Counting sort](CountSort.js)
 
 -[Diameter of Tree](treeDiameter.js)
@@ -44,6 +46,8 @@ Format: -[Program name](name of the file)
 -[Powerset of a set](Powerset.js)
 
 -[QuickSort](QuickSort.js)
+
+-[Selection Sort](SelectionSort.js)
 
 -[Sieve of Eratosthenes](Sieve.js)
 
