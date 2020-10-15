@@ -9,7 +9,11 @@ Format: -[Program name](package/name of the file)
 
 -[The Dutch National Flag Problem](Algorithms/TheDutchNationalFlag.java)
 
--[Height of Binary Tree](DataStructures/HeightOfBinaryTree.java)
+-[Binary Tree Height](DataStructures/HeightOfBinaryTree.java)
+
+-[Binary Exponentiation](binaryExponent.java)
+
+-[Binary Search](binarySearch.java)
 
 -[Binary Index Tree](DataStructures/BinaryIndexTree.java)
 
