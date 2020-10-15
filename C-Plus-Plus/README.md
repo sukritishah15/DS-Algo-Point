@@ -153,6 +153,8 @@ Format: -[Program name](name of the file)
 
 - [pancake sorting](pancake_sort.cpp)
 
+- [Pangram](Pangram.cpp)
+
 - [permutation and combination](permutations_and_combinations.cpp)
 
 - [pigeonhole sort](pigeon.cpp)
