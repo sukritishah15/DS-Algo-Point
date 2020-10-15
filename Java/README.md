@@ -9,7 +9,13 @@ Format: -[Program name](package/name of the file)
 
 -[The Dutch National Flag Problem](Algorithms/TheDutchNationalFlag.java)
 
--[Height of Binary Tree](DataStructures/HeightOfBinaryTree.java)
+-[Binary Tree Height](DataStructures/HeightOfBinaryTree.java)
+
+-[Binary Exponentiation](binaryExponent.java)
+
+-[Binary Search](binarySearch.java)
+
+-[Binary Index Tree](DataStructures/BinaryIndexTree.java)
 
 -[Binary Search Tree Implementation](DataStructures/ImplementingBST.java)
 
@@ -97,6 +103,9 @@ Format: -[Program name](package/name of the file)
 
 -[Maze](Algorithms/Maze.java)
 
+-[Minimum product subset](Algorithms/MinimumProductSubset.java)
+
+
 -[Median of Two Sorted Arrays](Algorithms/MedianOfTwoSortedArrays.java)
 
 -[Merge Sort Java](Sorting/MergeSort.java)
@@ -124,6 +133,8 @@ Format: -[Program name](package/name of the file)
 -[Preorder Tree Traveral](DataStructures/preorder.java)
 
 -[Prime Factors in LogN time](Algorithms/Primefactor.java)
+
+-[Pythagorean Triplets](PythagoreanTriplets.java)
 
 -[Queue](Queue.java)
 
@@ -187,4 +198,8 @@ Format: -[Program name](package/name of the file)
 
 - [Flood Fill Algorithm](flood_fill.java)
 
+-[Bellman-Ford's algo](Bellman-Ford's_algorithm.java)
+
 -[Count of palindrome substring](CountOfPalindromeSubString.java)
+
+-[Infix to Postfix](InfixToPostfix.java)
