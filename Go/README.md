@@ -11,6 +11,8 @@ Format: -[Program name](name of the file)
 
 - [FizzBuzz - Print 1 to 100 but "Buzz" instead of multiples of 3](FizzBuzz.go)
 
+- [Quick Sort](QuickSort.go)
+
 - [Sleep Sort](SleepSort.go)
 
 - [Sum of Fibonacci Numbers till Nth term](FibonacciNumbers.go)
