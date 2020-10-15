@@ -47,6 +47,8 @@ Format: -[Program name](name of the file)
 
 -[QuickSort](QuickSort.js)
 
+-[Selection Sort](SelectionSort.js)
+
 -[Sieve of Eratosthenes](Sieve.js)
 
 -[Sleep Sort](Sleep_Sort.js)
