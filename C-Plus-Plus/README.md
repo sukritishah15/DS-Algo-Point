@@ -360,4 +360,4 @@ Format: -[Program name](name of the file)
 - [Z algorithm](ZAlgorithm.cpp)
 - [Least Common Multiple](lcm.cpp)
 - [Shortest Job First Scheduling Algorithm](Shortest Job First Scheduling Algorithm (SJF - Non-Preemptive).cpp) 
-
+- [PAGE Allocation Problem](Page_Allocation_Problem.cpp)
