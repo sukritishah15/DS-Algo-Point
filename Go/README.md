@@ -17,4 +17,6 @@ Format: -[Program name](name of the file)
 
 - [Swapping two integers without a temporary variable](IntSwapNoTemp.go)
 
+- [Diameter of binary tree](Diameter-BST.go)
+
 
