@@ -105,7 +105,6 @@ Format: -[Program name](package/name of the file)
 
 -[Minimum product subset](Algorithms/MinimumProductSubset.java)
 
-
 -[Median of Two Sorted Arrays](Algorithms/MedianOfTwoSortedArrays.java)
 
 -[Merge Sort Java](Sorting/MergeSort.java)
@@ -153,6 +152,8 @@ Format: -[Program name](package/name of the file)
 -[Shell Sort](Sorting/ShellSort.java)
 
 -[Shortest Remaining Time Scheduling](DataStructures/SRTF.java)
+
+-[String Hashing](Algorithms/StringHashing.java)
 
 -[Longest Remaining Time Scheduling](DataStructures/LRTF.java)
 
