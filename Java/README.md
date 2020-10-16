@@ -107,7 +107,6 @@ Format: -[Program name](package/name of the file)
 
 -[Minimum product subset](Algorithms/MinimumProductSubset.java)
 
-
 -[Median of Two Sorted Arrays](Algorithms/MedianOfTwoSortedArrays.java)
 
 -[Merge Sort Java](Sorting/MergeSort.java)
@@ -118,23 +117,27 @@ Format: -[Program name](package/name of the file)
 
 -[Nth term of gp](Algorithms/nth_term_of_gp.java)
 
--[Permutations and Combination](Algorithms/PermutationsAndCombination.java)
+-[Pancake Sorting](Sorting/PancakeSort.java)
 
 -[Pangrams](Pangrams.java)
 
--[Pancake Sorting](Sorting/PancakeSort.java)
+-[Permutations and Combination](Algorithms/PermutationsAndCombination.java)
+
+-[Point in Triangle](PointInTriangle.java)
+
+-[Postorder Traversal of Tree](postorder.java)
 
 -[Preorder Traversal of Binary Tree using Morris Traversal Algorithm](MorrisPreorderTraversal.java)
 
 -[Preorder Tree Traveral](preorder.java)
 
--[Postorder Traversal of Tree](DataStructures/postorder.java)
-
--[Power set](Algorithms/powerset.java)
-
 -[Preorder Tree Traveral](DataStructures/preorder.java)
 
 -[Prime Factors in LogN time](Algorithms/Primefactor.java)
+
+-[Postorder Traversal of Tree](DataStructures/postorder.java)
+
+-[Power set](Algorithms/powerset.java)
 
 -[Pythagorean Triplets](PythagoreanTriplets.java)
 
