@@ -127,6 +127,10 @@ Format: -[Program name](package/name of the file)
 
 -[Postorder Traversal of Tree](postorder.java)
 
+-[Prefix Sums Array](PrefixSumsArray.java)
+
+-[Power set](powerset.java)
+
 -[Preorder Traversal of Binary Tree using Morris Traversal Algorithm](MorrisPreorderTraversal.java)
 
 -[Preorder Tree Traveral](preorder.java)
