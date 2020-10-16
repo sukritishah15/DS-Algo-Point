@@ -108,6 +108,8 @@ Format:
 
 -[Singly Linked List](SinglyLL.c)
 
+-[SimplecalculatorusingFunctionPointer](SimplecalculatorusingFunctionPointer.c)
+
 -[String Palindrome](String_Palindrome.c)
 
 -[Sum of Fibonacci Series](sumofFibonacciSeries.c)
