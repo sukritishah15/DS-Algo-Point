@@ -1,6 +1,7 @@
 import java.util.Random;
 
 public class FisherYatesShuffle {
+    // Shuffles the array passed in randomly by iterating through the array
     public static int[] shuffle(int[] array) {
         Random random = new Random();
 
@@ -15,7 +16,7 @@ public class FisherYatesShuffle {
         }
         return array;
     }
-
+    // Main Function
     public static void main(String[] args) {
         int[] elements = {1, 2, 3, 4, 5};
         shuffle(elements);
