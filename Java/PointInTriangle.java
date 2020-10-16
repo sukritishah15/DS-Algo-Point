@@ -1,5 +1,5 @@
 public class PointInTriangle {
-
+    // Calculate area of triangle and small triangles within
     public static double calculateArea(double triangle_x1, double triangle_y1,
                                        double triangle_x2, double triangle_y2,
                                        double triangle_x3, double triangle_y3) {
@@ -8,6 +8,7 @@ public class PointInTriangle {
                 triangle_x3*(triangle_y1-triangle_y2))
                 /2.0);
     }
+    // Calls the calculateArea() function and determines if the point is within or not
     public static boolean isInside(double point_x, double point_y,
                                    double triangle_x1, double triangle_y1,
                                    double triangle_x2, double triangle_y2,
@@ -34,7 +35,7 @@ public class PointInTriangle {
         }
         return false;
     }
-
+    // Main function
     public static void main(String[] args) {
         System.out.println(isInside(10, 15, 0, 0, 10, 30, 20, 0));
         System.out.println(isInside(30, 15, 0, 0, 10, 30, 20, 0));
