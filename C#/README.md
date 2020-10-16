@@ -22,3 +22,5 @@ Format: -[Program name](name of the file)
 -[Tim Sort](Tim_sort.cs)
 
 -[TwinPrime](TwinPrime.cs)
+
+-[Unique number Sort](UniqueSort.cs)
