@@ -68,6 +68,7 @@
 - Aman Parauliya - @parauliya
 - Arnav Roy - @arnav-roy
 - Wallace Costa - @wallacecosta
+- Shivam Yadav - @ExpressHermes
 
 <br/>
 
