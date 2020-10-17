@@ -133,6 +133,8 @@ Format: -[Program name](name of the file)
 
 - [Permutation and Combination](Permutations_And_Combinations.cpp)
 
+- [magic number](magic-number.cpp)
+
 - [majority element in constant space](majority_element.cpp)
 
 - [manhattan distance](manhattan_distance.cpp)
@@ -304,6 +306,7 @@ Format: -[Program name](name of the file)
 - [Longest Common Subsequence](longest_common_subseq.cpp)
 - [Longest Length Path in a Matrix](longest_length_path_in_a_matrix.cpp)
 - [Longest Path in DAG](Longest_path_in_DAG.cpp)
+- [Magic Number](magic-number.cpp)
 - [Mathematical Series Demo](maths-series.cpp)
 - [Majority Element in Constant Space](Majority_Element.cpp)
 - [Manhattan Distance](manhattan_distance.cpp)
