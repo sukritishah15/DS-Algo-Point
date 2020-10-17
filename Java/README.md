@@ -99,6 +99,8 @@ Format: -[Program name](package/name of the file)
 
 -[Longest length path in a matrix](Algorithms/longest_length_path.java)
 
+-[Magic Number](Algorithms/MagicNumber.java)
+
 -[Majority Element of array in constant space](Algorithms/MajorityElement.java)
 
 -[Maximum Possible Number with Given Digits](Algorithms/MaxNumber.java)
