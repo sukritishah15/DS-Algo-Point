@@ -5,6 +5,8 @@ Format: -[Program name](name of the file)
 
 -[Diameter of Binary Tree](DiameterBinaryTree.kt)
 
+-[Pangrams](Pangrams.kt)
+
 -[Merge Sort Algorithm](MergeSort.kt)
 
 -[Rotate Array by specific given count](RotateArrayClockwise.kt)
