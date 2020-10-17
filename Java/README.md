@@ -163,6 +163,8 @@ Format: -[Program name](package/name of the file)
 
 -[Shortest Remaining Time Scheduling](DataStructures/SRTF.java)
 
+-[String Hashing](Algorithms/StringHashing.java)
+
 -[Longest Remaining Time Scheduling](DataStructures/LRTF.java)
 
 -[Singly Linked List](DataStructures/SList.java)
