@@ -8,7 +8,7 @@
 4. Create a new branch in your forked repo and start working on your code
 5. Along with the code add follwing contents
 
-- Relvant comments for easier understanding
+- Relevant comments for easier understanding
 - A block comment with
   - Sample Inputs
   - Sample Outputs
