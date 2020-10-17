@@ -7,9 +7,9 @@
 
 // A structure to represent a stack
 struct Stack {
-    int top;
-    unsigned capacity;
-    int* array;
+    int       top;
+    unsigned  capacity;
+    int      *array;
 };
 
 // function to create a stack of given capacity. It initializes size of
@@ -63,7 +63,7 @@ int peek(struct Stack* stack)
 void main()
 {
     struct Stack* stack = createStack(100);
-     clrscr();
+    clrscr();
     push(stack, 10);
     push(stack, 20);
     push(stack, 30);
