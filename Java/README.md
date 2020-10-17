@@ -77,6 +77,8 @@ Format: -[Program name](name of the file)
 
 -[Longest length path in a matrix](longest_length_path.java)
 
+-[Magic Number](MagicNumber.java)
+
 -[Majority Element of array in constant space](MajorityElement.java)
 
 -[Maximum Possible Number with Given Digits](MaxNumber.java)
