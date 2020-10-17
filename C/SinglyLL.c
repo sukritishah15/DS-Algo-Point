@@ -4,7 +4,7 @@
 //structure definition
 struct list
 {
-	int info;
+	int          info;
 	struct list *next;
 };
  
@@ -104,7 +104,7 @@ int num, c, item,item2,item1;
 void create(struct list **phead, int num)
 {
 	struct list *temp,*newnode;
-   	int item,i;
+   	int          item,i;
    	if(*phead != NULL)
    	{
       		printf("Already created");
@@ -175,7 +175,7 @@ void insert_last(struct list **head, int item)
 //Function definition to count element in linked list
 int count(struct list *head)
 {
-	int count=0;
+	int          count = 0;
 	struct list *loc;
   	loc=head;
   	while(loc!=NULL)
@@ -298,8 +298,8 @@ void del_node(struct list **phead, int item)
 //Function definition to insert an element before a particular element
 void insert_before(struct list **phead, int item1, int item2)
 {
-	struct list *new_node = NULL;
-    struct list *tmp = *phead;
+    struct list *new_node = NULL;
+    struct list *tmp      = *phead;
     new_node = (struct list *)malloc(sizeof(struct list));
 
     if (new_node == NULL)
@@ -334,7 +334,7 @@ void insert_before(struct list **phead, int item1, int item2)
 void insert_after(struct list *head, int item1, int item2)
 {
 	struct list *new_node = NULL;
-	struct list *tmp = head;
+	struct list *tmp      = head;
 	
 	while(tmp)
 	{
