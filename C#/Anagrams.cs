@@ -8,10 +8,17 @@ using System.Linq;
  ** 
  ** Two words in each line to compare if they are anagrams.
  **
+ ** Example Input: 
+ ** CAT
+ ** TAC
+ **
  ** OUTPUT:
  **
  ** If the strings are anagrams, "The strings are anagrams" is the printed output. Otherwise,
  ** if they are not anagrams, "The strings are not anagrams" is the printed output.
+ **
+ ** Example Output for previous example input:
+ ** The strings are anagrams
  **
  ** Time complexity - O(n)
  **
