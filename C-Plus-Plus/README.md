@@ -138,6 +138,7 @@ Format: -[Program name](name of the file)
 - [majority element in constant space](majority_element.cpp)
 
 - [manhattan distance](manhattan_distance.cpp)
+- [map data structure](map.cpp)
 
 - [mathematical series demo](maths-series.cpp)
 
