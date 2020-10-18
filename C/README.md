@@ -86,6 +86,8 @@ Format:
 
 -[Powerset of the given set](powerset.c)
 
+-[Prefix Sum](prefixSum.c)
+
 -[Prime Factors using seive of eratosthenes](primefactors.c)
 
 -[Quick Sort](Quick_Sort.c)
