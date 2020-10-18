@@ -101,6 +101,10 @@ Format: -[Program name](package/name of the file)
 
 -[Majority Element of array in constant space](Algorithms/MajorityElement.java)
 
+-[Magic Number](MagicNumber.java)
+
+-[Majority Element of array in constant space](MajorityElement.java)
+
 -[Maximum Possible Number with Given Digits](Algorithms/MaxNumber.java)
 
 -[Maze](Algorithms/Maze.java)
