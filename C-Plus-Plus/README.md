@@ -31,6 +31,8 @@ Format: -[Program name](name of the file)
 
 - [check if number is automorphic](automorphic.cpp)
 
+- [check if number is evil](EvilNumber.cpp)
+
 - [check whether a number is an armstrong number](check_armstrong_number.cpp)
 
 - [check whether a number is an armstrong number](check_armstrong_number.cpp)
