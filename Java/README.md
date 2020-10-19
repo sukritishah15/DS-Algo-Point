@@ -61,7 +61,7 @@ Format: -[Program name](package/name of the file)
 
 -[Equation of line ,slope ,Distance between 2 points](EqOfLine.java)
 
--[Fibonacci Search Implementation] (Search/FibonacciSearch.java)
+-[Fibonacci Search Implementation](Java/Search/FibonacciSearch.java)
 
 -[Find middle element in a Linked List](DataStructures/Middle_element_of_a_Linked_List.java)
 
