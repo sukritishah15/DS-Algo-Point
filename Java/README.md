@@ -21,6 +21,8 @@ Format: -[Program name](package/name of the file)
 
 -[Binary Search](Search/binarySearch.java)
 
+-[Binary Search in a String](Search/binarySearch_in_a_string.java)
+
 -[BODMAS_Eval](Algorithms/BODMAS_Eval.java)
 
 -[Bubble Sort](Sorting/bubbleSort.java)
