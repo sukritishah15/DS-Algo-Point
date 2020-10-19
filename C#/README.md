@@ -3,3 +3,7 @@ Format: -[Program name](name of the file)
 
 
 [Pangrams](pangrams.cs)
+
+[Prefix Sum Subarray](prefix.cs)
+
+
