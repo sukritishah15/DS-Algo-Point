@@ -15,6 +15,8 @@ Format: -[Program name](name of the file)
 
 - [bigmod using binary exponentiation](binary_exponentiation_bigmod.cpp)
 
+- [Binary Indexed Tree 2D](BinaryIndexedTree2D.cpp)
+
 - [binary search tree implementation](binarysearchtree.cpp)
 
 - [binary search](binarysearch.cpp)
