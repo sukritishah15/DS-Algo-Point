@@ -61,6 +61,8 @@ Format: -[Program name](package/name of the file)
 
 -[Equation of line ,slope ,Distance between 2 points](EqOfLine.java)
 
+-[Evil Number](EvilNumber.java)
+
 -[Find middle element in a Linked List](DataStructures/Middle_element_of_a_Linked_List.java)
 
 -[FizzBuzz](Algorithms/FizzBuzz.java)
