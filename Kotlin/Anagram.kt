@@ -6,13 +6,13 @@ fun main() {
     val aWord: String = scanner.next()
     val anotherWord: String = scanner.next()
 
-    println(aWord isAnagramOf anotherWord)
+    println(aWord isPalindromeOf anotherWord)
 }
 
 /**
  * Transform both words into a Map<Char, List<Char>> and then compare them.
  */
-private infix fun String.isAnagramOf(anotherWord: String): Boolean =
+private infix fun String.isPalindromeOf(anotherWord: String): Boolean =
         this.groupBy { it } == anotherWord.groupBy { it }
 
 /*
