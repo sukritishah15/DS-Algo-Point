@@ -63,6 +63,8 @@ Format: -[Program name](package/name of the file)
 
 -[Evil Number](EvilNumber.java)
 
+-[Fibonacci Search Implementation](Java/Search/FibonacciSearch.java)
+
 -[Find middle element in a Linked List](DataStructures/Middle_element_of_a_Linked_List.java)
 
 -[FizzBuzz](Algorithms/FizzBuzz.java)

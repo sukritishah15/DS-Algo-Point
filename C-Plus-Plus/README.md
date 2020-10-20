@@ -15,6 +15,8 @@ Format: -[Program name](name of the file)
 
 - [bigmod using binary exponentiation](binary_exponentiation_bigmod.cpp)
 
+- [Binary Indexed Tree 2D](BinaryIndexedTree2D.cpp)
+
 - [binary search tree implementation](binarysearchtree.cpp)
 
 - [binary search](binarysearch.cpp)
@@ -28,6 +30,8 @@ Format: -[Program name](name of the file)
 - [check if number is automorphic](automorphic.cpp)
 
 - [check if number is automorphic](automorphic.cpp)
+
+- [check if number is evil](EvilNumber.cpp)
 
 - [check whether a number is an armstrong number](check_armstrong_number.cpp)
 
@@ -133,9 +137,12 @@ Format: -[Program name](name of the file)
 
 - [Permutation and Combination](Permutations_And_Combinations.cpp)
 
+- [magic number](magic-number.cpp)
+
 - [majority element in constant space](majority_element.cpp)
 
 - [manhattan distance](manhattan_distance.cpp)
+- [map data structure](map.cpp)
 
 - [mathematical series demo](maths-series.cpp)
 
@@ -216,6 +223,8 @@ Format: -[Program name](name of the file)
 - [stack - infix and postfix example](stack_example.cpp)
 
 - [stack - linked list implementation](stackbylinkedlist.cpp)
+
+- [string hashing](string_hashing.cpp)
 
 - [string palindrome check](string_palindrome_check.cpp)
 
@@ -304,6 +313,7 @@ Format: -[Program name](name of the file)
 - [Longest Common Subsequence](longest_common_subseq.cpp)
 - [Longest Length Path in a Matrix](longest_length_path_in_a_matrix.cpp)
 - [Longest Path in DAG](Longest_path_in_DAG.cpp)
+- [Magic Number](magic-number.cpp)
 - [Mathematical Series Demo](maths-series.cpp)
 - [Majority Element in Constant Space](Majority_Element.cpp)
 - [Manhattan Distance](manhattan_distance.cpp)
@@ -350,6 +360,7 @@ Format: -[Program name](name of the file)
 - [Two Pointer Algorithm](two_pointer_algorithm.cpp)
 - [Shell Sort Algorithm](shell_sort.cpp)
 - [Stack - Infix and Postfix Example](Stack_Example.cpp)
+- [String Hashing](string_hasing.cpp)
 - [Quick Sort on Doubly Linked List](quickSort_DoublyLinkedList.cpp)
 - [Knuth Moris Pattern Matching(KMP Algorithm)](KMP_algorithm.cpp)
 - [Check if number is automorphic](automorphic.cpp)
@@ -370,3 +381,4 @@ Format: -[Program name](name of the file)
 - [Least Common Multiple](lcm.cpp)
 - [Shortest Job First Scheduling Algorithm](Shortest Job First Scheduling Algorithm (SJF - Non-Preemptive).cpp) 
 - [Page Allocation Problem](Page_Allocation_Problem.cpp)
+- [Range Sum Query](Range_Sum_Query_Fenwick_Tree.cpp)

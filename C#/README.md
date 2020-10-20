@@ -1,6 +1,8 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
+-[Anagrams](Anagrams.cs)
+
 -[Bubble Sort](BubbleSort.cs)
 
 -[Counting Sort](countingSort.cs)
@@ -9,9 +11,13 @@ Format: -[Program name](name of the file)
 
 -[FizzBuzz](FizzBuzz.cs)
 
+-[floyd Warshall Algorithm](flyodwarshallalgo.cs)
+
 -[Mean and Median](MeanAndMedian.cs)
 
 -[Power Set](Power_Set.cs)
+
+-[Pythagorean Triplet](PythagoreanTriplet.cs)
 
 -[Rotation of Array](RotationOfArray.cs)
 
