@@ -8,6 +8,8 @@ Format: -[Program name](name of the file)
 
 -[Arithmetic Progression](arithmetic.py)
 
+-[Evil Number](Evil_Number.py)
+
 -[AVL Tree](avl-tree.py)
 
 -[Automorphic Number](automorphic.py)
