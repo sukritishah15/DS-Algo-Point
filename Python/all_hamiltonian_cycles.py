@@ -6,12 +6,21 @@ class Graph:
             self.graph[i]=[]
     
     def add_edge(self,u,v):
+        """
+        method adds edge for undirected graph
+        """
         self.graph[u].append(v)
         self.graph[v].append(u)
 
     
     def hamiltonian_paths(self,index,path,paths):
-
+        """
+        function for finding paths
+        index is the initial vertice
+        path is a list of vertices in the current path
+        if linked vertice is not in path it is added and made as initial vertice for next recursion
+        else if path has all vertices and the first vertice can be reached from the end of path it is a hamiltonian path
+        """
         path.append(index)
         
         
@@ -25,9 +34,8 @@ class Graph:
         
         return
 
+
 n=int(input("Enter number of vertices: "))
-#print(n)
-#print(type(n))
 g=Graph(n)
 m=int(input("Enter number of edges: "))
 for _ in range(m):
