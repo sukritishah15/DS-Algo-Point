@@ -18,8 +18,10 @@ class Graph:
         function for finding paths
         index is the initial vertice
         path is a list of vertices in the current path
-        if linked vertice is not in path it is added and made as initial vertice for next recursion
-        else if path has all vertices and the first vertice can be reached from the end of path it is a hamiltonian path
+        if linked vertice is not in path it is added and made as initial vertice for
+        next recursion 
+        else if path has all vertices visited once and the first vertice can be 
+        reached from the end of path it is a hamiltonian path
         """
         path.append(index)
         
