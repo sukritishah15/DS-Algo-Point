@@ -59,3 +59,5 @@ Format: -[Program name](name of the file)
 
 -[Twin_Prime](twin_prime.js)
 
+-[Armstrong Number](Armstrong.js)
+
