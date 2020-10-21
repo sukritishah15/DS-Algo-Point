@@ -43,6 +43,8 @@ Format: -[Program name](name of the file)
 
 -[Permutation_Combination](permutation_combination.js)
 
+-[Point Lies inside triangle](pointLiesInsideTriangle.js)
+
 -[Post Order Traversal of Tree](postOrder.js)
 
 -[Powerset of a set](Powerset.js)
