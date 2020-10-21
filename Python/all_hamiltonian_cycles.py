@@ -1,13 +1,16 @@
 class Graph:
 
     def __init__(self,n):
+        """
+        initializes dictionary with n vertices
+        """
         self.graph={}
         for i in range(n):
             self.graph[i]=[]
     
     def add_edge(self,u,v):
         """
-        method adds edge for undirected graph
+        method adds edge for undirected graph represented as an adjacency list
         """
         self.graph[u].append(v)
         self.graph[v].append(u)
