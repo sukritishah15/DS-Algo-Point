@@ -55,7 +55,7 @@ for p in paths:
 """
 Problem: 
 Given a graph, we need to find all hamiltonian paths/cycles i.e. a traversal through 
-the graph in which a node is visited maximum once and it returns to the start node.
+the graph in which a node is visited once and it returns to the start node.
 
 For Example-
 Enter number of vertices: 5
