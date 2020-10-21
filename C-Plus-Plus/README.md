@@ -53,7 +53,7 @@ Format: -[Program name](name of the file)
 
 - [counting sort](counting_sort.cpp)
 
-- [Depth First Search](DFS.cpp)
+- [depth First Search](DFS.cpp)
 
 - [diameter_of_binary_tree](diameter_of_binary_tree.cpp)
 
