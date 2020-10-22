@@ -1,3 +1,4 @@
+
 # Program to find the Evil Number .
 #Taking input from the user
 n=int(input())
