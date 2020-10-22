@@ -2,31 +2,31 @@
 #include<bits/stdc++.h> 
 using namespace std; 
 const int MAX = 100001;
-vector<int> adj[MAX];
-vector<bool> visited(MAX);
+vector<int> adj[MAX]; // array of vector to store edges
+vector<bool> visited(MAX); // visited vector
 DFS(int u) 
 { 
-	visited[u] = true;
-	cout<<u<<" ";
-	for(auto v:adj[u])
-		if(!visited[v])
-			DFS(v);
+	visited[u] = true; // mark node visited
+	cout<<u<<" "; // print the node value
+	for(auto v:adj[u]) // iterate over the directly connected edges
+		if(!visited[v]) // check if not visited
+			DFS(v); // recursively call DFS function
 } 
 int main() 
 { 
 	int V,E;
-	cin >> V >> E;
+	cin >> V >> E; // input number of vertices and edges
 	for(int i=0;i<E;i++)
 	{
 		int u,v;
-		cin>>u>>v;
+		cin>>u>>v; // input all edges
 		adj[u].push_back(v);
 		adj[v].push_back(u);
 	}
 	cout << "Depth First Traversal : "; 
 	for (int i = 0; i < V; i++) 
-		visited[i] = false; 
-	DFS(0); 
+		visited[i] = false; // initialize visited vector
+	DFS(0); // call DFS from 1st vertex
 
 	return 0; 
 } 
