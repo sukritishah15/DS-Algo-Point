@@ -15,6 +15,8 @@ Format: -[Program name](package/name of the file)
 
 -[Binary Search](binarySearch.java)
 
+-[Binary Search in a String](Search/binarySearch_in_a_string.java)
+
 -[Binary Index Tree](DataStructures/BinaryIndexTree.java)
 
 -[Binary Search Tree Implementation](DataStructures/ImplementingBST.java)
