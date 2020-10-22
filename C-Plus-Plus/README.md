@@ -1,6 +1,8 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
+- [anagrams](anagrams.cpp)
+
 - [avl tree](avltree.cpp)
 
 - [balanced parentheses](balance_paranthesis.cpp)
@@ -134,6 +136,8 @@ Format: -[Program name](name of the file)
 - [longest path in dag](longest_path_in_dag.cpp)
 
 - [longest path in dag](longest_path_in_dag.cpp)
+
+- [lowest common ancestor](lowest_common_ancestor.cpp)
 
 - [Pangram](Pangram.cpp)
 
