@@ -1,3 +1,4 @@
+
 # Program to find the Evil Number .
 #Taking input from the user
 n=int(input())
@@ -22,4 +23,5 @@ else:
 Sample input:256
 Sample output:Not a evil number
 """
+
          

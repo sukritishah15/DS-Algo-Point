@@ -15,6 +15,8 @@ Format: -[Program name](name of the file)
 
 - [bigmod using binary exponentiation](binary_exponentiation_bigmod.cpp)
 
+- [Binary Indexed Tree 2D](BinaryIndexedTree2D.cpp)
+
 - [binary search tree implementation](binarysearchtree.cpp)
 
 - [binary search](binarysearch.cpp)
@@ -28,6 +30,8 @@ Format: -[Program name](name of the file)
 - [check if number is automorphic](automorphic.cpp)
 
 - [check if number is automorphic](automorphic.cpp)
+
+- [check if number is evil](EvilNumber.cpp)
 
 - [check whether a number is an armstrong number](check_armstrong_number.cpp)
 
@@ -48,6 +52,8 @@ Format: -[Program name](name of the file)
 - [collatz sequence](collatz_sequence.cpp)
 
 - [counting sort](counting_sort.cpp)
+
+- [depth First Search](DFS.cpp)
 
 - [diameter_of_binary_tree](diameter_of_binary_tree.cpp)
 
@@ -367,6 +373,7 @@ Format: -[Program name](name of the file)
 - [Tim sort](Tim_Sort.cpp)
 - [Twin prime](twin_prime.cpp)
 - [Value of Pi by Random Numbers](ValueOfPi.cpp)
+- [vector data structure](vector.cpp)
 - [Word Break](Word-Break.cpp)
 - [BFS with path](BFS.cpp)
 - [Longest Path in DAG](Longest_path_in_DAG.cpp)
