@@ -30,3 +30,5 @@ Format: -[Program name](name of the file)
 -[TwinPrime](TwinPrime.cs)
 
 -[Unique number Sort](UniqueSort.cs)
+
+-[Binary_Insertion_Sort](BinaryInsertionSort.cs)
