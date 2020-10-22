@@ -1,3 +1,4 @@
+
 # Program to find the Evil Number .
 #Taking input from the user
 n=int(input())
@@ -21,5 +22,5 @@ else:
 """An evil number is the number which has even number of 1's in its binary equivalent.
 Sample input:256
 Sample output:Not a evil number
-"""
+
          

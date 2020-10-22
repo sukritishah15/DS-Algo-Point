@@ -1,6 +1,8 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](name of the file)
 
+-[Armstrong Number](Armstrong.js)
+
 -[Binary Search](binarySearch.js)
 
 -[Bubble Sort](bubbleSort.js)
@@ -41,6 +43,8 @@ Format: -[Program name](name of the file)
 
 -[Permutation_Combination](permutation_combination.js)
 
+-[Point Lies inside triangle](pointLiesInsideTriangle.js)
+
 -[Post Order Traversal of Tree](postOrder.js)
 
 -[Powerset of a set](Powerset.js)
@@ -60,4 +64,3 @@ Format: -[Program name](name of the file)
 -[Trie](Trie.js)
 
 -[Twin_Prime](twin_prime.js)
-

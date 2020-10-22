@@ -14,3 +14,5 @@ Format: -[Program name](name of the file)
 -[Rotate Array by specific given count](RotateArrayClockwise.kt)
 
 -[Swap two numbers without third variable](Swap_Numbers_without_third_variable.kt)
+
+- [Palindrome words](PalindromeCheck.kt)
