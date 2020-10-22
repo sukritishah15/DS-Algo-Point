@@ -17,4 +17,4 @@ const prefix_sum=(arr)=>{
 const test_array=[5,2,4,5,1]
 console.log(prefix_sum(test_array))
 
-//Sample Output:5,7,11,16,17
+//Sample Output:5,7,11,16,17 
