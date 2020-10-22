@@ -9,7 +9,7 @@ while(n!=0):
     n=n//2
 #Counting number of 1's
 while(binry!=0):
-    rem=binry%2
+    rem=binry%10
     if rem==1:
         count=count+1
     binry=binry//10
