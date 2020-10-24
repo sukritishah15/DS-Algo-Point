@@ -23,6 +23,8 @@ Format: -[Program name](name of the file)
 
 - [binary search](binarysearch.cpp)
 
+- [bottom view of binary tree](bottom_view_of_binary_tree.cpp)
+
 - [bubble sort implementation](bubblesort.cpp)
 
 - [bucket sort](bucketsort.cpp)
@@ -243,6 +245,8 @@ Format: -[Program name](name of the file)
 - [tim sort](tim_sort.cpp)
 
 - [tim sort](tim_sort.cpp)
+
+- [top view of binary tree](top_view_of_binary_tree.cpp)
 
 - [topological sort using kahn's algorithm](kahn-algorithm.cpp)
 
