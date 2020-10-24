@@ -35,6 +35,8 @@ Format: -[Program name](name of the file)
 
 - [check if number is evil](EvilNumber.cpp)
 
+- [check if point lies within triangle](Check_if_point_lies_inside_triangle.cpp)
+
 - [check whether a number is an armstrong number](check_armstrong_number.cpp)
 
 - [check whether a number is an armstrong number](check_armstrong_number.cpp)
