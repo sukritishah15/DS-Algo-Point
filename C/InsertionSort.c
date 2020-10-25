@@ -23,5 +23,11 @@ int main()
     list[j+1] = temp;
   }
   dirtyPrintArray(list,len);
+  /*
+  Input: [No input as list hard coded in this example];
+  Output: A sorted array containing the following numbers in asecending oder 5,6,9,11,12,13,24;
+  Time Complexity: [Worst case: 0(n^2)]/[Best case: 0(n)];
+  Space Complexity: 0(1);
+  */
   return(0);
 }
