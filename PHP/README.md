@@ -3,6 +3,8 @@ Format: -[Program name](name of the file)
 
 -[Automorphic Numbers](automorphic.php)
 
+-[Binary Search](binary_search.php)
+
 -[Euclidian Algorith (GCD)](euclid_gcd.php)
 
 -[FizzBuzz](fizz_buzz.php)
@@ -16,4 +18,3 @@ Format: -[Program name](name of the file)
 -[Merge Sort](merge_sort.php)
 
 -[String Palindrome Check](string_palindrome.php)
-

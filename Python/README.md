@@ -8,6 +8,8 @@ Format: -[Program name](name of the file)
 
 -[Arithmetic Progression](arithmetic.py)
 
+-[Evil Number](Evil_Number.py)
+
 -[AVL Tree](avl-tree.py)
 
 -[Automorphic Number](automorphic.py)
@@ -100,6 +102,8 @@ Format: -[Program name](name of the file)
 
 -[Pancake Sort](PancakeSort.py)
 
+-[Pangram String](Pangram_in_python.py)
+
 -[Permutations and Combinations](Permutations_And_Combinations.py)
 
 -[Queue](Queue.py)
@@ -165,3 +169,6 @@ Format: -[Program name](name of the file)
 -[Kruskal's Algorithm](Kruskals.py)
 
 -[Unique Number From A Set of Numbers repeated twice except unique number](unique_number_repeated_twice_except_unique_number.py)
+
+-[All Hamiltonian Cycles/Paths](all_hamiltonian_cycles.py)
+

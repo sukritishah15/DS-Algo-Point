@@ -80,11 +80,15 @@ Format:
 
 -[N Queens Puzzle](nQueens.c)
 
+-[Palindrome Substring](Palindrome_substring.c)
+
 -[Permutations and Combinations](Permutations_And_Combinations.c)
 
 -[Postorder Tree Traversal](postorder.c)
 
 -[Powerset of the given set](powerset.c)
+
+-[Prefix Sum](prefixSum.c)
 
 -[Prime Factors using seive of eratosthenes](primefactors.c)
 
@@ -128,6 +132,10 @@ Format:
 
 -[Stack Implementation](C_STACK.C)
 
+-[Automorphic Number](automorphic.c)
+
 -[Shortest Job First Scheduling Algorithm](Shortest Job First Scheduling Algorithm (SJF - Non-Preemptive).C)
 
-- [Floyd Warshell](floyd_warrshal.c)
+-[Floyd Warshall](floyd_warrshal.c)
+
+-[Priority based Scheduling](Priority based Scheduling (Non - Preemptive).C)
