@@ -46,6 +46,8 @@ Format:
 
 -[Inorder tree traversal](Tree_Inorder_Traversal.c)
 
+-[Insertion sort](InsertionSort.c)
+
 -[Kadane's Algorithm For Getting Maximum Sub Array easy implementation using c](kadaneMaxSumSubArray.c)
 
 -[KMP Algorithm](kmp.c)
@@ -134,6 +136,6 @@ Format:
 
 -[Shortest Job First Scheduling Algorithm](Shortest Job First Scheduling Algorithm (SJF - Non-Preemptive).C)
 
-- [Floyd Warshall](floyd_warrshal.c)
+-[Floyd Warshall](floyd_warrshal.c)
 
 -[Priority based Scheduling](Priority based Scheduling (Non - Preemptive).C)
