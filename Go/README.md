@@ -3,6 +3,8 @@ Format: -[Program name](name of the file)
 
 - [Approximating value of Pi by Random Numbers](RandomPi.go)
 
+- [Binary Search](BinarySearch.go)
+
 - [Bubble Sort](BubbleSort.go)
 
 - [Counting Sort](CountingSort.go)
