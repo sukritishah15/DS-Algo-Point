@@ -77,6 +77,8 @@ Format: -[Program name](package/name of the file)
 
 -[GCD](Algorithms/GCD_1.java)
 
+-[Happy Number](HappyNumber.java)
+
 -[Heap Sort](Sorting/HeapSort.java)
 
 -[Implement of Rotation of Array](Algorithms/RotateClockwise.java)
