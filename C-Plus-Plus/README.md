@@ -57,6 +57,8 @@ Format: -[Program name](name of the file)
 
 - [counting sort](counting_sort.cpp)
 
+- [Count Subsegment Binary Search](Count_Subsegment_Binary_Search.cpp)
+
 - [depth First Search](DFS.cpp)
 
 - [diameter_of_binary_tree](diameter_of_binary_tree.cpp)
@@ -391,3 +393,4 @@ Format: -[Program name](name of the file)
 - [Shortest Job First Scheduling Algorithm](Shortest Job First Scheduling Algorithm (SJF - Non-Preemptive).cpp) 
 - [Page Allocation Problem](Page_Allocation_Problem.cpp)
 - [Range Sum Query](Range_Sum_Query_Fenwick_Tree.cpp)
+- []
