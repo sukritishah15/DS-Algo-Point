@@ -74,7 +74,7 @@
 
 <div align="center">
   <h1>In association with</h1>
-  <h3>ACM-W MUST STUDENT CHAPTER</h3>
+  <h3>ACM-W MUST STUDENT CHAPTER (Sept - Oct 2020)</h3>
   <img src="img/ACM_MUST_Logo.png"/>
 </div>
 
