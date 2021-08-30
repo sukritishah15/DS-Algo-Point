@@ -6,15 +6,13 @@
 2. Comment on issue you want to work on. Don't forget to mention language you are planning to use.
 3. Wait for issue to be assigned to you
 4. Create a new branch in your forked repo and start working on your code
-5. Along with the code add follwing contents
-
+5. Along with the code add following contents -
 - Relevant comments for easier understanding
 - A block comment with
   - Sample Inputs
   - Sample Outputs
   - Time complexity
   - Space complexity
-
 6. Update Readme.md file in corresponding directory in **Alphabetical Order**
 7. Create a pull request and mention the issue number. Detailed steps to create a pull request can be found [here](STEPS_FOR_PR.md)
 8. Wait for it to get reviewed and approved by maintainers
