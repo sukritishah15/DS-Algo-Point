@@ -48,6 +48,9 @@
 
 ## Maintainers for this project (Refer [this](MAINTAINERS.md) for Instructions specific to Maintainers)
 - Sukriti Shah - @sukritishah15
+
+### Past Maintainers for this project
+- Sukriti Shah - @sukritishah15
 - Aditi Khemka - @aditik03
 - Gunisha Chaturvedi - @gunisha30
 - Manan - @manan025
