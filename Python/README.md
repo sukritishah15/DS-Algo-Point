@@ -66,6 +66,8 @@ Format: -[Program name](name of the file)
 
 -[Greatest Common divisor](gcd.py)
 
+-[Happy Number](HappyNumber.py)
+
 -[Heap Sort](Heap_sort.py)
 
 -[Inorder Tree Traversal](inordder.py)
@@ -171,4 +173,3 @@ Format: -[Program name](name of the file)
 -[Unique Number From A Set of Numbers repeated twice except unique number](unique_number_repeated_twice_except_unique_number.py)
 
 -[All Hamiltonian Cycles/Paths](all_hamiltonian_cycles.py)
-
