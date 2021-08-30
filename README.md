@@ -15,7 +15,7 @@
 
 <br/>
 
-**YOU CANNOT CREATE A PR DIRECTLY. YOU NEED TO BE ASSIGNED AN ISSUE. IF THE ISSUE DOES NOT EXIST, CREATE ONE, ASK FOR IT IN YOUR PREFERRED PROGRAMMING LANGUAGE AND WAIT FOR IT TO BE ASSIGNED TO YOU. NOT FOLLOWING THIS WILL BE CONSIDERED A VIOLATION AND YOUR PR WILL BE MARKED INVALID.**
+**YOU CANNOT CREATE A PR DIRECTLY. YOU NEED TO BE ASSIGNED AN ISSUE. IF THE ISSUE DOES NOT EXIST, CREATE ONE, ASK FOR IT IN YOUR PREFERRED PROGRAMMING LANGUAGE AND WAIT FOR IT TO BE ASSIGNED TO YOU. NOT FOLLOWING THIS WILL BE CONSIDERED A VIOLATION AND YOUR PR WILL BE MARKED INVALID. WHILE CREATING AN ISSUE, PLEASE FOLLOW THE FORMAT, ELSE, THE ISSUE WILL BE CLOSED.**
 
 <br/>
 
@@ -30,8 +30,6 @@
 - **Plagiarism is highly discouraged and a plagiarized PR won't be accepted at all and will be marked as spam.**
 - **PR should be created within a week of you being assigned to it.**
 - **At no point of time, you can claim more than 4 issues i.e. you can have at max 4 working issues, for this repository, at any point of time.**
-
-### You can find us on [Telegram ](https://t.me/joinchat/H9iFuRyDNgL2FRgCrt_0aA). Join the telegram channel - DS-Algo-Point to reach out to us.
 
 <br/>
 
