@@ -119,6 +119,8 @@ Format: -[Program name](package/name of the file)
 
 -[Merge Sort Java](Sorting/MergeSort.java)
 
+-[Merge Two Sorted Arrays using JAVA](Algorithms/Merge2Arrays.java)
+
 -[Minimum number of denominations using Greedy algo approach](Algorithms/MinDenominations_GreedyAlgo.java)
 
 -[Nth term of ap](Algorithms/nth_term_of_ap.java)
