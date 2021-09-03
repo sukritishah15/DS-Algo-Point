@@ -32,10 +32,10 @@ Examples of Abundant Numbers:
   Sum of divisors: 16
   Abundance: 16-12 = 4
 
- ->18:
-   divisors of 18: 1,2,3,6,9
-   Sum of divisors: 21
-   Abundance: 21-18 = 3
+->18:
+  Divisors of 18: 1,2,3,6,9
+  Sum of divisors: 21
+  Abundance: 21-18 = 3
 
 Sample Input:
 Enter the Number to check:
