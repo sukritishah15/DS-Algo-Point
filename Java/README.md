@@ -97,6 +97,8 @@ Format: -[Program name](package/name of the file)
 
 -[Kosaraju's Algorithm for Strongly Connected Components](Algorithms/Kosaraju.java)
 
+-[Krishnamurthy Number](Krishnamurthy.java)
+
 -[Linear Search](Search/LinearSearch.java)
 
 -[Longest common sequence](Algorithms/Longest_common_subsequence.java)
