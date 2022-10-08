@@ -157,6 +157,7 @@ Format: -[Program name](name of the file)
 - [mathematical series demo](maths-series.cpp)
 
 - [mean median](mean_median.cpp)
+- [Merge sort implementation using parallel computing](merge_parallel.cpp)
 
 - [minimum number of denominations using greedy algo approach](mindenominations_greedyalgo.cpp)
 
@@ -224,7 +225,7 @@ Format: -[Program name](name of the file)
 
 - [shell sort algorithm](shell_sort.cpp)
 
-- [shortest job first scheduling algorithm](shortest job first scheduling algorithm (sjf - non-preemptive).cpp) 
+- [shortest job first scheduling algorithm]("shortest job first scheduling algorithm (sjf - non-preemptive).cpp")
 
 - [sieve of eratosthenes](sieve_of_eratosthenes.cpp)
 
@@ -262,9 +263,9 @@ Format: -[Program name](name of the file)
 
 - [Least Common Multiple](lcm.cpp)
 
-- [Shortest Job First Scheduling Algorithm](Shortest Job First Scheduling Algorithm (SJF - Non-Preemptive).cpp) 
+- [Shortest Job First Scheduling Algorithm]("Shortest Job First Scheduling Algorithm (SJF - Non-Preemptive).cpp")
 
-- [Round Robin Scheduling Algorithm](Round Robin Scheduling Algorithm (RR).cpp) 
+- [Round Robin Scheduling Algorithm]("Round Robin Scheduling Algorithm (RR).cpp")
 
 - [word break](word-break.cpp)
 
@@ -390,7 +391,7 @@ Format: -[Program name](name of the file)
 - [Floyd-Warshall Algorithm](Floyd_warshall.cpp)
 - [Z algorithm](ZAlgorithm.cpp)
 - [Least Common Multiple](lcm.cpp)
-- [Shortest Job First Scheduling Algorithm](Shortest Job First Scheduling Algorithm (SJF - Non-Preemptive).cpp) 
+- [Shortest Job First Scheduling Algorithm]("Shortest Job First Scheduling Algorithm (SJF - Non-Preemptive).cpp")
 - [Page Allocation Problem](Page_Allocation_Problem.cpp)
 - [Range Sum Query](Range_Sum_Query_Fenwick_Tree.cpp)
 - []
