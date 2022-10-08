@@ -26,6 +26,8 @@ Format:
 
 -[FCFS ](fcfs.c)
 
+-[Find if given number is a Happy Number or Not](HappyNumberInC.c)
+
 -[Find nth term in an A.P.](AP.c)
 
 -[Find the middle element of linked list](middle.c)
