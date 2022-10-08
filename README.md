@@ -46,8 +46,12 @@
 
 ## Don't know how to create a PR? Refer this: [Steps to create a PR](STEPS_FOR_PR.md)
 
+### We are NOT actively accepting submissions for Hacktoberfest'22
+
 ## Maintainers for this project (Refer [this](MAINTAINERS.md) for Instructions specific to Maintainers)
 - Sukriti Shah - @sukritishah15
+
+
 
 ### Past Maintainers for this project
 - Sukriti Shah - @sukritishah15
