@@ -4,6 +4,8 @@ Format: -[Program name](name of the file)
 
 -[0/1 Knapsack Problem using Dynamic Programming approach](Knapsack_DP.py)
 
+-[Abundant Number](AbundantNumber.py)
+
 -[Anagrams](anagrams.py)
 
 -[Arithmetic Progression](arithmetic.py)
