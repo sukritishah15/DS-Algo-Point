@@ -42,6 +42,8 @@ Format: -[Program name](name of the file)
 
 -[Comb Sort](comb_sort.py)
 
+-[Counting Sort](CountingSort.py)
+
 -[Doubly Linked List](Doubly_Linked_List.py)
 
 -[Equation of a Line](EquationOfLines.py)
