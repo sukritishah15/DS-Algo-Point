@@ -1,6 +1,8 @@
 Add links to your code in Alphabetical Order.
 Format: -[Program name](package/name of the file)
 
+-[AbundantNumber](AbundantNumber.java)
+
 -[Anagrams](Anagrams.java)
 
 -[Approximating PI value](Algorithms/approxing_pi.java)
@@ -76,6 +78,8 @@ Format: -[Program name](package/name of the file)
 -[Euclid's Algorithm for Greatest Common Divisor (GCD)](GCD.java)
 
 -[GCD](Algorithms/GCD_1.java)
+
+-[Happy Number](HappyNumber.java)
 
 -[Heap Sort](Sorting/HeapSort.java)
 
