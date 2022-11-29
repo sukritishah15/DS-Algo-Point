@@ -49,6 +49,8 @@ Format: -[Program name](name of the file)
 
 -[Powerset of a set](Powerset.js)
 
+-[Prefix sum Array](prefix_Sum_Array.js)
+
 -[QuickSort](QuickSort.js)
 
 -[Selection Sort](SelectionSort.js)
