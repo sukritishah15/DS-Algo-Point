@@ -152,7 +152,8 @@ public class LinkedList {
         }
         return position;
     }
-
+    
+    
 
     /* Other Methods */
 
@@ -169,7 +170,34 @@ public class LinkedList {
         }
         return false;
     }
+    /*Mid of a linked list*/
+    public Node midNode(Node head) {
+        if (head == null || head.next == null)
+            return head;
 
+        Node slow = head, fast = head;
+        while (fast.next != null && fast.next.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+
+        return slow;
+    }
+    
+    public Node midNode2(Node head) {
+        if (head == null || head.next == null)
+            return head;
+
+        Node slow = head, fast = head;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+
+        return slow;
+    }
+
+    
     public int size() {
         return size;
     }
