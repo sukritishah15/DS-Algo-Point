@@ -71,7 +71,7 @@
 - Mahima Goyal - @mahimagoyalx
 - Paul Evans - @PaulEvans8669
 - Aman Parauliya - @parauliya
-- Arnav Roy - @arnav-roy
+- Arnav Sudan - @arnav-roy
 - Wallace Costa - @wallacecosta
 - Shivam Yadav - @ExpressHermes
 
